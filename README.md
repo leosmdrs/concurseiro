@@ -13,6 +13,8 @@ Todas as disciplinas ficam aqui. Cada **disciplina** é uma pasta, e cada **tóp
 | 5 | Reconhecimento de Fala, Transcrição e Inteligência Artificial | Câmara dos Deputados (Registro e Redação) | [05-reconhecimento-de-fala-transcricao-e-ia](./05-reconhecimento-de-fala-transcricao-e-ia/) · [📋 plano](./05-reconhecimento-de-fala-transcricao-e-ia/PLANO.md) |
 | 6 | Linguística | Câmara dos Deputados (Registro e Redação) | [06-linguistica](./06-linguistica/) |
 
+📝 **Prova discursiva da Câmara (Registro e Redação):** [critérios de avaliação e fórmulas](./prova-discursiva-camara-registro-e-redacao.md)
+
 > A coluna "Edital de origem" indica de qual edital veio a lista de tópicos (texto literal na ficha de cada tópico). O material serve para qualquer concurso que cobre o assunto.
 
 > **Sem duplicidade:** cada assunto aparece uma só vez, na disciplina mais pertinente.
