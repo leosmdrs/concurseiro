@@ -1,5 +1,7 @@
 # Linguística
 
+📚 **Material-base:** aulas do Estratégia (Prof.ª Patricia Manzato) em [`material/`](./material/) — veja o [índice aula × tópico](./material/README.md).
+
 | # | Tópico | Prioridade | Status |
 |---|---|---|---|
 | 01 | [Teoria do signo linguístico](./01-teoria-do-signo-linguistico/) | Alta | 🟨 |

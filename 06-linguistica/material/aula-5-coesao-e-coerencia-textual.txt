@@ -1,0 +1,6325 @@
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+   Linguística para Câmara dos Deputados
+   (Analista Legislativo - Registro e Redação)
+   Prof. Patricia Manzato
+
+
+
+
+   5 Coesão e coerência textual. Relações coesivas: referência,
+
+   substituição, elipse, repetição.
+
+   Documento última vez atualizado em 07/10/2026 às 20:17.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                      1/69
+                  5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+           5.1   Noções Iniciais ............................................................................................................................... 3
+
+
+
+
+           5.2   Coerência .......................................................................................................................................     3
+
+
+
+
+           5.3   Coesão ............................................................................................................................................   9
+
+
+
+
+           5.4    Fatores de Textualidade ..........................................................................................................               33
+
+
+
+
+           5.5   Questões Comentadas .............................................................................................................                 53
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                      2/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+   5.1 Noções Iniciais
+
+
+
+
+     Noções Iniciais
+    Olá, pessoal!
+
+
+
+    Nesta aula veremos dois aspectos de Textualidade: coesão e coerência.
+
+
+
+    A   coerência     textual      trata   da    articulação    externa     e   mais   profunda   da      mensagem,       ou   seja,
+
+    estamos lidando com as relações lógicas de um texto.
+
+
+
+    Já a coesão é        resultado da disposição e              da correta utilização das palavras que              propiciam        a
+
+    ligação entre frases, períodos e parágrafos de um texto.
+
+
+
+    Na prática, se você está estudando Língua Portuguesa, com certeza já está vendo muitos dos
+
+    elementos      que    trarei    aqui.    O    sentido   dos   conectores,      dos   tempos       e   modos     verbais,      das
+
+    circunstâncias       adverbiais,       dos   verbos   regidos   por     determinadas      preposições,     das       regras     de
+
+    pontuação...     tudo   isso    contribui      para   dar   forma   e   estrutura    ao   texto   e   auxilia   na    leitura    e
+
+    interpretação do que está sendo comunicado.
+
+
+
+    Vamos trabalhar aqui algumas questões mais específicas, como mecanismos de coesão, tipos de
+
+    coerência, ambiguidade, interpretação da forma como pode vir a ser cobrado em sua prova.
+
+
+
+    Muita atenção e cuidado com esta aula! Para uma melhor compreensão e apreensão, não deixe
+
+    de fazer as questões ao final que, sim, podem ser tema da sua prova. Não queremos surpresas!
+
+    Estaremos preparados para tudo!
+
+
+
+     Grande abraço e ótimos estudos!
+
+
+
+    Profª. Patrícia Manzato
+
+
+
+
+   5.2 Coerência
+
+
+
+
+                                     Para assistir ao vídeo correspondente, acesse o LDI.
+
+
+     Coerência
+    Quando pensar em Coerência, tenha em mente três palavras:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                        3/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+    Vamos a esses três elementos:
+
+
+
+    ✔       Unidade: um texto coerente, é uno, ou seja, Coerência deve ser entendida como unidade
+
+    do texto.
+
+
+
+    ✔          Harmonia: um texto coerente é um conjunto harmônico, em que todas as partes se
+
+    encaixam de maneira complementar de modo que não haja nada destoante, nada ilógico, nada
+
+    contraditório, nada desconexo. No texto coerente, não há nenhuma parte que não se solidarize
+
+    com as demais.
+
+
+
+    ✔           Lógica:   um    texto   coerente    segue    uma    sequência       lógica   de   pensamento       (uma    ação
+
+    acontece encadeada a outra, tem causa e consequência etc)
+
+
+
+    Em se tratando de coerência, há três níveis em que ela deve ser observada. Vamos a eles:
+
+
+
+
+     Coerência narrativa
+    Trata-se da relação lógica entre as partes de um texto narrativo. Parece óbvio, mas narrar ou
+
+    contar    histórias   são   características    intrínsecas    dos   textos      narrativos    e   para   que   eles   façam
+
+    sentido para nós, deve haver uma sequência lógica, coerente.
+
+
+
+    Vejamos um exemplo de narrativa incoerente:
+
+
+
+    Ex: Quando chegou à casa, Helena percebeu que havia esquecido suas chaves no trabalho.
+
+    Como faltava meia hora para o escritório fechar, entrou em casa.
+
+
+
+    Pois bem.... se Helena tinha esquecido as chaves, como conseguiu entrar em casa?! Note que a
+
+    sequência de fatos narrados, não possui lógica. Assim                    dizemos que há quebra de               coerência
+
+    narrativa.
+
+
+
+    É possível sanar esse problema da seguinte forma:
+
+
+
+    Quando chegou à casa, Helena percebeu que havia esquecido suas chaves no trabalho. Como
+
+    faltava meia hora para o escritório fechar, retornou para buscar as chaves.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                 4/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+     Coerência figurativa
+    Mais um tipo de coerência voltado aos textos narrativos e agora também aos textos descritivos.
+
+
+
+    A coerência figurativa refere-se à relação lógica entre as partes de um texto narrativo e/ou
+
+    descritivo, em especial quanto aos elementos, figuras, usados para abordar o assunto tratado no
+
+    texto.
+
+
+
+    Vejamos uma incoerência desse tipo na prática:
+
+
+
+    Ex: A festa havia sido linda e animada! Notava-se todo o capricho e cuidado da aniversariante,
+
+    que pensou em cada detalhe, além da cara de sono dos convidados, os quais não duraram mais
+
+    de duas horas no local .
+
+
+
+    Ora...se a festa estava "linda e animada", qual a razão de termos "cara de sono dos convidados"?
+
+    Aqui, diferente da coerência narrativa, o desvio está no elemento da descrição: festa animada x
+
+    sono dos convidados. Os fatos narrados acontecem em uma sequência lógica plausível, mas a
+
+    descrição, não. Por isso, dizemos que houve quebra da coerência figurativa.
+
+
+
+    É possível sanar esse problema da seguinte forma:
+
+
+
+    A festa havia sido linda e animada! Notava-se todo o capricho e cuidado da aniversariante, que
+
+    pensou em cada detalhe, além da satisfação dos convidados, os quais não duraram bem mais
+
+    de duas horas no local .
+
+
+
+    Note que agora temos uma linha lógica: festa animada - capricho da aniversariante - satisfação
+
+    dos convidados - este ficam mais tempo na festa
+
+
+
+
+         Existe um gênero narrativo que trabalha justamente em cima de incoerências: o conto
+
+         fantástico.
+
+
+
+         Bastante difundido na Alemanha e na Rússia, temos aqui no Brasil alguns representantes
+
+         (Machado de Assis e Moacyr Scliar, principalmente).
+
+
+
+         Não creio que será objeto da prova, mas é importante você ter uma noção de como a
+
+         incoerência é trabalhada de forma literária:
+
+
+
+         O conto fantástico possui elementos sobrenaturais relacionados a elementos reais, ou
+
+         seja,   intercala   representações      da   realidade    cotidiana    e   elementos   inexplicáveis   e/ou
+
+         impossíveis.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                      5/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+         Esse    fator    "impossível"         pode    se      basear   em     incoerências,       como     transformações
+
+         impossíveis ou ainda a personificação de objetos e elementos não vivos.
+
+
+
+         Vejamos uma das narrativas de Machado de Assis:
+
+
+
+         “— São incombustíveis. Fui subindo, subindo; na distância de quarenta mil léguas, ouvi
+
+         uma deliciosa música, e logo que cheguei a cinco mil léguas, desceu um enxame de
+
+         almas, que me levaram num palanquim feito de éter e plumas. Entrei daí a pouco no
+
+         novo sol, que é o planeta dos virtuosos da terra. Não sou poeta, monsenhor; não ouso
+
+         descrever-lhe as magnificências daquela estância divina. Poeta que fosse, não poderia,
+
+         usando a linguagem humana, transmitir-lhe a emoção da grandeza, do deslumbramento,
+
+         da felicidade, os êxtases, as melodias, os arrojos de luz e cores, uma coisa indefinível e
+
+         incompreensível. Só vendo. Lá dentro é que soube que completava mais um milheiro de
+
+         almas; tal era o motivo das festas extraordinárias que me fizeram, e que duraram dois
+
+         séculos, ou, pelas nossas contas, quarenta e oito horas.”
+
+
+
+         Note    que     as   incoerências      ("subir   quarenta      mil   léguas",   "descer   o   enxame     de   almas",
+
+         "entrar no novo sol", são elementos que dentro da história trazem estranheza para criar a
+
+         narrativa.
+
+
+
+
+     Coerência argumentativa
+    Aqui, o foco é na construção dos textos dissertativos, que possuem como característica uma
+
+    sequência de argumentos a fim de defender a tese do texto.
+
+
+
+    Então, sempre         que   a questão tratar          de   coerência,     você   precisa estar     atento às relações de
+
+    sentido e lógica que um texto produz.
+
+
+
+    Vamos fazer mais alguns exemplos? Vem comigo:
+
+
+
+
+     Nós temos que tomar medidas urgentes, imediatas e drásticas para resolver o problema da
+
+     saúde nesta capital. Portanto, é fundamental que sejam convocadas as autoridades para uma
+
+     reunião dentro de sessenta dias, para pensarmos, a nosso tempo, e formarmos comissões para
+
+     estudos e estratégias de longo prazo.
+
+
+
+     Observe     a quebra de          relação lógica no texto: de             "medidas urgentes" o texto caminha para
+
+     ações ao longo do tempo ("sessenta dias", "a nosso tempo"). Aqui, portanto, temos claramente
+
+     uma quebra de coerência argumentativa.
+
+
+
+
+    Como,     então,     deixar   o    texto   acima   coerente?        Trazendo     o   imediatismo    e   a   urgência   para   o
+
+    restante do texto:
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     6/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+     Nós temos que tomar medidas urgentes, imediatas e drásticas para resolver o problema da
+
+     saúde nesta capital. Portanto, é fundamental que sejam convocadas as autoridades para uma
+
+     reunião    extraordinária,      para    definirmos       as   ações     a    serem    implementadas         nos   próximos
+
+     sessenta dias e planejar comissões para estudos e estratégias de longo prazo.
+
+
+
+     Note    que     agora    a   noção    de   urgência      é    mantida       ao   longo   do   texto:   "ações     a   serem
+
+     implementadas", "reunião extraordinária". O planejamento até foi mantido no texto, mas como
+
+     uma segunda etapa desse projeto.
+
+
+
+
+    Vejamos mais um exemplo:
+
+
+
+
+     Fábio, torcedor fanático tricolor, se preparava para o clássico do campeonato. Tinha ganhado a
+
+     entrada    de   seu   cunhado     e   estava    sem     nenhum   entusiasmo,         afinal   de   contas   seu   time   não
+
+     estava nos melhores dias....
+
+
+
+     E não é que seu time não o decepcionou: 3x0 para o time adversário! Já na saída do estádio
+
+     quase arrumou confusão com um cara que teve a ousadia de soltar todo seu repertório de
+
+     xingamentos contra seu          time. Como assim, ele           tinha a coragem de            bater    de   frente    com os
+
+     jogadores?! Esta tem sido a melhor temporada tricolor da década!!
+
+
+
+     Que história confusa, não?! Observe a quebra de relação lógica no texto: de "torcedor fanático"
+
+     (qual a expectativa aqui? que ele esteja entusiasmado para ir assistir ao jogo pessoalmente e
+
+     que esteja torcendo para que seu time ganhe) a torcedor "sem nenhum entusiasmo", com a
+
+     expectativa de decepção. Note que, nesta parte, temos uma quebra de coerência figurativa.
+
+
+
+     A segunda parte do texto, da briga entre os torcedores, merece destaque também: é esperado
+
+     (infelizmente) que a torcida se revolte com o time depois de um resultado ruim. Não é isso que
+
+     acontece: Fábio fica irritado ao ver a cena (até aqui ok), porque "?! Esta tem sido a melhor
+
+     temporada tricolor da década" (oi?!).
+
+
+
+     Percebe     que   a   explicação      nessa    última   parte   da    narrativa    não   condiz     com     o   restante   da
+
+     história? Aqui, portanto, temos uma quebra de coerência narrativa.
+
+
+
+
+    Será que é possível que esse texto se torne coerente? Sim, com certeza!! Vamos lá:
+
+
+
+
+     Fábio, torcedor fanático tricolor, se preparava para o clássico do campeonato. Tinha ganhado a
+
+     entrada    de   seu     cunhado   e   estava    entusiasmado         com     a   oportunidade      nenhum       entusiasmo,
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    7/69
+                  5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+     afinal de contas por mais que seu time não estava estivesse nos melhores dias....
+
+
+
+     Infelizmente, E não é que seu time não o decepcionou: 3x0 para o time adversário! Já na saída
+
+     do    estádio    quase     arrumou     confusão     com       um    cara   que     teve    a      ousadia   de    soltar     todo    seu
+
+     repertório      de    xingamentos     contra seu      time.     Como       assim,    ele    tinha a coragem            de    bater     de
+
+     frente    com    os   jogadores?!     Esta   não   tem       sido   a   melhor    temporada          tricolor    da   década,       mas
+
+     temos que apoiar nosso time do coração!!
+
+
+
+
+    Para finalizar, vamos às dicas finais sobre Coerência:
+
+
+
+    ●           Qualquer tipo de contradição gera incoerência, seja temporal, argumentativa, espacial,
+
+    de nível de formalidade...
+
+
+
+    ●             Se o texto está confuso, com certeza há quebra de coerência, você precisa apenas
+
+    identificá-la
+
+
+
+    Fique atento!
+
+
+
+
+                                                                                                2022     FGV     Prefeitura de São Paulo (SP)
+      Questão         4001311821
+                                                                   Professor de Ensino Fundamental II e Médio - Biologia (Pref São Paulo/SP)
+
+      Assinale a frase que mostra um problema de coerência textual.
+
+
+
+      A)    O crítico de futebol sempre tem razão porque só começa a falar quando o jogo termina.
+
+
+
+      B)    Nem só de pão vive o homem.
+
+
+
+      C)    Os salários da empresa estão baixos, mas, mesmo assim, os operários não pensam em greve.
+
+
+
+      D)    Embora a chuva tenha sido prometida para toda a semana, o turista comprou um guarda-chuva.
+
+
+
+      E)
+
+            Os viajantes compraram duas, ou melhor, três malas.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)   Embora a chuva tenha sido prometida para toda a semana, o turista comprou um guarda-chuva.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A alternativa que apresenta incoerência é a D: há uma contradição entre a primeira parte (a chuva sendo prometida
+
+           para toda a semana) e a segunda parte (o turista comprando um guarda-chuva). O conectivo "embora" (conjunção
+
+           adversativa) favorece a incoerência: porque se há chuva, o esperado é que a pessoa compre o guarda-chuva. Não há
+
+           nenhuma oposição ou adversidade a ser demonstrada no período.
+
+
+
+
+           Portanto, gabarito Letra D.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                8/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+                                                                         2022     FGV     Secretaria de Estado de Administração do Amapá
+      Questão         4001240273
+                                                                         Professor de Educação Básica e Profissional - Sociologia (SEAD AP)
+
+      Uma das marcas da textualidade é a coerência. Entre as frases abaixo, assinale aquela que se mostra incoerente.
+
+
+
+      A)    O caminho que desce e o caminho que sobe são os mesmos.
+
+
+
+      B)    Há coisas que são tão sérias, que você tem que rir delas.
+
+
+
+      C)    Se o mundo fosse bom, o dono morava nele.
+
+
+
+      D)    Eu não creio em Deus, mas tenho medo dele.
+
+
+
+      E)    O problema com as crianças é que elas não são retornáveis.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)   Eu não creio em Deus, mas tenho medo dele.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A alternativa que apresenta incoerência é a D: a incoerência reside no fato de que o medo geralmente está associado a
+
+
+           algo que se acredita existir ou ter poder. Assim, essa frase apresenta uma contradição interna e, consequentemente,
+
+
+           falta de coerência.
+
+
+
+
+           Portanto, gabarito Letra D.
+
+
+
+
+   5.3 Coesão
+
+
+
+
+                                        Para assistir ao vídeo correspondente, acesse o LDI.
+
+
+     Coesão
+    Esse é o par que completa um texto bem escrito e organizado: desde as aulas de Redação do
+
+    ensino médio, sempre ouvimos falar sobre a Coesão e Coerência do texto, certo?!
+
+
+
+    E sabe, por quê? Porque a coesão contribui grandemente para que enxerguemos a coerência
+
+    de     um    texto,    pois   nos    guia   pela   leitura,   seja   recuperando          sentidos      já   mencionados,           seja
+
+    adiantando informações que serão trazidas adiante.
+
+
+
+    Pois bem, coesão está diretamente relacionada à ligação, seja entre palavras, seja entre partes
+
+    do texto. Nesse sentido, a partir dos elementos coesivos, podemos recuperar ou antecipar uma
+
+    informação.
+
+
+
+    Quando falamos em retomar elementos do texto por meio de palavras, nos referimos à coesão
+
+    recorrencial (“referência” a partes do texto). E como isso é possível? Por meio de paráfrases,
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              9/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    pronomes, advérbios, dentre outros.
+
+
+
+    Por outro lado, quando falamos em antecipar ao leitor uma informação do texto, dizemos que
+
+    estamos      diante     de   coesão     sequencial.    Ela   é   feita   por   meio      de   conjunções,    preposições,
+
+    pronome relativos, que estabelecem relações de antes e depois, causa e consequência.
+
+
+
+
+         Aqui vale todo o nosso conhecimento de gramática da Língua Portuguesa: usamos na
+
+         Coesão as classes de palavras que servem para “ligar”, “associar”, “retomar” e “anunciar”
+
+         frases e palavras. Quais são elas: Advérbios, Pronomes, Preposições, Conjunções e suas
+
+         respectivas locuções (locuções conjuntivas e prepositivas).
+
+
+
+
+    Vamos a um exemplo prático:
+
+
+
+    Ex: Fui ao shopping comprar presente para o Dia das Crianças. Quando cheguei lá, estranhei,
+
+    pois as lojas estavam bem vazias. Isso nunca tinha ocorrido antes.
+
+
+
+    Observe      que    o   advérbio   “lá”   retoma      “shopping”     e   que       o   pronome   “isso”   retoma   todo   o
+
+    enunciado “lojas estavam bem vazias”.
+
+
+
+    Vamos agora trabalhar com algumas classificações que a Coesão pode ter:
+
+
+
+
+     Coesão Exofórica ou Dêitica
+    Quando nossa referência para compreensão do texto está fora dele (elementos como o tempo
+
+    ou o espaço), estamos diante de uma função dêitica ou exofórica (fora).
+
+
+
+    O   que   você     precisa   ter   em   ment é    que,   nesses     casos,     o   valor   semântica   vai   depender     da
+
+    situação de produção do texto (onde foi escrito, quando, por quem). Para ficar mais claro: em
+
+    uma notícia de jornal, quando lemos "hoje", devemos olhar para a data em que foi publicado o
+
+    jornal.
+
+
+
+    Vamos a um exemplo prático:
+
+
+
+    Ex: O Rio de Janeiro anda muito violento, quem poderá nos ajudar?
+
+
+
+     “Nos” se refere, neste contexto, à população do Rio de Janeiro.
+
+
+
+    Ex: Vamos almoçar amanhã
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                              10/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    "Amanhã" seria quando? Se você estiver lendo isso em uma sexta-feria, o "amanhã" se refere ao
+
+    sábado.
+
+
+
+    Note que nos dois casos, as referências não estão no texto, mas fora, no contexto de produção
+
+    daquela fala ou texto escrito.
+
+
+
+
+                                                         2016    MS CONCURSOS        Conselho Regional de Corretores de Imóveis da 1ª Região
+      Questão           1897603607
+                                                                                                                       Advogado (CRECI RJ)
+
+      Em ranking dos países mais inovadores, Brasil fica entre os 5 últimos
+
+
+      15/4/2015 16:00
+
+
+
+
+      Em levantamento que mediu o nível de inovação em 50 países, o Brasil ficou em 47° lugar. A Bloomberg, portal
+
+
+      americano especializado em economia, atribuiu uma nota para cada país. Essa nota levou em conta vários
+
+
+      indicadores, como número de patentes registradas, quantidade de estudantes cursando engenharia e ciências,
+
+
+      número de empresas de tecnologia, número de equipes de pesquisa, entre outros. Em 1° lugar no ranking,
+
+
+      aparece a Coreia do Sul. Completam o top 10 Japão, Alemanha, Finlândia, Israel, Estados Unidos, Suécia,
+
+
+      Singapura, França e Reino Unido. Na parte de baixo da tabela, os cinco piores são: Tailândia, Brasil, Argentina,
+
+
+      África do Sul e Marrocos.
+
+
+      (Fonte: http://veja.abril.com.br/blog/impavido-colosso/em-ranking-dos-paises-mais-inovadores-brasil-fica-entre-os-
+
+
+      5-ultimos/. Acesso em 23/03/2016.)
+
+
+
+
+      No título “INOVAÇÃO? AQUI NÃO!”, o advérbio AQUI remete imediatamente a que lugar?
+
+
+
+      A)    Na pesquisa realizada
+
+
+
+      B)    Nesta imagem
+
+
+
+      C)    No Brasil
+
+
+
+      D)    Dentre as melhores posições ocupadas pelos 5 primeiros países.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)      No Brasil
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Lembre-se: as referências dêiticas estão fora do texto, ou seja, precisam do contexto de produção.       Ao interpretar a
+
+
+           figura, percebemos que a referência ao "aqui" está fora do texto, pois se refere ao Brasil, local onde o “texto” é escrito,
+
+
+           referência geográfica presumida na voz do autor.
+
+
+
+
+           Portanto, gabarito Letra C.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              11/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+     Coesão Anafórica x Coesão Catafórica
+    Já vimos que a coesão pode retomar ou antecipar um termo ou trecho dentro do texto, certo?!
+
+
+
+    Pois bem, agora vamos nomear esses mecanismos.
+
+
+
+    Quando       o    elemento     coesivo    retoma     um    termo     ou   informação     que   já   foi   mencionado
+
+    anteriormente no texto, dizemos que há coesão anafórica.
+
+
+
+    Ex: Acordo todos os dias às 5 horas. Isso faz toda a diferença na minha rotina.
+
+
+
+    Note que o pronome demonstrativo "isso" retoma toda a frase anterior ("Acordo todos os dias às
+
+    5 horas.")
+
+
+
+    Por    outro     lado,   quando   o   elemento   coesivo     antecipa     um    termo   ou   informação    que   já   foi
+
+    mencionado anteriormente no texto, dizemos que há coesão catafórica.
+
+
+
+    Aqui vale um Bizu:
+
+
+
+                                                         CATáfora
+
+
+
+
+        CATapulta
+
+
+
+
+                                Qual a função da catapulta? Lançar o objeto para frente.
+
+
+
+                   Qual a função da catáfora? Lançar a informação no texto que está à frente.
+
+
+
+     Vamos a um exemplo prático:
+
+
+
+    Ex: Mentalizo isto diariamente: ser aprovado logo.
+
+
+
+    Note que o pronome demonstrativo "isto" antecipa toda a frase a frente, que se segue ("ser
+
+    aprovado logo").
+
+
+
+    Aqui, vale uma pausa para um detalhe que já antecipo (vamos trabalhar os pronomes mais à
+
+    frente, mas já comece a internalizar essa informação, ok?!):
+
+
+
+
+          Pronomes demonstrativos dentro do texto (função textual):
+
+
+
+                             Isso / Esse / Essa: retoma um elemento já mencionado no texto
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                           12/69
+                      5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+           Isto / Este / Esta: antecipa uma informação
+
+
+
+
+                                                                                     2023     FUNDATEC       Prefeitura de Farroupilha (RS)
+      Questão               4001440903
+                                                                           Professor Anos Finais - Língua Portuguesa (Pref Farroupilha/RS)
+
+
+
+
+      Segundo Ingedore Koch, “recursos de coesão textual são elementos da língua que têm por função precípua estabelecer
+
+
+      relações textuais”. Nesse sentido, analise as assertivas que seguem a respeito de determinados vocábulos do texto:
+
+
+
+
+      I. Na linha 10, a palavra “que” tem como função retomar uma informação que a antecede; observase, portanto, uma catáfora.
+
+
+
+
+      II. Na linha 18, o pronome pessoal “ela” é exemplo de referência pessoal anafórica.
+
+
+
+
+      III. O pronome “tudo” (l. 26) remete à sequência citada do texto, sendo, pois, um elemento catafórico.
+
+
+
+
+      Quais estão corretas?
+
+
+
+      A)    Apenas I.
+
+
+
+      B)    Apenas II.
+
+
+
+      C)    Apenas I e II.
+
+
+
+      D)    Apenas II e III.
+
+
+
+      E)    I, II e III.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)         Apenas II.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Por questões de formatação, deixei destacado no texto os elementos a serem analisados. Vejamos os itens:
+
+
+
+
+           I- (F) A função do "que" está corretamente descrita, mas estamos diante de uma coesão anafórica.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                             13/69
+                    5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+         II- (V) É anafórico, pois remete à especialista citada.
+
+
+
+
+         III- (F) Novamente, a função do pronome resumitivo "tudo" está corretamente descrita, mas estamos diante de uma
+
+
+         coesão anafórica.
+
+
+
+
+         Portanto, gabarito Letra B.
+
+
+
+
+    A partir de agora, trago para você as estruturas mais utilizadas para criar Coesão em um texto
+
+    ok?!
+
+
+
+    Em muitos momentos, você terá a sensação de que está diante de uma revisão de gramática, o
+
+    que não deixa de ser mentira, mas todo o nosso contexto aqui é para análise e produção de
+
+    textos!
+
+
+
+
+    Pronomes
+    Pronome , essencialmente, serve para retomar e substituir um nome.
+
+
+
+
+    Dentro do texto, sua função, portanto, será de evitar repetição e tornar o texto mais fluído.
+
+
+
+    Vejamos exemplos em um texto de Carlos Drummond de Andrade:
+
+
+
+           Furtei uma flor daquele jardim. O porteiro do edifício cochilava e eu furtei a flor. Trouxe-a
+
+           para casa e coloquei-a no copo com água. Logo senti que ela não estava feliz. O copo
+
+           destina-se a beber, e flor não é para ser bebida.
+
+
+
+           Passei-a       para   o   vaso,    e   notei   que      ela   me   agradecia,   revelando   melhor      sua   delicada
+
+           composição. Quantas novidades há numa flor, se a contemplarmos bem. Sendo autor do
+
+           furto,    eu   assumira     a     obrigação    de       conservá-la.   Renovei   a   água   do   vaso,    mas   a   flor
+
+           empalidecia. Temi por             sua vida.    Não adiantava restituí-la ao jardim. Nem apelar                  para o
+
+           médico das flores. Eu a furtara, eu a via morrer.
+
+
+
+           Já   murcha,      e   com   a   cor    particular    da    morte,   peguei-a docemente      e    fui   depositá-la no
+
+           jardim onde desabrochara. O porteiro estava atento e repreendeu-me:
+
+
+
+           – Que ideia a sua, vir jogar lixo de sua casa neste jardim!
+
+
+
+    Note que todos os pronomes destacados acima referem-se ao centro do texto: "a flor", como
+
+    forma de evitar repetições.
+
+
+
+
+    Artigo definido (o, os, a, as)
+    Quando já citamos o termo ou queremos especificá-lo, o uso do artigo definido é essencial,
+
+    pois é ele que vai indicar que o termo mencionado já é conhecido, por ter já aparecido antes
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                 14/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    no texto.
+
+
+
+    Vamos deixar essa ideia mais clara?!
+
+
+
+          Ex: Lá no evento, havia vários empresários, donos das marcas mais famosas do mercado.
+
+          Contudo, a maioria do público, quando chegou ali, não viram os empresários na recepção.
+
+
+
+    Note que são "os empresários", especificados, determinados, pois eles já haviam aparecido no
+
+    texto   anteriormente       (inclusive,   já   devidamente      caracterizados   —   "donos   das   marcas   mais
+
+    famosas do mercado").
+
+
+
+
+         #VamosPraticar#
+
+
+
+         (CEETEPS / Especialista em Planejamento Educacional / 2023)
+
+
+
+         Ó grande Mar, que banhas estas plagas
+
+
+
+         Africanas, em ti ouço recados
+
+
+
+         Dum mundo a outro mundo, nos teus brados
+
+
+
+         De prantos, risos, orações e pragas!
+
+
+
+
+         Na dramática voz das tuas vagas,
+
+
+
+         Escuto os que, nos séculos passados,
+
+
+
+         Choraram nesse canto dos teus fados,
+
+
+
+         Cantaram nesse choro em que te alagas...
+
+
+
+
+         Na tua voz eu ouço o branco bravo,
+
+
+
+         Que semeou Portugal nestes recantos
+
+
+
+         Africanos, e ainda o Negro escravo
+
+
+
+
+         - ao mesmo tempo indômito e servil –
+
+
+
+         Que regou com seu sangue e com seus prantos
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                   15/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+         A semente fecunda do Brasil!
+
+
+
+            Geraldo Bessa Victor. In: FERREIRA, Manuel. (org.) No reino de Caliban II. Lisboa: Seara
+
+                                                                                                   Nova, 1975; p.58.
+
+
+
+         Os    pronomes        são   importantes     elementos      de     construção   textual,   pois   recuperam
+
+         informações evitando repetições desnecessárias.
+
+
+
+         Isso ocorre com os pronomes destacados no texto, os quais retomam, respectivamente,
+
+
+
+         A) “plagas africanas”, “vagas” e “voz”.
+
+
+
+         B) “grande Mar”, “canto” e “o branco bravo”.
+
+
+
+         C) “prantos”, “teus fados” e “o branco bravo”.
+
+
+
+         D) “grande Mar”, “nesse choro” e “o branco bravo”.
+
+
+
+         E) “estas plagas”, “dramática voz” e “tuas vagas”.
+
+
+
+         Comentários:
+
+
+
+         Retomando os trechos, temos que:
+
+
+
+         Dum mundo a outro mundo, nos teus brados.
+
+
+
+         Os brados são do "grande Mar ".
+
+
+
+         Cantaram nesse choro em que te alagas...
+
+
+
+         O "tu" do poema se alaga "nesse choro"
+
+
+
+         Que semeou Portugal nestes recantos
+
+
+
+         Portugal semeio o "branco bravo".
+
+
+
+         Portanto, gabarito Letra D.
+
+
+
+         #VamosPraticar#
+
+
+
+
+    Pronomes demonstrativos
+    Com     certeza,    um     dos   mecanismos      de   coesão     mais    importantes,   mas    o   que    traz   maiores
+
+    problemas aos alunos, pois podem confundir (e muito!). Afinal de contas, quem nunca ficou na
+
+    dúvida entre "esse" ou "este" em um texto, não é mesmo?!
+
+
+
+    São    chamados       de    Pronomes      demonstrativos,       pois    apontam,    demonstram        a   posição   dos
+
+    elementos quanto a tempo, espaço ou ao próprio texto.
+
+
+
+    Função temporal:
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          16/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Normalmente temos uma coesão dêitica, ou exofórica, quando os pronomes                                se referem ao
+
+    tempo presente, passado ou futuro, visto que estão relacionados diretamente ao momento da
+
+    fala ou produção do texto.
+
+
+
+    Para não errar mais, lembre-se:
+
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+                                    Neste final de semana vai ter jogo do Barcelona.
+
+
+
+
+    Estou me referindo ao final de semana em que estamos agora (veja que a pergunta "qual final
+
+    de semana" é respondida, mesmo que com um elemento dêitico, fora do texto.
+
+
+
+                                         Nesse verão sofri demais com o calor.
+
+
+
+    O   verbo    flexionado    no    Pretérito   Perfeito   ("sofri")   esclarece   que   estamos   no   referindo   a um
+
+    passado próximo.
+
+
+
+                                  Aquela década de 70 foi completamente perdida.
+
+
+
+    Note que "década de 70" é uma referência bastante antiga, por isso o uso de "aquela", e não
+
+    "essa".
+
+
+
+
+    Função espacial:
+
+
+
+
+    Vamos aos exemplos:
+
+
+
+                                    Este violão aqui na minha mão era do meu avô.
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                       17/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Note que o falante reforça a proximidade do objeto ("aqui na minha mão"). Temos a certeza de
+
+    que ele está segurando o violão.
+
+
+
+                                     Isso é roupa que se vista para sua posse?! Troque-a já!
+
+
+
+    Perceba que          quem        está vestindo a roupa é        o ouvinte, por         isso devemos utilizar             o pronome
+
+    "isso".
+
+
+
+                                          Aquilo não é uma estrela, mas um planeta.
+
+
+
+
+    Imagine que tanto falante quanto ouvinte estão olhando para o céu, vendo "as estrelas". Estamos
+
+    diante de um objeto muito distante de ambos (falante e ouvinte), o que denota o uso de "aquilo".
+
+    Neste exemplo, ainda, temos um referente que está fora do texto, ou seja, “dêitico”.
+
+
+
+
+      Questão          554355503             2020    FGV     Tribunal de Justiça do Estado do Rio Grande do Sul   Oficial de Justiça (TJ RS)
+
+
+      Também pode evitar-se a repetição de palavras idênticas, substituindo a segunda ocorrência do vocábulo por um pronome
+
+
+      demonstrativo; a frase abaixo em que isso foi feito de forma adequada é:
+
+
+
+      A)    Amazonas e Sergipe são estados brasileiros; este tem enorme território e aquele, pequeno;
+
+
+
+      B)    Meu carro é mais elegante que esse que você está comprando;
+
+
+
+      C)    Teu jornal abordou o tema de forma interessante, mas aquele, em minhas mãos, é mais justo;
+
+
+
+      D)    Brasil e Rússia jogaram várias vezes, mas aqueles jogos nunca foram violentos;
+
+
+
+      E)    O terremoto de Lisboa foi violentíssimo, mas aquele de agora matou mais gente.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)   Meu carro é mais elegante que esse que você está comprando;
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos as alternativas:
+
+
+
+           A letra A está incorreta.
+
+
+           ERRADA . Pela lógica, a referência está trocada. "Amazonas" é "aquele" (termo mais longe) e "Sergipe" é "este" (termo
+
+
+           mais próximo).
+
+
+
+
+           A letra B está correta.
+
+
+           CERTA. “Meu” é pronome de primeira pessoa (eu => meu), então o “esse”, pronome de segunda pessoa (no discurso,
+
+
+           tu/você), indica corretamente que o carro está próximo ao ouvinte (você).
+
+
+
+
+           Portanto, gabarito Letra B.
+
+
+
+
+           A letra C está incorreta.
+
+
+           ERRADA . Se está “em minhas mãos”, usamos “este jornal”, indicando proximidade de quem fala.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              18/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+         A letra D está incorreta.
+
+
+         ERRADA. O ideal é se referir a "esses" jogos, pois seus referentes estão mencionados na oração.
+
+
+
+
+         A letra E está incorreta.
+
+
+         ERRADA . Se o terremoto foi "agora", está no tempo corrente, usamos “este de agora”.
+
+
+
+
+    Função textual:
+
+
+
+    Muita    atenção      com        essa   função   dos   pronomes     demonstrativos,         pois   é   justamente   onde   o
+
+    examinador mais pega!!
+
+
+
+
+    Vamos aos exemplos:
+
+
+
+                               Isto era importante para ela: dinheiro, sucesso, prestígio.
+
+
+
+    Note que só sabemos a que "isto" se refere depois no texto, ou seja, primeiro temos o pronome,
+
+    que antecipa a informação a ser trazida.
+
+
+
+                                 Dinheiro, sucesso, prestígio, isso tudo é sim importante.
+
+
+
+    Neste exemplo, "isso" resume o foi mencionado.
+
+
+
+    Agora, preste atenção quando temos uma enumeração de elementos:
+
+
+
+    Quando temos dois elementos e                    queremos nos referir        a um    deles sem         que   haja repetição,
+
+    devemos tomar cuidado com os pronomes:
+
+
+
+    ✔       aquele(s), aquela (s), aquilo: apontam para o antecedente mais distante
+
+
+
+    ✔       este(s), esta (s), isto:        aponta para o antecedente mais próximo.
+
+
+
+    Vamos aos exemplos:
+
+
+
+           Pedro e Aline finalmente foram aprovados, esta no TJDFT, aquele no Senado Federal.
+
+
+
+    Note que a ordem             em    que os elementos apareceram             foi seguida pelos pronomes: "esta" se
+
+    refere a "Aline" (elemento mais próximo ou o último da enumeração) e "aquele" se refere a
+
+    "Pedro" (elemento mais distante ou o primeiro da enumeração).
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                              19/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Mas e se tivermos mais de dois elementos na enumeração???
+
+
+
+    O   ideal    é   que   você    utilize    numerais      (o   primeiro,     o   segundo,    o   terceiro     etc),    ao   invés     dos
+
+    pronomes demonstrativos. Isso trará mais clareza ao texto, ok?!
+
+
+
+                                             Xuxa, Pelé e Guga são atletas famosos.
+
+
+
+        O primeiro levou a natação à casa dos brasileiros, o segundo é o rei do futebol e o terceiro
+
+                                           trouxe o tênis às manchetes brasileiras.
+
+
+
+    Agora vamos colocar todo esse conhecimento em prática?!
+
+
+
+
+                                                                 2022       INSTITUTO CONSULPLAN     Ministério Público do Estado da Bahia
+      Questão        4001333384
+                                                                                            Analista Técnico - Análise de Sistemas (MP BA)
+
+      Davos – Tecnologia e cooperação em um mundo fragmentado
+
+
+
+
+      Efeitos da pandemia, casos de depressão, rastros da pandemia global de Covid, a escuridão da guerra, numa era de
+
+
+      transformações tecnológicas e desafios sociais e ambientais, criam riscos que só serão superados com a união global. Surgem
+
+
+      oportunidades em meio ao nevoeiro e a descoberta do ponto cego é questão de sobrevivência.
+
+
+
+
+      A atual década está sendo particularmente desafiadora na história mundial. Uma das apostas é que a inteligência artificial
+
+
+      poderá auxiliar na previsão de respostas e trazer sugestões para minimizar a crise global.
+
+
+
+
+      A inteligência artificial poderá criar valores? A busca da verdade, a autorrealização, é uma busca individual e, portanto,
+
+
+      impossível de ser introduzida em um projeto de engenharia de inteligência artificial para satisfação em massa de necessidades
+
+
+      humanas.
+
+
+
+
+      A crise pandêmica, acoplada com a guerra na Europa, resulta em uma confluência de vulnerabilidades socioeconômicas e
+
+
+      tensões geopolíticas tornam tudo diferente. Nesse cenário, ainda na fase de preparação para a cúpula anual de Davos, o
+
+
+      Fórum Econômico Mundial mobilizou mais de 1.200 analistas de risco e especialistas da academia, cientistas de dados,
+
+
+      renomados professores, homens de negócios, governos e sociedade civil para avaliar, em seu Relatório de Riscos Globais, as
+
+
+      atuais crises e os desafios a curto e médio prazos.
+
+
+
+
+      Em plena turbulência, o mundo parece estar no modo “automático”, ou no modo “incerteza” com ponto fulcral no custo de
+
+
+      vida, na polarização política e social, na luta pelo fornecimento de energia e comida, e nas oportunidades trazidas pela nova
+
+
+      onda digital esbarrando na espionagem internacional, empresarial e confrontos geopolíticos. As ondas da crise global
+
+
+      tomaram um vulto inesperado e atingiram jovens de uma era de transformações aceleradas. A educação, pesquisa, reciclagem
+
+
+      para os jovens ou para os “dinossauros” são os maiores desafios de curto e médio prazo, para aprender à (1) lidar com as
+
+
+      mudanças [...]. Não existe sorte, mas esforço e determinação. [...]
+
+
+
+
+      Adversidades que pareciam controladas nesta geração – como dúvidas de mercado, investimentos, educação, crise do custo
+
+
+      de vida, guerras comerciais, agitação e divisão social generalizada, riscos de novas pandemias e até uma guerra química,
+
+
+      tecnológica e nuclear – voltaram à (2) cena. Os riscos são maximizados por (3) desdobramentos relativamente novos, como
+
+
+      níveis insustentáveis de dívida, uma nova era de baixo crescimento, baixo investimento e de globalização, queda no (4)
+
+
+      desenvolvimento humano após décadas de progresso e a pressão das mudanças climáticas. A Europa lutou décadas, primeiro
+
+
+      por integração, comunicação e posteriormente pela otimização de linguagem tecnológica e legislação comum. [...]
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                            20/69
+                  5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+      As emissões de carbono se acentuaram na pandemia com a venda acelerada de suprimentos de tecnologia, à medida que a
+
+
+      economia global pós-pandêmica voltou a crescer, as perspectivas não são boas. Comida e energia tornaram-se arsenais com a
+
+
+      guerra na Ucrânia, impulsionando a inflação a (5) níveis sem precedentes em décadas, globalizando a crise do custo de vida e
+
+
+      abastecendo a ansiedade social. Segundo a OMS, a prevalência de depressão na rede de atenção primária de saúde é 10,4%,
+
+
+      isoladamente ou associada a um transtorno físico. De acordo com a OMS, a depressão situa-se em 4º lugar entre as
+
+
+      principais causas de ônus, respondendo por 4,4% dos ônus acarretados por todas as doenças durante a vida. [...]
+
+
+
+
+      São cerca de 28,2 milhões de brasileiros de 10 anos ou mais de idade que não usavam a internet (3,6 milhões deles
+
+
+      estudantes) no ano passado, com os excluídos digitais representando 15,3% da população nessa faixa etária.
+
+
+
+
+      Este último ponto é decisivo para alicerçar os demais. Não à toa, o tema da cúpula deste ano é “Cooperação em um Mundo
+
+
+      Fragmentado”.
+
+
+
+
+      Em uma era de choques concorrentes, cresce a importância da cooperação em níveis setoriais, bilaterais e regionais – por
+
+
+      exemplo, no compartilhamento de dados ou financiamentos coordenados. Ainda mais urgente é resistir à tendência das
+
+
+      nações de se fecharem.
+
+
+
+
+      (SANTOS, Coriolano Aurélio de Almeida Camargo. Disponível em: https://www.migalhas.com.br/coluna/direito-
+
+
+      digital/380327/davos-- tecnologia-e-cooperacao-em-um-mundo-fragmentado. Em: 20/01/2023. Adaptado.)
+
+
+
+
+      “Nesse cenário, ainda na fase de preparação para a cúpula anual de Davos, o Fórum Econômico Mundial mobilizou mais de
+
+
+      1.200 analistas de risco e especialistas da academia, cientistas de dados, renomados professores, homens de negócios,
+
+
+      governos e sociedade civil para avaliar, em seu Relatório de Riscos Globais, as atuais crises e os desafios a curto e médio
+
+
+      prazos.” (5º§) Sobre o termo destacado anteriormente, pode-se afirmar que:
+
+
+
+      A)    Retoma a situação exposta no período anterior, permitindo a manutenção do referente.
+
+
+
+      B)    É um elemento de coesão que antecipa a referência feita ao “Fórum Econômico Mundial”.
+
+
+
+      C)    Substitui o emprego do artigo definido masculino, mantendo-se a mesma carga semântica.
+
+
+
+      D)    Como pronome demonstrativo, tem a função de determinar o referente “cenário”, conceituando-o.
+
+
+
+      E)    Tem como principal objetivo fortalecer o vínculo entre os fatos mencionados anteriormente e o cenário estabelecido pelo
+
+
+            Fórum citado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)   Retoma a situação exposta no período anterior, permitindo a manutenção do referente.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Note que "nesse" remete a uma informação já dita. No contexto, percebemos uma continuidade do assunto a partir da
+
+
+           retomado dos referentes por meio desse pronome demonstrativo. Essa é a informação trazida na Letra (A).
+
+
+
+
+           Vejamos o erro das demais: (B) não há antecipação, pois "nesse" é um elemento anafórico; Não substitui artigo, mas
+
+
+           um referente (C); Não há conceituação quando se fala em pronomes demonstrativos (D); e o cenário estabelecido é o
+
+
+           citado e retomado por "nesse".
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     21/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+         Portanto, gabarito Letra A.
+
+
+
+
+    Advérbios
+    Os advérbios são essenciais tanto para manterem a coesão anafórica e catafórica quanto para
+
+    dar sentido às referências dêiticos (ou exofóricas).
+
+
+
+    Vejamos breves exemplos:
+
+
+
+          Ex: Estamos no Brasil; muita gente considera nosso acolhimento bem maior aqui.
+
+
+
+    “Aqui” faz coesão anafórica com lugar que apareceu antes: “Brasil”.
+
+
+
+          Ex: Hoje comemora-se o centenário da abertura da Semana de Arte Moderna.
+
+
+
+          “Hoje” é um referente dêitico. É necessário saber que dia é "hoje", que vai depender do
+
+          contexto de fala.
+
+
+
+
+    Termos resumitivos
+    Algumas palavras, como pronomes indefinidos, servem para sintetizar, ou resumir, um grupo de
+
+    elementos que os antecedem ou sucedem.
+
+
+
+    Vejamos alguns casos:
+
+
+
+          Ex: Estudar, revisar, fazer questões: tudo isso é indispensável.
+
+
+
+    " Tudo   isso"   retoma     os     termos   que   o   antecedem    (“Estudar,   revisar,   fazer    questões”),    com    a
+
+    função de resumir essas atividades.
+
+
+
+    O    termo     resumitivo        não   necessariamente      se    restringe     a   pronomes       indefinidos.    Alguns
+
+    substantivos também podem exercer essa função:
+
+
+
+          Ex: Acordo às 5h30, vou para a natação e em seguida parto para o trabalho. Ao final do
+
+          dia, pego as crianças na escola antes de ir para o curso de música. No dia seguinte, repito
+
+          a rotina.
+
+
+
+
+    Note que o termo "a rotina" sintetiza toda a sequência de ações que se repetem no dia a dia
+
+    mencionadas no texto.
+
+
+
+
+    Palavras semanticamente convergentes
+    Quando pensamos nas relações semânticas entre                      palavras, devemos lembrar           dos Sinônimos,
+
+    Hipônimos        e   Hiperônimos.      Todas   essas    estratégias   contribuem      para   a   coesão    de     forma   a
+
+    minimizar as repetições no texto.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                             22/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Lembre-se que são Sinônimos as palavras que se aproximam em sentido em um determinado
+
+    contexto.
+
+
+
+    Já os Hipônimos e         Hiperônimos possuem               uma relação de        continência, já que            aqueles estão
+
+    contidos no sentido amplo de ser Hiperônimo.
+
+
+
+    Vejamos rapidamente como cada uma delas pode ser utilizada:
+
+
+
+           Ex: Meu cão era muito desconfiado. O animal às vezes atacava sem razão.
+
+
+
+    Note que "animal" é hiperônimo de "cão", ou seja, "cão" está contido no grupo dos “animais”.
+
+    Nesse contexto, houve substituição justamente para se evitar repetição.
+
+
+
+           Ex: Tive um carro a diesel e, à época, achava barato o combustível, inclusive se comparado
+
+           ao etanol.
+
+
+
+    "Combustível" é o grupo maior (hiperônimo) e contém "diesel" e "etanol", mais específicos.
+
+
+
+    Todos os mecanismos acima são utilizados para criar um texto coeso, em especial a partir do
+
+    mecanismo de não repetição de vocábulos. Isso porque, desde a escola, nos é ensinado que
+
+    repetir paalavras no texto fere a sua fluidez e o torna mais pobre lexicalmente.
+
+
+
+    Pois   bem,    é   preciso    entender      que    em     alguns    momentos      há     o   que    chamamos       de   "coesão
+
+    recorrencial por repetição" e ela não é considerada erro ou vício de linguagem.
+
+
+
+    As duas questões que se seguem mostram a diferença entre considerar a repetição um erro e
+
+    considerá-la recurso coesivo:
+
+
+
+
+         #VamosPraticar#
+
+
+
+         (UNIFAL / Técnico / 2023)
+
+
+
+                                                       Funes, o memorioso.
+
+
+
+
+         Recordo-me       dele    (eu    não   tenho     o   direito   de   pronunciar     esse      verno   sagrado,    só   um
+
+         homem na Terra teve esse direito e esse homem morreu) segurando uma sombria flor-
+
+         da-paixão, vendo-a como ninguém a viu, ainda que a olhasse do crepúsculo do dia até o
+
+         da   noite,   por   toda   uma    vida   inteira.     Recordo-me       dele ,   a   cara      de   índio   taciturna   e
+
+         singularmente remota, atrás do cigarro. Recordo (creio) suas mãos afiladas de trançador.
+
+         Recordo,      perto daquelas mãos, uma cuia de                 mate, com as armas da Banda Oriental;
+
+         recordo    na   janela     da   casa   uma      esteira   amarela,     com   uma        vaga    paisagem     lacustre.
+
+         Recordo claramente a voz dele; a voz pousada, ressentida e nasal do suburbano antigo,
+
+         sem os sibilos italianos de            agora.    Mais que      três vezes não           o   vi; a última, em 1887...
+
+         Parece-me muito acertado o projeto de que todos aqueles que o conheceram sobre ele
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                   23/69
+                      5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+           escrevam; meu testemunho será talvez o mais breve e sem dúvida o mais pobre, mas
+
+           não o menos imparcial do volume que os senhores editarão. (...)
+
+
+
+                              BORGES, Jorge Luis. Ficções. São Paulo: Companhia das Letras. 2007 (Com
+
+                                                                                                                          adaptações).
+
+
+
+           Da análise        do fragmento do conto “Funes, o memorioso”, é                          adequado afirmar           que   as
+
+           expressões destacadas correspondem a um mecanismo de:
+
+
+
+           A) Coesão recorrencial por paralelismo, pela utilização de uma mesma estrutura com
+
+           diferentes conteúdos, como em “Meu sonho é estudar, trabalhar e descansar” (sequência
+
+           de verbos no infinitivo).
+
+
+
+           B) Coesão sequencial por conexão, graças à variedade de operadores discursivos para
+
+           estruturar os enunciados do texto.
+
+
+
+           C) Coesão referencial por substituição, pela substituição de diferentes palavras, mas com
+
+           intenção de manter os mesmos sentidos.
+
+
+
+           D)    Coesão referencial          por   reiteração,    que    consiste     na repetição de            termos no texto,
+
+           para, neste caso, aprofundar o leitor em um círculo de sensações e emoções.
+
+
+
+           Comentários:
+
+
+
+
+           Por    costume        (e   até   lógica),   quando      nos    deparamos         com     um      parágrafo       cheio    de
+
+           repetições pensamos em um texto pobre. Desde a escola, a repetição é um mecanismo
+
+           a    ser   evitado.    Contudo,      ela    pode   também        ser   um     mecanismo          de   coesão:      Coesão
+
+           referencial por reiteração. É o caso do texto que usa a repetição de "recordo" como
+
+           forma de ênfase e de trazer as sensações para mais perto do leitor.
+
+
+
+           Portanto, gabarito Letra D.
+
+
+
+           #VamosPraticar#
+
+
+
+
+      Questão           4000956711                                2021    FGV     Polícia Militar do Estado do Amazonas    Soldado (PM AM)
+
+
+      Todas as frases a seguir mostram repetições de vocábulos.
+
+
+
+
+      Assinale a opção que apresenta forma adequada de evitar-se uma dessas repetições.
+
+
+
+      A)    Vão construir um cinema aqui, mas não sei quando vão construir / Vão construir um cinema aqui, mas não sei
+
+
+            quando vão fazê-lo.
+
+
+
+      B)    Havia um buraco no chão e como não vi o buraco, enfiei o pé nele / Havia um buraco no chão e como não vi o furo,
+
+
+            enfiei o pé nele.
+
+
+
+      C)    Começaram a trabalhar com entusiasmo, mas já desistiram de trabalhar / Começaram a trabalhar com entusiasmo, mas já
+
+
+            desistiram-no.
+
+
+
+      D)    Li todo o livro e não li nada sobre isso / Li todo o livro e não fiz a leitura de nada sobre isso.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                            24/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+      E)    Desse assunto eu não entendo nada e, além disso, é assunto que não me interessa / Desse assunto eu não entendo
+
+
+            nada e, além disso, isso não me interessa.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)
+
+
+        Vão construir um cinema aqui, mas não sei quando vão construir / Vão construir um cinema aqui, mas não sei quando vão
+
+
+        fazê-lo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Note que, nesta questão, a repetição é considerada um erro ou falha na comunicação, que deve ser evitada.
+
+
+
+
+           Olhando para as alternativas, a única que apresenta substituição correta é a Letra A: o uso da estrutura "fazê-lo"
+
+
+           permite que seja retomada a ideia de "construir um cinema".
+
+
+
+
+           Portanto, gabarito Letra A.
+
+
+
+
+    Conjunção
+    A coesão estabelece o fluxo de leitura do texto. E, para que ele seja fluído, precisamos de uma
+
+    sequência clara, que contenha orações, trechos, ordenados de forma lógica - o que chamamos
+
+    de “progressão textual”.
+
+
+
+    É    justamente       nessa    progressão         que    a   conjunção    tem    papel    essencial,     pois    ele   permite   a
+
+    construção de uma sequência por meio dos sentidos que estabelece entre as orações.
+
+
+
+    Vamos a alguns exemplos:
+
+
+
+           Ex: Eu gosto de esportes, mas, por falta de tempo, não pratico nenhum.
+
+
+
+    A conjunção “mas” permite que saibamos que a continuidade do texto será uma oposição ao
+
+    que foi dito anteriormente.
+
+
+
+           Ex: Eu gosto de esportes, mas não pratico nenhum. Portanto, preciso me organizar para
+
+           começar a treinar.
+
+
+
+    Da     mesma      forma     que      o   "mas",   ao    iniciar   a   oração   com    “portanto”,    vamos      promover    uma
+
+    conclusão do que foi apresentado anteriormente.
+
+
+
+    Trago aqui as principais conjunções e seus sentidos. Não é nosso objetivo aqui que seja uma
+
+    lista exaustiva e que você a tenha memorizada, mas essa disposição pode facilitar nosso estudo
+
+    ok?!
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    25/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+           Tipos de              Sentido que imprimem                                       Exemplos
+
+         conjunções
+
+
+
+
+     Aditivas                Expressam adição                      também;      e;    bem    como;       nem;     não    só...mas
+
+                                                                   também.
+
+
+
+
+     Adversativas            Expressam oposição                    mas; porém; contudo; todavia; entretanto; no
+
+                                                                   entanto; não obstante.
+
+
+
+
+     Alternativas            Expressam alternância                 ou;     ou...ou;    ora...ora;     quer...quer;           já…já;
+
+                                                                   seja...seja.
+
+
+
+
+     Conclusivas             Expressam conclusão                   logo;    pois      (no    meio    da         oração,        entre
+
+                                                                   vírgulas);      portanto;      assim;        por    isso;    por
+
+                                                                   consequência; por conseguinte.
+
+
+
+
+     Explicativas            Expressam explicação                  que; porque; porquanto; pois; isto é.
+
+
+
+
+     Integrantes             Introduzem                orações     que; se; como.
+
+                             substantivas
+
+
+
+
+     Adverbiais              Expressam causa                       porque; que; porquanto; visto que; uma vez
+
+     causais                                                       que; já que; pois que; como.
+
+
+
+
+     Adverbiais              Expressam consequência                que;    tanto     que;   tão   que;    tal   que;    tamanho
+
+     consecutivas                                                  que; de forma que; de modo que; de sorte
+
+                                                                   que; de tal forma que.
+
+
+
+
+     Adverbiais finais       Expressam finalidade                  a fim de que; para que; que.
+
+
+
+
+     Adverbiais              Expressam tempo                       quando;      enquanto;         agora    que;       logo     que;
+
+     temporais                                                     desde que; assim que; tanto que; apenas.
+
+
+
+
+     Adverbiais              Expressam condição                    se; caso; desde; salvo se; desde que; exceto
+
+     condicionais                                                  se; contando que.
+
+
+
+
+     Adverbiais              Expressam contraste                   embora; conquanto; ainda que; mesmo que;
+
+     concessivas                                                   se bem que; posto que.
+
+
+
+
+     Adverbiais              Expressam comparação                  como; assim como; tal; qual; tanto como.
+
+     comparativas
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                      26/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+     Adverbiais                Expressam conformidade                   conforme; como; consoante; segundo.
+
+     conformativas
+
+
+
+
+     Adverbiais                Expressam                                à   proporção        que;       à   medida       que;     ao   passo
+
+     proporcionais             proporcionalidade                        que;    quanto mais… mais.
+
+
+
+
+      Questão        2379543888                           2020     AOCP     Prefeitura de Recife (PE)       Assistente Social 30h (Pref Recife/PE)
+
+
+      Texto
+
+
+
+
+      Culpa
+
+
+
+
+      Mario Prata
+
+
+
+
+      Por que a culpa? É o que eu tenho perguntado à minha psicanalista.
+
+
+
+
+      No princípio era o verbo e eu achava que só eu me sentia culpado. Com o passar do tempo (e da verba), fui descobrindo que
+
+      todo criador tem culpa. Não no cartório. Mas na consciência.
+
+
+
+
+      Vou tentar explicar.
+
+
+
+
+      Todo mundo acha que a pessoa que vive de criar, ou seja, um criador, não faz nada o dia inteiro. Fica só pensando. É
+
+      verdade. O problema é que ninguém considera o trabalho de pensar como ofício. Daí a culpa ensimesmada. Será que só
+
+      pode ser considerado trabalhador o sujeito que fica o dia inteiro numa mesa de escritório, ouvindo pela janela olha a uva de
+
+      Atibaia, melancia barata, melancia barata?
+
+
+
+
+      Você vê uma frase num out-door tipo refresca até pensamento. São três palavrinhas mágicas. O sujeito que inventou isso
+
+      deve ganhar uma fortuna por mês. O que ninguém entende é que ele trabalha há vinte neste ofício. Pode ser que a frase
+
+      tenha saído de um estalo. Mas um estalo vinte anos depois. Não precisa ser nenhuma brastemp para se ter uma ideia dessas.
+
+      Ou precisa? Mas o povo pensa: ganhar essa fortuna para escrever uma bobagem dessas?
+
+
+
+
+      Para aliviar meu sofrimento, penso no Romário que trabalha umas dez horas por mês e ganha 100 mil dólares. Será que ele
+
+      tem culpa? O Chico Buarque, que fica meses sem trabalhar, jogando futebol, será que ele acorda com culpa? E o Erasmo
+
+      Carlos? Tem uma culpa tremendona?
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                    27/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+      Vou almoçar fora e quase emendo com o fim do dia. Bebendo cerveja. Mas pensando. Pensando nessas besteiras que vocês
+
+      estão a ler agora. Juro que eu trabalho, gente. Penso, invento, crio. E esses funcionários fantasmas, que trabalham em várias
+
+      repartições e nunca comparecem? Será que eles não têm culpa? Será que só eu me sinto culpado neste país?
+
+
+
+
+      Uma vez perguntei para o Chico Buarque, que acabava de acordar às duas da tarde, se ele não tinha culpa. Já tive. Superei. E
+
+      o Caetano Veloso que nunca acorda antes das quatro (da tarde)?
+
+
+
+
+      Foram anos e anos de culpa para conseguir escrever esta crônica. Mas saiu. Mas não adiantou nada. Continuo com culpa.
+
+      Acho que eu nunca deveria ter saído do Banco do Brasil. Não bater ponto desnorteia a minha vida.
+
+
+
+
+      Adaptado de: <https://marioprata.net/cronicas/culpa/>. Acesso em: 13 Jan. 2020.
+
+
+
+
+      Assinale a alternativa em que a união das orações “Já tive. Superei.” é feita com o conectivo adequado, preservando-lhes a
+
+      relação de sentido.
+
+
+      A)    Já tive, visto que superei.
+
+
+
+      B)    Já tive, portanto superei.
+
+
+
+      C)    Já tive, porém superei.
+
+
+
+      D)    Já tive, ora superei.
+
+
+
+      E)    Já tive, ademais superei.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)    Já tive, porém superei.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Note que o sentido estabelecido entre as duas orações é de adversidade, oposição - expressa, dentre as alternativas,
+
+
+           pela conjunção "porém".
+
+
+
+
+           "visto que" (A) tem sentido de explicação, "portanto" (B) e "ora" (D), conclusão e "ademais" (E), adição.
+
+
+
+
+           Portanto, gabarito Letra C.
+
+
+
+
+    Outras técnicas de coesão
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                        28/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Vimos até aqui os mecanismos mais utilizados de se construir a coesão do texto, mas separei
+
+    mais alguns que podem ser cobrados em sua prova, porém sem muita incidência nas provas de
+
+    concursos em geral.
+
+
+
+    ✔       Nominalização: substituir verbo ou adjetivo por seu substantivo respectivo.
+
+
+
+    Ex: Ser aprovado hoje em dia demora mais. Contudo, essa aprovação também envolve o fator
+
+    dedicação.
+
+
+
+    ✔       Adjetivação: troca do termo substantivado pelas suas características.
+
+
+
+    Ex: O Rei era autoridade máxima. A verdade da Coroa sempre prevalecia.
+
+
+
+             John Lenon eternou suas canções. O ex-Beatle realmente conseguia se expressar por
+
+    meio da música
+
+
+
+    ✔       Sigla: substituição do nome de uma instituição por suas iniciais.
+
+
+
+    Ex: A Universidade        Federal    de   Juiz   de   Fora (UFJF) divulgou           hoje   estudo sobre   as sequelas
+
+    cognitivas da Síndrome de Burnout.
+
+
+
+
+         Guarde essa regra sagrada:
+
+
+
+                   Primeiro se usa o nome por extenso, seguido pela sigla entre parênteses.
+
+
+
+         Após esse uso (nome completo + sigla entre parênteses), pode-se usar a sigla no lugar do
+
+         nome completo ao longo de todo o texto.
+
+
+
+         NÃO utilize primeiro a sigla!!!
+
+
+
+
+    Agora vamos trabalhar um dos problemas mais comuns em termos de Coesão e Coerência, que
+
+    dificultam o entendimento do texto: a ambiguidade.
+
+
+
+
+    Ambiguidade
+    Ambiguidade é a possibilidade de um texto apresentar mais de leitura possível.
+
+
+
+    Destaco aqui que a ambiguidade pode ser tanto um recurso estilístico (utilizado principalmente
+
+    em propagandas e em textos narrativos) quanto um problema estrutural.
+
+
+
+    Como      diferenciar?     Apenas     pelo   contexto!     Por   exemplo,       se   estamos    diante   de   um   texto
+
+    publicitário ou de uma piada, sabemos que a ambiguidade é um recurso estilístico. Em um texto
+
+    dissertativo ou acadêmico, ela se torna um desvio de coesão.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          29/69
+                  5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+          Ex: Você ensina, ensina, e o aluno, nada.
+
+
+
+    Note aqui o duplo sentido é formado pelo duplo sentido que a palavra "nada" adquire: o aluno
+
+    não aprende o que foi ensinado OU o aluno aprende a nadar.
+
+
+
+
+          Disponível em <https://chicoalencar/ i-festival-brasileiro-de-piadas-de-duplo-sentidosem-
+
+
+          um-segundo-sentidovi-no-tarc>
+
+
+
+
+    Note    que    o   duplo    o   sentido   da   charge   não   reside   apenas   na   estrutura   linguística,   mas   nos
+
+    aspectos semânticos e quebra de expectativa que, principalmente, a última fala cria.
+
+
+
+    Como mencionei, podemos ter casos de Ambiguidade Estrutural, ou seja, o duplo sentido é
+
+    criado a partir da posição dos termos na frase.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+          Ex: O celular se tornou um grande aliado do homem, mas esse nem sempre realiza todas
+
+          as suas tarefas.
+
+
+
+    Quem " nem sempre realiza todas as suas tarefas"? O celular ou o homem?
+
+
+
+    Note que aqui o problema se deu pelo erro do uso do pronome demonstrativo. Já vimos que o
+
+    correto é utilizar "este" para o termo mais próximo ("homem") ou "aquele" para o termo mais
+
+    distante ("celular").
+
+
+
+               Ex: João foi atrás do taxi correndo.
+
+
+
+    Quem estava correndo? João ou o taxi?
+
+
+
+    Para desfazer       essa ambiguidade, precisamos deslocar                o verbo no gerúndio ou          reescrever     a
+
+    última parte da frase:
+
+
+
+               João, correndo, foi atrás do taxi.
+
+
+
+               João foi atrás do taxi, que estava em alta velocidade.
+
+
+
+    Podemos       ainda   ter       um   segundo    tipo   de   ambiguidade,    a   polissêmica.     Essa   recai   sobre   a
+
+    possibilidade de duplo sentido que vocábulos podem adquirir.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                           30/69
+                  5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+
+    Note que o duplo sentido da tirinha recai sobre a palavra "vendo": verbo "ver" ou verbo
+
+
+    "vender".
+
+
+
+
+    Nessa tirinha, o duplo sentido recai sobre o verbo lançar: jogar o livro ou escrever e publicar
+
+
+    uma obra.
+
+
+
+    Como isso pode ser cobrado na sua prova? De duas formas distintas: o examinador pode pedir
+
+    pra você desfazer a ambiguidade ou identificar o duplo sentido do texto.
+
+
+
+    Vamos praticar um pouco?!
+
+
+
+
+                                                                                              2022     FGV     Prefeitura de São Paulo (SP)
+      Questão         4001311802
+                                                                  Professor de Ensino Fundamental II e Médio - Biologia (Pref São Paulo/SP)
+
+      As opções a seguir apresentam frases que mostram ambiguidade, à exceção de uma. Assinale-a.
+
+
+
+      A)    O bandido que tinha fugido da prisão no mês passado foi assassinado.
+
+
+
+      B)    A nomeação do novo ministro trouxe muita apreensão para o mercado financeiro.
+
+
+
+      C)    O repórter esportivo viu o craque passeando pelo mercado de Qatar.
+
+
+
+      D)    O filhote do cachorro mordeu a perna de um transeunte.
+
+
+
+      E)    Os que se vacinarem já terão direito ao passaporte.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)   O filhote do cachorro mordeu a perna de um transeunte.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos as ambiguidades:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                             31/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+           A letra A está incorreta.
+
+
+           No mês passado o bandido fugiu ou no mês passado ele foi assassinado?
+
+
+
+
+           A letra B está incorreta.
+
+
+           O ministro foi nomeado ou nomeou alguém?
+
+
+
+
+           A letra C está incorreta.
+
+
+           Quem estava passeando: o repórter ou o craque?
+
+
+
+
+           A letra D está correta.
+
+
+           A única alternativa que não apresenta ambiguidade é a Letra D.
+
+
+
+
+           A letra E está incorreta.
+
+
+           Passaporte a algum lugar ou o documento "passaporte"?
+
+
+
+
+                                                                                              2022     FGV      Prefeitura de São Paulo (SP)
+      Questão          4001311928
+                                                                      Professor de Ensino Fundamental II e Médio - Arte (Pref São Paulo/SP)
+
+      No ensino da produção escrita, um dos processos didáticos é a reescrita de frases. Assinale a opção que apresenta a frase em
+
+
+      que houve uma substituição inadequada de uma oração reduzida por uma forma nominalizada.
+
+
+
+      A)    O inteligente aprende errando e o sábio aprende com o erro dos outros. / com os erros involuntários.
+
+
+
+      B)    É o que pensamos que sabemos que nos impede de aprender. / que impede nosso aprendizado.
+
+
+
+      C)    O trabalho de um educador é irrigar o deserto, não derrubar a floresta. / a irrigação do deserto; a derrubada da floresta.
+
+
+
+      D)    A criança como o homem, o homem como a criança, preferem divertir-se a instruir-se. / a diversão à instrução.
+
+
+
+      E)
+
+            Educação é o que resta depois de ter esquecido tudo o que se aprendeu na escola. / depois do esquecimento de tudo o.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    O inteligente aprende errando e o sábio aprende com o erro dos outros. / com os erros involuntários.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A única nominalização inadequada é a Letra (A): não podemos dizer que "erros dos outros" são "erros involuntários" -
+
+
+           e sim, "erros alheios".
+
+
+
+
+           Portanto, gabarito Letra A.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              32/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+    Por fim, vamos deixar bem claro a diferença entre Coesão, Coerência e Sentido, pois não são
+
+    sinônimos!!!
+
+
+
+
+    Ficou claro?!
+
+
+
+    Resumindo.... Coesão é a referência que um termo faz a outro dentro do texto; coerência é a
+
+    lógica do texto; e o sentido é a informação original.
+
+
+
+    Mas     cuidado!!   Uma     mudança      de   sentido    ou   nos   elementos       coesivos   pode   tornar    o   texto
+
+    incoerente, ou seja, a leitura será prejudicada.
+
+
+
+    Bom, finalizamos esta parte por aqui. Agora é praticar!
+
+
+
+
+   5.4 Fatores de Textualidade
+
+
+
+
+     Fatores de Textualidade
+    Vamos entrar a partir de agora no campo da Linguística Textual. Para isso, temos que ter claro o
+
+    conceito de Textualidade: conjunto de características que nos possibilita conhecer um texto.
+
+
+
+    Essas     características      podem       ser    semânticas        (coesão     e    coerência)    ou   pragmáticas
+
+    (intencionalidade,      aceitabilidade,    situacionalidade,      informatividade     e   intertextualidade).       Neste
+
+    capítulo aula, vamos detalhar cada uma das características pragmáticas, mas você perceberá ao
+
+    longo da teoria que, muitas vezes, não podemos (ou até mesmo não conseguimos) diferenciá-
+
+    los nas questões de prova.
+
+
+
+
+     Intencionalidade
+    A intencionalidade é a intenção do autor do texto, seja ele oral ou escrito, de produzir uma
+
+    manifestação linguística com a finalidade de alcançar algum objetivo.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                           33/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    O leitor/ouvinte deve compreender o objetivo do ato de fala do emissor, do enunciado ou do
+
+    texto produzido. E isso acontece com base na intencionalidade, que é o fator de textualidade
+
+    relacionado à pretensão do produtor do texto, o que ele realmente deseja que o leitor/ouvinte
+
+    faça, realize.
+
+
+
+
+     Em resumo, ao produzir um texto oral ou escrito
+
+
+
+         Tanto autor quanto leitor/ouvinte possuem certas intenções que devem ser identificadas,
+
+                                                       compreendidas.
+
+
+
+
+    Dentro desse aspecto, é importante ter a noção de modalizadores discursivos.
+
+
+
+    Os modalizadores são elementos linguísticos (gramatical e/ou lexical), por meio dos quaos o
+
+    autor    manifesta    determinada       atitude   ou   intenção    em    relação   ao    conteúdo     do    seu   próprio
+
+    enunciado.
+
+
+
+    Eles podem ser classificados em três:
+
+
+
+
+            Modalização epistêmica
+
+
+
+
+    Expressa uma avaliação sobre o valor de verdade e as condições de verdade da afirmativa.
+
+
+
+    Dentre eles, destaco:
+
+
+
+    (I) Modalizador epistêmico asseverativo: evidencia a certeza.
+
+
+
+    Ex .:   realmente,   evidentemente,       naturalmente,      efetivamente,      claro,   certo,   lógico,   sem   dúvida,
+
+    mesmo, nenhum, nunca, de forma alguma etc.
+
+
+
+    (II) Modalizador dubitável ou quase-asseverativo: expressa dúvida.
+
+
+
+    Ex .: talvez, assim, possivelmente, provavelmente, é provável, eventualmente.
+
+
+
+
+    (III) Modalizador epistêmico delimitador: limita a informação.
+
+
+
+    Ex.: quase, um tipo de,         uma espécie de, geograficamente, biologicamente, matematicamente,
+
+    linguisticamente, somente, basicamente, só etc.
+
+
+
+
+            Modalização deôntica
+
+
+
+
+    Refere-se em essência ao princípio da obrigação e da permissão.
+
+
+
+    Ex.: obrigatoriamente, necessariamente, não deve fazer, deve apresentar etc.
+
+
+
+
+            Modalização afetiva
+
+
+
+
+    Responsável por verbalizar as reações emotivas do falante em face do conteúdo proposital.
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                           34/69
+                    5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Dentre eles, destaco:
+
+
+
+    (I) Modalizador subjetivo: expressa ponto de vista global .
+
+
+
+    Ex .: infelizmente, felizmente, curiosamente, surpreendentemente, espantosamente, etc.
+
+
+
+    (II) Modalizador intersubjetivo: traz o ponto de vista pessoal .
+
+
+
+    Ex .: sinceramente, francamente, lamentavelmente, estranhamente, etc.
+
+
+
+
+    Nas    provas,     o   enunciado     da    questão    deixa     bem      claro    quanto     demanda          essa     característica.
+
+    Vamos praticar um pouco:
+
+
+
+
+      Questão         4001113960        2022    FCC     Tribunal de Justiça do Estado do Ceará   Analista Judiciário - Área Judiciária (TJ CE)
+
+
+      Atenção: Para responder à questão, baseie-se no texto abaixo.
+
+
+
+
+      O exercício da crônica
+
+
+
+
+      Escrever prosa é uma arte ingrata. Eu digo prosa fiada, como faz um cronista; não a prosa de um romancista, na qual este é
+
+
+      levado pelas personagens e situações que criou.
+
+
+
+
+      Alguns cronistas escrevem de maneira simples e direta, sem caprichar demais no estilo, mas enfeitando-o aqui e ali desses
+
+
+      pequenos achados que são sua marca registrada. Outros, de modo lento e elaborado, que o leitor deixa para mais tarde
+
+
+      como um convite ao sono. Outros ainda, e constituem a maioria, “tacam o peito” na máquina de escrever e cumprem o
+
+
+      dever cotidiano da crônica como uma espécie de desespero, numa atitude de “ou vai ou racha”.
+
+
+
+
+      Há os eufóricos, cuja prosa procura sempre infundir vida e alegria em seus leitores; e há os tristes, que escrevem com o fito
+
+
+      exclusivo de desanimar a gente não só quanto à vida, como quanto à condição humana e às razões de viver. Há também
+
+
+      os modestos, que ocultam cuidadosamente a própria personalidade atrás do que dizem; em contrapartida, os vaidosos
+
+
+      castigam no pronome da primeira pessoa e colocam-se como a personagem principal de todas as situações.
+
+
+
+
+      Como se diz que é preciso um pouco de tudo para fazer um mundo, todos esses “marginais da imprensa”, por assim dizer,
+
+
+      têm o seu papel a cumprir. Uns afagam vaidades, outros as espicaçam; este é lido por puro deleite, aquele por puro vício.
+
+
+      Mas uma coisa é certa: o público não dispensa a crônica, e o cronista afirma-se cada vez mais como o cafezinho quente
+
+
+      logo pela manhã.
+
+
+
+
+      Coloque-se porém, ó leitor, ingrato leitor, no papel do cronista. Dias há em que, positivamente, a crônica “não baixa”. O
+
+
+      cronista levanta-se, senta-se, levanta de novo, chega à janela, põe um disco na vitrola, dá um telefonema, relê crônicas
+
+
+      passadas em busca de inspiração – e nada. Aí então, se ele é cronista de verdade, ele se pega pela gola e diz: “Vamos,
+
+
+      escreve, ó mascarado! Escreve uma crônica sobre essa cadeira que está à sua frente, e que ela seja bem feita e divirta seus
+
+
+      leitores!” E o negócio sai de qualquer maneira.
+
+
+
+
+      (Adaptado de: MORAES, Vinícius de. Os sabiás da crônica. Antologia. Org. Augusto Massi. Belo Horizonte: Autêntica, 2021,
+
+
+      p. 103-104)
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                35/69
+                      5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+      Ao buscar caracterizar o trabalho específico de um cronista e sua repercussão junto ao público, Vinícius de Moraes
+
+
+
+      A)    compara a crônica com o romance, para concluir que neste, ao contrário daquela, a relação entre os fatos ou
+
+
+            personagens tratados é mais aleatória ou casual.
+
+
+
+      B)    estabelece uma oposição entre o cronista de estilo simples e direto e aquele que conquista seu público por conta de uma
+
+
+            linguagem mais pausada e mais trabalhada.
+
+
+
+      C)    opõe os cronistas tristes aos modestos, mostrando que os melancólicos se caracterizam pelo ocultamento dos traços
+
+
+            principais de sua personalidade.
+
+
+
+      D)    considera que a leitura de crônicas, por mais variadas que sejam em sua forma e em seu espírito, já se incorporou aos
+
+
+            hábitos cotidianos de seu público.
+
+
+
+      E)    conclui que a prática da crônica leva um escritor a ter facilidade em cultivar uma linguagem literária que ele desempenha
+
+
+            de modo mecânico.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)
+
+
+       considera que a leitura de crônicas, por mais variadas que sejam em sua forma e em seu espírito, já se incorporou aos hábitos
+
+
+       cotidianos de seu público.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Por mais aberto que o enunciado seja, as alternativas trazem a intencionalidade do autor no texto. O texto, de fato,
+
+
+           compara os cronistas e trata desse trabalho. Se olharmos para o 4º parágrafo, essa intenção fica mais clara: Conforme
+
+
+           o texto:   "Mas uma coisa é certa: o público não dispensa a crônica, e o cronista afirma-se cada vez mais como o
+
+
+           cafezinho quente logo pela manhã.". Assim, sabemos o texto tem a intenção de mostrar ao leitor que a crônica já faz
+
+
+           parte do dia a dia, assim como o "cafézinho quente". Gabarito letra D.
+
+
+
+
+     Aceitabilidade
+    A aceitabilidade é o fator de textualidade relacionado à recepção do texto pelo leitor/ouvinte ,
+
+    considerando-o            como    uma      configuração     aceitável,    coerente      e    coesa,   isto    é,   carregado    de
+
+    significado e, portanto, compreensível.
+
+
+
+    Além      disso,     a   aceitabilidade      corresponde     à   forma   e   ao   sentido,   sendo     este    o   aspecto     mais
+
+    importante.         Por   exemplo, se        no texto houver      falhas gramaticais, ele          pode      sim   ser   aceitável,
+
+    desde que faça sentido.
+
+
+
+    Em relação ao leitor/ouvinte , a aceitabilidade diz respeito a aceitar as intenções pretendidas
+
+    pelo autor.
+
+    Ou seja, entenda aqui a aceitabilidade como a expectativa que o leitor/ouvinte tem sobre o
+
+    texto.
+
+
+
+    Vamos ver como essa característica pode ser cobrada na sua prova?!
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                       36/69
+                     5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+                                                                 2018    CESPE (CEBRASPE)     Procuradoria Geral do Estado de Pernambuco
+      Questão          27405965
+                                                                                                       Assistente de Procuradoria (PGE PE)
+
+
+
+
+      Considerando as ideias, os sentidos e os aspectos linguísticos do texto precedente, julgue o item a seguir.
+
+
+
+
+      O texto apresenta estratégia argumentativa que visa aproximar o leitor das ideias desenvolvidas pelo autor.
+
+
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Sim, o autor expressa suas opiniões usando a primeira pessoa do plural: “nós” (nós aderimos, morremos, nossa vida....).
+
+
+           Essa estratégia torna suas opiniões inclusivas e generalizantes, o que tem o efeito de incluir o leitor, fazendo que este
+
+
+           se sinta mais próximo daquela realidade comentada no texto. Questão correta.
+
+
+
+
+     Situacionalidade
+    De cara, entenda que situacionalidade está diretamente relacionada ao contexto.
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                            37/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Estamos falando do contexto interpretativo, ou seja, o texto precisa se adequar à situação de
+
+    uso a qual esteja atrelado, de tal modo a permitir àqueles que tenham contato com sua leitura a
+
+    possibilidade de significá-lo de alguma forma.
+
+
+
+    Isso significa dizer que a situacionalidade adequa o texto ao seu leitor.
+
+
+
+    Por exemplo, foi sancionada nova Lei de Previdência Social. Em sua publicação e divulgação, se
+
+    o público-alvo do texto são advogados, a linguagem do texto será mais técnica. Agora, se a
+
+    Administração Pública objetiva explica as novas regras de previdência à população, a linguagem
+
+    será mais direta, sem muitos termos técnicos (apenas os necessários).
+
+
+
+    Em termos práticos:
+
+
+
+    Uma       normativa,   em     termos     de   publicação    e   divulgação      aos   advogados   (ou    dizemos     ainda
+
+    operadores do Direito):
+
+
+
+
+     CAPÍTULO I
+
+
+
+     DOS SEGURADOS, DA FILIAÇÃO E INSCRIÇÃO, DA VALIDADE, COMPROVAÇÃO E ACERTO DE
+
+                                                       DADOS DO CNIS
+
+
+
+                                                               Seção I
+
+
+
+                                                  Dos segurados e da filiação
+
+
+
+     Art. 2º Filiação é o vínculo que se estabelece entre a Previdência Social e as pessoas que para
+
+     ela contribuem, do qual decorrem direitos e obrigações.
+
+
+
+     § 1º Filiado é      aquele   que   se   relaciona com a Previdência Social na qualidade                     de   segurado
+
+     obrigatório ou facultativo, mediante contribuição ao RGPS.
+
+
+
+     § 2º Não gera filiação obrigatória ao RGPS o exercício de atividade prestada de forma gratuita
+
+     ou o serviço voluntário, nos termos da Lei nº 9.608, de 18 de fevereiro de 1998.
+
+
+
+     Art.     3º   São   segurados    obrigatórios     os   filiados     ao   RGPS    nas   categorias      de   empregado,
+
+     empregado doméstico, trabalhador avulso, contribuinte individual e segurado especial.
+
+
+
+     § 1º A filiação à Previdência Social, para os segurados obrigatórios, decorre automaticamente
+
+     do exercício de atividade remunerada.
+
+
+
+     §   2º    O   segurado     que   exercer      mais   de   uma     atividade     remunerada    sujeita       ao   RGPS   é
+
+     obrigatoriamente filiado em relação a cada uma dessas atividades.
+
+
+
+     § 3º O aposentado, inclusive por outro regime de Previdência Social, que exercer atividade
+
+     abrangida pelo RGPS é segurado obrigatório em relação a essa atividade, ficando sujeito às
+
+     contribuições previstas para fins de custeio da Seguridade Social.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                            38/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+    Já no caso da mesma normativa, em termos de publicação e divulgação à população em geral:
+
+
+
+
+     A   Previdência      Social     se    preocupa       em   proteger    o   trabalhador   não   somente         em   caso      de
+
+     acidente,    mas      também          quando    se   chega     à    idade   avançada    e    as    condições       físicas    o
+
+     impossibilitam para o trabalho e não tem meios para a própria sobrevivência.
+
+
+
+     Nas duas situações, é necessário que ele tenha contribuído regularmente para a Previdência
+
+     Social.   Assim,     não      terá    problemas,     porque     receberá     um   benefício       até   que   recupere       as
+
+     condições     de     voltar   às     suas   atividades,   ou   se   aposente,   garantindo    uma       renda   para   a   sua
+
+     sobrevivência.
+
+
+
+     Particularmente, no caso de mulheres que precisam parar de trabalhar em razão do parto, o
+
+     salário-maternidade assegura sua renda mensal por 120 dias. A Previdência Social também paga
+
+     outros benefícios como a pensão e o auxílio-reclusão, destinados à família quando o trabalhador
+
+     morre ou é preso.
+
+
+
+
+    Disponível       em      <https://www.gov.br/inss/pt-br/centrais-de-conteudo/publicacoes/cartilhas-e-
+
+    folders/pep-cartilha-aprendendo-previdencia-social-compressed-pdf/view>
+
+
+
+    Note que a linguagem muda muito!!! Na normativa (1º exemplo) temos a linguagem técnica e
+
+    jurídica, em que é necessário o mínimo de conhecimento para seu entendimento. Já a cartilha
+
+    por outro lado, possui uma linguagem mais direta, de fácil compreensão, na qual o cidadão ou
+
+    interessado tem condições de entendimento, independente do seu nível de conhecimento do
+
+    assunto.
+
+
+
+    Assim, a situacionalidade permite tanto a interpretação quanto a produção de textos.
+
+
+
+    Para finalizar e resumir, vejamos a definição de situacionalidade do linguista Marcuschi (2008,
+
+    p. 129):
+
+
+
+
+     A situacionalidade é uma forma particular de o texto se adequar tanto a seus contextos quanto
+
+     a seus usuários.
+
+
+
+
+    Precisamos      ter    em   mente       ainda   que   a    situacionalidade   tem   ligação    direta     com    outros     dois
+
+    critérios, a intencionalidade e aceitabilidade , pois as expectativas que os leitores/ouvintes têm
+
+    sobre o ato comunicativo e sobre a própria configuração do contexto comunicativo também
+
+    exercem influência na atribuição de significado ao texto.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                  39/69
+                    5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Assim,      situacionalidade             é   uma   característica     relacionada        à   dinâmica     entre    texto    e   contexto.
+
+    Dessa       forma,         é   essa   relação    que   contribui     para   a    construção      da   significação,      bem     como        o
+
+    público que se espera que tenha acesso ao texto.
+
+
+
+    Vejamos agora essas características nos textos que vêm sendo cobrados:
+
+
+
+
+                                                                                 2022     VUNESP      Prefeitura de São Bernardo do Campo (SP)
+      Questão            4001360904
+                                                                                Professor I de Educação Básica (Pref São Bernardo do Campo/SP)
+
+      A respeito da linguagem do texto e do emprego predominante de formas verbais no presente, pode-se afirmar, correta e
+
+
+      respectivamente:
+
+
+
+      A)    é acessível; contribui para apresentar um ponto de vista pedagógico cuja validade é atual.
+
+
+
+      B)    é formal; contribui para analisar a regularidade com que certos eventos se repetiram por décadas.
+
+
+
+      C)    é redundante; contribui para expor ações pretéritas que ocorreram simultaneamente.
+
+
+
+      D)    é literária; contribui para elucidar verdades permanentes cuja pertinência é indiscutível.
+
+
+
+      E)    é técnica; contribui para resgatar de forma saudosista concepções pedagógicas tradicionais.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)     é acessível; contribui para apresentar um ponto de vista pedagógico cuja validade é atual.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Estamos diante de um texto dissertativo, que apresenta sim a defesa de um ponto de vista. Veja um trecho em que isso
+
+
+           fica claro: "       A leitura é uma prática que traz inúmeros benefícios aos leitores, sobretudo quando estimulada desde a
+
+
+           infância." - note que o autor é a favor da leitura desde crianças.
+
+
+
+
+           Assim, temos um ponto de vista claro e também uma linguagem acessível, já que não dificuldade em se compreender
+
+
+           o texto. Assim, o gabarito correta é a alternativa (A).
+
+
+
+
+           Vejamos o erro das demais: no texto não há análise sobre a regularidade do que acontece (B), tampouco há trechos
+
+
+           saudosistas (E). Além disso, o texto não é redundante (C), tampouco literário (D). Portanto, gabarito letra A.
+
+
+
+
+     Informatividade
+    Essa característica de textualidade refere-se às informações transmitidas pelo texto.
+
+
+
+    Se     o   texto       é    coerente,     logo   possui    conteúdo.       Portanto,     o   leitor/ouvinte     deve     ser    capaz    de
+
+    perceber         a     mensagem           transmitida     pelo    texto,    ou   seja,   captar     sua   informação         principal       e
+
+    secundária.
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                40/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+         Não confunda: Informação, Conteúdo e Sentido
+
+
+
+
+         Informação é todo dado ou conhecimento usado no texto.
+
+
+
+         Conteúdo refere-se ao tema central de um determinado texto.
+
+
+
+         Sentido    inclui   informações        explícitas   (ditas   ou   escritas    diretamente)    e    implícitas   (as
+
+         intenções do autor).
+
+
+
+         Portanto...
+
+
+
+         Perguntar     a   um   leitor   pelo   conteúdo     do   texto    que   ele   acabou   de    ler   não   significa
+
+         perguntar pelas informações, da mesma forma que entender o conteúdo do texto não
+
+         implica necessariamente entender o sentido nele contido.
+
+
+
+
+    Vamos a um caso prático?! Observe estes dois textos:
+
+
+
+    Texto 1:
+
+
+
+
+    Disponível em <https://www.tjmg.jus.br/portal-tjmg/noticias/minas-gerais-aumenta-em-11-o-
+
+
+    numero-de-processos-julgados.htm#>
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                              41/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Texto 2:
+
+
+
+
+    CNJ. Justiça em número 2016.
+
+
+
+    Ficou mais claro?!
+
+
+
+    Então, agora vamos a um exemplo com textos de gêneros e linguagens diferentes:
+
+
+
+    Texto 1:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                     42/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+    Disponível em <https://g1.globo.com/sp/sao-paulo/noticia/2022/01/27/cidade-de-sp-tem-um-
+
+
+    roubo-a-cada-quatro-minutos-em-2021-diz-levantamento-da-ssp.ghtml>
+
+
+
+    Texto 2:
+
+
+
+
+    Disponível em <http://www.homortadela.com.br >
+
+
+
+    Estamos      diante   de   dois          textos      de    gêneros     distintos:    o   Texto      1   é   uma      notícia,   um   texto
+
+    eminentemente         informativo,          com       linguagem        clara   e   objetiva;    o   Texto    2   é   uma    charge,   que
+
+    mescla      linguagem      verbal          e        não    verbal,    com      linguagem        simples      e       mais   próxima    da
+
+    coloquialidade.
+
+
+
+    Vejamos suas semelhanças e diferenças:
+
+
+
+    Quanto ao conteúdo, tanto o Texto 1 quanto o Texto 2 tratam sobre o aumento da violência em
+
+    São Paulo.
+
+
+
+    Já as informações trazidas são distintas: Texto 1 traz dados ("um roubo a cada 4 minutos em
+
+    2021"; "Alta é de 0,8% e 2021"; "número de casos de latrocínio cresceu 15%") e o Texto 2 traz
+
+    também      um   dado, de          forma mais sutil           (ao afirmar      que    "eles [empresas de              blindagem] estão
+
+    faturando em cima do nosso trabalho", o texto traz a informação de aumento da procura por
+
+    carros blindados em virtude do aumento da violência).
+
+
+
+    Quanto     ao   sentido,       o    Texto      1,   de    cunho      informativo,    traz   a   contraposição          entre    os   dados
+
+    apresentados e o discurso da Secretaria de Segurança Pública (SSP), já o Texto 2, por trazer
+
+    elementos       verbais    e       não    verbais,        mostra,    de   forma     bem     humorada,        como       o   aumento    da
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                            43/69
+                  5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    violência     impacta       diferentes   nichos      da   sociedade,     no    caso,     as   empresas         de     blindagem         de
+
+    carros.
+
+
+
+    Para finalizar, tenha em          mente        que   dois textos podem          falar   sobre      o mesmo conteúdo, mas
+
+    trazerem informações diferentes. Já os sentidos desses textos vão sendo construídos pelo leitor
+
+    no ato da leitura ou pelo ouvinte, no caso do texto oral.
+
+
+
+    A questão abaixo, mesmo fora do escopo de atuação de seu cargo, traz de forma clara como
+
+    podemos identificar questões que versam a informatividade.
+
+
+
+
+                                                              2022    FCC   Tribunal Regional do Trabalho do Rio Grande do Sul (4ª Região)
+      Questão       4001149246
+                                                                            Analista Judiciário - Área Judiciária (Poder Judiciário da União)
+
+      Atenção: Para responder a questão, baseie-se no texto abaixo.
+
+
+
+
+      [Ritmos da civilização]
+
+
+
+
+      Se um camponês espanhol tivesse adormecido no ano 1.000 e despertado quinhentos anos depois, ao som dos marinheiros
+
+
+      de Colombo a bordo das caravelas Nina, Pinta e Santa Maria, o mundo lhe pareceria bastante familiar. Esse viajante da
+
+
+      Idade Média ainda teria se sentido em casa. Mas se um dos marinheiros de Colombo tivesse caído em letargia similar e
+
+
+      despertado ao toque de um iPhone do século XXI, se encontraria num mundo estranho, para além de sua compreensão.
+
+
+      “Estou no Céu?”, ele poderia muito bem se perguntar, “Ou, talvez, no Inferno?”
+
+
+
+
+      Os últimos quinhentos anos testemunharam um crescimento fenomenal e sem precedentes no poderio humano. Suponha que
+
+
+      um navio de batalha moderno fosse transportado de volta à época de Colombo. Em questão de segundos, poderia destruir
+
+
+      as três caravelas e em seguida afundar as esquadras de cada uma das grandes potências mundiais. Cinco navios de carga
+
+
+      modernos poderiam levar a bordo o carregamento das frotas mercantes do mundo inteiro. Um computador moderno
+
+
+      poderia facilmente armazenar cada palavra e número de todos os documentos de todas as bibliotecas medievais, com
+
+
+      espaço de sobra. Qualquer grande banco de hoje tem mais dinheiro do que todos os reinos do mundo pré-moderno
+
+
+      reunidos.
+
+
+
+
+      Durante a maior parte da sua história, os humanos não sabiam nada sobre 99,99% dos organismos do planeta – em
+
+
+      especial, os micro-organismos. Foi só em 1674 que um olho humano viu um micro-organismo pela primeira vez, quando
+
+
+      Anton van Leeuwenhock deu uma espiada através de seu microscópio caseiro e ficou impressionado ao ver um mundo
+
+
+      inteiro de criaturas minúsculas dando volta em uma gota d’água. Hoje, projetamos bactérias para produzir medicamentos,
+
+
+      fabricar biocombustível e matar parasitas.
+
+
+
+
+      Mas o momento mais notável e definidor dos últimos 500 anos ocorreu às 5h29m45s da manhã de 16 de julho de 1945.
+
+
+      Naquele segundo exato, cientistas norte-americanos detonaram a primeira bomba atômica em Alamogordo, Novo México.
+
+
+      Daquele ponto em diante, a humanidade teve a capacidade não só de mudar o curso da história como também de colocar
+
+
+      um fim nela. O processo histórico que levou a Alamogordo e à Lua é conhecido como Revolução Científica. Ao longo dos
+
+
+      últimos cinco séculos, os humanos passaram a acreditar que poderiam aumentar suas capacidades se investissem em
+
+
+      pesquisa científica. O que ninguém poderia imaginar era em que aceleração frenética tudo se daria.
+
+
+
+
+      (Adaptado de: HARARI, Yuval Noah. Uma breve história da humanidade . Trad. Janaína Marcoantonio. Porto Alegre: L&PM,
+
+
+      2018, p. 257-259, passim )
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                               44/69
+                    5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+      Da leitura do segundo parágrafo depreende-se que o crescimento fenomenal e sem precedentes no poderio humano
+
+
+      manifestou-se sobretudo considerando-se
+
+
+
+      A)     o aspecto quantitativo das alterações ambientais.
+
+
+
+      B)     a capacidade de produzir e sintetizar operações mais complexas.
+
+
+
+      C)     o rigor ético que passou a orientar a nossa ciência.
+
+
+
+      D)     a facilidade de improvisarmos diante dos obstáculos e desafios.
+
+
+
+      E)     a socialização de bens de consumo e de serviços públicos.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)    a capacidade de produzir e sintetizar operações mais complexas.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+            Quanto às informações do texto, o autor traz exemplos de acontecimentos da Humanidade sobre como o ser humano
+
+
+            tem a capacidade de improvisar quando se depara com obstáculos e desafios.
+
+
+
+
+            Um dos trechos que exemplifica esse elemento é: “Suponha que um navio de batalha moderno fosse transportado de
+
+
+            volta à época de Colombo. Em questão de segundos, poderia destruir as três caravelas e em seguida afundar as
+
+
+            esquadras de cada uma das grandes potências mundiais. Cinco navios de carga modernos poderiam levar a bordo o
+
+
+            carregamento das frotas mercantes do mundo inteiro. Um computador moderno poderia facilmente armazenar cada
+
+
+            palavra e número de todos os documentos de todas as bibliotecas medievais, com espaço de sobra.”. Portanto,
+
+
+            gabarito Letra (E).
+
+
+
+
+     Intertextualidade
+    Intertextualidade está relacionada à comunicação, ao diálogo entre textos. E por que um texto
+
+    faz referência a outro? Vejamos algumas possibilidades:
+
+
+
+
+      I.    para reafirmar alguns dos sentidos do texto que está sendo citado;
+
+
+
+
+     II.    para inverter, contestar e deformar alguns dos sentidos do texto citado;
+
+
+
+
+     III.   para confirmar ou dar sustentação ao que está sendo afirmado no texto principal.
+
+
+
+      A     intertextualidade        pode    acontecer        de    forma   implícita,   quando       o   leitor   depende   de    seu
+
+    conhecimento            de    mundo      para    identificar     a   referência,     ou   de    forma    explícita,   quando    se
+
+    identifica claramente a autoria do outro texto citado.
+
+
+
+    Note,       então,      que    muitas      vezes     as      relações      intertextuais,      para   serem     percebidas     ou
+
+    compreendidas, dependem do conhecimento prévio do leitor sobre manifestações culturais em
+
+    geral (literatura, música, televisão). Por isso as relações intertextuais implícitas são mais difíceis
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    45/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    de serem identificadas (mas não impossíveis!). Com os exercícios e bastante treino, você vai se
+
+    acostumando...
+
+
+
+    Vejamos alguns tipos de intertextualidade:
+
+
+
+
+    Citação:
+    É a reprodução do discurso de outra pessoa. Deve ser marcada no texto com aspas e com
+
+    indicação da autoria.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+
+     De acordo com a OMS, a qualidade de vida pode ser definida como “a percepção do indivíduo
+
+     de sua inserção na vida, no contexto da cultura e sistemas de valores nos quais ele vive e em
+
+     relação     aos   seus    objetivos,     expectativas,      padrões     e      preocupações”.   Esse   conceito   é
+
+     extremamente complexo e está relacionado com aspectos físicos, psicológicos, sociais, entre
+
+     outros.
+
+
+
+        Se, nos Estados Unidos, este núcleo para alguns está relativamente consolidado, entre nós,
+
+     ele ainda aparece como um projeto em construção, como um desafio, como aponta Pacheco
+
+     (2003:70): "Uma delimitação da área que contemple a confluência entre políticas públicas e
+
+     análise organizacional pode contribuir para a constituição da administração pública como área
+
+     de pesquisa e conhecimento".
+
+
+
+
+    Observe que, no primeiro exemplo, o texto apresenta uma definição dada pela OMS e, por isso,
+
+    foi colocada entre aspas. Já no segundo trecho, temos a menção aos estudos de uma pessoa,
+
+    por isso da necessidade das aspas.
+
+
+
+
+    Epígrafe
+    Constitui uma citação curta de uma frase célebre, famosa.
+
+
+
+    O que a diferencia da citação? Sua posição no texto: pode ser colocada em uma página isolada,
+
+    no início da obra ou destacada no início de um capítulo.
+
+
+
+    Tem a função, em geral, de anunciar o que será discutido ou contado ou ainda de resumir a
+
+    temática do capítulo/obra que se inicia.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                      46/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+     Se o dinheiro for a sua esperança de independência, você jamais a terá. A única segurança
+
+     verdadeira consiste numa reserva de sabedoria, de experiência e de competência.
+
+
+
+     Henry Ford
+
+
+
+     Alguns homens veem as coisas como são, e                    dizem ‘Por     quê?’ Eu    sonho com as coisas que
+
+     nunca foram e digo ‘Por que não?
+
+
+
+     George Bernard Shaw
+
+
+
+     A persistência é o menor caminho do êxito.
+
+
+
+     Charles Chaplin
+
+
+
+
+    Referência ou Alusão
+    É um tipo de citação indireta, de forma bastante vaga ou sem a indicação.
+
+
+
+    Como       depende       muito    do    conhecimento         de    mundo        do   leitor,   pode   ser   uma   das
+
+    intertextualidades mais difíceis de ser percebida.
+
+
+
+    Vejamos o exemplo:
+
+
+
+
+     - Ganhou uma promoção no trabalho? Parabéns!!
+
+
+
+     - É... foi uma promoção com aumento de serviço e sem muita compensação no salário...
+
+
+
+     - Nossa! Que presente de grego hein?!
+
+
+
+     A expressão “presente de grego” se refere à história da guerra de Troia, em que os gregos
+
+     deram de presente aos troianos um cavalo de madeira, como símbolo de trégua. O cavalo, na
+
+     verdade, estava cheio de soldados gregos, que, à noite, massacraram os troianos dormindo e
+
+     abriram os portões da cidade para a entrada do exército grego.
+
+
+
+
+    Paródia
+    Talvez uma das formas de intertextualidade mais utilizada no meio cultural. É a criação de um
+
+    texto a partir de outro, com finalidade humorística, irônica.
+
+
+
+    A paródia pode ser tanto com textos verbais :
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                       47/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+     A Canção do Exílio                         Canção do Exílio às Avessas
+
+
+
+     Gonçalves Dias                             Jô Soares
+
+
+
+     Minha terra tem palmeiras                  Minha Dinda tem cascatas
+
+
+
+     Onde canta o sabiá;                        Onde canta o curió
+
+
+
+     As aves que aqui gorjeiam,                 Não permita Deus que eu tenha
+
+
+
+     Não gorjeiam como lá.                      De voltar pra Maceió.
+
+
+
+     Nosso céu tem mais estrelas,               Minha Dinda tem coqueiros
+
+
+
+     Nossas várzeas têm mais flores,            Da Ilha de Marajó
+
+
+
+     Nossos bosques têm mais vida,              As aves, aqui, gorjeiam
+
+
+
+     Nossa vida mais amores.                    Não fazem cocoricó.
+
+
+
+     Em cismar, sozinho, à noite                O meu céu tem mais estrelas
+
+
+
+     Mais prazer encontro eu lá;                Minha várzea tem mais cores.
+
+
+
+     Minha terra tem palmeiras,                 Este bosque reduzido
+
+
+
+     Onde canta o sabiá.                        deve ter custado horrores.
+
+
+
+     Minha terra tem primores,                  E depois de tanta planta,
+
+
+
+     Que tais não encontro eu cá;               Orquídea, fruta e cipó,
+
+
+
+     Em cismar - sozinho, à noite -             Não permita Deus que eu tenha
+
+
+
+     Mais prazer encontro eu lá;                De voltar pra Maceió.
+
+
+
+     Minha terra tem palmeiras,                 Minha Dinda tem piscina,
+
+
+
+     Onde canta o sabiá.                        Heliporto e tem jardim
+
+
+
+     Não permita Deus que eu morra,             feito pela Brasil's Garden:
+
+
+
+     Sem que eu volte para lá;                  Não foram pagos por mim.
+
+
+
+     Sem que desfrute os primores               Em cismar sozinho à noite
+
+
+
+     Que não encontro por cá;                   sem gravata e paletó
+
+
+
+     Sem qu'inda aviste as palmeiras            Olho aquelas cachoeiras
+
+
+
+     Onde canta o sabiá.                        Onde canta o curió.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                     48/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+                                                No meio daquelas plantas
+
+
+
+                                                Eu jamais me sinto só.
+
+
+
+                                                Não permita Deus que eu tenha
+
+
+
+                                                De voltar pra Maceió.
+
+
+
+                                                Pois no meu jardim tem lagos
+
+
+
+                                                Onde canta o curió
+
+
+
+                                                E as aves que lá gorjeiam
+
+
+
+                                                São tão pobres que dão dó.
+
+
+
+                                                Minha Dinda tem primores
+
+
+
+                                                De floresta tropical.
+
+
+
+                                                Tudo ali foi transplantado,
+
+
+
+                                                Nem parece natural.
+
+
+
+                                                Olho a jabuticabeira
+
+
+
+                                                dos tempos da minha avó.
+
+
+
+                                                Não permita Deus que eu tenha
+
+
+
+                                                De voltar pra Maceió.
+
+
+
+                                                Até os lagos das carpas
+
+
+
+                                                São de água mineral.
+
+
+
+                                                Da janela do meu quarto
+
+
+
+                                                Redescubro o Pantanal.
+
+
+
+                                                Também adoro as palmeiras
+
+
+
+                                                Onde canta o curió.
+
+
+
+                                                Não permita Deus que eu tenha
+
+
+
+                                                De voltar pra Maceió.
+
+
+
+                                                Finalmente, aqui na Dinda,
+
+
+
+                                                Sou tratado a pão-de-ló.
+
+
+
+                                                Só faltava envolver tudo
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                     49/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+                                                Numa nuvem de ouro em pó.
+
+
+
+                                                E depois de ser cuidado
+
+
+
+                                                Pelo PC, com xodó,
+
+
+
+                                                Não permita Deus que eu tenha
+
+
+    Mas também pode ser feita com textos não verbais:
+                                   De acabar no xilindró.
+
+
+
+
+    A Última Ceia de Leonardo Da Vinci
+
+
+
+
+                        Cachorro com chapéu na cabeça Descrição gerada automaticamente
+
+
+     Moça com o Brinco de Pérola, de Johannes Vermeer
+
+
+
+
+    Paráfrase
+    É   a   reescrita    de   um   texto    com    outras    palavras.   Nessa      reescritura,   não   há   a   finalidade
+
+    humorística, mas preservar e confirmar os sentidos e a ideologia do texto original.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          50/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Vejamos um exemplo:
+
+
+
+
+     Texto original:
+
+
+
+     Frida Kahlo contraiu poliomielite quando era criança. Uma sequela deixada pela situação foi
+
+     uma lesão em seu pé esquerdo. A partir desse acontecimento, a pintora ganhou o apelido de
+
+     “Frida perna de       pau”.    Diante   dessa situação,      a artista proclamou      uma de   suas   frases   mais
+
+     famosas: “Pés, pra que te quero, se tenho asas para voar?”.
+
+
+
+     Paráfrase:
+
+
+
+     Frida Kahlo, com ironia, devido às sequelas deixadas pela poliomielite, desdenha da presença
+
+     dos pés, uma vez que, em sua uma opinião (que, inclusive, ficou famosa), ela tem algo mais
+
+     especial: asas, elementos mágicos do mesmo teor surrealista que suas obras.
+
+
+
+     São   características     da    paráfrase:   uso    de   sinônimos,     troca   da   ordem   das   informações   e
+
+     elementos resumidores.
+
+
+
+
+    Tradução:
+    É a reprodução de um texto de um idioma para outro.
+
+
+
+    Vejamos um exemplo:
+
+
+
+
+     No original:
+
+
+
+     For many people who work as tour guides, showing people around a new city involves a little
+
+     bit of getting off the beaten track. But when there is no track at all, you just have to blaze one
+
+     yourself.
+
+
+
+     Tradução:
+
+
+
+     Para muitas pessoas que trabalham como guia turístico, mostrar às pessoas uma nova cidade
+
+     envolve sair um pouco fora do caminho. Mas quando não há caminho, você tem apenas que
+
+     trilhar um por si mesmo.
+
+
+
+
+    Vamos fazer um exercício de intertextualidade para ficar mais claro para você?
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                      51/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+         #VamosPraticar#
+
+
+
+         (PREF. SÃO BERNARDO DO CAMPO-SP / Professor / 2023)
+
+
+
+
+              Por longo tempo, jovem demais, estranhei a visão de felicidade que prevalecia em
+
+         nossa cultura, a recorrência da noção de uma felicidade efêmera, momento fugidio que
+
+         mal faz estremecer a dor contínua. “A tristeza é senhora”, cantava João Gilberto, e eu
+
+         cantava junto tentando acompanhar                 seu   ritmo impossível, mas acompanhando menos
+
+         ainda o sentimento. Creio ter sido esta a primeira metáfora que admirei na vida, e a
+
+         primeira que descartei como imprecisa: “A felicidade é como a gota de orvalho numa
+
+         pétala de flor. Brilha tranquila, depois de leve oscila, e cai como uma lágrima de amor.”
+
+         Essa mesma lágrima, essa lágrima de orvalho e de amor, não seria, pelo contrário, a
+
+         mais linda expressão da tristeza, ela sim breve e lírica?
+
+
+
+                                           (Julian Fuks. Em: www.uol.com.br/ecoa, 05.11.2022. Adaptado)
+
+
+
+         Nas práticas de leitura em sala de aula, passagens como “‘A tristeza é senhora’, cantava
+
+         João Gilberto...” e “A felicidade é como a gota de orvalho numa pétala de flor. Brilha
+
+         tranquila, depois de leve oscila, e cai como uma lágrima de amor.” são propícias para a
+
+         abordagem da
+
+
+
+         A) intertextualidade, reconhecendo-se que, em novos contextos, elas sustentam novos
+
+         sentidos pretendidos pelo autor do texto.
+
+
+
+         B) ambiguidade, reconhecendo-se               que, em     letras de   canções, elas exploram          sentidos
+
+         fugidios e de difícil compreensão.
+
+
+
+         C)   dialogia,   reconhecendo-se         que,   na   inserção    em    um   texto   novo,    elas    passam   a
+
+         significar o contrário de seu sentido original.
+
+
+
+         D)   oralidade,    reconhecendo-se         que,    como     expressão      da   cultura   popular,   elas   são
+
+         carregadas de marcas da linguagem informal.
+
+
+
+         E)   coerência,     reconhecendo-se         que,     como   expressões      cristalizadas    em     linguagem
+
+         poética, independem de sentido contextual.
+
+
+
+         Comentários:
+
+
+
+
+         Note que os exemplos do enunciado (“A tristeza é senhora” e “A felicidade é como a
+
+         gota de orvalho numa pétala de flor. Brilha tranquila, depois de leve oscila, e cai como
+
+         uma lágrima de amor.” ) são citações direta de textos consagrados. Como a citação é um
+
+         tipo de intertextualidade, a melhor alternativa que explica essa ocorrência é a letra A.
+
+
+
+         Portanto, gabarito Letra A.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          52/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+         #VamosPraticar#
+
+
+
+
+   5.5 Questões Comentadas
+
+
+
+
+     Questões Comentadas
+    #VamosPraticar#
+
+
+
+
+    1. (IFPR / Professor / 2023)
+                                                 Violência e culpa Natalia
+
+
+
+
+                                                                                                Pasternak
+
+
+
+
+         Disponível em: https://oglobo.globo.com/blogs/a-hora-da-ciencia/post/2023/03/violencia-e-
+
+                                                                                    culpa.ghtml. Adaptado.
+
+
+
+    No que diz respeito aos elementos coesivos do texto, assinale a alternativa correta.
+
+
+
+    A) “que” (linha 8) refere-se a “gente” (linha 8).
+
+
+
+    B) “que” (linha 13) refere-se a “as mulheres” (linha 13).
+
+
+
+    C) “que” (linha 16) refere-se a “os mesmos critérios de exclusão” (linha 16).
+
+
+
+    D) “que” (linha 18) refere-se a “transtorno delirante” (linha 17).
+
+
+
+    E) “que” (linha 22) refere-se a “o jaleco e o microscópio” (linhas 21-22).
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                        53/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Comentários:
+
+
+
+    Vejamos as alternativas:
+
+
+
+    (A) CERTA . Lembre-se que os referentes do pronome relativo geralmente estão próximos a ele,
+
+    como nesse caso (imediatamente antes).
+
+
+
+    (B) ERRADA. "que" nesse caso é uma conjunção integrante, que dá início ao complemento do
+
+    verbo "acreditar ".
+
+
+
+    (C) ERRADA. "que" nesse caso é uma conjunção integrante, que dá início ao complemento do
+
+    verbo "exigiram".
+
+
+
+    (D) ERRADA. "que", nesse caso, se refere a "diagnóstico de personalidade autodestrutiva".
+
+
+
+    (E) ERRADA. "que", nesse caso, se refere a "ideias".
+
+
+
+    Portanto, Gabarito Letra A.
+
+
+
+
+    2. (PREF. SÃO ROMÃO-MG / Professor / 2023)
+    Considere o trecho “Assim, estar em contato com um esporte ou atividade física regular nos
+
+    traz bons resultados – físicos e psicológicos – e também nos conecta com o mundo e com a
+
+    gente     mesmo.     Isso   acaba    se     tornando   um    caminho      para    alinhar   seus   objetivos   ao   seu
+
+    planejamento do cotidiano.”
+
+
+
+    Analise    as   afirmativas   a   seguir,   tendo   em    vista   a   estrutura   morfossintática   e   semântica   do
+
+    referido trecho.
+
+
+
+    I - Os dois usos do pronome “nos” comprovam que esse pronome pode exercer tanto a função
+
+    de objeto direto como de objeto indireto a depender da regência dos verbos.
+
+
+
+    II - A próclise no trecho “e também nos conecta” é facultativa e poderia ser substituída, com
+
+    igual correção, pela ênclise.
+
+
+
+    III - O termo “Assim” está funcionando como o elemento de coesão e insere no trecho uma
+
+    ideia de conclusão.
+
+
+
+    IV - O    pronome      “isso” funciona como um            termo anafórico,        uma vez   que    retoma o que     foi
+
+    referido anteriormente.
+
+
+
+    V - Os travessões poderiam ser substituídos por vírgulas ou parênteses com igual correção, sem
+
+    que houvesse alteração de sentido do trecho.
+
+
+
+    Estão CORRETAS as alternativas
+
+
+
+    A) II, III e IV, apenas.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                         54/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    B) I, III, IV e V, apenas.
+
+
+
+    C) I, III e V, apenas.
+
+
+
+    D) II, IV e V, apenas.
+
+
+
+    E) I, II, III, IV e V.
+
+
+
+    Comentários:
+
+
+
+    Vejamos os itens:
+
+
+
+    I - (V) Em "Assim, estar em contato com um esporte ou atividade física regular nos traz bons", o
+
+    pronome “nos” exerce função de objeto indireto e em "e também nos conecta com o mundo e
+
+    com a gente mesmo.",          exerce a função de objeto direto.
+
+
+
+    II - (F) "Também" é um advérbio, o que atrai o pronome e não permite a facultatividade pela
+
+    ênclise.
+
+
+
+    III - (V) O termo “Assim” tem tradicionalmente ideia conclusão.
+
+
+
+    IV - (V) O pronome resumitivo “isso” é, de fato, anafórico.
+
+
+
+    V - (V)    Os travessões têm         função explicativa e, por             isso as vírgulas ou       parênteses teriam      a
+
+    mesma função.
+
+
+
+    Portanto, Gabarito Letra B.
+
+
+
+
+    3.(PREF. SÃO BERNARDO DO CAMPO-SP / Professor /
+    2023)
+                                                       Um rato na rede
+
+
+
+          Transcrevo um encontro com um rato, ocorrido numa aldeia dos nativos Apinayé, nos anos
+
+    60.
+
+
+
+          “Insone, senti um tremor nas cordas da rede. Com a lanterna, vi um rato saindo dos meus
+
+    pés. O velhaco me olhou, passou velozmente pelo punho da rede e entrou na palha do telhado.
+
+    Sentado, examinei         trêmulo    cada dedo.      Foi     um exercício        de   ioga ver   o   meu   pé; no   esforço,
+
+    derrubei     a lanterna.    Conformado,       vi   no   dedão    do       pé   direito   um   arranhão   sangrento.   Era o
+
+    presente do rato de merda que fez meu dedão de queijo...
+
+
+
+          Eu volto desconfiado para a rede, só que nela entro com um pé calçado de meias e botas.
+
+    Numa     das    mãos,    empunho     a   lanterna;      na   outra,   o   revólver.      Cubro-me    parcialmente     com   o
+
+    lençol e espero atento pelo rato.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                               55/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+         Esmiúço com a lanterna o teto e ouço apenas as batidas do meu coração. O rato sumiu e no
+
+    seu lugar sinto minha perna direita ficar dormente. Tenho a certeza de que estou envenenado.
+
+    Pulo   da    rede,   abro      minha   caixa     de   primeiros       socorros,    tiro   dela   um   bisturi    (para   casos     de
+
+    emergências)         e   me    preparo     para   cortar    o    dedo     no    local   da    mordida     para    que    o    sangue
+
+    renovado      expulse      o   veneno.     Agarro     meu   próprio       pé,    dobro    a   perna   direita    sobre    o   joelho
+
+    esquerdo, meço com cautela o lugar onde farei a incisão que vi muitas vezes no cinema os
+
+    mocinhos fazendo em si próprios sem o menor problema, derramo na “área” a ser cortada o
+
+    mercúrio cromo, que escorre pelo pé, mas quando encosto no dedo a lâmina fria, falta-me a
+
+    coragem,      o   tutano,      a   força   dos   verdadeiros         heróis.    Contento-me      em      fazer   um    bom     e   útil
+
+    curativo.
+
+
+
+         Afinal, justifico, os ratos do sertão não são venenosos como os seus irmãos urbanos. Desisto
+
+    da caçada do roedor por incompetência e da autocirurgia por covardia.
+
+
+
+         Deprimido, desfaço-me do aparato de cirurgião e, insone e com medo da volta do rato, volto
+
+    ao balanço da rede onde acabo dormindo com saudade de tempos normais.”
+
+
+
+                                   (Roberto DaMatta. Em: https://www.estadao.com.br/, 02.11.2022. Adaptado)
+
+
+
+    O   texto    de   Roberto      DaMatta      começa      com      a   frase     “Transcrevo     um   encontro      com     um    rato,
+
+    ocorrido numa aldeia dos nativos Apinayé, nos anos 60.”
+
+
+
+    Com base em Koch & Elias (2011), a expressão destacada é um recurso de coesão textual que
+
+    funciona no texto como
+
+
+
+    A) uma anáfora indireta.
+
+
+
+    B) um rótulo prospectivo.
+
+
+
+    C) uma anáfora associativa.
+
+
+
+    D) um contraste adversativo.
+
+
+
+    E) uma expressão nominal definida.
+
+
+
+    Comentários:
+
+
+
+    Note que "um encontro" se refere ao evento específico que será mencionado na frase ("com
+
+    um    rato   na   aldeia      dos   nativos   Apinayé      nos   anos     60".).   Nesse      sentido,   temos    um     elemento
+
+    catafórico, que          antecipa uma informação - o que                  exclui   as alternativas A e           C e    confirma a
+
+    "prospecção" da Letra B. Além disso, o artigo indefinido "um", ao contrário do que traz a Letra E,
+
+    remete a uma não definição.
+
+
+
+    Portanto, Gabarito Letra B.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                         56/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    4. (PREF. SÃO BERNARDO DO CAMPO-SP / Professor /
+    2023)
+
+
+
+
+    Com base em Koch & Elias (2011), as formas “Eu”, “hoje”, “aqui” e “Agora” são elementos textuais
+
+
+    denominados
+
+
+
+    A) dêiticos.
+
+
+
+    B) anafóricos.
+
+
+
+    C) catafóricos.
+
+
+
+    D) expressões indiciais.
+
+
+
+    E) operadores argumentativos..
+
+
+
+    Comentários:
+
+
+
+    Lembre-se que temos como "eu", "hoje" e "aqui" são chamados dêiticos. Elementos coesivos
+
+    dêiticos    são   aqueles    que   estabelecem       uma    relação    de   referência   em   relação   ao   contexto
+
+    situacional, ou seja, eles dependem do contexto físico, temporal ou espacial para terem seu
+
+    significado completo.
+
+
+
+    Portanto, Gabarito Letra A.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                       57/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    5.(PREF. SÃO BERNARDO DO CAMPO-SP / Professor /
+    2023)
+           Conheço      infantes   que    falam   o   que   não   devem,    porque      dizem   a   verdade.   Crianças      e
+
+    bêbados, já foi escrito, possuem estranho compromisso com o verídico.
+
+
+
+          Anos atrás, uma amiga decidiu carregar um pouco na tradição familiar. Ela me disse que
+
+    acabava de retornar “da fazenda” do pai. A filha que nos escutava (tinha algo como 10 anos)
+
+    quase gritou: “Fazenda, mãe? Aquilo não é nem sítio!”. Menina inconveniente, desagradável,
+
+    pouco educada e, como descobri depois, mais exata na descrição da propriedade rural. Era
+
+    mais uma casinha cercada de árvores singelas do que um latifúndio.
+
+
+
+          A pessoa que abre a boca de forma inconveniente, revelando contradições e trazendo à luz
+
+    inconsistências, pode ser um … boquirroto. Também empregamos o termo para designar quem
+
+    não guarda segredo. Quando o objeto da indiscrição não somos nós, nada mais divertido do
+
+    que esse ser. Funciona como a criança do conto A Roupa Nova do Rei (de Hans Andersen): diz
+
+    o que todos viam e tinham medo de trazer a público. O indiscreto libera demônios coletivos
+
+    reprimidos pelo medo e pela inconveniência.
+
+
+
+         Aprendi muito cedo que a liberdade de expressão, quando anunciada, é um risco. Aprendi
+
+    que    o   cuidado     deve    ser    redobrado     diante    do   convite      à   sinceridade.   Existem    barreiras
+
+    intransponíveis,      pontos    cegos,   muralhas       impenetráveis     no    mundo    humano.    Uma      delas   é   a
+
+    situação em que uma pergunta envolve uma crença fundamental da pessoa.
+
+
+
+        Minha iluminada amiga e meu onisciente amigo: invejo-os. Se vocês dizem o que querem, na
+
+    hora que desejam, vocês têm uma ou todas as seguintes características: riqueza extrema, poder
+
+    político enorme, tamanho físico intimidador, equipe de segurança numerosa, total estabilidade
+
+    afetiva, autonomia diante            do mundo, saúde       plena e    coragem épica.        Sem nenhuma das oito
+
+    características anteriores, eu, humilde mortal, prometo, lacanianamente, dizer-lhes a verdade
+
+    que vocês estão preparados para ouvir. Da mesma forma, direi a minha verdade: limitada, cheia
+
+    de impurezas e concepções equivocadas, ou seja, a que eu estou preparado para enunciar. O
+
+    demônio é o pai da mentira, porque ele não é onipotente. A verdade total pertence a Deus.
+
+    Nós? Adeus e alguma esperança...
+
+
+
+                                     (Leandro Karnal, O boquirroto. Diário da Região, 19.06.2022. Adaptado)
+
+
+
+     Assinale a alternativa em que o termo destacado no enunciado retoma informação anterior.
+
+
+
+    A) Ela me disse que acabava de retornar “da fazenda ” do pai.
+
+
+
+    B) Adeus e alguma esperança.
+
+
+
+    C) A verdade total pertence a Deus .
+
+
+
+    D) ... (tinha algo como 10 anos) ...
+
+
+
+    E) Minha iluminada amiga e meu onisciente amigo: invejo-os .
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                            58/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    Comentários:
+
+
+
+    Vejamos as alternativas:
+
+
+
+    (A) ERRADA. "fazenda" não faz referência a informação anterior.
+
+
+
+    (B) ERRADA. "alguma" é um pronome indefinido, que não faz referência a informação anterior.
+
+
+
+    (C) ERRADA. "Deus" não faz referência a informação anterior.
+
+
+
+    (D) ERRADA. "algo" é um termo indefinido, que não faz referência a informação anterior.
+
+
+
+    (E) CERTA . O pronome oblíquo "os" tem a função de substituir termo já mencionado " Minha
+
+    iluminada amiga e meu onisciente amigo".
+
+
+
+    Portanto, Gabarito Letra E.
+
+
+
+
+    9. (IFPR / Professor / 2023)
+    Como apontado por Fávero (1983) com base nos estudos de Halliday e Hasan (1976), “a coesão
+
+    textual,    isto   é,   as   concatenações        frásicas    lineares,    depende   de   cinco   categorias   de
+
+    procedimento: referência, substituição, elipse, conjunção e léxico”. A referência diz respeito aos
+
+    itens da língua que se relacionam a outros elementos necessários à sua interpretação.
+
+
+
+                                        FÁVERO, L. Coesão e coerência textual. 2.ed. São Paulo: Ática, 1983.
+
+
+
+     Está correto o exemplo vinculado à categoria indicada entre parênteses o que vemos em:
+
+
+
+    A) É um ambiente em que os usuários encontram tudo o que precisam – amigos, informações,
+
+    empregos e diversão. (referencial anafórica)
+
+
+
+    B) “Há três coisas que não podem ser escondidas por muito tempo: o sol, a lua e a verdade”.
+
+    (referencial de reiteração)
+
+
+
+    C) Lula esteve na Rússia no final do mês passado. O presidente fez a viagem ao país com o
+
+    avião presidencial. (referencial de elipse)
+
+
+
+    D) Eles só escolheram bandas ruins. A programação está péssima. (referencial exofórica)
+
+
+
+    E) O americano Mark Zuckerberg é o homem mais poderoso da internet. Há alguns dias, ele
+
+    mudou as regras da sua rede social. (referencial catafórica).
+
+
+
+    Comentários:
+
+
+
+    Vejamos as alternativas:
+
+
+
+    (A) ERRADA. "Tudo" é um termo resumitivo que, nessa oração, tem função catafórica.
+
+
+
+    (B) ERRADA. Não há reiteração, mas sim referencial catafórico ("três coisas").
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                   59/69
+                     5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+    (C) ERRADA. Aqui não há elipse, mas referencial por substituição ("Lula" - "presidente")
+
+
+
+    (D)    CERTA .       a   expressão     "Eles"   faz   referência    a   um   grupo      genérico,        que   provavelmente              é
+
+    conhecido pelo enunciador e seu ouvinte, o que caracteriza uma referência exofórica.
+
+
+
+    (E) ERRADA. Aqui não há elipse, mas referencial por substituição ("Mark Zuckerberg " - "ele").
+
+
+
+    Portanto, Gabarito Letra D.
+
+
+
+    #VamosPraticar#
+
+
+
+
+      Questão          4001285059                    2022   Fundação Aroeira   Prefeitura de Luziânia (GO)   Professor l (Pref Luziânia/GO)
+
+
+      AULA DE PORTUGUÊS
+
+
+
+
+      A linguagem
+
+
+      Na ponta da língua,
+
+
+      Tão fácil de falar
+
+
+      E de entender.
+
+
+
+
+      A linguagem
+
+
+      Na superfície estrelada de letras,
+
+
+      Sabe lá o que ela quer dizer?
+
+
+
+
+      Professor Carlos Góis, ele é quem sabe,
+
+
+      E vai desmatando
+
+
+      O amazonas de minha ignorância.
+
+
+      Figuras de gramática, esquipáticas,
+
+
+      Atropelam-me, aturdem-me, sequestram-me.
+
+
+
+
+      Já esqueci a língua em que comia,
+
+
+      Em que pedia para ir lá fora,
+
+
+      Em que levava e dava pontapé,
+
+
+      A língua, breve língua entrecortada
+
+
+      Do namoro com a prima.
+
+
+
+
+      O português são dois; o outro, mistério.
+
+
+
+
+      Fonte: ANDRADE, Carlos Drummond de. Boitempo II. Rio de Janeiro: Record, 1999.
+
+
+
+
+      No verso "sabe lá o que ela quer dizer", o pronome pessoal de terceira pessoa, em destaque, é um elemento de coesão que
+
+
+      retoma um termo anteriormente expresso. Marque a alternativa que apresenta esse termo.
+
+
+
+      A)   Língua.
+
+
+
+      B)   Superfície.
+
+
+
+      C)   Linguagem.
+
+
+
+      D)   Letras.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                             60/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)     Linguagem.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Retomando o trecho completo, temos que " A linguagem Na superfície estrelada de letras, Sabe lá o que ela quer
+
+
+           dizer? ".
+
+
+
+
+           Note que o questionamento (e, consequentemente, o pronome) se refere à "Linguagem", elemento inicial do período.
+
+
+           Portanto, Gabarito Letra C.
+
+
+
+
+                                                                     2023     FGV      Tribunal de Justiça do Estado do Rio Grande do Norte
+      Questão           4001371354
+                                                                  Analista Judiciário – Tecnologia da Informação - Análise de Sistemas (TJ RN)
+
+      A frase abaixo que mostra ambiguidade em função de NÃO se poder distinguir agente e paciente, é:
+
+
+
+      A)    O chefe encontrou o funcionário em seu gabinete;
+
+
+
+      B)    A criação da instituição demorou mais do que se esperava;
+
+
+
+      C)    João e Maria se casaram ontem;
+
+
+
+      D)    Encontrei o assaltante andando pela rua;
+
+
+
+      E)    Chamar os bombeiros já ficou na moda.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)     A criação da instituição demorou mais do que se esperava;
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A única alternativa que há ambiguidade entre agente e paciente é a B: não fica claro quem está realizando a ação de
+
+
+           criar a instituição e quem está aguardando que a criação ocorra. A construção "mais do que se esperava" não
+
+
+           especifica se o atraso é em relação às expectativas do agente ou do paciente da ação.
+
+
+
+
+           Portanto, Gabarito Letra B.
+
+
+
+
+                                                                     2023     FGV      Tribunal de Justiça do Estado do Rio Grande do Norte
+      Questão           4001371353
+                                                                  Analista Judiciário – Tecnologia da Informação - Análise de Sistemas (TJ RN)
+
+      Entre as opções abaixo há um termo destacado cujo referente se encontra após a sua enunciação, exemplificando o que se
+
+
+      chama de “catáfora”; a opção em que isso ocorre, é:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                61/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+      A)    Todos aqueles que os citam são admiradores dos ministros;
+
+
+
+      B)    O quadro, ele foi adquirido ontem;
+
+
+
+      C)    Choveu muito e isso não surpreende mais;
+
+
+
+      D)    Não vi o buraco onde caíram os óculos;
+
+
+
+      E)    A semana em que ele chegou foi no início do mês.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)   Todos aqueles que os citam são admiradores dos ministros;
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A única alternativa que faz referência a um elemento catafórico é a Letra A: nessa frase, o pronome oblíquo "os" faz
+
+
+           referência aos "ministros", que são mencionados posteriormente na sentença.
+
+
+
+
+           Todos as demais alternativas referem-se a anáforas. Portanto, Gabarito Letra A.
+
+
+
+
+                                                          2023   Instituto ibest   Conselho Regional de Farmácia do Estado de Santa Catarina
+      Questão         4001393973
+                                                                                                                         Advogado (CRF SC)
+
+
+
+
+      Internet: <https://mooc.campusvirtual.fiocruz.br> (com adaptações).
+
+
+
+
+      Assinale a alternativa em que a proposta de substituição para vocábulo ou expressão destacados do texto é gramaticalmente
+
+
+      correta e coerente com as ideias do texto.
+
+
+
+      A)    “limitava-se à” (linha 6) por restringia - se da
+
+
+
+      B)     1.   “dotadas de” (linha 9) por embora fossem providas com
+
+
+
+      C)    “Dessa forma” (linha 17) por Assim
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              62/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+      D)     “com destaque para” (linha 19) por destacando
+
+
+
+      E)     “é composta por” (linha 25) por compõem-se de
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)    “Dessa forma” (linha 17) por Assim
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A coesão por substituição é uma forma bastante comum e feita por sinônimos.
+
+
+
+
+           Dentre as alternativas, a única que possui uma alteração que mantém a coerência e a gramaticalidade do texto é a
+
+
+           Letra C: "Dessa forma" e "Assim" possuem um sentido similar de indicar a consequência ou resultado das informações
+
+
+           apresentadas anteriormente.
+
+
+
+
+           Vejamos o erro das demais alternativas:
+
+
+
+           A letra A está incorreta.
+
+
+           A regência de "restringia" está errada;
+
+
+
+
+           A letra B está incorreta.
+
+
+           A conjunção "embora" altera o sentido original;
+
+
+
+
+           A letra C está correta.
+
+
+           Gabarito Letra C.
+
+
+
+
+           A letra D está incorreta.
+
+
+           O uso do gerúndio causa ambiguidade no texto;
+
+
+
+
+           A letra E está incorreta.
+
+
+           A flexão no plural de "compõem" traz uma incorreção para a frase.
+
+
+
+
+                                                           2023   Instituto ibest   Conselho Regional de Farmácia do Estado de Santa Catarina
+      Questão          4001393866
+                                                                                                                          Advogado (CRF SC)
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                               63/69
+                    5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+      Internet: <https://mooc.campusvirtual.fiocruz.br> (com adaptações).
+
+
+
+
+       Pelas relações coesivas do texto, é correto afirmar que
+
+
+
+      A)    a palavra desenvolvimentista está subentendida após o vocábulo “setor” (linha 9).
+
+
+
+      B)    o vocábulo “sua” (linha 12) está empregado em referência a “indústria farmacêutica nacional” (linha 11).
+
+
+
+      C)    o termo “o” (linha 16), em “o que não permitia”, retoma o elemento mais próximo — “dependência externa”.
+
+
+
+      D)    o vocábulo “que” (linha 20), em “que propuseram”, poderia ser substituído, com correção gramatical, por os quais.
+
+
+
+      E)    o vocábulo “Contudo” (linha 27) introduz período que expressa sentido conclusivo em relação ao exposto anteriormente,
+
+
+            podendo ser substituído por Por isso tudo.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)   o vocábulo “sua” (linha 12) está empregado em referência a “indústria farmacêutica nacional” (linha 11).
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos as alternativas:
+
+
+
+           A letra A está incorreta.
+
+
+           ERRADA . Está subentendido o termo "farmacêutico".
+
+
+
+
+           A letra B está correta.
+
+
+           CERTA.
+
+
+
+
+           Portanto, Gabarito Letra B.
+
+
+
+
+           A letra C está incorreta.
+
+
+           ERRADA . "O" é pronome demonstrativo nessa estrutura.
+
+
+
+
+           A letra D está incorreta.
+
+
+           ERRADA . A substituição incorre em erro de regência
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                   64/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+           A letra E está incorreta.
+
+
+           ERRADA. "Contudo" tem sentido adversativo, e não conclusivo.
+
+
+
+
+                                                                         2022      FGV   Secretaria de Estado de Administração do Amapá
+      Questão           4001238461
+                                                                Professor de Educação Básica e Profissional - Língua Portuguesa (SEAD AP)
+
+      Muitas frases omitem conectores. Assinale a frase em que o conector explicitado é adequado ao contexto.
+
+
+
+      A)    A abolição é a aurora da liberdade; emancipado o preto, resta emancipar o branco / A abolição é a aurora da
+
+
+            liberdade; (depois de) emancipado o preto, resta emancipar o branco.
+
+
+
+      B)    Penso que o homem gordo não faz revolução. O abdome é naturalmente amigo da ordem; o estômago pode destruir
+
+
+            um império, mas há de ser antes do jantar / Penso que o homem gordo não faz revolução, porém o abdome é
+
+
+            naturalmente amigo da ordem; o estômago pode destruir um império, mas há de ser antes do jantar.
+
+
+
+      C)    A descrença é fenômeno alheio à vontade do eleitor; a abstenção é propósito / A descrença é fenômeno alheio
+
+
+            à vontade do eleitor à medida que a abstenção é propósito.
+
+
+
+      D)    Pensar enlouquece. Pense nisso / Pensar enlouquece, mesmo que pense nisso.
+
+
+
+      E)    Software é a parte que você xinga... Hardware é a parte que você chuta / Software é a parte que você xinga
+
+
+            embora hardware seja a parte que você chuta.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)
+
+
+       A abolição é a aurora da liberdade; emancipado o preto, resta emancipar o branco / A abolição é a aurora da
+
+
+       liberdade; (depois de) emancipado o preto, resta emancipar o branco.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vamos à avaliação da solução em cada alternativa.
+
+
+
+           A letra A está correta.
+
+
+           a abolição é a aurora da liberdade; emancipado o preto, resta emancipar o branco". Na oração reduzida de gerúndio,
+
+
+           há uma ideia de sucessão: 1º emancipa-se o preto, depois o branco. Por isso o conectivo "depois de" cabe na
+
+
+           estrutura.
+
+
+
+
+           Gabarito Letra A.
+
+
+
+
+           A letra B está incorreta.
+
+
+           O conectivo "porém" altera o sentido original;
+
+
+
+
+           A letra C está incorreta.
+
+
+           "à medida que" tem sentido de proporcionalidade;
+
+
+
+
+           A letra D está incorreta.
+
+
+           "mesmo que", adversativo, não cabe na sequência da oração;
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                           65/69
+                    5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+           A letra E está incorreta.
+
+
+           o contraponto da oração não pode ser construído por "embora".
+
+
+
+
+                                                                                                             2023     CESPE (CEBRASPE)
+      Questão          4001474735                            Agência Estadual de Regulação de Serviços Públicos Delegados de Mato Grosso
+                                                                                        Analista Administrativo - Administração (AGER MT)
+
+      Texto CB1A1-I
+
+
+
+
+      Ouvir é um sentido e uma das ações humanas mais básicas e elementares na comunicação. Essa ação é bastante relevante
+
+      quando se trata de responsividade e prestação de contas no âmbito da gestão pública. Na discussão sobre o modelo ideal de
+
+      ouvidoria pública, a transparência, a autonomia e a promoção da participação e do controle social são centrais. Assim, para
+
+      que as ouvidorias públicas cumpram seu papel no fortalecimento da democracia participativa e no aperfeiçoamento da gestão
+
+      pública, é fundamental que os ouvidores exerçam suas atribuições com autonomia e independência.
+
+
+
+
+      O desenvolvimento das estruturas burocráticas do Estado gerou a necessidade de proteção de direitos dos cidadãos contra
+
+      usos e abusos do poder público. A inexistência de controle efetivo e de penalidades aplicáveis aos serviços públicos
+
+      enfraquece os ideais democráticos, limitando a influência dos cidadãos no funcionamento e na fiscalização das instituições
+
+      do Estado e os expondo aos riscos potenciais da burocracia. Portanto, a autonomia das ouvidorias públicas está relacionada
+
+      ao provimento de estruturas que possibilitem a prestação de contas à sociedade, com o objetivo de expor os erros
+
+      governamentais e ativar o funcionamento das agências horizontais. Dessa forma, a ouvidoria tem o papel não de se contrapor
+
+      ao órgão ou à entidade na defesa do cidadão, mas de garantir que a demanda da cidadania seja considerada e tratada, à luz
+
+      das garantias constitucionais e legais, atuando no sentido de recomendar adequações necessárias ao efetivo funcionamento
+
+      da administração pública.
+
+
+
+
+      Michelle Vieira Fernandez et alii. Ouvidoria como instrumento de participação, controle e avaliação de políticas públicas
+
+      de saúde no Brasil. Physis: Revista de Saúde Coletiva, n.º 31, 2021 (com adaptações).
+
+
+
+
+      Mantendo-se as relações coesivas estabelecidas no segundo parágrafo do texto CB1A1-I, a expressão “Dessa forma”
+
+      (último período) poderia ser corretamente substituída por
+
+
+
+
+      A)    Sobretudo.
+
+
+
+      B)    Logo.
+
+
+
+      C)    Entretanto.
+
+
+
+      D)    Além disso.
+
+
+
+      E)    Pois.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)   Logo.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                           66/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+      Comentário do professor:
+
+
+
+
+           A coesão por substituição é uma forma bastante comum e feita por sinônimos. "Dessa forma" tem sentido conclusivo,
+
+
+           da mesma forma que "Logo.
+
+
+
+
+           "Sobretudo" (A) traz sentido de ênfase, "entretanto" (C), adversativo; "além disso" (D) é conectivo aditivo; e "pois" (E)
+
+           pode remeter a sentido explicativo.
+
+
+
+
+           Portanto, Gabarito Letra B.
+
+
+
+
+      Questão         4001414561     2023      FCC   Ministério Público do Estado da Paraíba   Técnico Ministerial - Sem Especialidade (MP PB)
+
+
+      Leia o conto “Casos de baleias”, de Carlos Drummond de Andrade, para responder à questão.
+
+
+
+
+      A baleia telegrafou ao superintendente da Pesca, queixando-se de que estava sendo caçada demais, e a continuar assim sua
+
+
+      espécie desapareceria com prejuízo geral do meio ambiente e dos usuários.
+
+
+
+
+      O superintendente, em ofício, respondeu à baleia que não podia fazer nada senão recomendar que de duas baleias uma fosse
+
+
+      poupada, e esta ganhasse número de registro para identificar-se.
+
+
+
+
+      Em face dessa resolução, todas as baleias providenciaram registro, e o obtiveram pela maneira como se obtêm essas coisas, à
+
+
+      margem dos regulamentos. O mar ficou coalhado de números, que rabeavam alegremente, e o esguicho dos cetáceos,
+
+
+      formando verdadeiros festivais no alto oceano, dava ideia de imenso jardim explodindo em repuxos, dourados de sol, ou
+
+
+      prateados de lua.
+
+
+
+
+      Um inspetor da Superintendência, intrigado com o fato de que ninguém mais conseguia caçar baleia, pôs-se a examinar os
+
+
+      livros e verificou que havia infinidade de números repetidos. Cancelou-se o registro, e os funcionários responsáveis pela
+
+
+      fraude, jogados ao mar, foram devorados pelas baleias, que passaram a ser caçadas indiscriminadamente. A recomendação
+
+
+      internacional para suspender a caça por tempo indeterminado só alcançará duas baleias vivas, escondidas e fantasiadas de
+
+
+      rochedo, no litoral do Espírito Santo.
+
+
+
+
+      (ANDRADE, Carlos Drummond de. Contos plausíveis . São Paulo: Companhia das Letras, 2012)
+
+
+
+
+      Retoma um termo mencionado anteriormente no texto a palavra sublinhada no seguinte trecho:
+
+
+
+      A)    e o obtiveram pela maneira como se obtêm essas coisas (3º parágrafo).
+
+
+
+      B)    e a continuar assim sua espécie desapareceria (1º parágrafo).
+
+
+
+      C)    e o esguicho dos cetáceos [...] dava ideia de imenso jardim (3º parágrafo).
+
+
+
+      D)    Cancelou-se o registro (4º parágrafo).
+
+
+
+      E)    Um inspetor da Superintendência [...] pôs-se a examinar os livros (4º parágrafo).
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                67/69
+                   5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)      e o obtiveram pela maneira como se obtêm essas coisas (3º parágrafo).
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Nessa questão, para retomar elemento anterior no texto, é necessário que seja um pronome oblíquo.
+
+
+
+
+           Em (D) e (C), "o" é artigo definido; (E) e (B) "a", preposição; e (A) "o", pronome oblíquo.
+
+
+
+
+           Portanto, Gabarito Letra A.
+
+
+
+
+      Questão           4001320912     2022    FCM - Fundação CEFETMINAS      Instituto Federal de Brasília   Bibliotecário Documentarista (IFB)
+
+
+      Alguns autores consideram constituírem a coesão e a coerência níveis diferentes de análise. A propósito dos conceitos de
+
+
+      coesão e de coerência, NÃO é correto afirmar que a
+
+
+
+      A)    coerência deve ser buscada unicamente na sucessão linear dos enunciados.
+
+
+
+      B)    coesão não é condição nem suficiente nem necessária para formar um texto.
+
+
+
+      C)    ausência da coesão nos textos pode ocorrer e, nesse caso, a textualidade se dá ao nível da coerência.
+
+
+
+      D)    coesão se refere aos modos como os componentes do universo textual estão ligados entre si dentro de uma sequência.
+
+
+
+      E)    coerência depende do contexto pragmático no qual o texto está inserido, isto é, escritor, leitor, lugar e tempo do
+
+
+            discurso.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)      coerência deve ser buscada unicamente na sucessão linear dos enunciados.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A única alternativa errada sobre a coerência é a Letra A: a coerência não se restringe apenas à sucessão linear dos
+
+
+           enunciados em um texto. Ela envolve a organização e conexão de ideias de forma lógica e significativa, considerando
+
+
+           o contexto, as relações de causa e efeito, a progressão temática, entre outros elementos.
+
+
+
+
+           A coerência não se limita à ordenação linear dos enunciados, mas sim à sua consistência e compreensibilidade global.
+
+
+
+
+           Portanto, Gabarito Letra A.
+
+
+
+
+   Referências e links deste capítulo
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                  68/69
+                 5. Coesão e coerência textual. Relações coesivas referência, substituição, elipse, repetição.
+
+
+
+
+         1 https://www.gov.br/inss/pt-br/centrais-de-conteudo/publicacoes/cartilhas-e-folders/pep-
+
+
+         cartilha-aprendendo-previdencia-social-compressed-pdf/view
+
+
+
+
+         2 https://www.tjmg.jus.br/portal-tjmg/noticias/minas-gerais-aumenta-em-11-o-numero-de-
+
+
+         processos-julgados.htm#
+
+
+
+
+         3 https://g1.globo.com/sp/sao-paulo/noticia/2022/01/27/cidade-de-sp-tem-um-roubo-a-cada-
+
+
+         quatro-minutos-em-2021-diz-levantamento-da-ssp.ghtml
+
+
+
+
+         4 http://www.homortadela.com.br
+
+
+
+
+         5 http://www.uol.com.br/ecoa
+
+
+
+
+         6 https://oglobo.globo.com/blogs/a-hora-da-ciencia/post/2023/03/violencia-e-culpa.ghtml
+
+
+
+
+         7 https://www.estadao.com.br/
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                     69/69
+

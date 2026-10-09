@@ -1,0 +1,5499 @@
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+   Linguística para Câmara dos Deputados
+   (Analista Legislativo - Registro e Redação)
+   Prof. Patricia Manzato
+
+
+
+
+   1 Fundamentos da Linguística. Concepções de gramática; tipos
+
+   de gramática. Teoria do signo linguístico.Linguagem, língua e
+
+   fala.
+
+   Documento última vez atualizado em 07/10/2026 às 20:20.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                   1/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+           1.1   Noções Iniciais 1.1 Noções Iniciais .............................................................................................                 3
+
+
+
+
+           1.2   Linguística ....................................................................................................................................... 3
+
+
+
+
+           1.3   Linguagem x Língua x Fala ....................................................................................................... 12
+
+
+
+
+           1.4    Níveis linguísticos .......................................................................................................................     17
+
+
+
+
+           1.5   Língua e Diversidade ................................................................................................................. 23
+
+
+
+
+           1.6    Tipos de Gramáticas .................................................................................................................          27
+
+
+
+
+           1.7   Questões Comentadas .............................................................................................................. 34
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                    2/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+   1.1 Noções Iniciais 1.1 Noções Iniciais
+
+
+
+
+     Noções Iniciais
+    Fala, pessoal!
+
+
+
+    Estamos iniciando uma aula que traz noções gerais sobre uma ciência que está por traz de todo
+
+    o trabalho de quem lida com textos: a Linguística.
+
+
+
+    A preocupação, e até mesmo curiosidade, com a linguagem sempre fez parte da história da
+
+    humanidade, quer ela seja contada do ponto de vista religioso, quer do histórico-científico. A
+
+    partir do momento em que o homem passou a viver em sociedade, com seus semelhantes, a
+
+    língua teve um papel aglutinador, pois é o código que permitia a comunicação entre todos os
+
+    seres da comunidade.
+
+
+
+    Trataremos de assuntos que englobam conceitos de Língua, Linguagem, Fala, adentrando em
+
+    aspectos de níveis de linguagem.
+
+
+
+    Passearemos rapidamente            pela Sociolinguística, com         o intuito de     entender   melhor     a relação
+
+    entre unidade e diversidade da língua e, por fim, entender a evolução do sistema da língua até
+
+    chegarmos a um conglomerado de regras, a gramática.
+
+
+
+    Esses são, com certeza, os principais pontos que você vai precisar saber para a sua prova em
+
+    relação aos Fundamentos da Linguística.
+
+
+
+    Pois   bem,    vamos     nos   aprofundar     no   assunto    e   resolver      questões   recentes   para   que   você
+
+    consiga consolidar esse assunto e acertar as questões em sua prova.
+
+
+
+    Vem comigo!
+
+
+
+    Grande abraço e ótimos estudos!
+
+
+
+
+    Profª Patrícia Manzato
+
+
+
+   1.2 Linguística
+
+
+
+
+     Linguística
+    A Linguística é uma ciência que trabalha com conhecimentos que já possuímos, ou de noções
+
+    sobre as quais já estudamos e que parecem ser de fácil apreensão, quais sejam linguagem e
+
+    língua.
+
+
+
+    O conhecimento técnico da Linguística se assemelha a algumas noções que já possuímos:
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                             3/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    ✔ Normas sociais da fala;
+    ✔ Diferença entre uma língua e outros sistemas de comunicação;
+    ✔ Sistematização da língua.
+    Ela se ocupa com questões que provavelmente não incomodariam o usuário comum da língua,
+
+    como é o caso dos estudos de evolução da língua (português a partir do latim, por exemplo) ou
+
+    ainda como a capacidade dalinguagem evoluiu na espécie humana.
+
+
+
+    Assim, são preocupações da Linguística:
+
+
+
+    ✔ como a língua se estrutura genericamente;
+    ✔ análises morfossintáticas e de estrutura interna;
+    ✔ como um falante sai de um estado em que virtualmente não conhece sua língua materna
+    (porque é bebê, por exemplo) e passa ao estado em que domina as estruturas de sua língua;
+
+
+
+    ✔ como adquirimos e desenvolvemos conhecimentos linguísticos.
+    Em termos cronológicos, até o século XIX , predominavam os trabalhos linguísticos que visavam
+
+    à    comparação         entre    diferentes     línguas,   ao   longo     da   história.     Assim,   eram    objetivos     desses
+
+    estudos:
+
+
+
+    ✔ tentativas de agrupamentos de línguas em famílias;
+    ✔ descoberta de relações entre as línguas;
+    ✔ reconstituição da língua primitiva.
+    Os estudos não foram muito para frente, principalmente devido à influência religiosa no mundo
+
+    ocidental: essa influência impunha a hipótese de que o hebraico era a língua fonte de todas as
+
+    demais línguas, porque era a língua do Novo Testamento.
+
+
+
+    Mas hoje sabemos que essa hipótese não era correta:
+
+
+
+
+     A língua protoindo-europeia (PIE) é o ancestral comum hipotético das línguas indo- europeias,
+
+     tal    como     era    falado    há    cerca    de   5000      anos,     pelos      indo-europeus,        provavelmente         nas
+
+     proximidades do mar Negro, cuja denominação original era Ponto Euxino.
+
+
+
+     A     hipótese   foi   construída      pelos    linguistas     a   partir   do     início   do   século   XIX.,    por   meio   da
+
+     observação das similaridades e diferenças sistemáticas das línguas indo-europeias .
+
+
+
+
+    Assim,     foi    efetivamente      a   partir   do   século        XX   que   os    estudos      linguísticos     ganham   maior
+
+    destaque e importância, inclusive por meio de seus grandes representantes, começando por
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                          4/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    Ferdinand Saussure.
+
+
+
+    Antes de falarmos sobre os principais nomes da Linguística, vamos entender uma dicotomia que
+
+    funda os estudos linguísticos:
+
+
+
+
+     Diacronia x Sincronia
+
+
+    Para compreender e caminhar pelos estudos linguísticos, precisamos olhar com cuidado para
+
+    esses dois conceitos dicotômicos.
+
+
+
+    A partir dos linguistas estruturalistas (início do século XX), começaram a postular que estudar
+
+    uma     língua   não   significava   apenas     perceber     sua   evolução     no   tempo,   mas   sim   as   relações
+
+    internas que estabelece num dado momento do tempo.
+
+
+
+    O postulado acima traz em sua essência exatamente a diferença entre sincronia e diacronia:
+
+
+
+             Diacronia se refere ao estudo cronológico, no eixo da sucessividade, em uma
+
+
+             determinada linha evolutiva no tempo.
+
+
+
+
+             Sincronia se refere ao estudo voltado para dentro da língua, no eixo da simultaneidade ,
+
+
+             como uma observação dos fatos linguísticos coexistentes em um mesmo sistema.
+
+
+
+    Veja que essa dicotomia expande os estudos linguísticos que, até o século XIX, estavam focados
+
+    em uma perspectiva evolutivo, ou seja, diacrônica.
+
+
+
+    Dessa forma, entenda que a perspectiva sincrônica olha para o funcionamento da língua em um
+
+    dado momento, para uma análise mais minuciosa de sua estrutura.
+
+
+
+    Exemplo:
+
+
+
+    Análise do fenômeno da concordância nominal no português contemporâneo. Em vez de se
+
+    dizer   “os   meninos     escolhidos”,    há   uma    tendência     em    determinadas    camadas     da   sociedade
+
+    brasileira de, na situação de fala, produzir “os menino escolhido”, em que a marca de plural
+
+    aparece apenas no artigo e é omitida nas outras classes de palavras.
+
+
+
+    Essa análise é feita dentro da língua, em sua estrutura, em período de tempo fechado. Logo, é
+
+    uma análise sincrônica.
+
+
+
+    Saussure, em sua obra, para explicar a perspectiva sincrônica, utiliza a metáfora do jogo de
+
+    xadrez:
+
+
+
+
+     Em uma partida de xadrez, as diferentes peças do jogo mudam de lugar a cada lance, mas, em
+
+     cada um desses lances, a disposição do jogo pode ser inteiramente descrita a partir da posição
+
+     em que se encontra cada uma das peças.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                             5/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+     Pelas    regras    do   jogo,   em    dado      momento,    pouco       importa     saber   sobre   os   lances    jogados
+
+     anteriormente, em que ordem eles se sucederam e, menos ainda, conhecer as transformações
+
+     por que passaram as regras desse jogo ao longo de sua existência.
+
+
+
+     A mesma coisa acontece com as línguas: elas sofrem modificações constantemente, mas um
+
+     linguista pode optar por mostrar o estado em que elas se encontram em dado momento.
+
+
+
+
+    Entendidos esses conceitos, podemos passar aos principais linguistas desse ramo da ciência:
+
+
+
+
+     Principais linguistas
+
+
+    Trago aqui os principais linguistas que praticamente construíram essa ciência. Seus conceitos e
+
+    princípios ainda são utilizados até hoje e por isso precisamos olhar com                             um   pouco mais de
+
+    cuidado para suas obras:
+
+
+
+
+    Ferdinand de Saussure (1916)
+
+
+    Segundo o linguista de Genebra, a língua não se confunde com a linguagem; é somente uma
+
+    parte determinada e essencial dela.
+
+
+
+    É,   ao   mesmo      tempo,      um   produto      social   da   faculdade      de    linguagem      e   um   conjunto   de
+
+    convenções necessárias, adotadas pelo corpo social para permitir o exercício dessa faculdade
+
+    nos indivíduos.
+
+
+
+    Assim, ele entende que a linguagem é multiforme e heteróclita; a língua, ao contrário, é um
+
+    todo por si e um princípio de classificação, é a parte social da linguagem, exterior ao indivíduo.
+
+
+
+    Uma contribuição de Saussure para os estudos de linguagem é sua definição de signo. Para ele,
+
+    o signo linguístico corresponde à união entre um significado e um significante .
+
+
+
+    Saussure afirmava que o signo linguístico une um conceito e uma imagem acústica.
+
+
+
+    Tanto conceito (ideia) quanto imagem acústica (grupo sonoro) são elementos psíquicos e estão
+
+    unidos, em nosso cérebro, por um vínculo de associação.
+
+
+
+    Saussure também propôs duas duas características primordiais para os signos:
+
+
+
+    ✔    Arbitrariedade:
+
+
+
+
+    A    relação   de   associação        que   se   estabelece      entre    significante   e   significado      é   totalmente
+
+    imotivada.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                  6/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    Observe-se que a associação entre línguas diferentes é uma prova dessa arbitrariedade: não há
+
+    qualquer      relação válida entre       “árvore”, em      português, “tree”, em          inglês. Isso é   exatamente       o
+
+    caráter arbitrário do signo.
+
+
+
+    ✔   Caráter linear do significante
+
+
+
+    Isso significa dizer que, por ser de natureza auditiva, o significante tem uma extensão no tempo,
+
+    isto   é,   não   se    pronunciam,     ao    mesmo       tempo,    dois   sons   diferentes.     Se   observarmos        uma
+
+    sequência discursiva, uma frase, veremos que nela as palavras estão dispostas uma em seguida
+
+    da outra, não havendo possibilidade de produção simultânea de palavras distintas.
+
+
+
+    Por    fim,   a   última     contribuição    que    traremos   aqui      de   Saussure    é   a   noção   de   sintagma     e
+
+    paradigma. De cara, sintagma e paradigma são movimentos da linguagem.
+
+
+
+    Em uma frase....
+
+
+
+    - os elementos linguísticos estão dispostos em uma sequência (frase)
+
+
+
+    => relação sintagmática
+
+
+
+    - quando um adjetivo se relaciona com o substantivo e tem como consequência a flexão (de
+
+    gênero ou número)
+
+
+
+    => relação sintagmática
+
+
+
+    Portanto....
+
+
+
+    O sintagma é um conjunto de elementos dispostos lado a lado que conservam relações muito
+
+    estreitas     entre     si    e   é   constituído    de    signos     linguísticos    dispostos        sobre   o   eixo    da
+
+    horizontalidade .
+
+
+
+    Como eles são regidos pelo princípio da linearidade, os termos devem vir uns atrás dos outros
+
+    em uma sequência linear (não se fala duas palavras ao mesmo tempo).
+
+
+
+    PORÉM....
+
+
+
+    Quando se observa a relação dos elementos linguísticos com outros que poderiam ocupar as
+
+    mesmas posições que eles ocupam na sequência em que se manifestam, diz-se que cada um
+
+    dos elementos mantém entre si uma relação paradigmática.
+
+
+
+    Estamos aqui no eixo da verticalidade .
+
+
+
+    Em uma frase...
+
+
+
+    - no    lugar     de   “o   bom   garoto”,   poderíamos     falar   ou   escrever    “o   bom     estudante” ou    “o     bom
+
+    velhinho”
+
+
+
+    => relação paradigmática
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                   7/59
+                     1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+      Questão             4001902579        2024    IDHTEC    Câmara Municipal de Itapissuma (PE)   Redatora de Ata (CM Itapissuma/PE)
+
+
+      Qual a diferença entre enunciado e enunciação? Assinale a alternativa correta.
+
+
+
+      A)    Enunciado é o discurso concreto, enquanto a enunciação é o processo individual de produção desse discurso e sua
+
+
+            utilização.
+
+
+
+      B)    Enunciado e enunciação são termos intercambiáveis e podem ser utilizados como sinônimos.
+
+
+
+      C)    O enunciado é o resultado da linguagem escrita, enquanto a enunciação está relacionada à linguagem oral.
+
+
+
+      D)    Enunciado é o discurso subjetivo, enquanto a enunciação é o processo social de produção desse discurso e sua
+
+
+            utilização.
+
+
+
+      E)    Enunciado é o discurso imaginário, enquanto a enunciação é o processo individual de produção desse discurso e sua
+
+
+            utilização.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)
+
+
+       Enunciado é o discurso concreto, enquanto a enunciação é o processo individual de produção desse discurso e sua
+
+
+       utilização.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Questão direta, mas minuciosa.
+
+
+
+
+           Enunciado é o ato concreto de fala.
+
+
+
+
+           Enunciação é o processo em si, que leva em consideração os aspectos comunicativos de fala.
+
+
+
+
+           Portanto, Gabarito Letra A.
+
+
+
+
+    Mikhail Bakhtin (1929)
+
+
+    Bakhtin afirmava que a verdadeira substância da língua é constituída pelo fenômeno social da
+
+    interação verbal.
+
+
+
+    Ele defendia que a língua vive e evolui historicamente na comunicação verbal concreta, não no
+
+    sistema linguístico abstrato das formas da língua nem no psiquismo individual dos falantes.
+
+
+
+    É ele um dos precursores da Teoria da Enunciação.
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                        8/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    A Teoria da Enunciação tem o russo M. Bakhtin como seu precursor, sendo impulsionada pelo
+
+    francês E. Benveniste.
+
+
+
+    A Teoria defende que é preciso levar em conta a enunciação – ou seja, o evento único de
+
+    produção do enunciado – ao mesmo tempo que se preocupa com                                                            outras questões. Aqui, o
+
+    importante           são        as     condições          de     produção:        tempo,           lugar,     papéis         representados           pelos
+
+    interlocutores, imagens recíprocas, relações sociais, objetivos da interlocução.
+
+
+
+    A      concepção          de      linguagem        desenvolvida            por   Bakhtin          parte     de     crítica     às   principais      linhas
+
+    teóricas da linguística moderna, que consideram a linguagem um sistema abstrato de formas.
+
+
+
+    Para ele, o estudo da linguagem é complexo e deve levar em consideração o contexto social.
+
+
+
+    É Bakhtin também que funda o conceito de dialogismo, utilizado até hoje nos Ciências Humanas
+
+    e na Psicologia Social.
+
+
+
+    Bakhtin considera a interação verbal como categoria essencial da concepção de linguagem,
+
+    tendo um caráter puramente dialógico. Lembre-se: “toda enunciação é um diálogo”.
+
+
+
+    Assim,       não         podemos          pensar        tal    conceito        sem        trazer      a    importância          que      a      alteridade
+
+    (preocupação com o outro”) tem para esse conceito.
+
+
+
+
+      Questão            4001902576                    2024       IDHTEC     Câmara Municipal de Itapissuma (PE)         Redatora de Ata (CM Itapissuma/PE)
+
+
+      Na teoria da linguagem, especialmente no contexto do dialogismo, qual termo refere-se à presença de vozes múltiplas e
+
+
+      distintas dentro de um texto, contribuindo para a complexidade e diversidade enunciativa? Assinale a alternativa correta.
+
+
+
+      A)    Polissíndeto
+
+
+
+      B)    Políptoto
+
+
+
+      C)    Polissêmico
+
+
+
+      D)    Polidialogicidade
+
+
+
+      E)    Polifonia
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: E)      Polifonia
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Quando,      na   Teoria   de   Bakhtin,   nos   referimos   ao   dialogismo   e   às   múltiplas   vozes   presentes   no   discurso,   falamos
+
+           claramente em “polifonia”.
+
+
+
+
+           Polissêmico é a possibilidade de uma situação comunicativa ter mais de um sentido.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                9/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+           Polissíndeto são os conectivos que ligam as orações coordenadas.
+
+
+
+
+           Políptoto e polidialogicidade não se referem à Linguística.
+
+
+
+
+           Portanto, Gabarito Letra E.
+
+
+
+
+      Questão            4001902576                    2024     IDHTEC       Câmara Municipal de Itapissuma (PE)         Redatora de Ata (CM Itapissuma/PE)
+
+
+      Na teoria da linguagem, especialmente no contexto do dialogismo, qual termo refere-se à presença de vozes múltiplas e
+
+
+      distintas dentro de um texto, contribuindo para a complexidade e diversidade enunciativa? Assinale a alternativa correta.
+
+
+
+      A)    Polissíndeto
+
+
+
+      B)    Políptoto
+
+
+
+      C)    Polissêmico
+
+
+
+      D)    Polidialogicidade
+
+
+
+      E)    Polifonia
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: E)      Polifonia
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Quando,      na   Teoria   de   Bakhtin,   nos   referimos   ao   dialogismo   e   às   múltiplas   vozes   presentes   no   discurso,   falamos
+
+           claramente em “polifonia”.
+
+
+
+
+           Polissêmico é a possibilidade de uma situação comunicativa ter mais de um sentido.
+
+
+
+
+           Polissíndeto são os conectivos que ligam as orações coordenadas.
+
+
+
+
+           Políptoto e polidialogicidade não se referem à Linguística.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                             10/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+         Portanto, Gabarito Letra E.
+
+
+
+
+    Edward Sapir (1929)
+
+
+    Segundo      o   autor,    a    linguagem       é    um   método       puramente     humano          e   não   instintivo      de   se
+
+    comunicarem ideias, emoções e desejos por meio de símbolos voluntariamente produzidos.
+
+
+
+    Para    Sapir,   o   conceito          de    linguagem     perpassa      a   representação           que    uma        determinada
+
+    comunidade faz de sua cultura, através dos símbolos que utiliza.
+
+
+
+    A língua é, portanto, uma categorização simbólica organizada.
+
+
+
+    Sapir defende a hipótese de que nós recortamos a natureza, a organizamos em conceitos e
+
+    atribuímo-lhes       significações          porque   convencionamos          culturalmente       organizá-la           dessa   forma.
+
+    Essa    convenção       faz     parte   de    um     contrato    que    se   mantém    através       de     nossa       comunidade
+
+    linguística e está codificado nos padrões de nossa língua.
+
+
+
+    Sapir faz parte da corrente que chamamos de “relativismo linguístico”, que acreditava que toda
+
+    e   qualquer     categorização          do    mundo       descenderia        diretamente    das          línguas   faladas      pelos
+
+    indivíduos, sem considerar contextos ou até mesmo uma estrutura pré-existente.
+
+
+
+
+    Noam Chomsky (1957)
+
+
+    Para ele, a linguagem é um componente da mente/cérebro humanos especificamente dedicada
+
+    ao conhecimento e uso da língua. A faculdade da linguagem é o órgão da linguagem. A língua é
+
+    então um estado dessa faculdade.
+
+
+
+    A visão que ele tem da linguagem é bastante diferente dos demais: linguagem é um conjunto
+
+    (finito ou infinito) de sentenças. Cada sentença é finita em seu comprimento e construída a
+
+    partir de um conjunto finito de elementos. Essa já era uma perspectiva do século XVII, com
+
+    Alexander von Humboldt.
+
+
+
+    A   propriedade       de       infinitude     discreta    da    linguagem      é   comparável            àquela    dos    números
+
+    naturais,ou       seja,    elementos           discretos        (símbolos      oponíveis        entre       si)        combinam-se
+
+    produzindotodas as possibilidades de números existentes.
+
+
+
+    Foi ele quem desenvolveu a Teoria da Gramática Gerativa.
+
+
+
+    Chomsky       acredita     que     o   conhecimento       da    linguagem      é   individual    e   interno       à   mente    e   ao
+
+    cérebro humanos. Por isso, a criança não precisa aprender as propriedades da língua a que está
+
+    exposta, apenas seleciona opções específicas de um conjunto pré-determinado.
+
+
+
+    A teoria da linguagem dessa criança é a gramática de sua língua.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                        11/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+    Carlos Franchi (1977)
+
+
+    Toda a teoria do brasileiro se baseia no postulado de que “a língua é atividade constitutiva”.
+
+
+
+    Sua noção de linguagem que extrapola os limites estruturais, comunicativos e cognitivos dentro
+
+    dos quais a língua havia sido pensada. Para ele e Marcuschi, a língua é muito mais do que uma
+
+    simples mediadora do conhecimento e muito mais do que um instrumento de comunicação ou
+
+    um modo de interação humana.
+
+
+
+    Por isso que ele dizem que a língua é constitutiva de nosso conhecimento.
+
+
+
+    Como atividade constitutiva, a linguagem é incontornável e imprescindível das relações e ações
+
+    humanas, fazendo parte de nossa natureza e ativamente modelando nossa comunicação, nosso
+
+    pensamento, nossa interação.
+
+
+
+
+   1.3 Linguagem x Língua x Fala
+
+
+
+
+     Linguagem x Língua x Fala
+    Os estudos sobre Linguagem trazem enorme complexidade, por isso, ao longo das décadas,
+
+    muitos foram os linguistas que se debruçaram sobre esse conceito.
+
+
+
+    Assim, três conceitos são aceitos atualmente:
+
+
+
+
+     1.   Linguagem como representação
+
+
+
+
+    Entre as principais concepções da linguagem humana no curso da História, a primeira e mais
+
+    antiga delas interpreta a linguagem como expressão ou representação (“espelho”) do mundo e
+
+    do pensamento.
+
+
+
+    O ser humano, nessa concepção, representa para si o mundo por meio da linguagem.
+
+
+
+    Para essa vertente, um indivíduo que não pensasse, deixaria de se expressar bem, porque a
+
+    expressão deveria ser construída no interior da mente - a instância de produção.
+
+
+
+    Ou seja, a língua é rebaixada a um patamar secundário, útil apenas por exteriorizar, traduzir o
+
+    pensamento. Daí, a valorização das normas gramaticais do falar e do escrever “bem”.
+
+
+
+    Nessa perspectiva, a enunciação (a ação de enunciar) põe-se como ato individual, independente
+
+    do outro ou do contexto em que a enunciação ocorre.
+
+
+
+    É daqui, inclusive, que decorre a gramática tradicional ou normativa.
+
+
+
+
+     2.   Linguagem como instrumento de comunicação
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                    12/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    Nessa concepção, a função da linguagem é a de transmissão de informações.
+
+
+
+    Para isso, necessitamos da língua como código (conjunto de signos que se combinam segundo
+
+    regras) - dominado pelos falantes, usado de modo semelhante, convencionado, preestabelecido,
+
+    para garantir a eficácia daquela transmissão.
+
+
+
+    Assim, o sistema linguístico é externo à consciência do indivíduo.
+
+
+
+
+     3.   Linguagem como processo de inter-ação
+
+
+
+
+    Essa vertente considera que o indivíduo, ao fazer uso da língua, não exterioriza apenas o seu
+
+    pensamento, nem transmite somente informações; mais do que isso, realiza ações, age, atua,
+
+    orientado por determinada finalidade, sobre o outro.
+
+
+
+    A linguagem         passa a ser          vista como   lugar   de   interação,    inclusive     comunicativa,      a partir    da
+
+    produção,        construção         de    efeitos   de   sentido    entre   os    falantes,     em    certa      situação    de
+
+    comunicação e em um contexto específico.
+
+
+
+    Emerge a ideia de lugares sociais (imagens construídas socialmente) onde há a prática de atos
+
+    diversos, suscitando reações, comportamentos.
+
+
+
+    Assim,     o    diálogo     é   constituído      como    característica     decisiva   da      linguagem.      Tem-se       uma
+
+    perspectiva sedimentando o que se costuma chamar de gramática internalizada, conjunto de
+
+    regras     aprendido        e   usado       na   interação    comunicativa,        desenvolvendo           a   “competência
+
+    textual/discursiva”, isto é, a capacidade de produzir e interpretar textos.
+
+
+
+    Grandes        linguistas   brasileiros     encabeçam      essa    vertente,   como    é   o   caso   do   Dr.   Luiz   Carlos
+
+    Travaglia e da dra. Ingedore Koch.
+
+
+
+    Para a sua Banca:
+
+
+
+    A linguagem         humana      é   entendida como uma abstração, que                consiste     na capacidade         que   o
+
+    homem tem de se comunicar com seus semelhantes, por meio de signos verbais.
+
+
+
+    Por essa razão, a linguagem compreende fatores físicos, fisiológicos e psíquicos.
+
+
+
+
+          #VamosPraticar#
+
+
+
+
+          (PREF. PASSOS / Professor / 2023)
+          As concepções da linguagem estão listadas nas alternativas a seguir, à exceção de uma.
+
+          Assinale- a.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                  13/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+         A.   forma de representação
+
+
+
+
+         B.   forma de integração
+
+
+
+
+         C.   forma de intercompreensão
+
+
+
+
+         D.   forma de oposição.
+
+
+
+         Comentário:
+
+
+
+         Questão direta.
+
+
+
+         Para a Linguística, a linguagem pode ser entendida como forma de representação (A),
+
+         integração (B), intercompreensão ou inter-ação (C). Assim, não há em nenhum momento
+
+         a ideia de oposição.
+
+
+
+         Portanto, gabarito Letra D.
+
+
+
+
+         (PREF. CAPELA DE SANTANA / Professor / 2023)
+         Em relação às concepções de linguagem, analisar a sentença abaixo:
+
+
+
+         A linguagem é a expressão do pensamento, e essa concepção ilumina, basicamente, os
+
+         estudos    tradicionais    (1ª   parte).   Também     se   tem   que   a   linguagem   é   instrumento     de
+
+         comunicação, e essa concepção está ligada à teoria da comunicação e vê a língua como
+
+         código (conjunto de signos que se combinam segundo regras) capaz                           de transmitir   ao
+
+         receptor certa mensagem (2ª parte).
+
+
+
+         A sentença está:
+
+
+
+
+         A.   Totalmente correta.
+
+
+
+
+         B.   Correta somente em sua 1ª parte.
+
+
+
+
+         C.   Correta somente em sua 2ª parte.
+
+
+
+
+         D.   Totalmente incorreta.
+
+
+
+         Comentário:
+
+
+
+         Na 1ª. parte, é destacada a concepção de linguagem como expressão do pensamento, o
+
+         que remete aos estudos tradicionais da linguística. Essa perspectiva enfatiza a relação
+
+         entre a linguagem e o pensamento individual, considerando a expressão verbal como
+
+         uma manifestação direta dos processos mentais do falante.
+
+
+
+         Na 2ª. parte, é abordada a concepção de linguagem como instrumento de comunicação,
+
+         associada à teoria da comunicação. Nessa perspectiva, a linguagem é vista como um
+
+         sistema de signos que serve como código para transmitir mensagens entre emissor e
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                        14/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+         receptor. Essa visão destaca a função comunicativa da linguagem e sua capacidade de
+
+         possibilitar a interação entre os indivíduos.
+
+
+
+         Logo, ambas as partes da sentença estão corretas, abordando duas concepções distintas
+
+         de linguagem.
+
+
+
+         Portanto, gabarito Letra A.
+
+
+
+         #VamosPraticar#
+
+
+
+
+    Dois     conceitos      extremamente         operacionais       para      a   Linguística,   e    operacionalizados        por
+
+    Saussure, são os de língua e fala.
+
+
+
+
+    Língua
+
+
+    Corresponde ao próprio sistema de regras (fonológicas, morfológicas, sintáticas e semânticas)
+
+    que    determina       o   emprego    dos    sons,   das    formas        e   relações   sintáticas    necessárias      para   a
+
+    produção dos significados.
+
+
+
+    Ela existe na consciência de todo indivíduo que se comunica por meio de um código linguístico.
+
+
+
+    Como ela não é fruto da criação de um único indivíduo, mas sim de uma comunidade: a língua
+
+    é um conceito social .
+
+
+
+    Note que a língua é abstrata e coletiva, definida como um “código virtual ”. Essa, inclusive, é uma
+
+    visão formalista, que valoriza o seu funcionamento interno.
+
+
+
+    Exemplo:
+
+
+
+    A língua portuguesa é, para os brasileiros, um conjunto de regras e normas que possibilitam que
+
+    cada um dos habitantes deste país, o Brasil, possa valer-se dela para se comunicar com seus
+
+    pares.
+
+
+
+    Note que:
+
+
+
+    ✔ não há distinção entre alfabetizados e analfabetos;
+    ✔ a língua está internalizada em seu cérebro;
+    ✔ todo brasileiro é capaz de compreender um português e vice-versa;
+    ✔ Embora haja diferenças de sotaque entre as regiões, o sistema de língua é o mesmo.
+
+    Fala
+
+
+    Considerada        a   atualização    da   língua,   ou   seja,   é   a   parcela   concreta      e   individual   da   língua,
+
+    acionada     por   um      falante   em    cada   uma     das   situações      concretas     de   comunicação       a   que    é
+
+    exposto.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                  15/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    A característica essencial da fala é a liberdade de combinação. Mas, CUIDADO!!!
+
+
+
+    Embora se possa admitir que cada pessoa tenha um tom de voz diferente, uma maneira própria
+
+    de   articular    as   palavras,    pode-se     perceber     que    essas   características   não   são   totalmente
+
+    individuais, pois dependem do grupo a que o indivíduo pertence, à região em que ele vive.
+
+
+
+    Exemplo:
+
+
+
+    Um grupo de jovens de uma determinada faixa de idade se comunica por meio da repetição de
+
+    determinadas expressões fixas, as chamadas “gírias”.
+
+
+
+    Guardadas as devidas proporções, todos nós reproduzimos modos de falar próprios do grupo
+
+    social a que pertencemos e aos quais estamos constantemente em exposição.
+
+
+
+    Resumindo....
+
+
+
+
+         #VamosPraticar#
+
+
+
+
+         (PREF. TURILÂNDIA / Professor / 2024)
+         Ferdinand de saussure, em sua obra “curso de linguística geral” (1967), diz que a língua
+
+         não se confunde com a linguagem. Analise as alternativas e marque a resposta correta
+
+         acerca dos conceitos sobre língua e linguagem:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                      16/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+         A.    A    língua   é       um   produto      social    da       faculdade   da     linguagem,    um   conjunto       de
+
+               convenções necessárias adotadas pelo corpo social                             para permitir    a prática dessa
+
+               faculdade pelos indivíduos;
+
+
+
+
+         B.    A língua tem uma característica filosófica, é um sistema de signos que exprimem
+
+               ideias; é social, abstrata, psíquica e coletiva, é constituída por um código de regras e
+
+               estruturas que todo indivíduo assimila da comunidade de que faz parte;
+
+
+
+
+         C.    A língua não se fomenta como um repertório constituído pelas possibilidades que
+
+               são oferecidas aos seus utilizadores.
+
+
+
+
+         D.    A língua deixou de             ser, para Saussure, um             sistema de      signos, – um       conjunto de
+
+               unidades que se relacionam organizadamente dentro de um todo;
+
+
+
+
+          E.   A língua essencialmente é marcada pela característica individual, instável, dinâmica,
+
+               passageira,       efêmera.      É   o   modo     de    usar   a   língua   por   cada   indivíduo.    A   língua   é
+
+               heterogênea, física.
+
+
+
+         Comentário:
+
+
+
+         Para   Saussure,        a   língua   é    produção      social,     que   traz    elementos     estruturais     (normas
+
+         convencionadas) e elementos do meio em que é produzida. Já a linguagem é elemento
+
+         abstrato, intrínseco ao ser humano.
+
+
+
+         Portanto, gabarito Letra A.
+
+
+
+         #VamosPraticar#
+
+
+
+   1.4 Níveis linguísticos
+
+
+
+
+     Níveis linguísticos
+    Para se aprofundar mais no assunto, trago alguns conceitos-chave que irão ser de grande valia
+
+    na hora da prova.
+
+
+
+    Vamos a eles:
+
+
+
+
+     Linguagem formal x Informal
+
+
+    A   alternância     entre        o    registro     formal   e     o    informal   está      diretamente   ligada     à   situação
+
+    comunicativa.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     17/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+    Linguagem formal
+
+
+    Pautada pela “forma”, ou seja, por regras formais prescritas, sem desvios ou “erros” gramaticais.
+
+    São situações típicas da linguagem formal:
+
+
+
+    ➢ não há familiaridade entre os interlocutores da comunicação
+    ➢ situações requerem uma maior seriedade ou reverência: ambiente de trabalho, comunicação
+    com superiores hierárquicos ou pessoas prestigiadas pelo locutor.
+
+
+
+    ➢ discursos, aulas, seminários, dissertações de concurso público ou vestibular, documentos
+    oficias, requerimentos.
+
+
+
+    São características da linguagem formal:
+
+
+
+    ✔ utilização rigorosa da norma gramatical culta;
+    ✔ pronúncia clara e correta das palavras;
+    ✔ uso de vocabulário rico e diversificado;
+
+    ✔ linguagem mais objetiva com poucas expressões de sentido figurado (ditos populares);
+
+
+
+    Linguagem informal (coloquial)
+
+
+    Ao contrário da linguagem formal, é mais livre e despreocupada com regras rígidas.
+
+
+
+    São situações típicas da linguagem informal:
+
+
+
+    ➢ há familiaridade entre os interlocutores da comunicação
+    ➢ situações mais descontraídas, cotidianas.
+    São características da linguagem informal:
+
+
+
+    ✔ despreocupação com as normas gramaticais;
+    ✔ uso vocabulário simples, gírias, palavrões, neologismos, onomatopeias, expressões populares
+    e coloquialismos;
+
+
+
+    ✔ uso de palavras abreviadas ou contraídas: cê, pra, tá              .
+
+
+
+
+     Níveis de variação
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                   18/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    A   variação    pode    ocorrer     em    todos   os   níveis   da   língua.    No   entanto,   os   dois   níveis   mais
+
+    pronunciados da variação linguística são a pronúncia e o vocabulário.
+
+
+
+    Nível fonético: alterações na pronúncia e na troca de letras.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+    ➢ /r/ final de sílaba, pronunciado por um carioca (arranhado, como “roda”) e por uma pessoa do
+    interior de São Paulo (arredondado, como no inglês);
+
+
+
+    ➢ troca do /l/ pelo /r/: alto → arto;
+    ➢ Pronúncia dos infinitivos sem o /r/ final: casar → casá
+    vender → vendê,
+
+
+
+    rir → ri
+
+
+
+    ➢ Outras trocas possíveis:
+    também → tamén
+
+
+
+    flor → fulô
+
+
+
+    senhor → sinhô
+
+
+
+    mulher → muié
+
+
+
+    palhaço → paiaço
+
+
+
+    filho → fio
+
+
+
+    correndo, fazendo → correno e fazeno
+
+
+
+    Nível léxico: nomes diferentes para os mesmos elementos, de acordo com o estado ou região.
+
+    Por exemplo:
+
+
+
+    ✔ tangerina (sudeste) x mexerica (nordeste)
+    ✔ mandioca (sudeste) x aipim (sul) x macaxeira (nordeste);
+    ✔ pãozinho (sudeste) x cacetinho (sul);
+    ✔ garota (sudeste) x guria (sul);
+    ✔ criança (Brasil) x miúdo (Portugal).
+    Nível morfológico: o mais comum em Português é a conjugação de verbos irregulares como se
+
+    fossem regulares:
+
+
+
+    ✔ “ansio” no lugar de “anseio” e vice-versa;
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                           19/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    ✔ o modo subjuntivo do verbo “ver” conjugado como “ver” (segundo a gramática normativa o
+    correto seria “vir”);
+
+
+
+    ✔ “propor” no subjuntivo, quando a gramática prescreve a forma “propuser” (e todos os verbos
+    derivados de “pôr”).
+
+
+
+    Nível sintático: vejamos alguns exemplos práticos:
+
+
+
+    ➢ o português brasileiro, usa-se o gerúndio (“correndo”, “trabalhando”), enquanto em Portugal
+    ocorre a sintaxe “a correr”, “a trabalhar”.
+
+
+
+    ➢ A ausência de concordância: “os amigo dos amigo”, “os jogador fez gol”.
+    Esse    fenômeno      é   explicado     pela   Linguística:    ocorre    porque    a   língua     tende    a   eliminar   a
+
+    redundância: como a noção de plural já está contida no artigo “os”, não faria falta nos outros
+
+    termos da expressão nominal.
+
+
+
+    ➢ Gerundismo: o acréscimo do gerúndio a expressões que indicam futuro imediato ou próximo:
+    “vou    estar   fazendo”,     “vou   estar     encaminhando       sua   mensagem”,         “vou   estar    gerando    seu
+
+    protocolo”.
+
+
+
+    Esse fenômeno é considerado “vício de linguagem” pela variante culta, mas tem se dissipado
+
+    cada vez mais.
+
+
+
+
+     Tipos de variação
+
+
+    A   variação    linguística   pode    ocorrer    entre    regiões,   grupos     sociais,   situações      comunicativas,
+
+    dentre outros, por isso estamos diante de um fenômeno tão complexo.
+
+
+
+    Separei uma classificação que tem sido alvo de cobrança nas provas:
+
+
+
+             Variação regional (ou diatópica): decorrente da diversidade geográfica.
+
+
+
+
+             Vejamos alguns exemplos:
+
+
+
+    ➢ Fala dos “caipiras”: “arto”, no lugar de “alto”, ou de “mexerica” no lugar de “tangerina”.
+    ➢ Português falado no Brasil, em Portugal e em países africanos.
+
+             Variação histórica (ou diacrônica): reflete a evolução da língua ao longo do tempo.
+
+
+
+
+             Vejamos alguns exemplos:
+
+
+
+    ➢ Expressões antigas que caíram em desuso (arcaísmos): entonces, vosmecê
+    ➢ Expressões criadas recentemente (neologismos): tuitar, googlar.
+
+             Variação social (ou diastrática): deriva do uso particular da língua por grupos específicos
+
+
+             de pessoas.
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                             20/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+    ➢ Jargão profissional;
+    ➢ Gírias;
+
+             Variação situacional (ou diafásica): a língua se adapta para se adequar à situação
+
+
+             comunicativa em que os usuários se encontram.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+    ➢ Em entrevistas de emprego, tratativas com superiores hierárquicos, na presença de agentes
+    públicos, utiliza-se variante mais formal;
+
+
+
+    ➢ Quando o usuário da língua tem maior familiaridade com seus interlocutores, utiliza-se
+    variante mais informal.
+
+
+
+    ➢ Linguagem on line: mais livre, despreocupada; rica em abreviações e recursos gráficos
+    (emoticons); livre de regras de pontuação; mais dinâmica, espontânea, em aproximação à fala.
+
+
+
+
+         Em uma conversa poderemos encontrar exemplos da influência da região, da idade, da
+
+         escolaridade e da situação, ao mesmo tempo.
+
+
+
+         Ex: Um jovem carioca, não escolarizado, numa conversa informal com seus amigos do
+
+         trabalho,    no   whatsapp,      vai   provavelmente       fornecer    exemplos   de   cada   um   desses
+
+         aspectos.
+
+
+
+         Lembre-se:
+
+
+
+                                                A língua é viva e dinâmica!!!
+
+
+
+
+         #VamosPraticar#
+
+
+
+
+         SEE-PE / Professor / 2022)
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                    21/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+         A língua que falamos molda a forma como enxergamos as coisas. Cada idioma tem seus
+
+         recursos e expressões, e isso tudo pode contribuir para que uma mesma situação ganhe
+
+         interpretações diferentes. Ao comentar sobre o pouco tempo que tem de almoço, por
+
+         exemplo, uma pessoa que fala inglês ou sueco provavelmente utilizaria o termo “pausa
+
+         curta” . Para falantes de espanhol e grego, porém, o momento seria descrito como uma
+
+         “pequena pausa” .
+
+
+
+         Essas      variações      na   linguagem     podem        influenciar         a   percepção    que   cada      pessoa         tem
+
+         sobre o tempo. E o caso mais interessante vem daqueles que falam mais de um idioma.
+
+         Quem é bilíngue tem uma “chavinha” no cérebro, alterada de acordo com a língua que
+
+         será utilizada.
+
+
+
+         Para      determinar       essa    relação,      alguns     pesquisadores            analisaram      um    grupo         de   80
+
+         voluntários,        composto       metade        por    espanhóis         e       metade   por   suecos,        que      foram
+
+         submetidos a alguns experimentos psicológicos.
+
+
+
+         No primeiro, eles tinham de assistir a uma animação de computador que mostrava duas
+
+         linhas, que cresciam a partir de um ponto. Uma delas levava três segundos para atingir
+
+         o tamanho de quatro polegadas. A outra crescia até atingir seis polegadas, no mesmo
+
+         tempo. Após acompanharem as cenas, os voluntários eram orientados a manifestar suas
+
+         impressões,      estimando         quanto     tempo       as   linhas    levaram      para     atingir    seus       tamanhos
+
+         finais.
+
+
+
+         Os pesquisadores esperavam que os suecos tivessem mais dificuldade em acertar esse
+
+         tempo. E foi exatamente o que aconteceu: para eles, a linha maior teria demorado mais
+
+         que    a    outra    para      chegar   às   seis   polegadas.        Enquanto        isso,    espanhóis       indicaram        a
+
+         duração do experimento com mais precisão — independentemente do tamanho de cada
+
+         linha.
+
+
+
+         De    acordo     com      os   cientistas,   o   observado         tem   relação      direta   com   a    maneira         como
+
+         ambas as culturas quantificam o tempo.
+
+
+
+         O que      tudo isso sugere         é   que, sob certas condições, a linguagem pode                            ter   um peso
+
+         maior      que   a   rapidez       de   pensamento.         Isso    quer      dizer   que     somente      o    fato     de     os
+
+         pensamentos serem em certo idioma já pode ser responsável por uma desvantagem em
+
+         determinada tarefa.
+
+
+
+         A boa notícia é que aprender novas línguas significa quebrar essa barreira, nos tornando
+
+         capazes de perceber nuances que não conseguiríamos antes.
+
+
+
+         Internet: <www.super.abril.com.br> (com adaptações).
+
+
+
+         Considerando         as   ideias   e    aspectos       linguísticos      do   texto   precedente,        julgue      o   item   a
+
+         seguir.
+
+
+
+         Em    alguns trechos do texto, o autor                  utiliza a linguagem           informal    como estratégia de
+
+         aproximação
+
+
+
+         do leitor.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                             22/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+          Comentário:
+
+
+
+          Exatamente! Alguns trechos como “chavinha no cérebro” trazem maior proximidade com
+
+          o leitor, em virtude de seu caráter informal, descontraído. Questão correta.
+
+
+
+
+          (PREF. DE SÃO JOSÉ DO RIO PRETO- SP /
+          Enfermeiro / 2019 - Adaptada)
+          “No que dependesse dele, já teria passado por todas as operações jamais registradas
+
+          nos   anais   da     cirurgia:   “Só   mesmo      entrando      na   faca    para   ver   o   que   há    comigo”.     Os
+
+          médicos    lhe      asseguram       que   não     há    nada,    ele   sai    maldizendo        a   medicina:    “Não
+
+          descobrem       o    que   eu    tenho,   são    uns   charlatães,     quem    entende        de    mim   sou   eu”.   O
+
+          radiologista,       seu   amigo    particular,    já   lhe   proibiu   a    entrada   no      consultório:   tirou-lhe
+
+          radiografia até dos dedos do pé. E ele sempre se apalpando e fazendo caretas: “Meu
+
+          fígado hoje está que nem uma esponja, encharcada de bílis. Minha vesícula está dura
+
+          como um lápis, põe só a mão aqui.”
+
+
+
+          É própria da linguagem coloquial a expressão sublinhada em "Só mesmo entrando na
+
+          faca para ver o que há comigo".
+
+
+
+          Comentário:
+
+
+
+          Note que há variação social e até regional na expressão "entrando na faca". É ainda uma
+
+          expressão utilizada na linguagem mais informal, ou seja, coloquial. Questão correta.
+
+
+
+          #VamosPraticar#
+
+
+
+
+   1.5 Língua e Diversidade
+
+
+
+
+     Língua e Diversidade
+    A norma linguística é o conjunto de regras consensualmente estabelecidas que sistematizam os
+
+    usos de uma língua natural. É o caso do Português, do Inglês, do Espanhol etc...
+
+
+
+    Logo, entenda que norma é:
+
+
+
+
+     A.      conjunto geral de princípios que servem para todas as línguas.
+
+
+
+     Dentre esses princípios estão:
+
+
+
+     - categorias do discurso, também conhecidas como “classes de palavras” (substantivos, verbos,
+
+     etc.)
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     23/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+     - regras fonológicas
+
+
+
+     - padrões de ordem das palavras
+
+
+
+     - dentre outros
+
+
+
+     - parâmetros de uma determinada língua particular
+
+
+
+     B. Dentre esses princípios, podemos destacar:
+
+
+
+     - a ordem Sujeito-Verbo-Objeto, do português brasileiro;
+
+
+
+     - o sistema casos do alemão;
+
+
+
+     - a flexão simples dos verbos do inglês;
+
+
+
+     - a flexão complexa dos verbos do português.
+
+
+
+
+    A partir desses conceitos, a lógica racionalista concebeu a escrita como o lugar onde a norma
+
+    poderia ser observada com mais propriedade, visto que as propriedades da escrita revelavam
+
+    com mais rigor a lógica do mundo e a lógica do pensamento.
+
+
+
+    Este movimento provocou dois mitos no que diz respeito à língua em sua modalidade falada:
+
+
+
+    ➢ A língua falada, em oposição à escrita, é o lugar do caos, da desordem, da simplificação.
+    ➢ As línguas escritas e faladas, para terem valor social, precisam obedecer a uma lógica pré-
+    estabelecida.
+
+
+
+    O problema desse segundo mito é que essa lógica é refletida nos textos escritos que seguem
+
+    estritamente a norma linguística culta.
+
+
+
+    Assim....
+
+
+
+    Tradicionalmente,        percebe-se       na   sociedade      um     “julgamento        moral”   sobre   as   variantes
+
+    linguísticas. Isso porque uma das variantes da língua, em algum momento, por ser compartilhada
+
+    por atores sociais dominantes, foi escolhida como “correta” e denominada variante “culta” da
+
+    língua.
+
+
+
+    O    ensino     tradicional     tomou      a   “norma      culta”    para       si,   ensinando-a   como      “ideal”    e
+
+    hierarquicamente superior às outras.
+
+
+
+    O que houve com as demais variantes? Por muito tempo foram consideradas “erradas”, incultas
+
+    e, muitas vezes, tiveram um olhar pejorativo.
+
+
+
+    Esse    processo      gerou    na   sociedade      como     um      todo    o    que    Marcos   Bagno   chamou         de
+
+    “preconceito linguístico”, pois todas as variantes que fossem a norma culta acabaram por ser
+
+    marginalizadas, em especial as menos escolarizadas.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                            24/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    Em    sala de aula, segundo Marcos Bagno, o preconceito linguístico acabou por se perpetuar
+
+    inclusive nos materiais didáticos, que por décadas alimentaram a noção de que a norma culta
+
+    era a única socialmente aceita.
+
+
+
+    Personagens como Chico Bento, da Turma da Mônica, e Tia Anástácia, de Monteiro Lobato,
+
+    eram apresentados em sala como exemplos de variação regional, sugerindo que destoava da
+
+    “norma culta”.
+
+
+
+    Vejamos um exemplo:
+
+
+
+
+    O resultado disso tudo? Vemos muitos falantes da língua com o discurso de que “Não sei
+
+
+    português”, “Que língua difícil, complicada”, já que a eles foi apresentado na escola que só
+
+
+    existe um “português” correto – a variante culta.
+
+
+
+
+    Assim, o que você precisa levar para a prova:
+
+
+
+
+                                     Preconceito Linguístico
+     O que é?
+
+
+
+     Juízo de valor negativo às variedades linguísticas de menor prestígio social.
+
+
+
+     Principais "sinais" de preconceito linguístico:
+
+
+
+     Não aceitação das variantes. Frases como "Isso não é português", "Existe apenas uma língua
+
+     correta".
+
+
+
+
+    Vejamos como esse assunto é cobrado nas provas:
+
+
+
+
+                                                                                         2022     FGV      Prefeitura de São Paulo (SP)
+      Questão       4001311902
+                                                                 Professor de Ensino Fundamental II e Médio - Arte (Pref São Paulo/SP)
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                         25/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+      Leia o fragmento a seguir.
+
+
+
+
+      Foi no Instituto de Letras da UFF, há alguns anos. Convidado, fez lá conferência um ex-Ministro de Angola. O assunto já não
+
+      me lembra... Em todo caso, o tema é de somenos. Terminada a fala, com as palmas rituais, pôs-se o orador às ordens, para
+
+      perguntas.
+
+
+
+
+      À questão das línguas respondeu que, desgraçadamente, a oficial era a do colonizador, acreditando ele que essa anômala
+
+      situação ainda duraria um século.
+
+
+
+
+      Assinale a opção que apresenta o tipo de preconceito linguístico a que esse fragmento textual se refere.
+
+
+
+
+      A)    O preconceito socioeconômico, ligado ao fato de membros das classes mais pobres, pelo acesso limitado à educação e à
+
+
+            cultura, geralmente, dominarem apenas as variedades linguísticas mais informais e de menor prestígio.
+
+
+
+      B)    O preconceito regional, ligado a um tipo de aversão ao sotaque ou aos regionalismos típicos de áreas mais pobres.
+
+
+
+      C)    O preconceito cultural, preso à aversão pela cultura de massa e às variedades linguísticas por ela usadas.
+
+
+
+      D)    O preconceito político, referente à imposição de uma língua a falantes de outras línguas.
+
+
+
+      E)
+
+            O preconceito racial, ligado às manifestações culturais de outras raças, inclusive a língua, considerando-as atrasadas.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)   O preconceito político, referente à imposição de uma língua a falantes de outras línguas.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Note o trecho do texto: "À questão das línguas respondeu que, desgraçadamente, a oficial era a do colonizador". Isso
+
+
+           deixa claro que os dialetos regionais foram deixados de lado para que predominasse a língua de Portugal, que
+
+
+           colonizou Angola.
+
+
+
+
+           Assim, estamos falando de uma situação política (colonização), o que traz o preconceito linguístico político, referente à
+
+           imposição de uma língua a falantes de outras línguas.
+
+
+
+
+           Portanto, Gabarito Letra (D).
+
+
+
+
+    Portanto, para os estudos linguísticos, não se tem a noção de certo x errado, mas de adequado
+
+    x inadequado.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                      26/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    Vejamos:
+
+
+
+
+     Adequação x Inadequação
+
+
+    Quando      falamos     em    “certo”   e   “errado”,   estamos     nos   referindo   a   uma   norma    absoluta    e
+
+    mandatória. Essa norma é a gramática normativa.
+
+
+
+    Nesse raciocínio, existe só uma língua oficial e absoluta, a língua culta, consagrada pelas classes
+
+    dominantes, tida como modelo base de toda a educação nacional.
+
+
+
+    As variantes que fogem desse conjunto de regras “obrigatórias” sofrem julgamento moral: são
+
+    consideradas “erro” ou “desvio da norma”.
+
+
+
+    A Linguística, por outro lado, defende que não existe certo ou errado. Então, o que existe é
+
+    uma linguagem “adequado” x “inadequado” a uma determinada situação.
+
+
+
+    Ex: A linguagem de uma palestra não deve ser a mesma de uma conversa no bar.
+
+
+
+
+   1.6 Tipos de Gramáticas
+
+
+
+
+     Tipos de Gramáticas
+    O conjunto de regras estabelecidas pela gramática são o padrão definido para a criação de uma
+
+    norma culta. Tal padrão é importante, principalmente, na composição da linguagem formal, mas
+
+    acaba distanciando as variantes mais informais da língua.
+
+
+
+    Como nosso foco nesta aula são as gramáticas, faremos o estudo mais teórico e, ao final, uma
+
+    reflexão sobre a perspectiva variacional.
+
+
+
+    Portanto, para darmos início à tipologia, temos que ter em mente que o estudo gramatical traz
+
+    consigo os fatores objetivos (como as regras de colocação de vírgulas) e subjetivos (escolha do
+
+    indivíduo em utilizar ou não as normativas em uma determinada situação).
+
+
+
+    No    ensino     de   Língua     Portuguesa,       reconhecem-se        fundamentalmente        três   conceitos    de
+
+    gramática [1]: normativa, descritiva e internalizada.
+
+
+
+
+    Vamos a eles:
+
+
+
+
+     Gramática normativa
+
+
+    Nessa    concepção,       a   gramática     é   entendida   como    “um   manual   com    regras   de   bom   uso   da
+
+    língua”, um compêndio com normas para falar e escrever corretamente. Tais normas advêm do
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                        27/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+    uso que os escritores consagrados fazem da língua.
+
+
+
+    Esse é o conceito “clássico”, que inclusive remonta de uma das primeiras definições gregas de
+
+    gramática, de Dionísio Trácio: “A arte da gramática (das Letras) é o trato das coisas ditas com
+
+    mais frequência nos poetas e prosadores.”
+
+
+
+    Nessa perspectiva de gramática, a única variedade realmente válida é a norma culta ou padrão.
+
+    As demais variedades linguísticas são consideradas desvios da língua.
+
+
+
+    Em    termos    práticos,    a    gramática   normativa     é    aquela   que     estuda   apenas   os   fatos   da   língua
+
+    padrão, da norma culta de uma língua. Essa gramática é uma espécie de lei que regula o uso da
+
+    língua em uma sociedade.
+
+
+
+    Esta primeira concepção para “gramática” é a mais conhecida e, ainda, mais difundida pelos
+
+    professores e dos alunos do Ensino Fundamental e Médio em língua portuguesa. Principalmente
+
+    pelo fato de estar direcionada, preferencialmente, à variedade escrita padrão (preocupação em
+
+    como se deve falar e escrever).
+
+
+
+
+     Gramática descritiva
+
+
+    Esse conceito de gramática refere-se a “um conjunto de regras que o cientista encontra nos
+
+    dados que analisa, à luz de determinada teoria e método”.
+
+
+
+    Em     outras    palavras,    a    preocupação       do   gramático       é   a   de    descrever   a    estrutura     e   o
+
+    funcionamento da língua da forma como ela é encontrada em amostras da fala e da escrita
+
+    extraídas    dos   falantes      nativos.   Assim,   a   maior   preocupação        é   tornar   conhecidas      as   regras
+
+    utilizadas pelos falantes.
+
+
+
+    Note que estamos diante de uma abordagem que entende a língua como um sistema de signos,
+
+    fenômeno social , passível de descrição e sujeita às variações históricas, sociais e culturais.
+
+
+
+    Exemplo:
+
+
+
+
+     Evolução semântica:
+
+
+
+     “rapariga” e “irado” - seu uso social altera seu sentido original
+
+
+
+     Evolução fonética :
+
+
+
+
+     “Vamos em boa hora?” => “Vamos embora?”
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                              28/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+    Por isso, não há noção de certo e de errado, como na concepção anterior, porque:
+
+
+
+
+     é considerado gramatical tudo o que está em consonância com as regras de funcionamento da
+
+     língua em qualquer uma de suas variantes
+
+
+
+
+    Muito importante: a noção de certo e de errado é substituída pela noção da diferença.
+
+
+
+    Há, portanto, nas gramáticas descritivas uma postura incluente                    e    não excludente     (como nas
+
+    gramáticas normativas).
+
+
+
+
+     Gramática internalizada
+
+
+    Essa concepção traz a ideia de que a gramática é “o conjunto das regras que o falante de fato
+
+    aprendeu e das quais lança mão ao falar”.
+
+
+
+    Em outras palavras, é o conhecimento lexical e sintático-semântico que o falante possui e que
+
+    permite que ele entenda e produza frases em sua língua.
+
+
+
+    Linguísticas (a partir dos estudos de Noam Chomsly) defendem que a competência internalizada
+
+    do   falante   decorrente      do   desenvolvimento       gradual    das   hipóteses   que   ele   constrói   sobre   a
+
+    língua, a partir de suas próprias atividades linguísticas.
+
+
+
+    Em termos práticos, qualquer falante de português possui um conhecimento implícito altamente
+
+    elaborado da língua, embora não seja capaz                  de explicitar esse conhecimento. E, ainda, esse
+
+    conhecimento não é fruto de instrução recebida na escola, mas foi adquirido de maneira tão
+
+    natural e espontânea quanto a nossa habilidade de andar.
+
+
+
+    Para a gramática internalizada, mesmo pessoas que nunca estudaram gramática chegam a um
+
+    conhecimento implícito perfeitamente adequado da língua.
+
+
+
+    Fazendo      uma    associação      com   o   corpo   humano,      são   como   pessoas   que      não   conhecem     a
+
+    anatomia e a fisiologia das pernas, mas que andam, dançam, nadam e pedalam sem problemas.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                         29/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+         #VamosPraticar#
+
+
+
+
+         PREF. SANTA TEREZINHA / Professor / 2022)
+         Gramática          que   “analisa     um   conjunto    de     regras     que     são   seguidas,    considerando       as
+
+         variações linguísticas da língua ao investigar seus fatos, extrapolando os conceitos que
+
+         definem o que é certo e errado em nosso sistema linguístico.”
+
+
+
+         Essa concepção de gramática se refere à:
+
+
+
+
+         A.    Descritiva.
+
+
+
+
+         B.    Normativa.
+
+
+
+
+         C.    Prescritiva.
+
+
+
+
+         D.    Internalizada.
+
+
+
+
+          E.   Histórica.
+
+
+
+         Comentários:
+
+
+
+         Veja algumas palavras-chave para entender o tipo de gramática:
+
+
+
+         “analisa um conjunto de regras que são seguidas, considerando as variações linguísticas
+
+         da língua ao investigar seus fatos, extrapolando os conceitos que definem o que é certo
+
+         e errado em nosso sistema linguístico.”
+
+
+
+         Veja que o foco da definição recai sobre o falante e o uso – características da gramática
+
+         internalizada. Portanto, Gabarito Letra D.
+
+
+
+
+         (PREFEITURA / Professor / 2022)
+                                                GRAMÁTICA E SEU CONCEITO
+
+
+
+         A gramática         descritiva    ou   sincrônica     é   o   estudo     do    mecanismo     pelo   qual      uma   dada
+
+         língua funciona, num dado momento (do gr. syn- “reunião”, chrónos “tempo”), como meio
+
+         de    comunicação         entre   os   seus   falantes,       e   na   análise   da    estrutura,   ou   configuração
+
+         formal, que nesse momento a caracteriza.
+
+
+
+         Quando        se    emprega       a   expressão       gramática        descritiva,     ou   sincrônica,    sem      outro
+
+         qualificativo a mais, se entende tal estudo e análise como referente ao momento atual,
+
+         ou presente, em que é feita a gramática.
+
+
+
+         Já    tinha   em     princípio    esse     objetivo   a   gramática       tradicional,      elaborada     a   partir   da
+
+         Antiguidade Clássica para a língua grega e em seguida a latina. Em português, desde
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    30/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+         Fernão de Oliveira e João de Barros no século XVI, vêm se multiplicando as gramáticas,
+
+         pautadas pelo modelo greco-latino, intituladas quer                                 descritivas, quer         expositivas. Ora,
+
+         mais propriamente normativas, se limitam a apresentar uma norma de comportamento
+
+         linguístico,   de      acordo       com      a    sempre           repetida   definição      “arte      de    falar   e    escrever
+
+         corretamente”.         Ora,      mais   ambiciosas             e   melhor     orientadas,     procuram         ascender         a   um
+
+         plano que bem se pode chamar científico em seus propósitos, pois procuram explicar a
+
+         organização e o funcionamento das formas linguísticas com objetividade e espírito de
+
+         análise.
+
+
+
+         Tiveram este último propósito as chamadas “gramáticas filosóficas”, como em português
+
+         a de Jerônimo Soares Barbosa no século XVIII. Embora tenha havido recentemente, com
+
+         a   escola    norte-    americana            de       Noam         Chomsky,    certo      empenho        em    valorizar        essas
+
+         “gramáticas filosóficas” (Chomsky, 1966), deve se reconhecer que a crítica que a elas se
+
+         fez, desde os princípios do século
+
+
+
+         XIX até meados do séc. XX, era em essência procedente. O fundamento para a ciência
+
+         da gramática, por elas entendida, era a disciplina filosófica da lógica, como a delineara
+
+         Aristóteles na Grécia Antiga e depois Descartes no séc. XVII. A gramática foi entendida
+
+         como ancilar do estudo filosófico que trata das leis do raciocínio. A justificativa estava
+
+         no pressuposto de que a língua, em sua organização e funcionamento, reflete fielmente
+
+         essas leis.
+
+
+
+         Havia aí, antes de tudo um círculo vicioso. A língua servia para ilustrar a lógica, e a
+
+         lógica para desenvolver a gramática. Depois, a lógica aristotélica e ainda a cartesiana,
+
+         mesmo quando remodelada já nos meados do séc. XIX pelo filósofo inglês John Stuart
+
+         Mill, está longe de satisfazer aos requisitos de uma análise rigorosa e precisa das leis do
+
+         raciocínio.    Tanto     que       a   filosofia      do    séc.     XX   procurou        recriar   a    disciplina      em     linhas
+
+         matemáticas,        sob      o     título    de       “lógica       simbólica”,      num     afã    em       que    se    destacou
+
+         especialmente o filósofo inglês Bertrand Russel. Finalmente, a base lógica que se pode
+
+         depreender        na    organização              e    nos      processos       comunicativos            das    línguas      é       uma
+
+         compreensão intuitiva das coisas, permeada por                                 toda a vivência humana. Em vez                        de
+
+         refletirem     um   exame          objetivo       e   despersonalizado              das   coisas,   as    línguas     refletem        a
+
+         maneira      de   as    ver      por    parte        de   homens       que     se   acham      nelas      interessados          e   até
+
+         integrados.
+
+
+
+         (Câmara Jr., Joaquim Mattoso. Estrutura da Língua Portuguesa. Petrópolis: Editora Vozes,
+
+         1997. 26ª edição.)
+
+
+
+         De   acordo       com    a    leitura       do   texto,     o      conceito    de    “gramática         sincrônica”       pode      ser
+
+         entendido como:
+
+
+
+
+         A.   Um conjunto de regras de funcionamento da língua em dado momento, conforme
+
+              os ditames dos instrumentos sociais de valoração.
+
+
+
+
+         B.   A   explicitação         do   mecanismo              de    funcionamento         de    dada    língua     em     um    recorte
+
+              específico do tempo, conforme a utilizam seus falantes para fins para comunicação.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                  31/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+         C.   Um    termo    equivalente     à    expressão   “gramática     normativa”,     por    meio    do   qual    são
+
+              caracterizados os mais variados modos de fala e escrita de uma determinada língua.
+
+
+
+
+         D.   Um     termo    equivalente     à   expressão    “gramática      gerativa”,    por   meio     do   qual    são
+
+              caracterizados a capacidade biológica do indivíduo e sua criatividade como fatores
+
+              atuantes no processo de aquisição.
+
+
+
+         Comentários:
+
+
+
+
+         Vejamos o que traz o texto sobre a “gramática sincrônica”:
+
+
+
+         “gramática descritiva ou sincrônica é o estudo do mecanismo pelo qual uma dada língua
+
+         funciona, num dado momento (do gr. syn- “reunião”, chrónos “tempo”), como meio de
+
+         comunicação entre os seus falantes, e na análise da estrutura, ou configuração formal,
+
+         que nesse momento a caracteriza.”
+
+
+
+         Note dois elementos principais: (i) o recorte temporal e (ii) o uso social de comunicação
+
+         – elementos presentes na alternativa (B).
+
+
+
+         A outra alternativa que traz a ideia de recorte temporal é a (A), mas veja que ela traz
+
+         também      a    noção   de   “instrumentos     sociais   de   valoração”,   o     que    destoa   da   ideia   de
+
+         “gramática sincrônica”.
+
+
+
+         Portanto, Gabarito Letra B.
+
+
+
+         #VamosPraticar#
+
+
+
+
+    Até aqui, caro Aluno e cara Aluna, estudamos os três principais tipos de gramática. Contudo,
+
+    para fins de aprofundamento, trago mais três tipos relacionados aos estudos de Linguística.
+
+
+
+    Vamos a eles:
+
+
+
+
+     Gramática histórico-comparativa
+
+
+    Nesse tipo de gramática, surgida na primeira metade do século XIX, comparam-se elementos
+
+    gramaticais de línguas de origem comum com o objetivo de compreender a estrutura da língua
+
+    da qual os diversos idiomas surgiram.
+
+
+
+    Diferente da gramática normativa, cujo estudo aproxima-se da filosofia e da lógica, nesse tipo
+
+    de gramática, faz-se um estudo metalinguístico.
+
+
+
+    É   o   caso,   por   exemplo,     dos   estudos    das   línguas   românicas     (ou    neolatinas),    dentre      elas   o
+
+    português. De forma bastante superficial, trago apenas um mapa das línguas de base comum
+
+    para termos ideia da dimensão desse estudo comparativo:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                               32/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+    Fonte: FISCHER, Steven Roger. "Uma história da linguagem".
+
+
+
+
+    Com      a   análise   comparativa,       descobriram-se        novos    parentescos      entre    línguas   e   criaram-se
+
+    conceitos básicos a respeito do funcionamento das línguas.
+
+
+
+
+     Gramática estruturalista
+
+
+    O    Estruturalismo      começou          com   os   trabalhos    de    Ferdinand    de    Saussure,       sendo     a   teoria
+
+    precursora dos estudos linguísticos. Por mais contemporânea que seja uma corrente ou teoria
+
+    linguística    e   por   mais   distante    que   esteja   do   ramo    estrutural   da   Linguística,     sempre        haverá
+
+    vínculos entre tais correntes e teorias e o legado saussuriano.
+
+
+
+    Assim, a gramática estruturalista descreve a estrutura gramatical das línguas, vendo-as como
+
+    um sistema autônomo, cujas partes se organizam em uma rede de relações de acordo com leis
+
+    internas, ou seja, inerentes ao próprio sistema.
+
+
+
+    Em    outras    palavras,     para    a   gramática   estruturalista,    em   estrita   consonância        com     o     que   já
+
+    afirmava      Saussure    no    "Cours     de   linguistique    générale ",   analisa-se    a     língua   voltada     para    si
+
+    mesma. Não se consideram possíveis influências externas ao sistema, que é considerado como
+
+    uma entidade fechada em si mesma.
+
+
+
+    A maior crítica em relação a essa concepção de gramática é que não é possível concebemos o
+
+    sistema linguístico como desprovido da função de                       uso. Todos os falantes nativos sabem                 sua
+
+    língua   no    sentido   de     que   sabem     usá-la   nas   mais    diversas   situações     comunicativas,         ou   pelo
+
+    menos esta é uma habilidade desejável.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                   33/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+     Gramática gerativista
+
+
+    O gerativismo teve início nos Estados Unidos, no final da década de 1950, mais precisamente
+
+    em 1957, com o lançamento do livro "Estruturas sintáticas", de Noam Chomsky, professor do
+
+    Massachussets Institut of Tecnology – MIT.
+
+
+
+    A principal intenção de Chomsky era criar um modelo que fosse capaz de explicar a linguagem
+
+    humana        de   maneira       matematicamente         precisa.     Ele    acreditava        que   a   mente    humana          era
+
+    modular, de forma que, para cada módulo de nossa estrutura cerebral, haveria uma estrutura ou
+
+    mecanismo          linguístico    que   acionaríamos         quando    dele   necessitássemos.           Desse    pensamento,
+
+    deu-se origem à "gramática universal ".
+
+
+
+    Seria essa gramática universal que traria as bases para a "intuição" do falante nativo:
+
+
+
+
+     Qualquer falante nativo do português sabe que uma sentença como “a parede do quarto de
+
+     Cézar    é   azul”     é   perfeitamente     possível   e     aceitável    dentro    do   sistema gramatical        da língua
+
+     portuguesa.       No   entanto,    um   falante      nativo    não   compreenderia            e   também   jamais   diria    uma
+
+     sentença como “Cézar parede a azul de é quarto do”.
+
+
+
+
+    Uma segunda concepção gerativista, entende que a gramática é um conjunto de regras que,
+
+    operando sobre um vocabulário finito, gera um conjunto (finito ou infinito) de sintagmas (cada
+
+    um    composto          de   um   número       finito   de     unidades).     É   o   que      se    chamou     de   "gramática
+
+    transformacional".
+
+
+
+
+   1.7 Questões Comentadas
+
+
+
+
+         #VamosPraticar#
+
+
+
+
+          Questões Comentadas
+         10. PREF. FORTALEZA-CE / Professor / 2022
+
+
+
+         Com      base    nos    pressupostos     sociolinguístico-variacionistas,             a   variação     linguística   é   o
+
+         fenômeno         que     resulta    do    fato     de     mudanças       fonético-morfossintático-semânticas
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                       34/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+         atingirem      a    língua-padrão        em   um    nível    interno,      por   causa     da     existência     de
+
+         condicionantes de ordem sociocultural ou extralinguística; esse resultado se efetiva por
+
+         meio do surgimento de uma língua não padrão. Assinale a afirmativa que NÃO pode ser
+
+         considerada como uma das características da língua não padrão.
+
+
+
+
+         A.   A língua não padrão difere da língua-padrão, oscilando em oposição à forma-padrão
+
+              e em convergência a esta.
+
+
+
+
+         B.   As peculiaridades da língua não padrão proporcionam                         o seu reconhecimento por
+
+              parte de seus utentes.
+
+
+
+
+         C.   A principal característica da língua não padrão é ter a sua lógica própria, uma lógica
+
+              interna.
+
+
+
+
+         D.   As variantes ditas de prestígio constituem o cerne da língua não padrão.
+
+
+
+         Comentário
+
+         Como      o   enunciado     pede     a   alternativa   errada,     temos     a   letra   (D)    como     resposta:
+
+         historicamente, as variantes de “prestígio” foram impostas como norma culta, ou seja,
+
+         norma padrão. As demais variantes tiveram seu desprestígio. Portanto, Gabarito letra D.
+
+
+
+         11. PREF. PALHOÇA-SC / Professor / 2022
+
+
+
+
+         São as variedades linguísticas que não dependem da região em que o falante vive, mas
+
+         sim dos grupos sociais em que ele se insere, ou seja, das pessoas com quem ele convive.
+
+         São as variedades típicas de grandes centros urbanos, já que as pessoas dividem-se em
+
+         grupos     em      razão   de   interesses    comuns,       como    profissão,     classe      social,   nível   de
+
+         escolaridade,       esporte,    tribos   urbanas,   idade,   gênero,       sexualidade,     religião     etc.   Para
+
+         gerarem       sentimento       de   pertencimento      e    de   identidade,      os     grupos    desenvolvem
+
+         características próprias, que vão desde a vestimenta até a linguagem.
+
+
+
+         Pode-se afirmar, nesse contexto, que o trecho acima se refere a qual variante?
+
+
+
+
+         A.   Variedades estilísticas ou diafásicas.
+
+
+
+
+         B.   Variedades sociais ou diastráticas.
+
+
+
+
+         C.   Variedades regionais, geográficas ou diatópicas.
+
+
+
+
+         D.   Variedades históricas ou diacrônicas.
+
+
+
+         Comentário
+
+
+
+         Questão direta. Quando falamos em “grupos”, estamos nos referindo à variação social,
+
+         também chamada de “diastrática”. Portanto, Gabarito letra B.
+
+
+
+         #VamosPraticar#
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                               35/59
+                      1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+                                                                                        2024      Instituto Darwin   Prefeitura de Santa Cruz do Capibaribe (PE)
+      Questão            4001686653
+                                                     Professor Anos Finais do Ensino Fundamental - Língua Portuguesa (Pref Santa Cruz do Capibaribe/PE)
+
+
+
+      De   acordo      com      o   disposto   nas    colunas    a    seguir,   correlacione   o   tipo   de   linguagem   com     suas   respectivas   definições
+
+      e características:
+
+
+
+
+      I – Linguagem como Meio de Comunicação.
+
+
+
+
+      II – Linguagem como Processo de Interação.
+
+
+
+
+      III – Linguagem como Expressão do Pensamento.
+
+
+
+
+      (    ) Entende essa tendência que a verdadeira substância da linguagem não é constituída por um sistema abstrato de formas
+
+      linguísticas, nem pela enunciação monológica, mas pelo fenômeno social da interação verbal.
+
+
+
+
+      (    ) O centro organizador de todos os fatos da língua para essa tendência situa-se no sistema linguístico, a saber: o sistema
+
+      de formas fonéticas, gramaticais e lexicais da língua.
+
+
+
+
+      (    ) Apoia-se na enunciação monológica como ponto de partida para sua reflexão a respeito da linguagem e a apresenta
+
+      como ato puramente individual, isto é, a enunciação se forma no psiquismo do indivíduo.
+
+
+
+
+      (      )    A   língua    é   considerada      como   um       aspecto     imóvel,   onde    cada   enunciação   é   única   e   não   reiterável,   mas   em
+
+      cada       enunciação      encontram-se        elementos       idênticos    aos   de   outras   enunciações    no    seio   de   um    determinado    grupo
+
+      de locutores.
+
+
+
+
+      Assinale a alternativa que apresenta a sequência correta obtida no sentido de cima para baixo.
+
+
+
+
+      A)    II – III – I – I.
+
+
+
+      B)
+
+            III – I – II – II.
+
+
+
+
+      C)
+
+            I– II – I – III.
+
+
+
+
+      D)
+
+            II – I – III – I.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)       II – I – III – I.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos os itens:
+
+
+
+
+           II - Linguagem como Processo de Interação : a verdadeira substância da linguagem está na interação verbal, ou seja, na
+
+           comunicação entre as pessoas. Portanto, é caracterizada pela interação social.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                     36/59
+                     1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+           I - Linguagem como Meio de Comunicação : considera a língua como um sistema abstrato de formas linguísticas e
+
+           enfatiza a importância da língua como meio de comunicação entre os indivíduos.
+
+
+
+
+           III -   Linguagem   como   Expressão   do   Pensamento : a ênfase está na enunciação     monológica, ou   seja, na expressão
+
+           verbal de um pensamento individual. Cada enunciação é única e reflete o pensamento e a subjetividade do falante.
+
+
+
+
+           I - Linguagem como Meio de Comunicação : em cada enunciação, encontram-se elementos idênticos aos de outras
+
+           enunciações no seio de um determinado grupo de locutores. Aqui, a ênfase está na estabilidade e na estrutura da
+
+           língua, que permite a comunicação entre os falantes, mesmo que cada ato de fala seja único e irrepetível.
+
+
+
+
+           Portanto, gabarito Letra D.
+
+
+
+
+      Questão           4001902648                2024     IDHTEC   Câmara Municipal de Itapissuma (PE)   Redatora de Ata (CM Itapissuma/PE)
+
+
+      Sobre a relação entre a fala e a escrita, seja esta relação caracterizada por "independência", "dependência" e
+
+
+      "interdependência", assinale a alternativa correta.
+
+
+
+      A)    Na visão de independência, fala e escrita operam de forma complementar. Dependência sugere comumente uma
+
+
+            submissão da fala à escrita, enquanto interdependência destaca uma relação dinâmica e colaborativa, na qual ambas se
+
+
+            influenciam mutuamente.
+
+
+
+      B)    Na visão de independência, fala e escrita operam de forma isolada. Dependência sugere comumente uma prevalência da
+
+
+            fala sobre a escrita, enquanto interdependência destaca uma relação dinâmica e colaborativa, na qual ambas se
+
+
+            influenciam mutuamente.
+
+
+
+      C)    Na visão de independência, fala e escrita operam de forma isolada. Dependência sugere comumente uma submissão da
+
+
+            fala à escrita, enquanto interdependência destaca uma relação isolada, na qual ambas não se influenciam mutuamente.
+
+
+
+      D)    Na visão de independência, fala e escrita operam de forma isolada. Dependência sugere comumente uma submissão da
+
+
+            fala à escrita, enquanto interdependência destaca uma relação dinâmica e colaborativa, na qual ambas se influenciam
+
+
+            mutuamente.
+
+
+
+      E)    Na visão de independência, fala e escrita operam de forma complementar. Dependência sugere comumente uma
+
+
+            prevalência da fala sobre a escrita, enquanto interdependência destaca uma relação dinâmica e colaborativa, na qual
+
+
+            ambas se influenciam mutuamente.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)
+
+
+       Na visão de independência, fala e escrita operam de forma isolada. Dependência sugere comumente uma submissão da fala à
+
+
+       escrita, enquanto interdependência destaca uma relação dinâmica e colaborativa, na qual ambas se influenciam mutuamente.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              37/59
+                      1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+           Vejamos os conceitos:
+
+
+
+
+           Visão de independência: fala e escrita são tratadas como sistemas distintos e independentes, sem uma influência direta
+
+           uma sobre a outra.
+
+
+
+
+           Visão de dependência: a escrita é frequentemente vista como superior à fala, com a fala sendo subordinada à norma
+
+           escrita.
+
+
+
+
+           Visão da interdependência: fala e escrita estão interligadas de maneira dinâmica, com cada uma influenciando e sendo
+
+           influenciada pela outra, em uma relação de colaboração e troca.
+
+
+
+
+           Portanto, gabarito Letra D.
+
+
+
+
+      Questão           4001902440            2024   IDHTEC     Câmara Municipal de Itapissuma (PE)   Redatora de Ata (CM Itapissuma/PE)
+
+
+      Assinale a alternativa correta. Mikhail Bakhtin reconhece como um dos traços essenciais (constitutivo) do enunciado :
+
+
+
+      A)    o direcionamento a alguém, o seu endereçamento.
+
+
+
+      B)    a intencionalidade do falante, o seu componente volitivo.
+
+
+
+      C)    o direcionamento a alguém, o seu componente volitivo.
+
+
+
+      D)    a subjetividade do falante, o seu endereçamento.
+
+
+
+      E)    a intencionalidade do falante, o seu componente emotivo.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)     o direcionamento a alguém, o seu endereçamento.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Mikhail Bakhtin reconhece o direcionamento a alguém como um dos traços essenciais do enunciado. Isso significa que
+
+           todo enunciado é direcionado a um interlocutor específico ou      a um público-alvo, possuindo um caráter dialógico
+
+           intrínseco. O enunciado não é apenas uma expressão individual do falante, mas sim um ato de comunicação que se
+
+           realiza na interação com outros falantes. Portanto, o endereçamento é um componente fundamental do enunciado,
+
+           conforme destacado por Bakhtin em sua teoria da linguagem.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                          38/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+           Portanto, gabarito Letra A.
+
+
+
+
+                                                                                                            2022    FGV        Prefeitura de São Paulo (SP)
+      Questão         4001314001
+                                                                           Professor de Ensino Fundamental II e Médio - Português (Pref São Paulo/SP)
+
+
+
+      Analise o texto a seguir.
+
+
+
+
+      “Na linguística atual considera-se só a língua falada ‘primária’ (espontânea ou usual) como “natural” e livre, ao tempo que a
+
+      língua   exemplar    (ou   “língua   padrão”)      e   a   forma   literária   desta   se   consideram   como    “artificiais”   e   “impostas”.   Por
+
+      conseguinte,    considera-se    também        só   a   gramática    descritiva    “objetivista”   como   realmente    científica     e   a   gramática
+
+      normativa como expressão sem fundamento científico duma atitude antiliberal e dogmática”.
+
+
+
+
+      Eugenio Coseriu.
+
+
+
+
+      Considerando os conhecimentos linguísticos atualmente dominantes, esse segmento
+
+
+
+
+      A)    condena absurdamente a gramática normativa.
+
+
+
+      B)    mostra a influência política sobre os estudos linguísticos.
+
+
+
+      C)    indica as mudanças inevitáveis na Linguística.
+
+
+
+      D)    considera a gramática descritiva como acientífica.
+
+
+
+      E)    propõe a substituição da gramática normativa pela descritiva.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)    considera a gramática descritiva como acientífica.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Veja como o autor trata a gramática: "considera-se [...] a gramática normativa como expressão sem fundamento
+
+
+           científico duma atitude antiliberal e dogmática”. Há uma dura crítica sobre ela, de forma a compará-la com atitudes
+
+
+           políticas “antiliberais e dogmáticas”.
+
+
+
+
+           Esse é o que traz a alternativa (A).
+
+
+
+
+      Questão         4002015866               2023      UNESC       Prefeitura de Balneário Rincão (SC)     Professor - Inglês (Pref Balneário Rincão/SC)
+
+
+
+      Na   abordagem      histórico-cultural   da     linguagem,    inspirada    principalmente     nos    ensinamentos   de    Lev    Vygotsky,    língua    é
+
+      entendida como um fenômeno intrinsecamente ligado ao desenvolvimento humano, cultural e histórico. Considerando essa
+
+      perspectiva, assinale a alternativa INCORRETA.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                 39/59
+                    1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+      A)
+
+            A linguagem atua como um meio de mediação cultural, transmitindo valores, normas e conhecimentos de uma geração
+
+            para outra.       As palavras e expressões carregam consigo                     significados culturais que ajudam a construir a compreensão
+
+            compartilhada dentro de uma comunidade.
+
+
+
+
+      B)
+
+            A compreensão de uma mensagem vai além das palavras utilizadas. Ela depende do contexto cultural e histórico no qual
+
+            a   comunicação         ocorre.    Expressões    linguísticas       podem       adquirir     significados    específicos   em   determinados        contextos
+
+            culturais.
+
+
+
+
+      C)
+
+            A língua desempenha um papel                crucial      na construção         da identidade cultural.        Diferentes grupos sociais muitas vezes
+
+            desenvolvem variações linguísticas distintas, refletindo sua história, valores e identidade única.
+
+
+
+
+      D)
+
+            A   língua    é   um    fenômeno        dinâmico       que   evolui   ao   longo      do    tempo.   Mudanças     linguísticas   refletem    mudanças         na
+
+            sociedade     e    na   cultura.    O   estudo   histórico     da     língua   permite      entender    não   apenas   como     as   palavras   e   estruturas
+
+            linguísticas evoluíram, mas também como essas mudanças refletem transformações mais amplas na sociedade.
+
+
+
+
+      E)
+
+            Vygotsky propôs a ideia de que a linguagem desempenha um papel central no desenvolvimento cognitivo das pessoas. A
+
+            linguagem, nesse contexto, serviria como meio para a externalização de conceitos e conhecimentos que são inatos.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: E)
+
+
+
+
+       Vygotsky propôs a ideia de que a linguagem desempenha um papel central no desenvolvimento cognitivo das pessoas. A
+
+       linguagem, nesse contexto, serviria como meio para a externalização de conceitos e conhecimentos que são inatos.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Embora Lev Vygotsky tenha enfatizado a importância da linguagem no desenvolvimento cognitivo das pessoas, sua
+
+           teoria   não   sugere     que   os   conceitos      e   conhecimentos         sejam    inatos.    Pelo   contrário,   Vygotsky    argumentava        que   a
+
+           linguagem desempenha um papel fundamental na construção do pensamento e do conhecimento, mediando a relação
+
+           entre o indivíduo e o mundo social e cultural ao seu redor. Segundo ele, o desenvolvimento cognitivo ocorre por meio
+
+           da interação social e da internalização da linguagem e dos conceitos compartilhados na cultura em que a criança está
+
+           inserida.   Portanto,     a   linguagem     não     serve     como     meio     para   a    externalização   de   conceitos   inatos,   mas   sim    como
+
+           ferramenta para a construção do conhecimento a partir da interação com o ambiente sociocultural.
+
+
+
+
+           Portanto, Gabarito Letra (E).
+
+
+
+
+                                                                                                            2022        AVANÇASP       Prefeitura de Araçariguama (SP)
+      Questão             4001305368
+                                                                                    Professor de Educação Básica II - Língua Portuguesa (Pref Araçariguama/SP)
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                              40/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+      A gramática que se ensina faz sentido para aqueles que sabem gramática porque são falantes nativos. Assinale a alternativa
+
+      que se contrapõe à afirmativa inicial.
+
+
+
+
+      A)    A confusão entre norma e gramaticalidade é o grande problema da gramática ensinada pela escola.
+
+
+
+      B)    O que deveria ser um exercício para o falar/escrever/ler melhor transforma-se em uma camisa de força incompreensível.
+
+
+
+      C)    Comunicação aqui entendida como um processo de construção de significados em que o sujeito interage, socialmente,
+
+
+            usando a língua como instrumento que o define como pessoa entre pessoas. A língua compreendida como linguagem
+
+
+            que constrói e “desconstrói” significados sociais.
+
+
+
+      D)    A língua distanciada do emaranhado das relações humanas, nas quais o aluno está ausente e indiferente. A língua
+
+
+            divorciada do contexto social vivido. Não sendo ela dialógica por princípio, há como separá-la de sua própria natureza,
+
+
+            mesmo em situação escolar.
+
+
+
+      E)    No Art.27, quando a Lei fala sobre as diretrizes dos conteúdos curriculares, a questão da cidadania e do trabalho serve
+
+
+            de exemplo do uso social da língua, vista como conhecimento de mundo em interação, em que a linguagem representa
+
+
+            fonte da ética e estética em ação.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)
+
+
+       A língua distanciada do emaranhado das relações humanas, nas quais o aluno está ausente e indiferente. A língua divorciada
+
+
+       do contexto social vivido. Não sendo ela dialógica por princípio, há como separá-la de sua própria natureza, mesmo em
+
+
+       situação escolar.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vamos à avaliação da solução em cada alternativa
+
+
+
+
+           A letra A está incorreta.
+
+
+
+
+           CERTA . Não se pensa a gramática, apenas a segue como um conjunto de normas.
+
+
+
+
+           A letra B está incorreta.
+
+
+
+
+           CERTA . A gramática é estática e inflexível.
+
+
+
+
+           A letra C está incorreta.
+
+
+
+
+           CERTA . Faz-se uma clara diferenciação entre língua (uso) e gramática (normas).
+
+
+
+
+           A letra D está correta.
+
+
+
+
+           ERRADA . A afirmativa inicial não quebra o dialogismo da língua. O que é divorciado do contexto é a gramática, e não
+
+           a língua.
+
+
+
+
+           A letra E está incorreta.
+
+
+
+
+           CERTA . Faz-se uma clara diferenciação entre língua (uso) e gramática (normas). Portanto, Gabarito Letra (D).
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     41/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+                                                                      2023   FUMARC   Assembleia Legislativa do Estado de Minas Gerais
+      Questão          4001867184
+                                                                                          Analista Legislativo - Redator-Revisor (ALMG)
+
+      Segundo Travaglia (1996), ao se trabalhar especificamente com gramática é preciso considerar que há vários tipos de
+
+
+      gramática e que o trabalho com cada um desses tipos pode resultar em atividades também distintas.
+
+
+
+
+      Tendo em vista essa asserção, numere a coluna da direita, relacionando o tipo de gramática à definição correspondente
+
+      elaborada por Travaglia (1996).
+
+
+
+
+      1. Gramática normativa
+
+
+
+
+      2. Gramática descritiva
+
+
+
+
+      3. Gramática reflexiva
+
+
+
+
+      4. Gramática implícita
+
+
+
+
+      (    ) Relaciona-se à competência linguística do falante.
+
+
+
+
+      (    ) Registra as unidades e categorias existentes.
+
+
+
+
+      (    ) Representa as atividades de observação sobre a língua.
+
+
+
+
+      (    ) Estuda apenas os fatos da língua padrão.
+
+
+
+
+      A sequência CORRETA , de cima para baixo, é:
+
+
+
+
+      A)    2 – 4 – 3 – 1.
+
+
+
+      B)
+
+            3 – 4 – 2 – 1.
+
+
+
+
+      C)
+
+            4 – 2 – 3 – 1.
+
+
+
+
+      D)
+
+            4 – 3 – 2 – 1.
+
+
+
+
+      Solução:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                         42/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+      Gabarito: C)       4 – 2 – 3 – 1.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos os tipos de gramática:
+
+
+
+
+           ( implícita ) Relaciona-se à competência linguística do falante.
+
+
+
+
+           ( descritiva ) Registra as unidades e categorias existentes.
+
+
+
+
+           ( reflexiva ) Representa as atividades de observação sobre a língua.
+
+
+
+
+           ( normativa ) Estuda apenas os fatos da língua padrão.
+
+
+
+
+           Portanto, Gabarito Letra C.
+
+
+
+
+                                                                                                   2022     FGV     Prefeitura de São Paulo (SP)
+      Questão            4001315539
+                                                                          Professor - Educação Infantil e Ensino Fundamental (Pref São Paulo/SP)
+
+
+
+      As variações linguísticas são resultantes das modificações constantes da língua, que se relacionam a fatores geográficos,
+
+      sociais, profissionais e situacionais.
+
+
+
+
+      Em relação a variedades linguísticas, assinale a afirmativa inadequada.
+
+
+
+
+      A)    Todas as línguas apresentam variedades e, assim, o que nós chamamos de “norma culta” é somente uma dessas
+
+
+            variedades.
+
+
+
+      B)    A divisão da sociedade em grupos é uma das razões que trazem variedades linguísticas.
+
+
+
+      C)    As variedades linguísticas podem gerar, injustamente, preconceitos em relação ao seu uso.
+
+
+
+      D)    As variedades linguísticas regionais não se modificam como as demais por estarem ligadas a grupos mais conservadores.
+
+
+
+      E)    As pessoas, na interlocução, podem modificar a sua linguagem em função da situação comunicativa em que estão
+
+
+            inseridas.
+
+
+
+
+      Solução:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                  43/59
+                       1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+      Gabarito: D)
+
+
+          As variedades linguísticas regionais não se modificam como as demais por estarem ligadas a grupos mais conservadores.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+            Cuidado: a questão pede a INCORRETA . Vejamos as alternativas.
+
+
+
+
+            A letra A está incorreta.
+
+
+
+
+            CORRETA. Existem variações regionais e sociais, a depender do local onde se vive.
+
+
+
+
+            A letra B está incorreta.
+
+
+
+
+            CORRETA. Esse é um exemplo de variação diastrática ou social.
+
+
+
+
+            A letra C está incorreta.
+
+
+
+
+            CORRETA. Sabemos que as variedades linguísticas podem gerar, injustamente, preconceitos.
+
+
+
+
+            A letra D está correta.
+
+
+
+
+            INCORRETA. As variantes regionais são sim diferentes em cada região (os famosos “sotaques”).
+
+
+
+
+            A letra E está incorreta.
+
+
+
+
+            CORRETA. A variação diafásica é a variação que acontece de acordo com o contexto comunicativo. Portanto, Gabarito
+
+            letra D.
+
+
+
+
+      Questão            4001313641                          2022      MS CONCURSOS          Prefeitura de Patrocínio (MG)      Biólogo (Pref Patrocínio/MG)
+
+
+
+      Referindo-se à Língua falada e língua escrita, assinale (V) verdadeiro ou (F) falso e marque a alternativa devida.
+
+
+
+
+      (    ) Não devemos confundir língua com escrita, pois são dois meios de comunicação distintos. A escrita representa um estágio
+
+      posterior de uma língua. A língua falada é mais espontânea, abrange a comunicação linguística em toda sua totalidade. Além
+
+      disso, é acompanhada pelo tom de voz, algumas vezes por mímicas, incluindo-se fisionomias. A língua escrita não é apenas a
+
+      representação      da   língua   falada,   mas   sim   um     sistema   mais   disciplinado   e   rígido,   uma   vez   que   não   conta   com   o   jogo
+
+      fisionômico, as mímicas e o tom de voz do falante.
+
+
+
+
+      (    ) No Brasil, por exemplo, todos falam a Língua Portuguesa, mas existem usos diferentes da língua devido a diversos fatores.
+
+      Dentre eles, destacam-se: Fatores regionais: é possível notar a diferença do português falado por um habitante da região
+
+      nordeste e outro da região sudeste do Brasil. Dentro de uma mesma região, também há variações no uso da língua. No
+
+      Estado do Rio Grande do Sul, por exemplo, há diferenças entre a língua utilizada por um cidadão que vive na capital e aquela
+
+      utilizada por um cidadão do interior do Estado.
+
+
+
+
+      (    ) Fatores culturais: o grau de escolarização e a formação cultural de um indivíduo também são fatores que colaboram para
+
+      os diferentes usos da língua. Uma pessoa escolarizada utiliza a língua de uma maneira diferente da pessoa que não teve
+
+      acesso à escola.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                  44/59
+                        1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+      (    ) Fatores contextuais: nosso modo de falar varia de acordo com a situação em que nos encontramos: quando conversamos
+
+      com nossos amigos, não usamos os termos que usaríamos se estivéssemos discursando em uma solenidade de formatura.
+
+
+
+
+      (    ) Fatores profissionais: o exercício de algumas atividades requer o domínio de certas formas de língua chamadas línguas
+
+      técnicas.        Abundantes   em   termos   específicos,   essas   formas   têm   uso   praticamente   restrito   ao   intercâmbio   técnico   de
+
+      engenheiros, químicos, profissionais da área de direito e da informática, biólogos, médicos, linguistas e outros especialistas.
+
+
+      A)     V – V – V – V – V.
+
+
+
+      B)     V – V – F – V – V.
+
+
+
+      C)     V – F – V – V – F.
+
+
+
+      D)     V – F – V – F – V.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)        V – V – V – V – V.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+            Vejamos os itens:
+
+
+
+
+            I- ( V). Devemos ter em mente a diferença entre língua (conjunto, sistema organizado) e fala (representação).
+
+
+
+
+            II- ( V). Esse é o conceito de variação linguística.
+
+
+
+
+            III- ( V). Variações sociais são claramente percebidas no dia a dia.
+
+
+
+
+            IV- ( V). Variação situacional é um dos principais pilares da variação linguística. Aqui deve se ter em mente com muita
+
+            clareza a ideia de “adequado” e “inadequado”.
+
+
+
+
+            V- ( V).    Os “jargões técnicos” realmente se restringem à área de atuação de seus falantes. Portanto, Gabarito letra A.
+
+
+
+
+      Questão              4001024939             2022    GUALIMP        Prefeitura de Carmo (RJ)   Professor I - Língua Portuguesa (Pref Carmo/RJ)
+
+
+      GRAMÁTICA E SEU CONCEITO
+
+
+
+
+      A gramática descritiva ou sincrônica é o estudo do mecanismo pelo qual uma dada língua funciona, num dado momento (do
+
+      gr. syn - “reunião”, chrónos “tempo”), como meio de comunicação entre os seus falantes, e na análise da estrutura, ou
+
+      configuração formal, que nesse momento a caracteriza.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                         45/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+      Quando se emprega a expressão gramática descritiva, ou sincrônica, sem outro qualificativo a mais, se entende tal estudo e
+
+      análise como referente ao momento atual, ou presente, em que é feita a gramática.
+
+
+
+
+      Já tinha em princípio esse objetivo a gramática tradicional, elaborada a partir da Antiguidade Clássica para a língua grega e
+
+      em seguida a latina. Em português, desde Fernão de Oliveira e João de Barros no século XVI, vêm se multiplicando as
+
+      gramáticas, pautadas pelo modelo greco-latino, intituladas quer descritivas, quer expositivas. Ora, mais propriamente
+
+      normativas, se limitam a apresentar uma norma de comportamento linguístico, de acordo com a sempre repetida definição
+
+      “arte de falar e escrever corretamente”. Ora, mais ambiciosas e melhor orientadas, procuram ascender a um plano que bem se
+
+      pode chamar científico em seus propósitos, pois procuram explicar a organização e o funcionamento das formas linguísticas
+
+      com objetividade e espírito de análise.
+
+
+
+
+      Tiveram este último propósito as chamadas “gramáticas filosóficas”, como em português a de Jerônimo Soares Barbosa no
+
+      século XVIII. Embora tenha havido recentemente, com a escola norte-americana de Noam Chomsky, certo empenho em
+
+      valorizar essas “gramáticas filosóficas” (Chomsky, 1966), deve se reconhecer que a crítica que a elas se fez, desde os
+
+      princípios do século XIX até meados do séc. XX, era em essência procedente. O fundamento para a ciência da gramática, por
+
+      elas entendida, era a disciplina filosófica da lógica, como a delineara Aristóteles na Grécia Antiga e depois Descartes no séc.
+
+      XVII. A gramática foi entendida como ancilar do estudo filosófico que trata das leis do raciocínio. A justificativa estava no
+
+      pressuposto de que a língua, em sua organização e funcionamento, reflete fielmente essas leis.
+
+
+
+
+      Havia aí, antes de tudo um círculo vicioso. A língua servia para ilustrar a lógica, e a lógica para desenvolver a gramática.
+
+      Depois, a lógica aristotélica e ainda a cartesiana, mesmo quando remodelada já nos meados do séc. XIX pelo filósofo inglês
+
+      John Stuart Mill, está longe de satisfazer aos requisitos de uma análise rigorosa e precisa das leis do raciocínio. Tanto que a
+
+      filosofia do séc. XX procurou recriar a disciplina em linhas matemáticas, sob o título de “lógica simbólica”, num afã em que se
+
+      destacou especialmente o filósofo inglês Bertrand Russel. Finalmente, a base lógica que se pode depreender na organização e
+
+      nos processos comunicativos das línguas é uma compreensão intuitiva das coisas, permeada por toda a vivência humana. Em
+
+      vez de refletirem um exame objetivo e despersonalizado das coisas, as línguas refletem a maneira de as ver por parte de
+
+      homens que se acham nelas interessados e até integrados.
+
+
+
+
+      (Câmara Jr., Joaquim Mattoso. Estrutura da Língua Portuguesa. Petrópolis: Editora Vozes, 1997. 26ª edição.)
+
+
+
+
+      No último parágrafo do texto, o autor faz uma conclusão de um raciocínio crítico sobre as gramáticas filosóficas. Nessa
+
+      conclusão, surge o trecho “Em vez de refletirem um exame objetivo e despersonalizado das coisas, as línguas refletem a
+
+      maneira de as ver por parte de homens que se acham nelas interessados e até integrados”. A leitura desse trecho permite
+
+      inferir que há uma espécie de pressuposto adotado pelo autor:
+
+
+      A)   O de que as gramáticas filosóficas refletem a maneira de os homens verem a língua.
+
+
+
+      B)   O de que as gramáticas filosóficas refletem um exame objetivo e despersonalizado das coisas.
+
+
+
+      C)   O de que as gramáticas filosóficas refletem um exame subjetivo e personalizado das coisas.
+
+
+
+      D)   O de que as gramáticas filosóficas refletem uma maneira não lógica de ver as coisas.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)   O de que as gramáticas filosóficas refletem um exame objetivo e despersonalizado das coisas.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                       46/59
+                     1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+      Comentário do professor:
+
+
+
+
+            O final do 4º parágrafo traz que: “O fundamento para a ciência da gramática, por elas entendida, era a disciplina
+
+            filosófica da lógica, como a delineara Aristóteles na Grécia Antiga e depois Descartes no séc. XVII. A gramática foi
+
+            entendida como ancilar do estudo filosófico que trata das leis do raciocínio. A justificativa estava no pressuposto de
+
+            que a língua, em sua organização e funcionamento, reflete fielmente essas leis.”.
+
+
+
+
+            Infere-se da parte final, principalmente, que as gramáticas filosóficas refletem um exame objetivo e despersonalizado
+
+            das coisas. Portanto, gabarito Letra (B).
+
+
+
+
+                                                                         2022      FCM - Fundação CEFETMINAS         Instituto Federal da Bahia
+      Questão             4001282721
+                                                              Professor do Ensino Básico Técnico e Tecnológico - Área Língua Portuguesa (IFBA)
+
+
+
+      Considerando-se os tipos de gramáticas apresentadas por Evanildo Bechara (2009), associe corretamente a gramática às suas
+
+      respectivas características.
+
+
+
+
+      GRAMÁTICAS
+
+
+
+
+      1 - Descritiva
+
+
+
+
+      2 - Normativa
+
+
+
+
+      CARACTERÍSTICAS
+
+
+
+
+      (    ) Trata-se de uma disciplina científica que registra um sistema linguístico em todos os seus aspectos.
+
+
+
+
+      (    ) Reveste-se de várias formas, segundo o que examina, mediante uma metodologia empregada.
+
+
+
+
+      (    ) Recomenda como se deve falar e escrever, segundo o uso e a autoridade de escritores corretos.
+
+
+
+
+      (    ) Observa-se que os registros são feitos como se diz numa língua funcional.
+
+
+
+
+      (    ) É uma disciplina com finalidade pedagógica.
+
+
+
+
+      A sequência correta dessa associação é
+
+
+
+
+      A)     1, 1, 2, 1, 2.
+
+
+
+      B)     1, 2, 2, 1, 2.
+
+
+
+      C)     2, 1, 1, 2, 1.
+
+
+
+      D)     2, 1, 1, 1, 2.
+
+
+
+      E)     1, 2, 2, 1, 2.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)       1, 1, 2, 1, 2.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                 47/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+      Comentário do professor:
+
+
+
+
+         Vejamos as características:
+
+
+
+
+         ( Descritiva ) Trata-se de uma disciplina científica que registra um sistema linguístico em todos os seus aspectos.
+
+
+
+
+         ( Descritiva ) Reveste-se de várias formas, segundo o que examina, mediante uma metodologia empregada.
+
+
+
+
+         ( Normativa ) Recomenda como se deve falar e escrever, segundo o uso e a autoridade de escritores corretos.
+
+
+
+
+         ( Descritiva ) Observa-se que os registros são feitos como se diz numa língua funcional.
+
+
+
+
+         ( Normativa ) É uma disciplina com finalidade pedagógica.
+
+
+
+
+         A sequência correta é 1, 1, 2, 1, 2. Portanto, Gabarito Letra (A).
+
+
+
+
+                                                                       2022   INSTITUTO CONSULPLAN     Prefeitura de Volta Grande (MG)
+      Questão       4001126384
+                                                                                         Professor de Português (Pref Volta Grande/MG)
+
+      Gramática
+
+
+
+
+      O conceito refere-se a um conjunto de regras que sustentam o sistema de qualquer língua. Na fala, fazemos uso de um
+
+      conhecimento linguístico internalizado, que independe de aprendizagem escolarizada e que resulta na oralidade. Na escrita,
+
+      também utilizamos esse conhecimento, mas necessitamos de outros subsídios linguísticos, fornecidos pelo letramento
+
+      (conjunto de práticas que denotam a capacidade de uso de diferentes tipos de material escrito). O domínio desse conceito é
+
+      importante em quase todas as situações em que se trabalha com a língua. Para ficar em alguns exemplos:
+
+
+
+
+      • Na fala ou na escrita, é fundamental considerar a situação de produção dos discursos que, afinal, são possibilitados pelo
+
+      conhecimento gramatical (morfológico, sintático, semântico) de cada pessoa.
+
+
+
+
+      • Compreender que o aceitável na linguagem coloquial pode ser considerado um desvio na linguagem padrão ou norma
+
+      culta.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                        48/59
+                        1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+      • Abordar os diversos graus de formalidade das situações de interação.
+
+
+
+
+      • Compreender as especificidades das modalidades oral e escrita da língua.
+
+
+
+
+      (Brasil. Ministério da Educação. Secretaria de Educação Média e Tecnológica. PCN+ Ensino Médio: Orientações
+
+      Educacionais Complementares aos Parâmetros Curriculares Nacionais: Linguagens, códigos e suas tecnologias.
+
+      Brasília: MEC/SEMTEC. Adaptado.)
+
+
+
+
+      Considerando o texto, pode-se afirmar que:
+
+
+
+
+      I. A língua é um sistema dinâmico.
+
+
+
+
+      II. As regras da linguagem padrão estão bem estabelecidas sendo aplicadas a todo tipo de contexto.
+
+
+
+
+      III. A partir de uma abordagem mais ampla da gramática, pode-se implementar conceitos como “adequação” e “inadequação”
+
+      em substituição a antigos conceitos.
+
+
+
+
+      Está correto o que se afirma apenas em
+
+
+      A)    I.
+
+
+
+      B)    III.
+
+
+
+      C)    I e III.
+
+
+
+      D)    II e III.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)       I e III.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos os itens:
+
+
+
+
+           I. ( V) É o que vemos em “Na fala ou na escrita, é fundamental considerar a situação de produção dos discursos”.
+
+
+
+
+           II. ( F) Se a língua é dinâmica, pode haver um maior ou menor graus da linguagem padrão, a depender do contexto.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                              49/59
+                       1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+           III. ( V) Os conceitos de “adequação” e “inadequação” referem-se aos níveis de formalidade da situação.
+
+
+
+
+           Portanto, Gabarito Letra (C).
+
+
+
+
+                                                                                                  2022     MetroCapital     Prefeitura de Cerquilho (SP)
+      Questão                4001184391
+                                                                                Professor de Educação Básica II - Língua Portuguesa (Pref Cerquilho/SP)
+
+
+
+      No tocante à obra de Marcuschi (Da Fala para a Escrita), julgue os itens a seguir e, ao final, assinale a alternativa correta:
+
+
+
+
+      I - A língua, seja na sua modalidade falada ou escrita, reflete, em boa medida, a organização da sociedade.
+
+
+
+
+      II   -    Assim       como   a    fala   não   apresenta   propriedades   intrínsecas   negativas,   também     a   escrita   não   propriedades
+
+      intrínsecas privilegiadas.
+
+
+
+
+      III - Do ponto de vista cronológico, a fala tem uma grande precedência sobre a escrita, mas do ponto de vista do prestígio
+
+      social, a escrita é vista como mais prestigiosa que a fala.
+
+
+
+
+      A)       Apenas o item I é verdadeiro.
+
+
+
+      B)       Apenas o item II é verdadeiro.
+
+
+
+      C)       Apenas o item III é verdadeiro.
+
+
+
+      D)       Apenas os itens I e II são verdadeiros.
+
+
+
+      E)       Todos os itens são verdadeiros.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: E)          Todos os itens são verdadeiros.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos os itens:
+
+
+
+
+                I.   ( V)   Marcuschi   destaca que a língua, tanto    na modalidade falada quanto         na escrita, reflete a organização      da
+
+                     sociedade, refletindo suas normas, valores e estruturas sociais.
+
+
+
+
+                I.   ( V) Marcuschi argumenta que tanto a fala quanto a escrita não possuem propriedades intrínsecas negativas ou
+
+                     positivas, sendo ambas formas de comunicação igualmente válidas e eficazes.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                          50/59
+                      1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+              I.    ( V) Embora a fala tenha uma precedência cronológica sobre a escrita, do ponto de vista do prestígio social, a
+
+                    escrita   é   muitas   vezes     considerada        mais    prestigiosa      do   que      a   fala,   especialmente     em    contextos      formais       e
+
+                    acadêmicos.
+
+
+
+
+          Portanto, Gabarito Letra (E).
+
+
+
+
+                                                                                          2022        Reis & Reis Auditores Associados            Prefeitura de Juatuba (MG)
+      Questão               4001121719
+                                                                                              Professor de Educação Básica – P III – Português (Pref Juatuba/MG)
+
+
+
+      A diversidade e o preconceito linguísticos no Brasil: uma luta da psicologia e do multiculturalismo.
+
+
+
+
+      O preconceito linguístico existe no Brasil e persiste ao longo da história desde o período colonial. Os portugueses ignoraram
+
+      a língua nativa dos moradores que aqui viviam e passaram a ensinar o português. E por não saberem a língua portuguesa, os
+
+      nativos perdiam os seus direitos garantidos diante da Corte.
+
+
+
+
+      Quanta injustiça os índios não viveram? E para sobreviverem, muitos tiveram que aprender o português que aos poucos fez
+
+      com que muitas línguas indígenas fossem esquecidas, já que não foram documentadas e não mais ensinadas para as gerações
+
+      futuras.
+
+
+
+
+      Na sociedade atual, diariamente somos surpreendidos com notícias de que alguém sofreu algum tipo de preconceito, seja
+
+      social,     sexual,   preconceito      físico,     de   gênero,   etc.,   e    também      preconceito         linguístico.     Mas,   como      definir   o    preconceito
+
+      linguístico em um país que tem 26 Estados e o Distrito Federal, onde no mesmo Estado ou região, pode haver variação de
+
+      sotaques e usos de palavras para um determinado objeto?
+
+
+
+
+      Primeiramente vamos compreender o significado de linguística. Segundo o dicionário Houaiss, “Linguística é a ciência que
+
+      estuda a linguagem humana, a estrutura das línguas e sua origem, desenvolvimento e evolução”. Ou seja, cada lugar, cada
+
+      povo possui a sua própria língua, a sua forma de se comunicar uns com os outros. Além da língua, existe o dialeto, o qual
+
+      conforme o       dicionário     citado    anteriormente, é “qualquer variedade linguística coexistente com outra e que não                                         pode ser
+
+      considerada       outra     língua   (p.ex.:   no   dialeto    português       do   Brasil,     o   dialeto    caipira,   o   nordestino,    o   gaúcho,       etc.)”.   Logo,
+
+      conclui-se que dialeto é uma variedade linguística, termo utilizado para se referir a formas diferentes de utilizar a língua de
+
+      um mesmo país. Essas variedades linguísticas resultam da variação de uma língua que ocorre devido a vários fatores, como
+
+      por exemplo, a faixa etária, a escolaridade, a região, o contexto social e cultural.
+
+
+
+
+      O preconceito linguístico.
+
+
+
+
+      Agora é preciso compreender o termo preconceito. O dicionário de Evanildo Bechara define-o da seguinte forma: “Conceito,
+
+      sentimento ou atitude discriminatória em relação a pessoas, ideias, etc.”. Assim, o preconceito linguístico se manifesta ante as
+
+      diferenças que existem na forma diversificada de falar, que “cada indivíduo observa como errado”, considerando apenas como
+
+      certa   a    variação    de   aceitação    no      que   diz   respeito    à   norma    culta       ou   padrão,     e   diminuindo    o    valor   das    demais        formas
+
+      linguísticas, classificando-as como inferiores. Pode-se dizer que preconceito linguístico é qualquer crença sem fundamento
+
+      científico acerca das línguas e de seus usuários. Ora, a linguagem, como dito, é um mecanismo de comunicabilidade e deve
+
+      ser usada por todos, sem discriminação. É um absurdo achar que somente a língua aprendida nas academias, que segue as
+
+      regras da norma culta, é correta. Se a linguagem é uma forma de expressão do indivíduo, o que importa é que a mensagem
+
+      emanada pelo emissor chegue até o ouvinte e por esse seja decodificada e compreendida. Se isso aconteceu, está tudo certo.
+
+
+
+
+      Outra questão que necessita ser observada é diferenciar a linguagem escrita, que segue regras e padrões de formatação que
+
+      não podem ser alterados pelo fato da linguagem falada ser diferente. Se uma pessoa falar “nóis vai”, não quer dizer que irá
+
+      escrever da mesma forma.
+
+
+
+
+      O   sistema     econômico       subjugou       a   língua   falada,   padronizando          o   comportamento             das   pessoas,   privilegiando       alguns      para
+
+      exercer o poder. Isto é, quem pertence à classe social alta, tem mais acesso à educação, inclusive, alguns estudam em escolas
+
+      que alfabetizam em duas ou mais línguas, além do português.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                                       51/59
+                      1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+      Tanto    é   verdade        que,   por   exemplo,      entre     grupos   de     médicos,        engenheiros,      advogados,       psicólogos,     entre    outras   tantas
+
+      profissões, há termos técnicos que são falados entre aqueles profissionais e que não fazem parte do vocabulário dos falantes
+
+      daquela língua e nem por isso, estes, por se utilizarem de vocábulos “diferentes” são excluídos ou diminuídos pelos demais,
+
+      ao contrário, são venerados.
+
+
+
+
+      De igual forma, há uma discriminação dos mais jovens para com os mais velhos, mesmo em relação à linguagem. Como
+
+      explica Maria Homem,               em seu     canal,   esse fenômeno            consiste no          embate estrutural,      como       sempre,   que está implícito       na
+
+      palavra      cringe,    pois,    durante     milênios,     os   anciãos    eram        os   que      tinham    mais    respeito,   em    razão    dos   anos   vividos,    da
+
+      experiência e com ela a sabedoria. Inverter essa estrutura se traduz na prepotência da modernidade, que não cuida dos mais
+
+      velhos, ao contrário, maltrata, não abarca esse caldeirão de experiências, desvalidando aquilo que não se faz mais.
+
+
+
+
+      Ora, não é diferente com a linguagem. Os mais jovens desvalidam os mais antigos, a partir de gírias como “broto, pão, avião”
+
+      que se referiam a alguém bonito e que representam uma determinada geração. Aqueles que reproduzem esses vocábulos são
+
+      alvo   de    tratamento         pejorativo,    jocoso,     demonstram          estar   fora     de    época,   ultrapassados,      cringe,    como      alguém      que   traz
+
+      vergonha, e, portanto, algo que deve ser marginalizado, discriminado, numa verdadeira expressão do preconceito linguístico.
+
+
+
+
+      É oportuno lembrar que existem dois tipos de gramáticas para os linguistas: a normativa e a descritiva. A primeira é a “base
+
+      da maioria dos livros didáticos e gramáticas pedagógicas, em que se caracteriza um conjunto de regras. Considerada como o
+
+      conjunto sistemático da norma, ou seja, para o falar bem e escrever. Essa concepção parte do princípio de que todos que
+
+      falam, sabem de fato, falar. Essa fala segue regras que são consideradas legítimas do ponto de vista do uso e da comunicação
+
+      entre os diversos tipos de falantes/usuários”. Já a descritiva “tem a preocupação de analisar, descrever e explicar a construção
+
+      dos enunciados, que são utilizados de fato pelos falantes”. Dessa forma, os professores precisam ensinar a variação da língua
+
+      de forma realista (gramática descritiva) e não utópica (gramática normativa), a fim de minimizar os impactos, fazendo com
+
+      que o aluno reconheça a importância da própria história, sem perder a essência e ser inserido no novo ambiente, de forma
+
+      que os demais o recebam com respeito.
+
+
+
+
+      É oportuno frisar que, diante desse contexto, o preconceito devia ser considerado um problema de saúde pública. O site Veja
+
+      Saúde publicou uma pesquisa da Universidade Federal de Santa Catarina (USFC), que “concluiu que vítimas de discriminação
+
+      têm    um     risco    quatro      vezes    maior    de    desenvolver     depressão            ou   ansiedade     e   ainda     estão    propensas     a   agravos   como
+
+      hipertensão”.     “A experiência           crônica   de intolerância       estimula         a   liberação     de hormônios relacionados ao              estresse,   como    o
+
+      cortisol”, explica o epidemiologista João Luiz Dornelles Bastos, um dos autores do trabalho”.
+
+
+
+
+      Desse modo, nota-se que não somente a pessoa que está sendo discriminada, mas, também quem está discriminando pode
+
+      sofrer problemas psicológicos, como afirma na matéria: a “pessoa prestes a agir de maneira hostil se submete a um estresse
+
+      interno”, explica Ricardo Monezi, psicobiólogo da Pontifícia Universidade Católica de São Paulo.
+
+
+
+
+      Conclusão.
+
+
+
+
+      A classificação de certo ou errado para os usos da língua portuguesa não deveria existir, já que há a adaptação do contexto
+
+      coloquial. A pessoa utiliza determinada maneira para falar, levando em consideração o ambiente familiar, a renda, região que
+
+      mora, formando a sua própria identidade.
+
+
+
+
+      A    diversidade       na   forma   de     falar   torna   o    Brasil   com    múltiplas       características,      já   que   cada    região   tem   um   sotaque,     seu
+
+      vocabulário próprio, sua forma de se expressar, a exemplo das diversas línguas indígenas que carregam em si uma história.
+
+
+
+
+      (Fonte:         https://encenasaudemental.com/comportamento/insight/adiversidade-e-o-preconceito-linguisticos-no-brasil-uma-
+
+      luta-dapsicologia-e-do-multiculturalismo/Acesso em: 14/06/2022. Texto adaptado).
+
+
+
+
+      O texto afirma que “existem dois tipos de gramáticas para os linguistas: a normativa e a descritiva”. Sobre esses tipos de
+
+      gramáticas, é correto afirmar que:
+
+
+      A)     A gramática descritiva descreve a língua conforme seu uso pelos falantes, de forma sincrônica.
+
+
+
+      B)     A gramática descritiva descreve as mudanças que ocorrem na língua ao longo do tempo, isto é, é uma gramática
+
+
+             diacrônica.
+
+
+
+      C)     A gramática normativa compara as relações entre a língua escrita versus a língua falada.
+
+
+
+      D)     A gramática normativa estabelece as regras para a linguagem formal e a linguagem informal.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                                      52/59
+                     1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)         A gramática descritiva descreve a língua conforme seu uso pelos falantes, de forma sincrônica.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A gramática normativa trata de normas, já a gramática descritiva pensa a língua a partir do uso. Essa é a ideia trazida
+
+
+           na alternativa (A).
+
+
+
+
+           Portanto, Gabarito Letra (A).
+
+
+
+
+                                                                                      2019     Instituto EXCELÊNCIA     Prefeitura de Lucélia (SP)
+      Questão              2379605709
+                                                                              Professor de Educação Básica II Língua Portuguesa (Pref Lucélia/SP)
+
+      Com base em Fiorin analise as afirmativas abaixo :
+
+
+
+
+      I - No sistema linguístico, temos oposições fônicas e semânticas e regras combinatórias dos elementos linguísticos.
+
+
+
+
+      II - A linguagem verbal comunica mais do que aquilo que se significa num enunciado, pois, quando se fala, comunicam-se
+
+      também conteúdos implícitos.
+
+
+
+
+      III - A Pragmática estuda a relação entre a estrutura da linguagem e seu uso, o que fora deixado de lado pelas correntes
+
+      anteriores da linguística, que criaram outros objetos teóricos.
+
+
+
+
+      IV - A enunciação é o ato de produzir enunciados, que são as realizações linguísticas concretas.
+
+
+
+
+      Estão CORRETAS as afirmativas:
+
+
+
+
+      A)    I, III e IV.
+
+
+
+      B)    I, II e IV.
+
+
+
+      C)    I, II, III e IV.
+
+
+
+      D)    Nenhuma das alternativas.
+
+
+
+
+      Solução:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                    53/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+      Gabarito: A)   I, III e IV.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A única afirmação incorreta é a II, apenas por um detalhe: os “conteúdos implícitos”, que estão para além do
+
+
+           enunciado, não estão na linguagem verbal, mas em aspectos mais amplos que caracterizam o contexto da
+
+
+           comunicação: a situação, as pessoas envolvidas, a linguagem corporal, o tom de voz, etc.
+
+
+
+
+           Gabarito: letra A.
+
+
+
+
+      Questão         1912962890           2019    UNESC     Prefeitura de Maracajá (SC)   Professor de Língua Portuguesa (Pref Maracajá/SC)
+
+
+
+      As discussões sobre a variação linguística e o preconceito linguístico chegaram ao ensino de língua principalmente a partir de
+
+      1980, quando os cursos de Letras passaram a introduzir em seus currículos disciplinas ligadas à Linguística. Mais tarde foram
+
+      também apresentados nos Parâmetros Curriculares Nacionais.
+
+
+
+
+      Assinale a alternativa que apresenta a área da Linguística que estuda os fenômenos decorrentes da fala.
+
+
+
+
+      A)    Sociolinguística
+
+
+
+      B)    Linguística Textual
+
+
+
+      C)    Análise do Discurso
+
+
+
+      D)    Variação Linguística
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)   Sociolinguística
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A Sociolinguística é a vertente da Linguística conhecida por se ocupar dos fenômenos variáveis. Embora se façam,
+
+
+           também, estudos sob essa corrente teórica focados em língua escrita, entende-se, em geral, que a variação nasce na
+
+
+           fala — o que se manifesta na escrita representa, de alguma maneira, o que, antes, ocorre na fala.
+
+
+
+
+           A Linguística Textual e a Análise do Discurso se voltam mais para o texto escrito, o que elimina as alternativas B e C.
+
+
+
+
+           A variação linguística, apontada na letra D, não é uma área científica, mas um elemento presente em todas as línguas
+
+           do mundo — e estudado pela Sociolinguística.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              54/59
+                     1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+           Gabarito: letra A.
+
+
+
+
+      Questão             1729909825    2018      CESPE (CEBRASPE)         Instituto Federal Fluminense     Professor de Letras - Espanhol (IFFluminense)
+
+
+               A ideia de “mar” não está ligada por relação alguma interior à sequência de sons m-a-r que lhe serve de significante;
+
+
+      poderia ser representada igualmente bem por outra sequência, não importa qual.
+
+
+
+
+               O significante, sendo de natureza auditiva, desenvolve-se no tempo, unicamente, e tem as características que toma do
+
+      tempo: representa uma extensão e essa extensão é mensurável em uma só dimensão.
+
+
+
+
+                                                                           Ferdinand de Saussure Curso de linguística geral São Paulo:
+
+      Cultrix, 2006 (com adaptações)
+
+
+
+
+      Os parágrafos precedentes tratam, respectivamente, dos seguintes princípios básicos do signo linguístico:
+
+
+
+
+      A)    significante e significado.
+
+
+
+      B)    conceito e imagem acústica.
+
+
+
+      C)    arbitrariedade do signo e linearidade do significante.
+
+
+
+      D)    imutabilidade do signo e significante.
+
+
+
+      E)    mutabilidade do signo e linearidade do significante.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)     arbitrariedade do signo e linearidade do significante.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           No primeiro parágrafo, o texto aborda a arbitrariedade do signo , que significa que não há uma relação intrínseca entre
+
+           o   significante (a   sequência    de sons "m-a-r")      e o   significado   (a   ideia   de "mar").   Essa   arbitrariedade implica   que a
+
+           relação entre o som e o seu significado é convencional e culturalmente determinada, e poderia ser representada por
+
+           qualquer outra sequência de sons, desde que haja consenso na comunidade linguística.
+
+
+
+
+           No segundo parágrafo, o texto discute a linearidade do significante, destacando que ele se desenvolve no tempo, em
+
+           uma    única   dimensão.    Isso   significa   que os   elementos   sonoros       que compõem     o    significante se sucedem    em    uma
+
+           sequência linear ao longo do tempo da fala ou da escrita, sem possibilidade de retorno ou de ocupação simultânea de
+
+           diferentes posições no tempo.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                           55/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+           Gabarito: letra C.
+
+
+
+
+      Questão          2085927001               2018    CEV-URCA     Prefeitura de Milagres (CE)   Professor de Português (Pref Milagres/CE)
+
+
+      Dadas as informações retiradas dos PCNs, responda o que se pede:
+
+
+
+
+      I - A linguagem é uma forma de ação interindividual orientada por uma finalidade específica; um processo de interlocução
+
+      que se realiza nas práticas sociais existentes nos diferentes grupos de uma sociedade, nos distintos momentos da sua história.
+
+
+
+
+      II - A língua é um sistema de signos histórico e social que possibilita ao homem significar o mundo e a realidade. Assim,
+
+      aprendê-la é aprender não só as palavras, mas também os seus significados culturais e, com eles, os modos pelos quais as
+
+      pessoas do seu meio social entendem e interpretam a realidade e a si mesmas.
+
+
+
+
+      III - O discurso, quando produzido, manifesta- se linguisticamente por meio de textos. Assim, pode-se afirmar que texto é o
+
+      produto da atividade discursiva oral ou escrita que forma um todo significativo e acabado, qualquer que seja sua extensão. É
+
+      uma sequência verbal constituída por um conjunto de relações que se estabelecem a partir da coesão e da coerência. Esse
+
+      conjunto de relações tem sido chamado de textualidade.
+
+
+
+
+      IV - Os gêneros são determinados historicamente. As intenções comunicativas, como parte das condições de produção dos
+
+      discursos, geram usos sociais que determinam os gêneros que darão forma aos textos. É por isso que, quando um texto
+
+      começa com “era uma vez”, ninguém duvida de que está diante de um conto, porque todos conhecem tal gênero.
+
+
+
+
+      A)    Todas estão corretas;
+
+
+
+      B)    I e II estão corretas;
+
+
+
+      C)    II e III estão corretas;
+
+
+
+      D)    III e IV estão corretas;
+
+
+
+      E)    Todas estão incorretas.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Todas estão corretas;
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Todas as alternativas apresentam afirmações corretas. A linguagem tem o seu aspecto social, destacado na afirmativa
+
+
+           em I, os seus aspectos histórico e cultural, destacados em II. O discurso, que aparece em III, está em um plano superior
+
+
+           ao texto (que seria apenas o seu meio de materialização), pois está relacionado a fatores ideológicos -- não se inicia
+
+
+           nem se encerra no texto, que podemos caracterizar como sequências verbais às quais são caras a coesão e a coerência,
+
+
+           clássicos fatores de textualidade. Os gêneros textuais, em foco na afirmativa IV, se formam a partir das situações
+
+
+           comunicativas, que são sensíveis a cultura e história (exemplo: em 1920 não existia o gênero textual "e-mail"
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              56/59
+                   1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+           simplesmente porque não havia nem mesmo internet; a partir do momento em que a tecnologia avança e esses
+
+
+           recursos são criados, novas situações comunicativas nascem e, consequentemente, novos gêneros textuais surgem).
+
+
+
+
+           Gabarito: letra A.
+
+
+
+
+                                                                                               2018     FADESP      Instituto Federal do Pará
+      Questão         62031793
+                                                      Professor Ensino Básico, Técnico e Tecnológico - Letras Habilitação em Português (IFPA)
+
+
+
+
+      De acordo com o texto, a oposição de Bakhtin às ideias de Saussure baseia-se
+
+
+
+
+      A)    na negação da dualidade que caracteriza a linguagem.
+
+
+
+      B)    na compreensão da linguagem como fenômeno social.
+
+
+
+      C)    na discordância quanto ao objeto do estruturalismo.
+
+
+
+      D)    na contestação dos conceitos propostos por Saussure.
+
+
+
+      E)    no entendimento da linguagem como meio de comunicação.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)   na negação da dualidade que caracteriza a linguagem.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                               57/59
+                 1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+         Gabarito: letra A.
+
+
+
+
+         Vejamos, a seguir, os erros das opções de resposta.
+
+
+
+
+         A letra A está correta.
+
+
+         Esta alternativa, sintetiza bem a oposição que Bakhtin faz à abordagem de Saussure, que nada mais é do que a recusa
+
+
+         da dualidade como caracterizadora da linguagem. Releia o primeiro parágrafo: “A dualidade fundamental da linguagem
+
+
+         que nasce da oposição saussureana língua/fala foi (...) duramente contestada pelo soviético Bakhtin, já no final da
+
+
+         década de 20. A oposição que Bakhtin (1929) faz a Saussure é radical, se levarmos em conta que a linguagem, para
+
+
+         esse filósofo, não se divide em duas instâncias, língua e fala, ou língua e discurso, ou ainda competência e
+
+
+         performance. A enunciação, “a verdadeira substância da língua”, é, para Bakhtin, a síntese do processo da linguagem,
+
+
+         o conceito-chave para se entender os processos linguísticos."
+
+
+
+
+         A letra B está incorreta.
+
+
+         Releia as duas primeiras linhas do segundo parágrafo (“Assim como Saussure, Bakhtin parte do princípio de que a
+
+
+         língua é um fato social cuja existência funda-se nas necessidades de comunicação”) e perceba que, embora essas
+
+
+         perspectivas não interessem para o autor, em momento algum o texto afirma que Saussure nega a linguagem como
+
+
+         meio de comunicação ou como um fenômeno social — o que elimina esta alternativa
+
+
+
+
+         A letra C está incorreta.
+
+
+         Incorreta porque, além de o texto não mencionar o objeto de estudo priorizado pelo Estruturalismo (a língua, sistema
+
+
+         subjacente, em oposição à fala, a manifestação linguística), tira o foco da verdadeira discordância entre os dois
+
+
+         autores, que está no fato de um considerar a linguagem como um sistema dual, de oposição, e o outro não acreditar
+
+
+         nessa divisão. Em outras palavras, ao afirmar que Bakhtin discorda do objeto do Estruturalismo, a alternativa sugere
+
+
+         que Bakhtin acredite que o objeto deveria ser o outro lado da oposição, a fala — quando, na verdade, o autor não
+
+
+         está de acordo com a própria dualidade.
+
+
+
+
+         A letra D está incorreta.
+
+
+         Em comparação à primeira alternativa, já não se mostra uma boa resposta por ser extremamente genérica (é claro que
+
+
+         um autor discorda de conceitos propostos por outro, mas que conceitos são esses?) e não apontar, como pede o
+
+
+         enunciado, qual exatamente seria a base da diferença entre as ideias de Bakhtin e Saussure. Acrescente-se a isso o fato
+
+
+         de essa generalização dar a entender que Bakhtin discorda de todos os conceitos propostos por Saussure, o que não é
+
+
+         verdade (de novo, confira o início do segundo parágrafo).
+
+
+
+
+         A letra E está incorreta.
+
+
+
+
+         Releia as duas primeiras linhas do segundo parágrafo (“Assim como Saussure, Bakhtin        parte do princípio de que a
+
+         língua é um fato social     cuja existência funda-se nas necessidades de comunicação”)    e perceba que, embora essas
+
+         perspectivas não interessem para o autor, em momento algum o texto afirma que Saussure nega a linguagem como
+
+         meio de comunicação ou como um fenômeno social — o que elimina esta alternativa.
+
+
+
+
+         Gabarito: letra A.
+
+
+
+
+   Referências e links deste capítulo
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                  58/59
+                  1. Fundamentos da Linguística. Concepções de gramática; tipos de gramática. Teoria do sig
+
+
+
+
+         1 http://www.super.abril.com.br/
+
+
+
+
+         2 1 Utilizaremos os estudos de Travaglia (“Gramática e interação: uma proposta para o ensino
+
+
+         de Gramática no 1º e 2º graus”, 2001) e Possenti, (“Por que (não) ensinar gramática na escola,
+
+         1996).
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                     59/59
+

@@ -1,0 +1,6815 @@
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+   Linguística para Câmara dos Deputados
+   (Analista Legislativo - Registro e Redação)
+   Prof. Patricia Manzato
+
+
+
+
+   6 Palavras homônimas, parônimas e cognatas. Relações de
+
+   sentido entre palavras: sinonímia, antonímia, hiperonímia,
+
+   hiponímia, campo semântico. Denotação e conotação. Retórica
+
+   e figuras de linguagem.
+
+   Documento última vez atualizado em 07/10/2026 às 20:14.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                 1/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+           6.1   Noções Iniciais ............................................................................................................................... 3
+
+
+
+
+           6.2   Estilística ........................................................................................................................................   3
+
+
+
+
+           6.3   Figuras de Linguagem ..............................................................................................................                    14
+
+
+
+
+           6.4    1.4 Semântica x Estilística ....................................................................................................... 48
+
+
+
+
+           6.5   Semântica .................................................................................................................................... 48
+
+
+
+
+           6.6    Estilística e Semântica na Sala de Aula ..............................................................................                            54
+
+
+
+
+           6.7   Questões Comentadas ............................................................................................................. 55
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                                        2/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+   6.1 Noções Iniciais
+
+
+
+
+     1.1 Noções Iniciais
+    Fala, pessoal!
+
+
+
+    Esta aula entra em dois campos muito vastos da Língua Portuguesa: Semântica e Literatura.
+
+    Isso quer dizer que, em muitos momentos, recordarei o conhecimento de vocês sobre Teoria da
+
+    Literatura ou ainda aspectos semânticos.
+
+
+
+    Campo da Linguística Moderna, a Estilística tem sido estudada em sala de aula principalmente
+
+    em três "assuntos" diferentes: Figuras de Linguagem, Polissemia e Ambiguidade. Assim, além de
+
+    estudar    a Estilística, utilizaremos do campo da Semântica                    para dar   maior   profundida nesses
+
+    assuntos. Por isso, esses três tópicos serão o cerne da nossa aula.
+
+
+
+    Para iniciarmos a aula já com a definição estabelecida, tenha em mente que Estilística:
+
+
+
+
+     é a disciplina que estuda a linguagem, quanto aos seus recursos expressivos, ou seja, seu foco
+
+     é o estilo. Para se chegar ao estudo completo, é possível que ela se utilize da retórica, da
+
+     gramática e da literatura.
+
+
+
+
+    Mas, Patrícia, e "estilo"? Parece um pouco vago, não?!
+
+
+
+    Pois bem, parece vago e, em muitas disciplinas, tem sua amplitude maior. Porém, dentro da
+
+    Estilística, entendemos que estilo
+
+
+
+
+     compreende       o   conjunto   de   processos    que   fazem    da língua um      meio   de   exteriorização   da
+
+     linguagem.
+
+
+
+     É a maneira de escrever, de se expressar, de deixar uma marca pessoal no uso da língua
+
+     falada ou escrita.
+
+
+
+
+    Assim, veremos aspectos importantes que têm sido cobrados em sua prova, ok?!
+
+
+
+    Vem comigo!
+
+
+
+    Prof. Patrícia Manzato
+
+
+
+
+   6.2 Estilística
+
+
+
+
+                                    Para assistir ao vídeo correspondente, acesse o LDI.
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          3/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Estilística
+    A Estilística como uma ciência recente: fundada no início do século XX pelo suíço Charles Bally
+
+    e o alemão Karl Vossler. Contudo, desde muito cedo (na Grécia Antiga) seus fundamentos já
+
+    eram utilizados, por exemplo, na retórica
+
+
+
+    Cabe frisar que a Estilística possui um caráter descritivo-interpretativo, sem considerações de
+
+    natureza normativa – característica eminente da gramática. Assim, entenda que no estudo da
+
+    Estilística vamos trabalhar muito mais com categorias do que com a dicotomia “certo-errado”.
+
+
+
+    Há algumas divisões, correntes distintas, que basicamente convergem para o mesmo estudo:
+
+    expressividade       da   língua   e   do   autor.   Esse   estudo   permite    que   sejam   estudadas   categorias
+
+    básicas, como funções da linguagem, o estilo, o sentido.
+
+
+
+
+    Perceba, portanto, que o estilo, bem como a Estilística, e a gramática não são excludentes, mas
+
+
+    se completam no estudo dos processos do material de que o gênero humano se utiliza na
+
+
+    exteriorização das ideias e sentimentos ou do conteúdo do pensamento designativo.
+
+
+
+    Exemplos disso são as aparentes irregularidades registradas pela gramática que têm sua origem
+
+    em motivações de natureza estilística – que é o caso das elipses (omissões):
+
+
+
+    Ex: “Na sala, [havia] apenas quatro ou cinco convidados.” (Machado de Assis)
+
+
+
+    Omissão do verbo “haver”
+
+
+
+    “A tarde talvez fosse azul, [se]não houvesse tantos desejos.” (Carlos Drummond de Andrade)
+
+
+
+    Omissão da conjunção “se”.
+
+
+
+    “Onde [está] a minha namorada...” (Edu Lobo)
+
+
+
+    Omissão do verbo “está”.
+
+
+
+    Do estilo decorre o efeito estilístico. Nada mais é de qual efeito o autor/enunciador gostaria de
+
+    transmitir a partir de suas escolhas lexicais (vocabulário), semânticas (sentido) e fônicas (variação
+
+    linguística, sotaque).
+
+
+
+    Vamos a alguns exemplos da Literatura?!
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          4/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     É um vadio e um bêbado muito grande. Ainda hoje deixei ele na quitanda, enquanto eu ia lá
+
+     embaixo na cidade.
+
+
+
+                                                     Machado de Assis, “Memórias Póstumas de Brás Cubas”
+
+
+
+
+    Nesse exemplo, Machado de Assis optou pelo desvio das normas gramaticais, para poder trazer
+
+    ao texto maior verossimilhança à fala do escravo Prudêncio. Por isso ele usa “deixei ele” ao
+
+    invés de “deixei-o” ou ainda “lá embaixo na cidade”, e não “à cidade”.
+
+
+
+
+     Eis-me prostrado a vossos peses
+
+
+
+     Que sendo tantos todo plural é pouco
+
+
+
+     Deglutindo gratamente vossas fezes.
+
+
+
+              Carlos Drummond de Andrade
+
+
+
+
+    No exemplo acima, o poeta, para enfatizar a importância do deus Kom Unik Assão, traz desvio
+
+    da norma gramatical quanto à formação do plural: “peses”, e não “pés”. Esse desvio também foi
+
+    importante para compor a rima “pezes / fezes”.
+
+
+
+    Assim,    por    mais   que   sejam   desvios    de   norma,    os   exemplos    acima   são     estilísticos,   pois   tem
+
+    finalidade expressiva. E quanto à escolha, Gladstone Chaves de Melo (1976: 23)) ensina que ela
+
+    é “a alma do estilo”.
+
+
+
+    Sentido
+
+
+
+    Se   o   texto   é   coerente,   logo   possui   conteúdo.      Portanto,   o   leitor/ouvinte    deve   ser     capaz   de
+
+    perceber a mensagem transmitida pelo texto, ou seja, captar as informações e a intenção do
+
+    autor.
+
+
+
+    Para isso, precisamos fazer a diferenciação entre "informação", "conteúdo" e "sentido".
+
+
+
+
+         Não confunda: Informação, Conteúdo e Sentido
+
+
+
+         Informação é todo dado ou conhecimento usado no texto.
+
+
+
+
+         Conteúdo refere-se ao tema central de um determinado texto.
+
+
+
+         Sentido     inclui   informações     explícitas   (ditas   ou   escritas   diretamente)      e   implícitas   (as
+
+         intenções do autor).
+
+
+
+         Portanto...
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                 5/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+         Perguntar     a   um   leitor    pelo    conteúdo   do   texto    que      ele   acabou       de       ler   não   significa
+
+         perguntar pelas informações, da mesma forma que entender o conteúdo do texto não
+
+         implica necessariamente entender o sentido nele contido.
+
+
+
+
+    Vamos a um caso prático?!
+
+
+
+    Texto 1:
+
+
+
+
+    Cidade de SP tem um roubo a cada quatro
+    minutos em 2021, diz levantamento da SSP
+    Alta é de 0,8% em 2021 em relação a 2020, de acordo com Secretaria de Segurança Pública
+
+    (SSP).
+
+
+
+    Número de casos de latrocínio cresceu 15% e roubos de veículos teve alta de 30%. SSP afirma
+
+    que
+
+
+
+    Índices de latrocínios e furtos de 2021 diminuíram quando comparados com 2019.
+
+
+
+    Disponível em <https://g1.globo.com/sp/sao-paulo/noticia/2022/01/27/cidade-de-sp-tem-um-
+
+    roubo-a-cada-quatro-minutos-em-2021-diz-levantamento-da-ssp.ghtml>
+
+
+
+    Texto 2:
+
+
+
+
+    Disponível em <http://www.homortadela.com.br >
+
+
+
+    Estamos      diante    de   dois     textos   de   gêneros    distintos:    o    Texto     1   é   uma          notícia,   um   texto
+
+    eminentemente          informativo,     com    linguagem      clara   e   objetiva;    o   Texto    2       é     uma   charge,   que
+
+    mescla      linguagem       verbal     e     não   verbal,   com      linguagem        simples          e       mais    próxima     da
+
+    coloquialidade.
+
+
+
+    Vejamos suas semelhanças e diferenças:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                            6/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Quanto ao conteúdo, tanto o Texto 1 quanto o Texto 2 tratam sobre o aumento da violência em
+
+    São Paulo.
+
+
+
+    Já as informações trazidas são distintas: Texto 1 traz dados ("um roubo a cada 4 minutos em
+
+    2021"; "Alta é de 0,8% e 2021"; "número de casos de latrocínio cresceu 15%") e o Texto 2 traz
+
+    também      um   dado, de          forma mais sutil          (ao afirmar   que   "eles [empresas de               blindagem] estão
+
+    faturando em cima do nosso trabalho", o texto traz a informação de aumento da procura por
+
+    carros blindados em virtude do aumento da violência).
+
+
+
+    Quanto     ao   sentido,       o    Texto   1,   de    cunho    informativo,     traz   a   contraposição          entre     os   dados
+
+    apresentados e o discurso da Secretaria de Segurança Pública (SSP), já o Texto 2, por trazer
+
+    elementos       verbais    e       não   verbais,     mostra,    de    forma    bem     humorada,          como        o   aumento   da
+
+    violência    impacta      diferentes        nichos      da   sociedade,    no    caso,      as   empresas         de   blindagem     de
+
+    carros.
+
+
+
+    Funções da linguagem
+
+
+
+
+    A partir dos elementos de comunicação, conseguimos identificar as funções da linguagem.
+
+
+
+    Elas representam as diferentes formas de utilização da linguagem na comunicação, isso porque
+
+    temos     que   ter   em   mente         que     a    linguagem    é   viva,   dinâmica,         por   isso   a   mensagem        muda
+
+    conforme o objetivo do emissor e em função do contexto em que o ato comunicativo ocorre.
+
+
+
+    As funções da linguagem foram definidas pelo linguista Roman Jakobson e são seis: referencial ,
+
+    emotiva, conativa, poética, fática e metalinguística.
+
+
+
+    Vejamos em detalhes cada uma delas:
+
+
+
+    Função referencial ou denotativa
+
+
+
+    Tem     como      principal         objetivo     transmitir     uma     informação,         ou     seja,      informar      sobre    um
+
+    determinado assunto.
+
+
+
+    São características dessa função:
+
+
+
+    ➢ Uso de uma linguagem clara e objetiva, baseada em fatos e dados concretos;
+    ➢ Linguagem impessoal;
+    ➢ Sem subjetividade e sentimentalismo, ou seja, evita elementos subjetivos e emotivos;
+    ➢ Utiliza uma linguagem denotativa;
+    ➢ Preferência pelo uso de 3ª pessoa do discurso;
+    ➢ Preferência por orações estruturadas na ordem direta.
+    A função referencial pode ser encontrada principalmente em notícias de jornal, textos técnicos,
+
+    artigos científicos, livros didáticos, documentos oficiais, correspondências comerciais.
+
+
+
+    São exemplos dessa função:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                             7/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Notícias:
+
+
+
+     Erro na correção de provas do Enem afeta cerca de 6 mil provas.
+
+
+
+     Desnutrição de mães agrava efeito do zika no cérebro de bebês, mostra estudo.
+
+
+
+     Explicações em livros didáticos:
+
+
+
+     A voz passiva é a voz verbal que indica que o sujeito da oração sofre ou recebe determinada
+
+     ação, em vez de praticá-la.
+
+
+
+     Ofícios e documentos em geral:
+
+
+
+
+     Informamos       que    recebemos      os   produtos     solicitados,    no    dia   19   de   janeiro   de   2020.
+
+     Agradecemos a rapidez na entrega da mercadoria.
+
+
+
+
+    Função emotiva ou expressiva
+
+
+
+
+    Tem como principal objetivo transmitir as emoções e sentimentos do emissor .
+
+
+
+    São características dessa função:
+
+
+
+    ➢ Mensagem pessoal e subjetiva;
+    ➢ Preferência pelo uso de 1ª pessoa do discurso (eu);
+    ➢ Presença de interjeições que enfatizam o discurso;
+    ➢ Uso de pontuação para dar maior entonação emotiva (pontos de exclamação e reticências).
+    A função emotiva pode ser encontrada principalmente em poemas, cartas pessoais, memórias,
+
+    autobiografias, depoimentos, entrevistas, músicas.
+
+
+
+    São exemplos dessa função:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          8/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Poemas:
+
+
+
+     "Tenho apenas duas mãos
+
+
+
+     e o sentimento do mundo,
+
+
+
+     mas estou cheio escravos,
+
+
+
+     minhas lembranças escorrem
+
+
+
+     e o corpo transige
+
+
+
+     na confluência do amor."
+
+
+
+     Carlos Drummond de Andrade
+
+
+
+     Autobiografia:
+
+
+
+
+     "Eu nunca esquecerei a famosa partida que joguei contra Bobby Moore na Copa de 70. (...)
+
+     Nós trocamos camisas como lembranças. Durante o jogo, ladrões arrombaram meu quarto e
+
+     levaram as camisas 10 que eu guardara para usar na Copa. Chegamos até a considerar pedir
+
+     a Bobby para devolver a que eu havia lhe dado, para que eu tivesse uma para vestir contra a
+
+     Romênia. Ao final não precisamos fazer isso, embora as camisas roubadas nunca tenham sido
+
+     achadas."
+
+
+
+     Rei do Futebol
+
+
+
+
+    Função conativa ou apelativa
+
+
+
+    Tem como principal objetivo influenciar e persuadir o receptor, ou seja, é um apelo para que a
+
+    pessoa que recebe a mensagem faça algo, tenha um determinado comportamento ou atitude.
+
+
+
+    São características dessa função:
+
+
+
+    ➢ Predomina o uso de verbos no imperativo;
+    ➢ Uso preferencial da 2ª ou 3ª pessoa do discurso (tu e você);
+    ➢ Presença de vocativos que direcionam a mensagem;
+    ➢ Uso de pontos de exclamação para enfatizar o discurso.
+    A função conativa pode ser encontrada principalmente em publicidades, propagandas,
+
+    discursos políticos, sermões religiosos, livros de autoajuda, horóscopo.
+
+
+
+    São exemplos dessa função:
+
+
+
+    Publicidade :
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                    9/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+    Discursos :
+
+
+
+
+    “Vocês, o povo, têm o poder – o poder de criar máquinas. O poder de criar felicidade! Vocês
+
+    têm o poder de tornar esta vida livre e bela... de fazê-la uma aventura maravilhosa.”
+
+
+
+    Charles Chaplin
+
+
+
+
+    Função poética
+
+
+
+
+    Tem    como principal       objetivo transmitir      uma    mensagem       elaborada,   formalmente   estruturada,
+
+    com as palavras cuidadosamente selecionadas para produzir um resultado estético.
+
+
+
+    Perceba que aqui a ênfase é dada à própria mensagem.
+
+
+
+    São características dessa função:
+
+
+
+    ➢ Linguagem elaborada e cuidada;
+    ➢ Foco no ritmo, melodia e sonoridade das palavras;
+    ➢ Ênfase no belo e inovador;
+    ➢ Uso predominante do sentido conotativo;
+    A função poética pode ser encontrada principalmente em poemas, obras literárias, letras de
+
+    músicas, publicidade, propaganda.
+
+
+
+    São exemplos dessa função:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                    10/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Poemas:
+
+
+
+     "O poeta é um fingidor.
+
+
+
+     Finge tão completamente
+
+
+
+     Que chega a fingir que é dor
+
+
+
+     A dor que deveras sente."
+
+
+
+     Fernando Pessoa
+
+
+
+     "Basta-me um pequeno gesto,
+
+
+
+     feito de longe e de leve,
+
+
+
+     para que venhas comigo
+
+
+
+     e eu para sempre te leve..."
+
+
+
+     Cecília Meireles
+
+
+
+     Ditado popular:
+
+
+
+     Quem com ferro fere, com ferro será ferido.
+
+
+
+     Publicidade:
+
+
+
+
+     Pode ser bom. Pode ser muito bom. Pode ser Pepsi .
+
+
+
+
+    Função fática
+
+
+
+    Tem como principal objetivo estabelecer ou manter um canal de comunicação entre o emissor
+
+    e o receptor. É utilizada quer para iniciar a transmissão da mensagem, quer para assegurar a sua
+
+    continuação quer para verificar que a mensagem está sendo entendida.
+
+
+
+    São características dessa função:
+
+
+
+    ➢ Uso frases interrogativas para obter resposta do receptor;
+    ➢ Uso de interjeições e onomatopeias.
+    A função fática pode ser encontrada principalmente em cumprimentos, saudações, conversas
+
+    telefônicas.
+
+
+
+    São exemplos dessa função:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                  11/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Alô! Alô?
+
+
+
+     Bom dia!
+
+
+
+     Não é mesmo?
+
+
+
+     Sei...
+
+
+
+     Hum... hum...
+
+
+
+
+    Função metalinguística
+
+
+
+
+    Tem       como    principal   objetivo   usar    o   código   comunicativo      para   explicar   o   próprio   código
+
+    comunicativo.
+
+
+
+    São características dessa função:
+
+
+
+    ➢ Uso do código como tema da mensagem;
+    ➢ Função explicativa;
+    A função metalinguística pode ser encontrada principalmente em dicionários, gramáticas.
+
+
+
+    São exemplos dessa função:
+
+
+
+
+     Dicionário:
+
+
+
+     persistência
+
+
+
+     substantivo feminino
+
+
+
+     1. qualidade de persistente; constância, pertinácia.
+
+
+
+     2. (ENOLOGIA) qualidade do vinho cujas características de aroma (que se mantém por longo
+
+     tempo     após    a   garrafa   ser   aberta)   e   sabor   (depois   de   provado)   permanecem      em   nossos
+
+     sentidos.
+
+
+
+
+    Na tabela abaixo, trago de forma mais sistematizada o que estudamos até aqui:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                        12/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+                Funções             Ênfase em           Finalidade             Características                 Tipo de texto
+
+
+
+
+              Referencial /             Referente        Informar                   Denotação                    Informativo
+
+
+               Denotativa
+
+                                                                                Objetividade                      Científico
+
+
+
+
+               Emotiva /                Emissor         Emocionar                   Conotação                      Pessoais
+
+               Expressiva
+
+                                                                                Subjetividade
+
+
+
+
+              Apelativa /               Receptor        Influenciar,                Imperativo                   Propaganda
+
+                Conativa                                  instruir
+
+                                                                              2ª pessoa discurso
+
+
+
+
+                 Fática                  Canal         Estabelecer              Onomatopeia                      Linguagem
+
+                                                      comunicação                                                  coloquial
+
+                                                                                Frases feitas
+
+
+
+
+        Metalinguística                 Código            Manter                    Denotação                      Didáticos
+
+
+                                                      comunicação
+
+
+
+
+                Poética                 Forma da      Trazer o belo,                Conotação                     Literatura
+
+                                    mensagem              estético
+
+                                                                                     Figuras de
+
+                                                                                     linguagem
+
+
+
+
+    Para finalizar este tópico, vamos ver como pode ser cobrado em sua prova:
+
+
+
+
+                                                                       2023    INSTITUTO CONSULPAM             Prefeitura de Jacareí (SP)
+      Questão         4001445862
+                                                                                    Agente de Desenvolvimento Infantil (Pref Jacareí/SP)
+
+      TEXTO I
+
+
+
+
+      TOADA
+
+
+
+
+      Vem, morena, ouvir comigo essa cantiga
+
+
+      Sair por essa vida aventureira.
+
+
+      Tanta toada eu trago na viola
+
+
+      Pra ver você mais feliz.
+
+
+      Escuta o trem de ferro alegre a cantar
+
+
+      Na reta da chegada pra descansar
+
+
+      No coração sereno da toada, bem querer.
+
+
+      Tanta saudade eu já senti, morena,
+
+
+      Mas foi coisa tão bonita,
+
+
+      Da vida nunca vou me arrepender.
+
+
+      (...)
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                           13/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      (Compositores: Jose Renato Botelho Moschkovich/Claudio Jose Moore Nucci/Jose Lontra Fagundes Filho)
+
+
+
+
+      Considerando as marcas linguísticas presentes nos enunciados do Texto I, pode-se afirmar que nele predomina a seguinte
+
+
+      função da linguagem:
+
+
+
+      A)    Romântica.
+
+
+
+      B)    Enfática.
+
+
+
+      C)    Poética.
+
+
+
+      D)    Referencial.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)      Poética.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Questão direta. Estamos diante de uma canção, que tem preocupação estética (ritmo, rima, sonoridade).
+
+
+
+
+           Essas são características intrínsecas da função poética.
+
+
+
+
+           Portanto, Gabarito Letra (C).
+
+
+
+
+    Em relação à Estilísticas, as três categorias básicas estudada, funções da linguagem, o estilo, o
+
+    sentido,      são de fato as mais cobradas em provas.
+
+
+
+    Contudo, para que você tenha conhecimento dos níveis de análise da Estilística, adentraremos
+
+    no campo das Figuras de Linguagem.
+
+
+
+
+   6.3 Figuras de Linguagem
+
+
+
+
+                                       Para assistir ao vídeo correspondente, acesse o LDI.
+
+                                       Para assistir ao vídeo correspondente, acesse o LDI.
+
+
+     Figuras de Linguagem
+    As figuras de linguagem são os recursos estilísticos por excelência. Basicamente, são divididas
+
+    entre     recursos de          pensamento, palavras, sintaxe        e   som. Veremos aqui as principais. Aquelas
+
+    mais importantes serão mais detalhadas aqui e ilustradas com mais questões.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                              14/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Em    associação,        vamos      ver   também    o   estudo    da   Estilística   nos   três   níveis:   fônico,     léxico    e
+
+    sintático.     O   que   quero      que   perceba   aqui   é   que     os   assuntos   convergem         entre    si:   a   divisão
+
+    clássica     das   Figuras     de   Linguagem      em   “Figuras     de     som”,   “Figuras   de     sintaxe” e   “figuras      de
+
+    pensamento” nada mais são do que uma divisão levando em consideração o nível de análise
+
+    estilística:
+
+
+
+
+             Estilística             Figuras de Linguagem
+
+
+
+
+          Nível fônico       ⇨                de Som
+
+
+
+
+      Nível lexical    ⇨                      de Pensamento
+
+
+
+
+         Nível sintático      ⇨               de Sintaxe
+
+
+
+
+    De forma bastante objetiva, vamos definir cada um deles.
+
+
+
+
+     Figuras de som
+    Os recursos expressivos presentes no nível fônico da língua são resultado da forma como o
+
+    autor/enunciador utiliza dos acentos de altura e intensidade pode trazer valor afetivo ao texto.
+
+
+
+    Por exemplo: a evocação sonora sugerida pelos fonemas pode ser explicada estilisticamente.
+
+    Veja o exemplo abaixo:
+
+
+
+
+     Sino de Belém, pelos que inda vêm!
+
+
+
+     Sino de Belém bate bem-bem-bem.
+
+
+
+     Sino da paixão, pelos que lá vão!
+
+
+
+     Sino da paixão bate bão-bão-bão.
+
+
+
+     Manuel Bandeira
+
+
+
+
+    A   repetição      do    /b/    e    de   vocábulos     labiais   evocam       fonicamente        o   tanger     dos    sinos.   A
+
+    onomatopeia “bem-bem-bem” sugere o som metálico e alegre “pelos que inda vêm” (nascidos)
+
+    e “bão-bão-bão”, o dobre de finados “pelos que lá vão” (os mortos).
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     15/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Vejamos, então, as principais Figuras de Som:
+
+
+
+    Aliteração
+
+
+
+
+    É a repetição sistemática de consoantes iguais ou semelhantes.
+
+
+
+    Exemplos:
+
+
+
+
+     Repetição de /      ʃ   /:
+
+
+
+     Chove chuva, chove sem parar
+
+
+
+
+     (Jorge Bem Jor)
+
+
+
+     Repetição de / p / e / v /:
+
+
+
+     Esp erando, p arada, p regada na p edra do p orto.
+
+
+
+     Com seu único v elho v estido cada dia mais curto
+
+
+
+     (Chico Buarque)
+
+
+
+     Repetição de / v /:
+
+
+
+     Le v a-lhe o v ento a v oz, que ao v ento deita.
+
+
+
+     (Luís de Camões)
+
+
+
+
+    Note que a repetição dos sons destacados acima traz mais do que o conteúdo sonoro, pois
+
+    converge para o sentido que quer ser transmitido:
+
+
+
+    ✓ O som /       ʃ / remete à agua caindo, como na chuva;
+    ✓ A repetição de / p / traz o sentido de algo parado, estanque - da forma como a pessoa está;
+
+
+
+    ✓ O som /v/ remete ao vento que sopra.
+
+
+
+    Assonância
+
+
+
+
+    Se na aliteração, temos repetição de consoantes, na Assonância, a repetição sistemática é de
+
+    sons vocálicos.
+
+
+
+    Exemplos:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                   16/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Repetição de / ei /:
+
+
+
+     Juro que não acreditei, eu te estranh ei
+
+
+
+     Me debrucei sobre teu corpo e duvidei
+
+
+
+     E me arrastei e te arranh ei
+
+
+
+     E me agarr ei nos teus cabelos
+
+
+
+     Chico Buarque
+
+
+
+     Repetição de / ia /:
+
+
+
+     Meu amor
+
+
+
+     O que você far ia
+
+
+
+     Se só te restasse esse dia?
+
+
+
+     Se o mundo fosse acabar
+
+
+
+     Me diz o que você far ia
+
+
+
+     Lenine
+
+
+
+
+    Note que a repetição dos encontros vocálicos acima dá maior sentido à canção, auxiliando no
+
+    ritmo e melodia.
+
+
+
+    Paronomásia
+
+
+
+
+    É o emprego estilístico de parônimos, isto é, de palavras parecidas no som, mas com sentidos
+
+    diferentes. É uma figura de linguagem bastante utilizada na comunicação e propaganda.
+
+
+
+    Exemplos:
+
+
+
+
+     Que a morte apressada seja tributo do entendimento, e a vida larga atributo da ignorância
+
+
+
+     Padre Vieira
+
+
+
+     Tomou Dor il, a dor sumiu.
+
+
+
+
+    Onomatopeia
+
+
+
+
+    Uso de palavras ou conjunto de palavras para imitar sons e ruídos. Essa é com certeza a Figura
+
+    de Linguagem que mais aparece em sala de aula, desde o Ensino Infantil.
+
+
+
+    Exemplos:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                17/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     História em quadrinhos:
+
+
+
+
+     Poemas:
+
+
+
+
+     Pacapá-pacapá
+
+
+
+     o cavaleiro célere
+
+
+
+     regressa a Pau de Angu
+
+
+
+     levando na garupa
+
+
+
+     duas sacas de sal
+
+
+
+     quatro maços de fósforos.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                18/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+     Carlos Drummond de Andrade
+
+
+
+     Músicas :
+
+
+
+
+     Oi, tum, tum
+
+
+
+     Bate coração
+
+
+
+     Oi, tum
+
+
+
+     Coração, pode bater
+
+
+
+     Elba Ramalho
+
+
+
+
+         #VamosPraticar#
+
+
+
+         (PREF. SANTANA DO ACARAÚ - CE / Assistente Administrativo / 2023)
+
+
+
+
+         Nesse texto, o efeito de humor que se manifesta na fala da personagem no último
+
+
+         quadrinho advém do barulho feito na vizinhança, o qual é representado por meio de
+
+
+         um(a)
+
+
+
+         A) paradoxo.
+
+
+
+         B) paronomásia.
+
+
+
+         C) eufemismo.
+
+
+
+         D) onomatopeia.
+
+
+
+         E) prosopopeia.
+
+
+
+         Comentários:
+
+
+
+
+         Questão direta: "som", "barulho" é            representado por        onomatopeias.   Portanto, Gabarito
+
+         letra D.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                   19/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+           #VamosPraticar#
+
+
+
+
+                                                                             2018   FGV   Defensoria Pública do Estado do Rio de Janeiro
+      Questão          62122645
+                                                                                           Técnico Médio de Defensoria Pública (DPE RJ)
+
+      Muitas frases publicitárias ou poéticas utilizam repetições ou semelhanças fônicas a fim de melhorar o seu efeito; a frase em
+
+
+      que essa utilização NÃO está presente é:
+
+
+
+      A)    “Quem te viu, quem te vê”;
+
+
+
+      B)    “Príncipe veste hoje o homem de amanhã”;
+
+
+
+      C)    “O rato roeu a roupa do rei de Roma”;
+
+
+
+      D)    “Air France: vá e volte voando”;
+
+
+
+      E)    “Um rei fraco faz fraca a forte gente”.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)   “Príncipe veste hoje o homem de amanhã”;
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Esta questão é sobre as figuras sonoras.   Vejamos as alternativas:
+
+
+
+           A letra A está incorreta.
+
+
+           ERRADA. Há ocorrência de aliteração em /t/ e /v/.
+
+
+
+
+           A letra B está correta.
+
+
+           CORRETA . Aqui, ocorre uma antítese: hoje x amanhã.
+
+
+
+
+           Gabarito letra B.
+
+
+
+
+           A letra C está incorreta.
+
+
+           ERRADA. Há ocorrência de aliteração em /r/.
+
+
+
+
+           A letra D está incorreta.
+
+
+           ERRADA. Há ocorrência de aliteração em /v/.
+
+
+
+
+           A letra E está incorreta.
+
+
+           ERRADA. Há ocorrência de aliteração em /f/.
+
+
+
+
+     Figuras de Pensamento (ou de palavra)
+    Cabe, neste ponto, o estudo do sentido próprio e figurado das palavras, das metáforas... Em um
+
+    maior nível de profundidade, o valor expressivo dos prefixos e sufixos pode ser trazido também,
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                          20/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    de forma a dar maior solidez ao conhecimento dos alunos em sala de aula.
+
+
+
+    No campo da estilística léxica, também podem ser estudados os casos de quebra do paralelismo
+
+    semântico. Exemplo clássico é de Machado de Assis:
+
+
+
+
+     Marcela amou-me durante quinze meses e onze contos de réis.
+
+
+
+
+    A quebra de expectativa do leitor ocorre quando temos categorias semânticas desiguais: noção
+
+    temporal     ("quinze    meses")    e   questão    financeira    ("onze   contos   de   réis").   De   forma   bastante
+
+    simples, esse é o conceito de quebra de paralelismo semântico.
+
+
+
+    O aprofundamento da questão, em sala de aula, vai depender dos objetivos do professor, que
+
+    pode ressaltar o humor machadiano, desenvolver a interpretação dos alunos, dentre outros.
+
+
+
+    É dentro dessa categoria de Figuras de Linguagens que estudamos o valor afetivo-expressivo
+
+    das diversas classes de palavras.
+
+
+
+    Como exemplo, temos:
+
+
+
+    ➢ passagem de substantivos abstratos a concretos por meio da personificação
+    Uma aflição mordeu-o no íntimo            ⇨ "aflição" é substantivo abstrato em essência.
+    ➢ conversão dos substantivos concretos em abstratos por meio da metaforização
+    Não quero a rosa que me dás, quero a rosa que tu és.                   ⇨ comparação entre a pessoa e a rosa
+    Vamos, então, ao estudo das Figuras de Linguagem ligadas ao léxico.
+
+
+
+    Comparação ou símile
+
+
+
+    É o que chamamos de "comparação explícita", ou seja, a expressão formal da semelhança entre
+
+    duas entidades, seres ou objetos, baseado em uma característica comum que os aproxima.
+
+
+
+    O elemento linguístico formal pode ser um conectivo comparativo (como, tal qual, tal como) ou
+
+    um verbo (parecer, assemelhar-se, sugerir ou equivalente ):
+
+
+
+    Exemplos:
+
+
+
+
+     É como mergulhar no rio e não se molhar
+
+
+
+     É como não morrer de frio no gelo polar.
+
+
+
+     Samuel Rosa, Chico Amaral e Lelo Zanetti
+
+
+
+     Meu coração tombou na vida tal qual uma estrela ferida pela flecha de um caçador. Cecília
+
+     Meireles
+
+
+
+
+    Metáfora:
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                         21/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    É o que chamamos de "comparação implícita", ou seja, sem a marcação de um elemento formal
+
+    como uma partícula comparativa.
+
+
+
+    Com certeza a metáfora é uma das Figuras de Linguagem                           mais produtivas em nossa língua.
+
+    Exemplo disso são expressões que utilizamos no dia a dia:
+
+
+
+
+     Furo    de   reportagem,     choque     de   opiniões,    engolir   uma    resposta,   arranhar   a   reputação,
+
+     explosão de alegria.
+
+
+
+
+    Quanto mais rara ou imprevisível a fusão das imagens, mais expressiva será a metáfora.
+
+
+
+    Vejamos algumas metáforas:
+
+
+
+
+     Ela me encarou e seu olhar era pedra.
+
+
+
+
+    A dureza e       rigidez   da pedra está sendo atribuída ao olhar. Para isso, a palavra "pedra" está
+
+    sendo usada no sentido figurativo, e não em seu sentido próprio.
+
+
+
+
+     …Mas, oh, não se esqueçam da rosa da rosa
+
+
+
+     Da rosa de Hiroshima
+
+
+
+     A rosa hereditária
+
+
+
+     A rosa radioativa…
+
+
+
+     Vinícius de Moraes
+
+
+
+
+    Na poesia acima, uma das metáfora que chama muito a atenção é a palavra “rosa” usada no
+
+    lugar de “bomba”. O texto induz o leitor a comparar a bomba jogada sobre Hiroshima com uma
+
+    rosa.
+
+
+
+    Metáfora      ⇦⇨   Símbolo
+
+
+
+
+    A metáfora, quando assume um valor convencional, transforma-se em um “símbolo”.
+
+
+
+    A metáfora, quando assume um valor convencional, transforma-se em um “símbolo”.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                       22/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+       Símbolo                      Significado
+
+
+
+
+         Coroa                      Monarquia
+
+
+
+
+         Cruz                Cristianismo ou Cristo
+
+
+
+
+       Balança                        Justiça
+
+
+
+
+        Judas                          traição
+
+
+
+
+       Sangue                        violência
+
+
+
+
+        Armas                 militares, guerreiros
+
+
+
+
+         Ouro                         riqueza
+
+
+
+
+      Evangelho                   Religião cristã
+
+
+
+
+        Lesma                         lentidão
+
+
+
+
+         Leão                        Coragem
+
+
+
+
+          Cão                        fidelidade
+
+
+
+
+         Touro                      forca física
+
+
+
+
+        Louros                glória / recompensa
+
+
+
+
+        Verde                       esperança
+
+
+
+
+         Preto        luto, misticismo, aspecto sombrio
+
+
+
+
+       Vermelho                  sangue, paixão
+
+
+
+
+        Branco                         pureza
+
+
+
+
+    Em suma, o símbolo é uma “metáfora persistente”, repetida até gerar uma associação fixa.
+
+
+
+    Lembre-se que o símbolo é algo cultural , intrínseco à sociedade e à comunidade que o utiliza.
+
+    Apenas como exemplo e curiosidade, para a maioria das civilizações ocidentais, a cor preta
+
+    significa "luto", mas na Rússia e países vizinhos, o luto é representado pela cor azul.
+
+
+
+    Em suma, o símbolo é uma “metáfora persistente”, repetida até gerar uma associação fixa.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                23/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Lembre-se que o símbolo é algo cultural , intrínseco à sociedade e à comunidade que o utiliza.
+
+    Apenas como exemplo e curiosidade, para a maioria das civilizações ocidentais, a cor preta
+
+    significa "luto", mas na Rússia e países vizinhos, o luto é representado pela cor azul.
+
+
+
+    Catacrese
+
+
+
+    É a metáfora já desgastada pelo uso, pela repetição. Não há mais valor                                   estilístico, pois está
+
+    cristalizada     na    língua.    Normalmente        as   pessoas     utilizam        sem   a   noção   de   que    tenha   uma
+
+    comparação intrínseca.
+
+
+
+    Os exemplos são palavras e expressões cotidianas:
+
+
+
+
+     Pé da mesa, braço da cadeira, bico de pena, folha de papel, amolar a paciência
+
+
+
+        Boca do túnel, cabeça do alfinete, dente de alho, braço de rio, costa do país
+
+
+
+                     Cortina de fumaça, laços matrimoniais, espelho da alma
+
+
+
+         Explosão de alegria, chuva de comentários, vale de lágrimas, mar de azar
+
+
+
+
+         #VamosPraticar#
+
+
+
+         (PREF. SANTANA DO ACARAÚ - CE / Agente Administrativo / 2023)
+
+
+
+         No trecho “O mundo é um só que coabita com vários mundos. / É como em um elefante:
+
+         uma parte representa a cabeça; a outra, a tromba, a barriga, o rabo; e outra, as patas.
+
+         Quando      o    elefante    avança,    todas   as    partes    avançam.         Quando     fica   parado,    as   patas
+
+         aguentam        todo   o    peso.”   (parágrafos     7º   e   8º),   o   autor   vale-se    da   seguinte    figura   de
+
+         linguagem para construir sua argumentação:
+
+
+
+         A) comparação.
+
+
+
+         B) catacrese.
+
+
+
+         C) metonímia.
+
+
+
+         D) metáfora.
+
+
+
+         E) perífrase.
+
+
+
+         Comentário
+
+
+
+         Note    a   comparação         explícita   em        "É   como".     Quando       há   a   partícula    presente      na
+
+         comparação, estamos diante da símile ou comparação. Portanto, gabarito Letra A.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                   24/72
+                      6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+           #VamosPraticar#
+
+
+
+
+      Questão           4001875441                                                                    2023    Questão Adaptada
+
+
+      (PREF. DE BARÃO DE COCAIS-MG / ASS. SOCIAL / 2020)
+
+
+
+
+      Releia este trecho.
+
+
+
+
+      “O achado acendeu um alerta que ecoou pelo mundo – cada vez mais temeroso com a capacidade que micro-organismos
+
+
+      têm demonstrado em driblar tratamentos à base de antibióticos.”
+
+
+
+
+      A figura de linguagem que confere características humanas a objetos ou animais, como ocorre nesse trecho, é chamada de
+
+
+      prosopopeia.
+
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)     Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A figura de linguagem que humaniza os animais é a “prosopopeia”, também chamada de personificação. Questão
+
+
+           correta.
+
+
+
+
+    Prosopopeia ou Personificação
+    Consiste          em    atribuir   a   seres   inanimados   ou      objetos   características   que   são   logicamente
+
+    pertinentes a seres humanos.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                25/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Hoje até o sol está mais feliz.
+
+
+
+     O sol é uma estrela, um ser inanimado, e não tem capacidade de "ficar feliz".
+
+
+
+     A regravação que fizeram ficou tão ruim que Bob Marley deve estar se revirando no túmulo.
+
+
+
+     Bob Marley está morto, logo não pode se mover fisicamente.
+
+
+
+     Essa geladeira já está cansada de trabalhar.
+
+
+
+     Geladeiras são objetos e não possuem capacidade de sentir cansaço ou indisposição.
+
+
+
+     As flores estão dançando ao vento.
+
+
+
+     Flores não tem capacidade ativa, o vento é que as agita.
+
+
+
+     Essa música tem um violino tão melancólico.
+
+
+
+     Violino é um objeto, portanto, não tem capacidade de sentir melancolia ou qualquer outro
+
+     sentimento.
+
+
+
+
+      Questão          4001414551   2023       FCC   Ministério Público do Estado da Paraíba   Técnico Ministerial - Sem Especialidade (MP PB)
+
+
+      Leia o conto “Casos de baleias”, de Carlos Drummond de Andrade, para responder à questão.
+
+
+
+
+      A baleia telegrafou ao superintendente da Pesca, queixando-se de que estava sendo caçada demais, e a continuar assim
+
+
+      sua espécie desapareceria com prejuízo geral do meio ambiente e dos usuários.
+
+
+
+
+      O superintendente, em ofício, respondeu à baleia que não podia fazer nada senão recomendar que de duas baleias uma fosse
+
+
+      poupada, e esta ganhasse número de registro para identificar-se.
+
+
+
+
+      Em face dessa resolução, todas as baleias providenciaram registro, e o obtiveram pela maneira como se obtêm essas coisas,
+
+
+      à margem dos regulamentos. O mar ficou coalhado de números, que rabeavam alegremente, e o esguicho dos cetáceos,
+
+
+      formando verdadeiros festivais no alto oceano, dava ideia de imenso jardim explodindo em repuxos, dourados de sol, ou
+
+
+      prateados de lua.
+
+
+
+
+      Um inspetor da Superintendência, intrigado com o fato de que ninguém mais conseguia caçar baleia, pôs-se a examinar
+
+
+      os livros e verificou que havia infinidade de números repetidos. Cancelou-se o registro, e os funcionários responsáveis pela
+
+
+      fraude, jogados ao mar, foram devorados pelas baleias, que passaram a ser caçadas indiscriminadamente. A recomendação
+
+
+      internacional para suspender a caça por tempo indeterminado só alcançará duas baleias vivas, escondidas e fantasiadas de
+
+
+      rochedo, no litoral do Espírito Santo.
+
+
+
+
+      (ANDRADE, Carlos Drummond de. Contos plausíveis . São Paulo: Companhia das Letras, 2012)
+
+
+
+
+      Na construção de seu conto, Drummond recorre fundamentalmente à seguinte figura de linguagem:
+
+
+
+      A)   antítese.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                26/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      B)    eufemismo.
+
+
+
+      C)    hipérbole.
+
+
+
+      D)    personificação.
+
+
+
+      E)    pleonasmo.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)   personificação.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Note que Drummond dá voz à baleia e outras características que são típicas de humanos ao animal. O primeiro
+
+
+           parágrafo explicita esse aspecto:   A baleia telegrafou ao superintendente da Pesca, queixando-se de que estava sendo
+
+
+           caçada demais, e a continuar assim sua espécie desapareceria com prejuízo geral do meio ambiente e dos usuários.
+
+
+           Esse é o caso, pois, da personificação.
+
+
+
+
+           Portanto, gabarito Letra D.
+
+
+
+
+    Metonímia ou Sinédoque
+
+
+
+
+    É      associação     semântica        que       permite   substituir    um    termo     por    outro    baseado     em        uma
+
+    determinada relação lógica.
+
+
+
+    Vejamos alguns tipos:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    27/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     O efeito pela causa (ou a causa pelo efeito)
+
+
+
+     Não respeitam nada, nem ninguém. Não respeitam meus cabelos brancos. (idade avançada)
+
+
+
+     A parte pelo todo (ou o todo pela parte)
+
+
+
+     Vou sair de casa de meus pais e ter meu próprio teto. (casa)
+
+
+
+     O autor pela obra
+
+
+
+     Estou lendo Jorge Amado. (um livro de Jorge Amado)
+
+
+
+     O concreto pelo abstrato (ou o abstrato pelo concreto)
+
+
+
+     Qual será o futuro da humanidade? (dos seres humanos)
+
+
+
+     A marca pelo produto
+
+
+
+
+     Vou pedir à empregada para arear essas panelas com bombril. (esponja de aço)
+
+
+
+     O singular pelo plural
+
+
+
+     O aluno deverá manter o silêncio na biblioteca. (todos os alunos)
+
+
+
+     O continente pelo conteúdo
+
+
+
+
+     Meu filho comeu um prato de arroz com feijão e bebeu um copo de groselha.
+
+
+
+     (o arroz com feijão que estava no prato e a groselha que estava no copo)
+
+
+
+     A classe pelo indivíduo (ou o indivíduo pela classe)
+
+
+
+
+     Quanto mais o homem constrói, mais ele destrói. (os seres humanos)
+
+
+
+     O instrumento pelo utilizador
+
+
+
+
+     Os computadores trabalhavam incessantemente, dia e noite. (os técnicos)
+
+
+
+
+    Quando      ocorre    a   substituição   de   um   ser   por   uma    qualidade   ou   denominação      (notória)   sua,
+
+    chamamos esse tipo de metonímia de antonomásia.
+
+
+
+    Na   prática,   essa      associação   se   materializada      na   troca   de   um   nome   próprio   por   um   nome
+
+    comum:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                          28/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+             Antonomásia                 Referente
+
+
+
+
+             Rei do Rock              Elvis Presley
+
+
+
+
+          Rei do futebol=                   Pelé
+
+
+
+
+           Rainha do Pop                 Madonna
+
+
+
+
+       Poeta dos escravos=            Castro Alves
+
+
+
+
+      O salvador, O redentor           Jesus Cristo
+
+
+
+
+    Hipérbole
+
+
+
+    Possui    valor   semântico     de   exagero,     fundamentado        numa      percepção   afetiva,   com   finalidade
+
+    estilística de ênfase.
+
+
+
+    Exemplos:
+
+
+
+
+     Por você
+
+
+
+     Eu danço tango no teto
+
+
+
+     Limparia os trilhos do metrô
+
+
+
+     Iria a pé do Rio até Salvador
+
+
+
+     Viajaria a prazo para o inferno
+
+
+
+     Tomaria banho gelado no Inverno.
+
+
+
+     Barão Vermelho
+
+
+
+     O ônibus leva uma eternidade para chegar.
+
+
+
+     Esta mala pesa uma tonelada.
+
+
+
+     Estou morrendo de fome e de sede!
+
+
+
+
+      Questão       4001890768                                                                     2023    Questão Adaptada
+
+
+      (UEM / Técnico / 2017)
+
+
+
+
+      Na expressão "eles dão de mil a zero", há uma figura de linguagem chamada de hipérbole.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                             29/72
+                     6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Hipérbole é a figura do exagero, do excesso: Mil a zero representa exageradamente o placar de um jogo, indicando
+
+
+           que alguém vai vencer com grande vantagem.
+
+
+
+
+           Questão correta.
+
+
+
+
+    Sinestesia
+
+
+
+
+    Consiste na associação de sensações que são captadas por sentidos diferentes. Na prática, é
+
+    "misturar" os sentidos.
+
+
+
+    Vejamos os exemplos:
+
+
+
+
+     …chuvinha de água viva esperneando luz … com gosto de mato, meio baunilha, meio manacá,
+
+     meio alfazema…
+
+
+
+     Mário de Andrade
+
+
+
+
+    No trecho acima, o autor mistura os sentidos: sensações visuais (esperneando), gustativas (gosto
+
+    de mato) e olfativas (meio baunilha, meio alfazema). Tudo para se referir à água da chuva.
+
+
+
+    A sinestesia está presente em expressões do nosso cotidiano também:
+
+
+
+
+     voz gélida, voz fina, olhar frio, verdade nua e crua, ruído cortante, palavras amargas, palavras
+
+     duras, discurso ácido
+
+
+
+
+    Ironia ou antífrase
+
+
+
+
+    Expressão utilizada não em seu sentido original, mas com sarcasmo (ou até mesmo malícia).
+
+
+
+    Seu objetivo é fazer com que o ouvinte/leitor entenda algo diferente (normalmente oposto) ao
+
+    sentido literal das palavras ou expressão. Assim, é o sentido oculto ou secundário que deve ser
+
+    entendido pelo receptor da mensagem.
+
+
+
+    Exemplos:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                             30/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Charges e tirinhas:
+
+
+
+
+    A charge acima brinca com o conceito de "ateu". Afinal, se ele realmente fosse não usaria a
+
+
+    expressão "graças a Deus".
+
+
+
+
+     A ironia se constrói ao longo dos quadrinhos, pela quebra de expectativa: a coleira é (ou não)
+
+     para o gato?
+
+
+
+     Textos verbais :
+
+
+
+     Puxa, que bom que o elevador quebrou! Agora só teremos que subir 12 lances de escada, são
+
+     bem poucos.
+
+
+
+     O enunciador com certeza não está feliz em ter que subir 12 andares a pé.
+
+
+
+     Soares olhava para Camilo com a mesma ternura com que um gavião espreita uma pomba.
+
+
+
+     Nesse trecho, Machado de Assis usa da ironia para revelar como os personagens rivais se
+
+     olhavam.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                     31/72
+                     6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Lembre-se: a ironia, como recurso expressivo, é formulada para ser entendida como tal. Uma
+
+    ironia que ninguém entende perde sua finalidade.
+
+
+
+
+                                                                 2016    QUADRIX     Secretaria de Estado de Educação do Distrito Federal
+      Questão          4001357542
+                                                                                       Professor Substituto - Língua Portuguesa (SEEDF)
+
+      O que o poeta quer dizer
+
+
+
+
+      no discurso não cabe
+
+
+
+
+      e se o diz é pra saber
+
+
+
+
+      o que ainda não sabe.
+
+
+
+
+      Uma fruta uma flor
+
+
+
+
+      um odor que relume...
+
+
+
+
+      Como dizer o sabor,
+
+
+
+
+      seu clarão seu perfume?
+
+
+
+
+      Acerca do poema acima e de seus aspectos linguísticos, julgue o item que se segue.
+
+
+
+
+      Na segunda estrofe do poema, o sujeito-lírico emprega como recurso expressivo a figura de linguagem denominada
+
+
+      sinestesia.
+
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Sinestesia é a figura que mistura os diferentes sentidos humanos: O odor se percebe com o olfato, o sabor se percebe
+
+
+           pelo paladar e o clarão se percebe com a visão.
+
+
+
+
+           Questão correta.
+
+
+
+
+    Antítese
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                           32/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    É   conhecida         como     uma     oposição       retórica     entre     ideias     opostas.       Em    termos      linguísticos,
+
+    normalmente é materializada por antônimos.
+
+
+
+    Exemplos:
+
+
+
+
+     Sou teu céu e teu inferno, a tua calma.
+
+
+
+     Sou teu tudo, sou teu nada
+
+
+
+     … Eu sou o teu mundo, sou teu poder
+
+
+
+     Victor e Léo
+
+
+
+     Não existiria som se não houvesse silêncio
+
+
+
+     Não haveria luz se não fosse a escuridão
+
+
+
+     …Dia e noite, não e sim.
+
+
+
+     Lulu Santos
+
+
+
+
+    Paradoxo ou oxímoro
+
+
+
+    É uma variante da antítese, pois, além da oposição, traz também uma contradição.
+
+
+
+    Vejamos alguns exemplos para deixar mais claro:
+
+
+
+
+     O amor é o fogo que arde sem se ver, é ferida que dói e não se sente, é o contentamento
+
+     descontente...
+
+
+
+     (Letra de Renato Russo, parafraseando versos de Camões)
+
+
+
+
+      Questão        4001357587           2016    FUNDEP      Instituto Federal do Norte de Minas Gerais   Assistente Administração (IFNMG)
+
+
+      Releia o trecho a seguir.
+
+
+
+
+      “‘Está em todas as partes e em nenhuma’ [...]”
+
+
+
+
+      Leia as definições a seguir, retiradas do Aurélio versão 7.0 – eletrônica, e assinale aquela pertinente a esse trecho.
+
+
+
+      A)   Paradoxo: “Conceito que é ou parece contrário ao comum; contrassenso, absurdo, disparate”.
+
+
+
+      B)   Tautologia: “vício de linguagem que consiste em dizer, por formas diversas, sempre a mesma coisa”.
+
+
+
+      C)   Metáfora: “tropo que consiste na transferência de uma palavra para um âmbito semântico que não é o do objeto que ela
+
+
+           designa, e que se fundamenta numa relação de semelhança subentendida entre o sentido próprio e o figurado;
+
+
+           translação”.
+
+
+
+      D)   Ambiguidade: “que se pode tomar em mais de um sentido; equívoco”...
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                             33/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)   Paradoxo: “Conceito que é ou parece contrário ao comum; contrassenso, absurdo, disparate”.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+         A oposição contraditória, excludente e aparentemente incoerente constitui um “paradoxo”, como em “estar em todos
+
+
+         os lugares” e “não estar em lugar nenhum”. Gabarito letra A.
+
+
+
+
+    Eufemismo
+    É a suavização de algo que causa desconforto com palavras mais amenas. Interessante observar
+
+    que muitos dos eufemismos são utilizados no dia a dia.
+
+
+
+    Exemplos:
+
+
+
+
+     Após tanto sofrimento, finalmente entregou a alma a Deus.
+
+
+
+     Em vez de "morreu".
+
+
+
+     O governo procederá ao reajuste de taxas.
+
+
+
+     Em vez de "aumento".
+
+
+
+     Minha mulher deu à luz ontem.
+
+
+
+     Em vez de "pariu".
+
+
+
+
+    O eufemismo, quando não aliado a ironia, tem uso produtivo em obras literárias permeadas por
+
+    “idealizações”, reproduções contaminadas de afetividade e tendenciosas a “suavizar” realidade
+
+    para não macular uma suposta perfeição.
+
+
+
+    Veja esse trecho do texto “A moreninha”, de Joaquim Manuel de Macedo, que ilustra a crítica
+
+    ao eufemismo na idealização da mulher no romantismo:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                           34/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Vocês com seu romantismo a que me não posso acomodar, a chamariam "pálida". Eu, que sou
+
+     clássico em corpo e alma e que, portanto, dou às coisas o seu verdadeiro nome, a chamarei
+
+     "amarela".
+
+
+
+     Malditos românticos, que têm crismado tudo e trocado em seu crismar os nomes que melhor
+
+     exprimem        suas     idéias!...    O   que   outrora   se    chamava,    em   bom    português,      moça      feia,   os
+
+     reformadores         dizem:        menina        simpática!...   O   que     em    uma       moça    era    antigamente
+
+     desenxabimento,           hoje     é    ao    contrário:   sublime     languidez!...    Já   não    há     mais    meninas
+
+     importunas e vaidosas. As que forem, chamam-se agora espirituosas! A escola dos românticos
+
+     reformou tudo isso, em consideração ao belo sexo.
+
+
+
+     E eu, apesar dos tratos que dou à minha imaginação, não posso deixar de convencer-me que
+
+     a minha linda prima é              (aqui     para nós) amarela e       feia como uma convalescente                de   febres
+
+     perniciosas.
+
+
+
+     “A moreninha”, de Joaquim Manuel de Macedo
+
+
+
+
+    Disfemismo
+
+
+
+    É   o   efeito   contrário     da      atenuação     pretendida    no   uso   do   eufemismo.       Consiste   em       substituir
+
+    palavras mais brandas e neutras por palavras desagradáveis, chulas, sarcásticas.
+
+
+
+    Exemplos:
+
+
+
+
+     Morrer: "emborcar a viola", "ir para a terra dos pés-juntos", "bater as botas".
+
+
+
+
+    Na      literatura,   o    uso    o     disfemismo       serve    o   propósito     de   fazer   caracterizações            cruas,
+
+    dolorosamente realistas - características típicas de algumas escolas literárias:
+
+
+
+
+     O quitandeiro, assentado sobre o balcão, cochilava a sua preguiça morrinhenta, acariciando o
+
+     seu imenso e espamado pé descalço (...) as peixeiras, quase todas negras, muito gordas, o
+
+     tabuleiro na cabeça, rebolando os grossos quadris trêmulos e as tetas opulentas.
+
+
+
+     Álvares de Azevedo
+
+
+
+
+    Vejamos alguns exemplos literários:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    35/72
+                     6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Machado de Assis
+
+
+
+     O Quincas Borba! Não; impossível; não pode ser. Não podia acabar de crer que essa figura
+
+     esquálida, essa barba pintada de branco, esse maltrapilho avelhentado, que toda essa ruína
+
+     fosse o Quincas Borba.
+
+
+
+     E entrava a girar em volta de mim, à espreita de um juízo, de uma palavra, de um gesto, que
+
+     lhe aprovasse a recente produção.
+
+
+
+     Vinícius de Moraes
+
+
+
+     Rasguei poemas, mulheres, horizontes
+
+
+
+     Fiquei simples, sem fontes
+
+
+
+
+    As gradações podem ter uma progressão crescente, decrescente ou até mesmo uma sequência
+
+    não linear, não obvia, própria do texto. Essencialmente, vai indicar a ideia de processo paulatino.
+
+
+
+
+      Questão          4001875526                                                                         2023    Questão Adaptada
+
+
+      (ALERJ / ESPECIALISTA LEGISLATIVO / 2017)
+
+
+
+
+      Texto 4 - PRIVAÇÕES
+
+
+
+
+      Verissimo, O Globo, 20/10/2016
+
+
+
+
+      “Durante anos, o Brasil sofreu a privação do Frank Sinatra. Passava ano, passava ano, e o Frank Sinatra não vinha. Nossa
+
+
+      maior angústia era com o tempo: se demorasse muito para vir, o Frank Sinatra, quando viesse, não seria mais o mesmo.
+
+
+      Poderia não ter mais a grande voz, ou ser uma múmia de si mesmo. Por que o Frank Sinatra não vinha ao Brasil enquanto era
+
+
+      tempo? E, finalmente, o Frank Sinatra veio ao Brasil. E a espera, concordaram todos, tinha valido a pena. Sinatra cantou no
+
+
+      Rio Palace para endinheirados e no Maracanã para uma multidão. Sua voz era a mesma dos bons tempos, apenas envelhecida
+
+
+      em tonéis de carvalho como um bom Bourbon. O Brasil agradeceu a Sinatra com o maior público de sua carreira. E ficou
+
+
+      feliz”.
+
+
+
+
+      No texto 4 está presente o seguinte segmento: “Poderia não ter mais a grande voz, ou ser uma múmia de si mesmo”.
+
+
+
+
+      Nesse segmento exemplifica-se a seguinte figura de linguagem denominada antítese.
+
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)    Errado.
+
+
+
+
+      Comentário do professor:
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    36/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+           A expressão “múmia de si mesmo” é metáfora para descrever o suposto estado em que Sinatra poderia estar se não
+
+
+           viesse logo ao Brasil. Em suma, indica que estaria velho, decrépito, como uma múmia... Questão incorreta.
+
+
+
+
+                                                                         2016     FGV    Assembleia Legislativa do Estado do Rio de Janeiro
+      Questão         1649392862
+                                                                                                Especialista Legislativo - Informática (ALE RJ)
+
+      Texto 1 – Preâmbulo
+
+
+
+
+      O cristianismo impregna, com maior ou menor evidência, a vida cotidiana, os valores e as opções estéticas até mesmo dos
+
+
+      que o ignoram. Ele contribui para o desenho da paisagem dos campos e das cidades. Às vezes, ganha destaque no noticiário.
+
+
+      Contudo, os conhecimentos necessários à interpretação dessa presença se apagam com rapidez. Com isso, a incompreensão
+
+
+      aumenta.
+
+
+
+
+      Admirar o monte Saint-Michel e os monumentos de Roma, de Praga ou de Belém, deleitar-se com a música de Bach ou de
+
+
+      Messiaen, contemplar os quadros de Rembrandt, apreciar verdadeiramente certas obras de Stendhal ou de Victor Hugo
+
+
+      implica poder decifrar as referências cristãs que constituem a beleza desses lugares e dessas obras-primas. Entender os
+
+
+      debates mais recentes sobre a colonização, as práticas humanitárias, a bioética, o choque de culturas também supõe um
+
+
+      conhecimento do cristianismo, dos elementos fundamentais da sua doutrina, das peripécias que marcaram sua história, das
+
+
+      etapas da sua adaptação ao mundo.
+
+
+
+
+      Foi nessa perspectiva que nos dirigimos a eminentes especialistas. Propusemos a eles que pusessem seu saber à disposição
+
+
+      dos leitores de um vasto público culto. Isso, sem o peso da erudição, sem o emprego de um vocabulário excessivamente
+
+
+      especializado, sem eventuais alusões a um suposto conhecimento prévio, que não tem mais uma existência real, e, claro, sem
+
+
+      intenção de proselitismo.
+
+
+
+
+      (História do Cristianismo, org. Alain Corbin. São Paulo: Martins Fontes. 2009. p.XIII).
+
+
+
+
+      No período inicial do texto 1 - O cristianismo impregna, com maior ou menor evidência, a vida cotidiana, os valores e as
+
+
+      opções estéticas até mesmo dos que o ignoram . – ocorre um exemplo de linguagem figurada, denominada antítese,
+
+
+      estruturada na oposição semântica maior/menor.
+
+
+
+
+      Os vocábulos abaixo que também serviriam para estruturar uma antítese são:
+
+
+
+      A)    Às vezes ganha destaque ou relevância no noticiário.
+
+
+
+      B)    Entender os debates mais recentes ou anacrônicos...
+
+
+
+      C)    ...eventuais alusões a um suposto conhecimento prévio ou previsto .
+
+
+
+      D)    ...as práticas humanitárias ou filantrópicas...
+
+
+
+      E)    ..que nos dirigimos a eminentes ou desprestigiados especialistas.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: E)   ..que nos dirigimos a eminentes ou desprestigiados especialistas.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                 37/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+      Comentário do professor:
+
+
+
+
+         A antítese é a figura de linguagem que expressa oposição de ideias, normalmente marcada por palavras de sentido
+
+
+         contrário (antônimos).
+
+
+
+
+         Nas letras A, C e D, as palavras são sinônimas ou quase sinônimas. Na letra B, “recente”(novo) não é antônimo de
+
+
+         “anacrônico” (aquilo que não está de acordo com uma época).
+
+
+
+
+         Portanto, a oposição está entre “eminente” (elevado, ilustre, destacado, excelso) e “desprestigiado” (sem prestígio).
+
+
+         Gabarito letra E.
+
+
+
+
+     Figuras de Sintaxe
+    A   sintaxe,    por      atuar   no   nível   da   frase   e   por    sua    versatilidade,     oferece      muitos       recursos
+
+    expressivos, por isso é o campo de estudo estilístico mais fértil de nossa língua.
+
+
+
+    Quando estruturas sintáticas são organizadas de forma peculiar, a causar algum efeito estilístico,
+
+    temos as Figuras. A ordem da sentença e a posição dos termos é determinante para o sentido e
+
+    pode ser explorada como recurso expressivo, como em ambiguidades propositais.
+
+
+
+    Vejamos as principais:
+
+
+
+    Elipse
+
+
+
+
+    É a omissão de palavra ou expressão recuperável pelo contexto geral.
+
+
+
+    Exemplos:
+
+
+
+
+     Na sala, apenas quatro ou cinco convidados.
+
+
+
+     Machado de Assis
+
+
+
+     Omissão do verbo “haver”.
+
+
+
+     A tarde talvez fosse azul, não houvesse tantos desejos.
+
+
+
+     Carlos Drummond de Andrade
+
+
+
+     Omissão da conjunção “se”.
+
+
+
+
+    Note que, graficamente, a elipse é sinalizada no texto por vírgula na maioria dos casos.
+
+
+
+
+                                                                                2015   CESPE (CEBRASPE)     Superior Tribunal de Justiça
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                          38/72
+                     6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+                                             Analista Judiciário - Área Apoio Especializado - Especialidade Contadoria (Poder Judiciário da União)
+      Questão          4001357623
+
+
+
+
+      Carlos B. I. Silva e Cynthia L. Costa. Evolução histórica da responsabilidade civil e efetivação dos direitos humanos. In :
+
+
+      Renata F. de Barros e Paula Maria T. Lara (Orgs.). Direitos humanos: um debate contemporâneo. Raleigh, Carolina do
+
+
+      Norte, EUA: Lulu Publishing, 2012, p. 69-70. Internet: <https://books.google.com.br> (com adaptações).
+
+
+
+
+      Acerca das estruturas linguísticas do texto Evolução histórica da responsabilidade civil e efetivação dos direitos
+
+
+      humanos , julgue o item a seguir.
+
+
+
+
+      Na linha 12, a vírgula que se segue ao vocábulo “Talionis” representa a elipse da forma verbal “significando”.
+
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Exatamente. A vírgula indica justamente a elipse do verbo:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                    39/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+           Lex significando lei e Talionis, tal qual ou igual.
+
+
+
+
+           Lex significando lei e Talionis significando tal qual ou igual.
+
+
+
+
+      Questão         62132408           2019    FCC     Câmara Municipal de Fortaleza (CE)   Consultor - Técnico Legislativo (CM Fortaleza/CE)
+
+
+      De todas as vilas e arraiais vizinhos afluíam loucos à Casa Verde. Eram furiosos, eram mansos, eram monomaníacos, era toda
+
+
+      a família dos deserdados do espírito. Ao cabo de quatro meses, a Casa Verde era uma povoação. Não bastaram os primeiros
+
+
+      cubículos; mandou-se anexar uma galeria de mais trinta e sete. O padre Lopes confessou que não imaginara a existência de
+
+
+      tantos doidos no mundo, e menos ainda o inexplicável de alguns casos. Um, por exemplo, um rapaz bronco e vilão, que
+
+
+      todos os dias, depois do almoço, fazia regularmente um discurso acadêmico, ornado de tropos, de antíteses, de apóstrofes,
+
+
+      com seus recamos de grego e latim, e suas borlas de Cícero, Apuleio e Tertuliano. O vigário não queria acabar de crer. Quê!
+
+
+      um rapaz que ele vira, três meses antes, jogando peteca na rua!
+
+
+
+
+      − Não digo que não, respondia-lhe o alienista; mas a verdade é o que Vossa Reverendíssima está vendo. Isto é todos os dias.
+
+
+
+
+      − Quanto a mim, tornou o vigário, só se pode explicar pela confusão das línguas na torre de Babel, segundo nos conta a
+
+
+      Escritura; provavelmente, confundidas antigamente as línguas, é fácil trocá-las agora, desde que a razão não trabalhe...
+
+
+
+
+      − Essa pode ser, com efeito, a explicação divina do fenômeno, concordou o alienista, depois de refletir um instante, mas não
+
+
+      é impossível que haja também alguma razão humana, e puramente científica, e disso trato...
+
+
+
+
+      − Vá que seja, e fico ansioso. Realmente!
+
+
+
+
+      (ASSIS, Machado de. O alienista. São Paulo: Companhia das Letras, 2014, p. 24-25)
+
+
+
+
+      Verifica-se a elipse de um substantivo no seguinte trecho:
+
+
+
+      A)    O vigário não queria acabar de crer. (1º parágrafo)
+
+
+
+      B)    De todas as vilas e arraiais vizinhos afluíam loucos à Casa Verde. (1º parágrafo)
+
+
+
+      C)    Ao cabo de quatro meses, a Casa Verde era uma povoação. (1º parágrafo)
+
+
+
+      D)    Não bastaram os primeiros cubículos; mandou-se anexar uma galeria de mais trinta e sete. (1º parágrafo)
+
+
+
+      E)    Não digo que não, respondia-lhe o alienista; mas a verdade é o que Vossa Reverendíssima está vendo. (2º parágrafo)
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)    Não bastaram os primeiros cubículos; mandou-se anexar uma galeria de mais trinta e sete. (1º parágrafo)
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Lembre-se de que elipse é omissão. Se olharmos para as alternativas, a única que traz uma omissão é a Letra D: Não
+
+
+           bastaram os primeiros cubículos; mandou-se anexar uma galeria de mais trinta e sete [cubículos]. Ao final do trecho,
+
+
+           omite-se o substantivo "cubículos".
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                 40/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+          Na alternativa E, há omissão do pronome "eu" em "Não digo", mas não de um substantivo, como o enunciado
+
+
+          demanda; já nas demais alternativas, não há omissões.
+
+
+
+
+          Portanto, gabarito Letra D.
+
+
+
+
+    Hipérbato
+
+
+
+    É a inversão sintática, na ordem de termos ou orações, ou seja, quando há alteração na ordem
+
+    direta da frase (Sujeito => Verbo => Complementos => Adjuntos), estamos diante de um caso de
+
+    hipérbato.
+
+
+
+
+     Ouviram do Ipiranga às margens plácidas, de um povo heroico o brado retumbante...
+
+
+
+     A ordem direta seria:
+
+
+
+     "Ouviram o brado retumbante de um povo heroico, às margens plácidas do Ipiranga"
+
+
+
+
+    Anacoluto
+
+
+
+    É a quebra da estrutura, que acaba deixando um termo solto, sem função sintática.
+
+
+
+
+     Os   que    acompanhavam           o   enterro,   apenas     dois   o   faziam    por    estima     à   finada:   eram     Luís
+
+     Patrício e Valadares.
+
+
+
+     Machado e Assis
+
+
+
+     Olha: eu, até de longe, com os olhos fechados, o senhor não me engana.
+
+
+
+     Guimarães Rosa
+
+
+
+
+    Note que tais quebras são típicas da oralidade e, assim, trazidas ao texto de forma estética,
+
+    inclusive com a finalidade de se aproximar a fala de personagens ao seu contexto de produção.
+
+
+
+
+      Questão        4000873942                        2017   ORHION     Prefeitura de Jaguariúna (SP)   Procurador (Pref Jaguariúna/SP)
+
+
+      Hino Nacional Brasileiro
+
+
+
+
+      Ouviram do Ipiranga as margens plácidas
+
+
+      De um povo heróico o brado retumbante,
+
+
+      E o sol da liberdade, em raios fúlgidos,
+
+
+      Brilhou no céu da pátria nesse instante.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                          41/72
+                    6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      Se o penhor dessa igualdade
+
+
+      Conseguimos conquistar com braço forte,
+
+
+      Em teu seio, ó liberdade,
+
+
+      Desafia o nosso peito a própria morte!
+
+
+
+
+      Ó pátria amada,
+
+
+      Idolatrada,
+
+
+      Salve! Salve!
+
+
+
+
+      Brasil, um sonho intenso, um raio vívido
+
+
+      De amor e de esperança à terra desce,
+
+
+      Se em teu formoso céu, risonho e límpido,
+
+
+      A imagem do cruzeiro resplandece.
+
+
+
+
+      Gigante pela própria natureza,
+
+
+      És belo, és forte, impávido colosso,
+
+
+      E o teu futuro espelha essa grandeza.
+
+
+      Terra adorada,
+
+
+      Entre outras mil,
+
+
+      És tu, Brasil,
+
+
+      Ó pátria amada!
+
+
+      Dos filhos deste solo és mãe gentil,
+
+
+      Pátria amada,
+
+
+      Brasil!
+
+
+
+
+      Deitado eternamente em berço esplêndido,
+
+
+      Ao som do mar e à luz do céu profundo,
+
+
+      Fulguras, ó Brasil, florão da América,
+
+
+      Iluminado ao sol do novo mundo!
+
+
+
+
+      Do que a terra mais garrida
+
+
+      Teus risonhos, lindos campos têm mais flores;
+
+
+      "Nossos bosques têm mais vida",
+
+
+      "Nossa vida" no teu seio "mais amores".
+
+
+
+
+      Ó pátria amada,
+
+
+      Idolatrada,
+
+
+      Salve! Salve!
+
+
+
+
+      Brasil, de amor eterno seja símbolo
+
+
+      O lábaro que ostentas estrelado,
+
+
+      E diga o verde-louro dessa flâmula
+
+
+      - Paz no futuro e glória no passado.
+
+
+
+
+      Mas, se ergues da justiça a clava forte,
+
+
+      Verás que um filho teu não foge à luta,
+
+
+      Nem teme, quem te adora, a própria morte.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                   42/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      Terra adorada
+
+
+      Entre outras mil,
+
+
+      És tu, Brasil,
+
+
+      Ó pátria amada!
+
+
+
+
+      Dos filhos deste solo és mãe gentil,
+
+
+      Pátria amada,
+
+
+      Brasil!
+
+
+
+
+      http://www2.planalto.gov.br/acervo/simbolos  nacionais/hinos/hino-nacional-brasileiro-1
+
+
+      Assinale a alternativa CORRETA que contém a figura de linguagem que pode ser observada na primeira estrofe:
+
+
+
+      A)    Zeugma e hipérbato.
+
+
+
+      B)    Hipérbato e prosopopeia.
+
+
+
+      C)    Hipérbato e metonímia.
+
+
+
+      D)    Aliteração e zeugma.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)     Hipérbato e prosopopeia.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           O hipérbato é a figura de sintaxe que inverte a ordem natural dos termos de uma oração ou período. Observe como
+
+
+           ficaria diferente se o verso estivesse em ordem natural Sujeito – Verbo – Complemento:
+
+
+
+
+           As margens plácidas do Ipiranga ouviram o brado retumbante de um povo heroico.
+
+
+
+
+           Além disso, observamos que "as margens do Ipiranga" foram personificadas, sendo capazes de atributos humanos
+
+
+           como “ouvir”. Então, também se verifica a prosopopeia ou personificação.
+
+
+
+
+           Portanto, gabarito Letra B.
+
+
+
+
+    Assíndeto
+
+
+
+
+    É a ausência de conector num encadeamento de termos. Na Literatura, essa ausência pode
+
+    criar efeito estilístico da rapidez:
+
+
+
+
+     Luciana, inquieta, subia à janela da cozinha, sondava os arredores, bradava com desespero,
+
+     até que ouvia duas notas estridentes, localizava o fugitivo, saía de casa como um redemoinho,
+
+     empurrava as portas, estabanada: — Quero o meu periquito. Graciliano Ramos
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                            43/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Polissíndeto
+
+
+
+    Ao contrário do assíndeto, é a repetição de conectivos, normalmente com função expressiva de
+
+    repetição ou movimento.
+
+
+
+    Exemplos:
+
+
+
+
+     Vão chegando as burguesinhas pobres/e as crianças das burguesinhas ricas/e as mulheres do
+
+     povo, e as lavadeiras da redondeza.
+
+
+
+     Manuel Bandeira
+
+
+
+     Há dois dias meu telefone não fala, nem ouve, nem toca, nem tuge, nem muge.
+
+
+
+     Rubem Braga
+
+
+
+     Canto, e canto o presente, e também o passado e o futuro.
+
+
+
+     Fernando Pessoa
+
+
+
+
+    Silepse
+
+
+
+    É a concordância semântica, feita com uma ideia, em vez de ser feita com termo gramatical
+
+    expresso.
+
+
+
+    Pode ser de número, gênero e pessoa. Vejamos alguns exemplos:
+
+
+
+
+     Silepse de Número:
+
+
+
+     O pessoal ouviu seu disco; gostaram muito.
+
+
+
+     Concordância de "gostaram" é feita com a ideia de plural do termo “pessoal”
+
+
+
+     Silepse de Gênero:
+
+
+
+     Senador, Vossa Excelência é muito dedicado.
+
+
+
+     "Vossa Excelência" é gramaticalmente feminino, mas a concordância é feita com o sexo da
+
+     pessoa.
+
+
+
+     Silepse de Pessoa:
+
+
+
+     Todos queremos ser felizes.
+
+
+
+     "Todos"    é   pronome     de   terceira   pessoa   do   plural,   mas   o   enunciador   decidiu   se   incluir   no
+
+     discurso e faz o verbo concordar semanticamente com o pronome “nós”.
+
+
+
+
+                                                                                                               2016     AOCP
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                              44/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+                                                Hospital Universitário Júlio Maria Bandeira de Mello da Universidade Federal de Campina Grande
+      Questão        2143941002
+
+                                                                                                           Técnico em Contabilidade (EBSERH)
+
+      POR QUE VOCÊ TAMBÉM DEVE IR AO CINEMA (E A OUTROS PROGRAMAS) SOZINHO
+
+
+
+
+      Não tenha medo da solidão
+
+
+
+
+      Você costuma ir ao cinema sozinho? E a shows? Que tal um jantar em um restaurante – mas #foreveralone? Existem aqueles
+
+
+      que responderiam sim, sem hesitar. Agora há outras pessoas que entram em pânico só de pensar em se sentar em meio a
+
+
+      gente que, ao contrário delas, estão acompanhadas.
+
+
+
+
+      Mas uma pesquisa publicada no Journal of Consumer Research sugere que todas essas pessoas que acham que se sentiriam
+
+
+      constrangidas jantando ou indo ao cinema sozinhas podem estar erradas. Estaríamos simplesmente perdendo a oportunidade
+
+
+      de fazer uma atividade legal por medo.
+
+
+
+
+      A pesquisa, feita por cientistas das universidades de Maryland e Georgetown, reuniu dados em cinco experimentos. Quatro
+
+
+      deles foram questionários em que voluntários deveriam responder se preferiam fazer determinadas atividades sozinhos ou em
+
+
+      grupos e o quinto foi uma tentativa real de tirar as pessoas de sua zona de conforto.
+
+
+
+
+      Os resultados mostraram que pessoas preferem fazer atividades práticas sozinhas e atividades hedônicas (as voltadas ao
+
+
+      prazer e à diversão) acompanhadas. O motivo, quase unanimidade, é o medo de que outras pessoas achem, ao ver alguém
+
+
+      sozinho no cinema, por exemplo, que essa pessoa não tem amigos para acompanhá-la.
+
+
+
+
+      Mas a boa notícia (além do fato de que essa preocupação não tem nada a ver) é que existem formas de fazer as pessoas se
+
+
+      sentirem mais confortáveis ao realizar uma atividade hedônica sozinhas. A pesquisa apontou que pessoas se sentiam menos
+
+
+      desconfortáveis em estar sozinhas em um café, por exemplo, se estivessem lendo um livro – o que dá a ilusão de um
+
+
+      propósito a elas.
+
+
+
+
+      Isso soa bobo, convenhamos, até para quem tem medo de ser visto sozinho. Afinal, por que outra pessoa se importaria com
+
+
+      alguém sem companhia em um café/jantar/cinema? E por que o livro ou o jornal ou a revista [...] magicamente protegeria
+
+
+      desse julgamento? [...] Então na última parte da pesquisa, os cientistas tentaram entender melhor esse mecanismo. Estudantes
+
+
+      foram separados em pequenos grupos, ou sozinhos, e foram encarregados de visitar uma galeria de arte por 10 minutos.
+
+
+
+
+      Os participantes deveriam dizer, antes, o quanto achavam que se divertiriam e, depois da visita, dar uma nota para a
+
+
+      experiência. Como esperado, pessoas que estavam sozinhas disseram ter expectativas menores para a visita, mas o resultado
+
+
+      final foi bem diferente das previsões. Tanto as pessoas em grupo quanto as desacompanhadas tiveram experiências similares
+
+
+      na galeria, mostrando que, apesar das expectativas baixas, é possível, sim, se divertir sozinho.
+
+
+
+
+      Agora os cientistas querem analisar a recepção de pessoas que veem outras sozinhas. Será que o julgamento realmente
+
+
+      acontece?
+
+
+
+
+      De qualquer forma, os pesquisadores acham importante ressaltar que esse medo de “parecer sem amigos” deve ser superado
+
+
+      mesmo por quem realmente tem poucos amigos. Afinal, sair é uma forma de conhecer pessoas – e de não entrar em um ciclo
+
+
+      vicioso de não sair por não ter amigos e não fazer amigos por não sair de casa.
+
+
+
+
+      Adaptado de:<http://revistagalileu.globo.com/Life-Hacks/noticia/2015/07/por-que-voce-tambem-deve-ir-ao-cinema-e-
+
+
+      outros-programas-sozinho.html?utm_source=facebook&utm_medium=social&utm_ campaign=post>. Acesso em: 17 out. 2016.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                45/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      Dentre as alternativas a seguir, qual apresenta uma figura de estilo presente em
+
+
+
+
+      “[...] só de pensar em se sentar em meio a gente que, ao contrário delas, estão acompanhadas.”?
+
+
+
+      A)    Sinestesia.
+
+
+
+      B)    Silepse de número.
+
+
+
+      C)    Silepse de gênero.
+
+
+
+      D)    Eufemismo.
+
+
+
+      E)    Prosopopeia.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)     Silepse de número.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A silepse é a concordância semântica sobre a gramatical, isto é, concorda-se com a ideia em vez de concordar-se com
+
+
+           o termo gramatical expresso.
+
+
+
+
+           No texto, temos silepse de número, pois “gente” está no singular e “acompanhadas” está no plural, para concordar
+
+
+           com a ideia de “pessoas”. Ambas as palavras são femininas, então não há silepse de gênero.
+
+
+
+
+           Portanto, gabarito Letra B.
+
+
+
+
+    Pleonasmo
+
+
+
+
+    É a repetição de ideias, que se materializa na repetição de palavras ou termos da oração.
+
+
+
+    Exemplos:
+
+
+
+
+     Os problemas, já os resolvi.
+
+
+
+     Que você trabalha muito,issoeu já sei.
+
+
+
+
+    Note que são repetições como forma de recurso estilístico de reforço. Não confunda, portanto,
+
+    com      o   pleonasmo          vicioso,   considerado     “vício   de   linguagem”.    Então,      expressões como: “sair
+
+    para     fora,     entrar    para    dentro,    subir   para   cima,   monopólio     exclusivo,      principal   protaganista,
+
+    encarar       de      frente,   voltar   para   trás,   avançar   para   frente ” não   são   estilísticas,   mas vícios de
+
+    linguagem.
+
+
+
+    Anáfora
+
+
+
+    É a repetição da mesma palavra no início de cada verso ou cada membro da frase.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                46/72
+                      6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Grande no pensamento, grande na ação, grande na glória, grande no infortúnio, ele morreu
+
+     desconhecido e só.
+
+
+
+     Rocha Lima
+
+
+
+     Quando não tinha nada eu quis
+
+
+
+     Quando tudo era ausência esperei
+
+
+
+     Quando tive frio tremi...
+
+
+
+
+     Chico César
+
+
+
+
+                                                                                              2024     CETREDE       Prefeitura de Ubajara (CE)
+      Questão            4001815356
+                                                                        Professor de Educação Básica III - Língua Portuguesa (Pref Ubajara/CE)
+
+      Leia estes versos do poeta Paulo Leminsk.
+
+
+
+
+      [...]
+
+
+      passe o que nasce
+
+
+      passe o que nem
+
+
+      passe o que faz
+
+
+      passe o que faz-se
+
+
+      que tudo passe
+
+
+      e passe muito bem
+
+
+      [...]
+
+
+
+
+      Os quatro primeiros versos apresentam a seguinte figura de linguagem:
+
+
+
+      A)       Anáfora – figura de construção
+
+
+
+      B)       Anacoluto – figura de sintaxe.
+
+
+
+      C)       Gradação – figura de pensamento.
+
+
+
+      D)       Hipérbato – figura de sintaxe.
+
+
+
+      E)       Perífrase – figura de palavra.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)      Anáfora – figura de construção
+
+
+
+
+      Comentário do professor:
+
+
+
+
+              Observe a sequência que se constrói nos versos, a partir da repetição de "passe". Essa "sequência" constitui uma
+
+
+              gradação - figura de sintaxe, também chamada de figura de "construção". Portanto, gabarito Letra A.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                 47/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+   6.4 1.4 Semântica x Estilística
+
+
+
+
+     Semântica x Estilística
+    Língua Portuguesa está inserida na área de Linguagens, Códigos e suas Tecnologias e traz um
+
+    foco importantíssimo:
+
+
+
+
+     propiciar ao aluno o refinamento de habilidades de leitura e de escrita, de fala e de escuta.
+
+
+
+
+    O ponto mais importante (e o que mais caem em prova) é como trazer para a sala de aula esse
+
+    "refinamento". A OCEM traz diretrizes bastante claras:
+
+
+
+
+          promover situações de produção e leitura de textos, em diferentes suportes e sistemas de
+
+          linguagem (escrito, oral, imagético, digital etc.);
+
+
+
+    O foco dessa diretriz é que o aluno conheça, use e compreenda as distintas linguagens em
+
+    nossa sociedade, nos diferentes contextos (literário, científico, publicitário, religioso, jurídico,
+
+    burocrático, cultural, político, econômico, midiático, esportivo etc).
+
+
+
+
+          promover      situações    de    produção     escrita,    oral   e   imagética,        de   leitura   e   de   escuta,   que
+
+          propiciem ao aluno conhecimentos de interação formal e informal ;
+
+
+
+    Essa diretriz prepara o aluno para lidar com situações de interação mais complexas, que exigem
+
+    a    construção     de     saberes    relativos   ao   uso    de   diferentes        estratégias     (linguística,      textual   e
+
+    pragmática). Tudo isso para assegurar maior autonomia comunicativa do aluno;
+
+
+
+
+          reflexão sobre os usos da língua nos textos;
+
+
+
+    Aqui    o   foco   recai   sobre     variação   (linguística,   textual      e   pragmática).       Assim,      o   aluno   tomará
+
+    consciência        do   funcionamento      sociopragmático         do      texto:   contexto,      produção,         circulação   e
+
+    recepção, inclusive das vozes e pontos de vista do enunciador.
+
+
+
+    Esses três aspectos trazidos pela OCEM apenas serão conduzidos de forma satisfatória a partir
+
+    de    uma   abordagem        interdisciplinar,    tanto   dos   referenciais         teórico-metodológicos             de   Língua
+
+    Portuguesa      (que     englobam      compreensão        e    produção          textual),   quanto    das      disciplinas    que
+
+    compõem a grade do Ensino Médio.
+
+
+
+
+   6.5 Semântica
+
+
+
+
+     Semântica
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     48/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Como usuários da língua, lidamos o tempo todo com mensagens que, além de uma forma, têm
+
+    também um significado.
+
+
+
+    O trabalho da semântica consiste em explicar o significado dessas mensagens. Para explicar as
+
+    palavras,    podemos      colocá-las     em   séries,   do   tipo   gato-felino-mamífero,   canela-perna-corpo,
+
+    chato-desagradável-mofino,            grande-volumoso-enorme-gigantesco,           encher-esvaziar   e   muitas
+
+    outras. Essas séries, às quais chegamos de maneira intuitiva, baseiam-se sempre em                       alguma
+
+    relação: o campo semântico.
+
+
+
+    Duas das grandes dificuldades da semântica são a polissemia e a ambiguidade. E são elas o
+
+    nosso objeto de estudo deste tópico.
+
+
+
+
+     Polissemia
+    Uma mesma palavra pode ter múltiplos sentidos.
+
+
+
+    Exemplos:
+
+
+
+
+     Bala: projétil de arma de fogo e guloseima de açúcar
+
+
+
+     (com origem comum na palavra em francês balle)
+
+
+
+     Cabeça: parte do corpo humano e líder do grupo
+
+
+
+     (com origem comum na palavra em latim capitia)
+
+
+
+     Coluna: espinha dorsal e pilar de sustentação
+
+
+
+     (com origem comum na palavra em latim columna)
+
+
+
+     Dama: senhora da nobreza e peça de jogos
+
+
+
+     (com origem comum na palavra em francês dame)
+
+
+
+
+    Veja uma charge que explora os múltiplos sentidos da palavra “vendo”:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                 49/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Ambiguidade
+    Ambiguidade é a possibilidade de um texto apresentar mais de leitura possível.
+
+
+
+    Destaco aqui que a ambiguidade pode ser tanto um recurso estilístico (utilizado principalmente
+
+    em propagandas e em textos narrativos) quanto um problema estrutural.
+
+
+
+    Como      diferenciar?     Apenas     pelo   contexto!     Por   exemplo,       se   estamos   diante   de   um   texto
+
+    publicitário ou de uma piada, sabemos que a ambiguidade é um recurso estilístico. Em um texto
+
+    dissertativo ou acadêmico, ela se torna um desvio de coesão.
+
+
+
+    Ex: Você ensina, ensina, e o aluno, nada.
+
+
+
+    Note aqui o duplo sentido é formado pelo duplo sentido que a palavra "nada" adquire: o aluno
+
+    não aprende o que foi ensinado OU o aluno aprende a nadar.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                         50/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    Disponível em <https://chicoalencar/ i-festival-brasileiro-de-piadas-de-duplo-sentidosem-um-
+
+
+    segundo-sentidovi-no-tarc>
+
+
+
+    Note que o duplo o sentido da charge não reside apenas na estrutura linguística, mas nos
+
+    aspectos semânticos e quebra de expectativa que, principalmente, a última fala cria.
+
+
+
+    Ambiguidade estrutural
+
+
+
+    Como mencionei, podemos ter casos de Ambiguidade Estrutural, ou seja, o duplo sentido é
+
+    criado a partir da posição dos termos na frase.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+    Ex: O celular se tornou um grande aliado do homem, mas esse nem sempre realiza todas as
+
+    suas tarefas.
+
+
+
+    Quem " nem sempre realiza todas as suas tarefas"? O celular ou o homem?
+
+
+
+    Note que aqui o problema se deu pelo erro do uso do pronome demonstrativo. Já vimos que o
+
+    correto é utilizar "este" para o termo mais próximo ("homem") ou "aquele" para o termo mais
+
+    distante ("celular").
+
+
+
+    Ex: João foi atrás do taxi correndo.
+
+
+
+    Quem estava correndo? João ou o taxi?
+
+
+
+    Para desfazer      essa ambiguidade, precisamos deslocar                o verbo no gerúndio ou         reescrever     a
+
+    última parte da frase:
+
+
+
+    João, correndo, foi atrás do taxi.
+
+
+
+    João foi atrás do taxi, que estava em alta velocidade.
+
+
+
+    Ambiguidade polissêmica
+
+
+
+
+    Podemos       ainda   ter   um   segundo      tipo   de   ambiguidade,      a   polissêmica.   Essa   recai   sobre   a
+
+    possibilidade de duplo sentido que vocábulos podem adquirir.
+
+
+
+    Vejamos alguns exemplos:
+
+
+
+
+    Note que o duplo sentido da tirinha recai sobre a palavra "vendo": verbo "ver" ou verbo
+
+
+    "vender".
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                         51/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+    Nessa tirinha, o duplo sentido recai sobre o verbo lançar: jogar o livro ou escrever e publicar
+
+
+    uma obra.
+
+
+
+    Como isso pode ser cobrado na sua prova? De duas formas distintas: o examinador pode pedir
+
+    pra você desfazer a ambiguidade ou identificar o duplo sentido do texto.
+
+
+
+    Vamos praticar um pouco?!
+
+
+
+
+         #VamosPraticar#
+
+
+
+         (PREF. MARECHAL DEODORO-PR / Enfermeiro/ 2023)
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                     52/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+           O cartaz, além de promover uma homenagem, enfatiza o conceito do substantivo
+
+
+           “criação”- 1. Ação ou efeito de criar; invenção, elaboração. 2. Resultado de algo realizado
+
+
+           pelo intelecto ou pelo esforço do homem. 3. Ação de criar o mundo, as coisas e os
+
+
+           seres, atribuída a Deus.
+
+
+
+           Nesse contexto, é correto afirmar que há um recurso semântico chamado
+
+
+
+           A) elipse.
+
+
+
+           B) sinonímia.
+
+
+
+           C) hiponímia.
+
+
+
+           D) polissemia.
+
+
+
+           E) ambiguidade.
+
+
+
+           Comentários:
+
+
+
+           Questão direta. Ela já traz as múltiplas acepções do substantivo “criação” - característica
+
+           da polissemia. Portanto, Gabarito letra D.
+
+
+
+           #VamosPraticar#
+
+
+
+
+                                                                           2018    FGV     Assembleia Legislativa do Estado de Rondônia
+      Questão        191112232
+                                                                                      Assistente Legislativo - Sem Especialidade (ALE-RO)
+
+      Do Casamento
+
+
+
+
+      O casamento foi a maneira que a humanidade encontrou de propagar a espécie sem causar falatório na vizinhança. As
+
+
+      tradições matrimoniais se transformaram através dos tempos e variam de cultura para cultura. Em certas sociedades primitivas
+
+
+      o tempo gasto nas preliminares do casamento – corte, namoro, noivado etc. – era abreviado. O macho escolhia uma fêmea,
+
+
+      batia com um tacape na sua cabeça e a arrastava para a sua caverna. Com o passar do tempo este método foi sendo
+
+
+      abandonado, por pressão dos buffets, das lojas de presente e das mulheres, que não admitiam um período pré-conjugal tão
+
+
+      curto. O homem precisava aproximar-se dela, cheirar seus cabelos, grunhir no seu ouvido, mordiscar a sua orelha e só então,
+
+
+      quando ela estivesse distraída, bater com o tacape na sua cabeça e arrastá-la para a caverna. (fragmento)
+
+
+
+
+      VERÍSSIMO , Luís Fernando, Comédias da Vida Privada. Ed. LPm. 1994.
+
+
+
+
+      “O macho escolhia uma fêmea, batia com um tacape na sua cabeça e a arrastava para a sua caverna.”
+
+
+
+
+      Assinale a opção que apresenta o problema de construção dessa frase do texto.
+
+
+
+      A)    A polissemia do vocábulo “fêmea”.
+
+
+
+      B)    A ambiguidade do possessivo “sua” em “sua caverna”.
+
+
+
+      C)    A colocação do pronome pessoal “a”.
+
+
+
+      D)    A seleção vocabular por “macho” em lugar de “homem”.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                           53/72
+                    6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      E)    A predicação verbal do verbo “arrastava”.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)       A ambiguidade do possessivo “sua” em “sua caverna”.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           O pronome “sua” causa ambiguidade, pois não sabemos se a caverna é do homem ou da mulher.
+
+
+
+
+           Gabarito letra B.
+
+
+
+
+   6.6 Estilística e Semântica na Sala de Aula
+
+
+
+
+     Estilística e Semântica na Sala de Aula
+    Trazer      a   Estilística       e   a   Semântica       para   a   sala    de   aula   é    contribuir        com         o   ensino        de   língua
+
+    materna, dando oportunidades para que o aluno reflita sobre a língua sob um ponto de vista que
+
+    ele não está acostumado: ao invés de expor regras, ou abordar o “certo” e o “errado”, desafia-se
+
+    o      aluno     a     refletir       sobre    o   significado       dos     termos      da      língua,       seu     funcionamento                e      o
+
+    funcionamento da mente humana.
+
+
+
+    Uma      forma        de   trazer      ainda   mais   subsídios       dentro      do     que     preconiza        a   BNCC           e   os    PCNs        é
+
+    apresentar uma abordagem interdisciplinar, em que se utiliza uma metalinguagem, com o uso
+
+    da língua em si, e um modelo lógico (filosofia).
+
+
+
+    Além disso, é importante que o professor traga ao aluno a ideia de que o estudo da Semântica e
+
+    da Estilística "passeia" entre o ensino de gramática e de interpretação de texto, sob um ponto
+
+    de vista descritivo, e não normativo.
+
+
+
+    Isso    é   imprescindível             para    que   se   descreva      o    funcionamento             da    língua,        e   não      se   imponha
+
+    regras, ampliandom assim, a visão do aluno sobre a linguagem.
+
+
+
+    Esses aspectos, por mais direto e objetivos que pareçam, trazem mudanças consideráveis no
+
+    ensino de língua e ampliam a visão do aluno sobre a língua e seu uso.
+
+
+
+
+      Questão             62121016                                        2019    IDECAN         Instituto Federal da Paraíba       Assistente Social (IFPB)
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                              54/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      O gênero textual verbete de dicionário, além de apresentar aspectos acerca da etimologia (origem da palavra), informa o leitor
+
+
+      sobre a grafia e o significado dos signos linguísticos. O TEXTO I, trata-se de um verbete retirado do Dicionário Houaiss da
+
+
+      Língua Portuguesa. Nesse verbete, quando o leitor se inteira sobre o significado da palavra "sofisticado", ocorre
+
+
+
+      A)    reação de estranhamento, em razão do valor semântico informado nos itens 1, 2, 3, 4 e 5 do verbete, tendo-se como
+
+
+            base o senso comum.
+
+
+
+      B)    quebra de expectativa, caso sejam observados apenas os itens 6, 7 e 8 do verbete, com base no senso comum.
+
+
+
+      C)    quebra de expectativa, caso sejam observados apenas os itens 1, 7 e 8 do verbete, com base no senso comum.
+
+
+
+      D)    reação de estranhamento, em razão do valor semântico informado nos itens 6, 7 e 8 do verbete, tendo-se como base o
+
+
+            senso comum.
+
+
+
+      E)    quebra de expectativa, caso sejam observados apenas os itens 3, 5 e 8 do verbete, com base no senso comum.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)
+
+
+       reação de estranhamento, em razão do valor semântico informado nos itens 1, 2, 3, 4 e 5 do verbete, tendo-se como base o
+
+
+       senso comum.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           A questão traz uma quebra de senso comum, quando o leitor se depara com as primeiras acepções de “sofisticado”.
+
+
+           Essa é a definição da alternativa A.
+
+
+
+
+           Conforme o leitor vai vendo as demais acepções, elas trazem os aspectos mais “comuns” e “esperados” por ele – por
+
+
+           isso a alternativa D está incorreta. Portanto, Gabarito Letra A.
+
+
+
+
+   6.7 Questões Comentadas
+
+
+
+
+    #VamosPraticar#
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                      55/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+     Questões Comentadas
+    3.PREF. PENEDO-RJ / Técnico / 2023
+                                             Texto, Código QR Descrição gerada
+
+
+                                                      automaticamente
+
+
+
+
+    Dadas as afirmativas, considerando a imagem acima,
+
+
+
+    I. A imagem apresenta uma ambiguidade devido ao emprego de vocábulos homônimos.
+
+
+
+    II.   A   ambiguidade    obtida,    na   imagem,     é   devido   ao   emprego   de   vocábulos   com   a   mesma
+
+    etimologia e que se relacionam em termos de ideia.
+
+
+
+    III. Há, no contexto, uma semelhança sonora entre o substantivo e o verbo quando se faz a
+
+    leitura do substantivo como verbo.
+
+
+
+    IV. O uso de palavras parônimas torna o contexto ambíguo.
+
+
+
+    verifica-se que está(ão) correta(s) apenas
+
+
+
+    A) II, III e IV.
+
+
+
+    B) I, III e IV.
+
+
+
+    C) II e IV.
+
+
+
+    D) I e III.
+
+
+
+    E) I.
+
+
+
+    Comentários:
+
+
+
+    Vejamos os itens:
+
+
+
+    I. (V) A ambiguidade reside em “vendo”.
+
+
+
+    II. (F) Não se refere à etimologia.
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                   56/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    III. (F) Não é no contexto, essa semelhança existem por serem homófonos.
+
+
+
+    IV. (F) Não necessariamente o de parônimos sempre será ambíguo.
+
+
+
+    Portanto, Gabarito Letra (E).
+
+
+
+
+    8.UFRJ / Técnico / 2023
+                                                          TECNOLOGIA
+
+
+
+                                                                                                   Luís Fernando Veríssimo
+
+
+
+    Para começar, ele nos olha na cara. Não é como a máquina de escrever, que a gente olha de
+
+    cima, com superioridade. Com ele é olho no olho ou tela no olho. Ele nos desafia. Parece estar
+
+    dizendo: vamos lá, seu desprezível pré-eletrônico, mostre o que você sabe fazer. A máquina de
+
+    escrever faz tudo que você manda, mesmo que seja a tapa. Com o computador é diferente.
+
+    Você    faz   tudo   que   ele   manda.   Ou       precisa   fazer   tudo    ao   modo   dele,   senão      ele   não    aceita.
+
+    Simplesmente         ignora   você.   Mas     se    apenas   ignorasse       ainda   seria    suportável.    Ele      responde.
+
+    Repreende. Corrige. Uma tela vazia, muda, nenhuma reação aos nossos comandos digitais, tudo
+
+    bem. Quer dizer, você se sente como aquele cara que cantou a secretária eletrônica. É um
+
+    vexame privado. Mas quando você o manda fazer                         alguma coisa, mas manda errado, ele diz
+
+    “Errado”. Não diz “Burro”, mas está implícito. É pior, muito pior. Às vezes, quando a gente erra,
+
+    ele faz “bip”. Assim, para todo mundo ouvir. Comecei a usar o computador na redação do jornal
+
+    e volta e meia errava. E lá vinha ele: “Bip!” “Olha aqui, pessoal: ele errou.” “O burro errou!”
+
+
+
+    Outra coisa: ele é mais inteligente que você. Sabe muito mais coisa e não tem nenhum pudor
+
+    em dizer que sabe. Esse negócio de que qualquer máquina só é tão inteligente quanto quem a
+
+    usa não vale com ele. Está subentendido, nas suas relações com o computador, que você jamais
+
+    aproveitará metade das coisas que ele tem para oferecer. Que ele só desenvolverá todo o seu
+
+    potencial quando outro igual a ele o estiver programando. A máquina de escrever podia ter
+
+    recursos que você nunca usaria, mas não tinha a mesma empáfia, o mesmo ar de quem só
+
+    aguentava os humanos por falta de coisa melhor, no momento. E a máquina, mesmo nos seus
+
+    instantes de maior impaciência conosco, jamais faria “bip” em público.
+
+
+
+    Dito isto, é preciso dizer também que quem provou pela primeira vez suas letrinhas dificilmente
+
+    voltará à máquina de escrever sem a sensação de que está desembarcando de uma Mercedes e
+
+    voltando à carroça. Está certo, jamais teremos com ele a mesma confortável cumplicidade que
+
+    tínhamos com a velha máquina. É outro tipo de relacionamento, mais formal e exigente. Mas é
+
+    fascinante.      Agora   compreendo       o   entusiasmo       de    gente    como    Millôr     Fernandes        e   Fernando
+
+    Sabino, que dividem a sua vida profissional em antes dele e depois dele. Sinto falta do papel e
+
+    da fiel Bic, sempre pronta a inserir entre uma linha e outra a palavra que faltou na hora, e que
+
+    nele foi substituída por um botão, que, além de mais rápido, jamais nos sujará os dedos, mas
+
+    acho que estou sucumbindo. Sei que nunca seremos íntimos, mesmo porque ele não ia querer
+
+    se rebaixar a ser meu amigo, mas retiro tudo o que pensei sobre ele. Claro que você pode
+
+    concluir que eu só estou querendo agradá-lo, precavidamente, mas juro que é sincero.
+
+
+
+    Quando saí da redação do jornal depois de usar o computador pela primeira vez, cheguei em
+
+    casa e    bati   na minha máquina.         Sabendo que         ela aguentaria sem            reclamar, como sempre, a
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                  57/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    pobrezinha.
+
+
+
+        Disponível em: https://www.cronicasdacidade.com.br/tag/tecnologia. Acesso em 2 de janeiro
+
+                                                                                                                   de 2023.
+
+
+
+    “Quando saí da redação do jornal depois de usar o computador pela primeira vez, cheguei em
+
+    casa e BATI na minha máquina.”
+
+
+
+    Na    crônica,    a   palavra   em   destaque        assume     duplo   sentido.   As   duas   formas    diferentes    de
+
+    interpretação são:
+
+
+
+    sovar e chutar.
+
+
+
+    B) chocar e surrar.
+
+
+
+    C) compor e esbarrar.
+
+
+
+    D) escrever e esmurrar.
+
+
+
+    E) acertar e polemizar.
+
+
+
+    Comentários:
+
+
+
+
+    Pelo    contexto,     “bater”   pode    ser   entendido        tanto   quando    escrever   (bater     nas   teclas   para
+
+    escrever)     tanto   quanto    esmurrar      (sua   agonia,    irritabilidade   fizeram   com   que   ele   batesse   na
+
+    máquina).
+
+
+
+    Portanto, gabarito Letra (D).
+
+
+
+
+    9.PREF. BOM JARDIM / Professor / 2023
+
+
+
+
+    “Você tem raiva?” (3º quadrinho). O termo destacado possui vários significados, embora o
+
+
+    contexto ajude a resolver qualquer dúvida sobre o significado que esse vocábulo adquire no
+
+
+    texto. Chamamos esse fenômeno, em Semântica, de:
+
+
+
+    A) Polissemia.
+
+
+
+    B) Polissíndeto.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                            58/72
+                     6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+    C) Hiperonímia.
+
+
+
+    D) Hiponímia.
+
+
+
+    Comentários:
+
+
+
+    Questão direta. Quando o enunciado traz que o palavras “possui vários significados“, temos um
+
+    caso clássico de polissemia.
+
+
+
+    Portanto, Gabarito Letra (A).
+
+
+
+    #VamosPraticar#
+
+
+
+
+      Questão          4001438743               2023   Igeduc     Prefeitura de Tupanatinga (PE)    Professor ll Português (Pref Tupanatinga/PE)
+
+
+      Na manchete “Obra para o trânsito no Recife”, tem-se uma ambiguidade provocada pela homonímia do termo “para”, que
+
+
+      pode ser um verbo ou uma preposição, agravada pelo fato de o substantivo “trânsito” ter uma relação próxima com o verbo
+
+
+      parar.
+
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Exatamente! Qual o sentido correto: o transito é parado por causa da obra OU a obra tem a finalidade de melhorar o
+
+
+           trânsito? Portanto, o item está correto.
+
+
+
+
+                                                                                                   2022    FGV      Prefeitura de São Paulo (SP)
+      Questão          4001311802
+                                                                     Professor de Ensino Fundamental II e Médio - Biologia (Pref São Paulo/SP)
+
+      As opções a seguir apresentam frases que mostram ambiguidade, à exceção de uma. Assinale-a.
+
+
+
+      A)    O bandido que tinha fugido da prisão no mês passado foi assassinado.
+
+
+
+      B)    A nomeação do novo ministro trouxe muita apreensão para o mercado financeiro.
+
+
+
+      C)    O repórter esportivo viu o craque passeando pelo mercado de Qatar.
+
+
+
+      D)    O filhote do cachorro mordeu a perna de um transeunte.
+
+
+
+      E)    Os que se vacinarem já terão direito ao passaporte.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                  59/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)   O filhote do cachorro mordeu a perna de um transeunte.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+          Vejamos as ambiguidades:
+
+
+
+          A letra A está incorreta.
+
+
+          No mês passado o bandido fugiu OU no mês passado ele foi assassinado?
+
+
+
+
+          A letra B está incorreta.
+
+
+          O ministro foi nomeado OU nomeou alguém?
+
+
+
+
+          A letra C está incorreta.
+
+
+          O repórter OU o craque estava passeando pelo mercado?
+
+
+
+
+          A letra D está correta.
+
+
+          Já na Letra D, não há elementos que deem margem à ambiguidade.
+
+
+
+
+          Portanto, gabarito Letra (D).
+
+
+
+
+          A letra E está incorreta.
+
+
+          Quem tiver sido vacinado OU quem vacinar a si mesmo?
+
+
+
+
+                                                       2023    INSTITUTO CONSULPLAN       Ministério Público do Estado de Minas Gerais
+      Questão         4001309309
+                                                                                        Analista do Ministério Público - Letras (MP MG)
+
+      O dinamismo lexical: o dizer nosso de cada dia
+
+
+
+
+      O léxico de uma língua constitui-se do saber vocabular de um grupo sociolinguístico e culturalmente definido; é o
+
+
+      conhecimento partilhado que povoa a consciência do falante, onde esse acervo se configura como verdadeira janela através
+
+
+      da qual o indivíduo divisa o seu entorno, ao mesmo tempo em que, ademais revela os valores, as crenças, os costumes, os
+
+
+      modismos que viabilizam a comunidade em que vive o usuário de tal e qual palavra. É no léxico, ainda, que se gravam – e,
+
+
+      não raro, pirogravam – as designações que rotulam as mudanças encadeadoras dos caminhos e dos descaminhos da
+
+
+      humanidade, além de comporem o cenário de revelação tanto da realidade quanto dos fatos culturais que permearam a sua
+
+
+      história.
+
+
+
+
+      O léxico de todas as línguas vivas é essencialmente marcado pela mobilidade, as palavras e as expressões com elas
+
+
+      construídas surgem, desaparecem, perdem ou ganham significações, de sorte a promover o encontro marcado do falante com
+
+
+      a realidade do mundo biossocial que o acolhe: o homem e o mundo encontram-se no signo.
+
+
+
+
+      As mudanças linguísticas, em especial as concernentes ao léxico, nada apresentam de espantoso ou de estranho: elas são, em
+
+
+      tudo, análogas às transformações históricas que traçam seus cursos dentro de certa previsibilidade que só surpreende o
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                         60/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      desatento e o desconhecedor das artes de conviver – a imutabilidade quer da história, quer da palavra que a descreve e a
+
+
+      realiza é que seria um fato a se estranhar.
+
+
+
+
+      O incremento do acervo lexical de uma língua é inconteste: segundo Antônio Houaiss(1983:20), “em tempos de Augusto
+
+
+      Comte (1798-1857), há pouco mais de 140 anos, portanto, era possível designar todas as ciências, artes, técnicas e profissões
+
+
+      então existentes com 240 palavras; estudos da Unesco, em 1963, advertiam que a mesma tarefa só seria levada a efeito com
+
+
+      um acervo de 24 mil entre palavras e locuções. É ainda de Houaiss a informação de que “cerca de 90% dos 400 mil
+
+
+      vocábulos das línguas de cultura foram forjados de meados do século XIX para cá.” [...]
+
+
+
+
+      O que se depreende do exposto é o fato de que o falante, inserido no seu tempo e no seu espaço, é instado a ampliar
+
+
+      consideravelmente o seu inventário vernacular para dar conta do seu entorno e do seu estar-no-mundo, sob pena de, se
+
+
+      assim não fizer, ser exilado dos jogos de convivência que têm, na palavra, o seu penhor e a sua fonte de produção. [...]
+
+
+
+
+      A verdade é que a legitimação do que se diz ou do que se deve dizer depende fundamentalmente da chancela da
+
+
+      comunidade, do povo – povo que constrói nações, fortalece impérios, escreve e rescreve a sua história, vitaliza idiomas: povo
+
+
+      que, por direito, justiça e fato, é o único, legítimo e verdadeiro “dono da língua”.
+
+
+
+
+      (SILVA, Maria Emília Barcellos da. Língua Portuguesa em debate: conhecimento e ensino / José Carlos de Azeredo
+
+
+      (organizador). 4. ed.- Petrópolis, RJ: Vozes, 2007. Trecho adaptado.)
+
+
+
+
+      A ambiguidade pode ser empregada como recurso expressivo para a criação de efeitos de sentido diversos, como também
+
+
+      pode contribuir para o comprometimento da compreensão textual quando o seu emprego mostra-se não proposital. Tal fato
+
+
+      pode ocorrer de várias formas por meio do emprego da pontuação ou de determinados vocábulos como, por exemplo, do
+
+
+      pronome possessivo “seu” (e variações). Considerando o exposto anteriormente, analise as estruturas a seguir, em que o
+
+
+      período I se refere a um trecho do texto lido, o II aponta o emprego do pronome “seu” em outro exemplo.
+
+
+
+
+      I. “[...] análogas às transformações históricas que traçam seus cursos dentro de certa previsibilidade [...]” (3º§)
+
+
+
+
+      II. “O especialista disse ao aluno que seu trabalho estava longe de terminar.”
+
+
+
+
+      Assinale a afirmativa corre
+
+
+
+      A)   Assim como no período I, no período II é possível reconhecer a ocorrência de ambiguidade como um vício de linguagem.
+
+
+
+      B)   Nos dois casos, faz-se necessária a substituição do pronome destacado por um vocábulo equivalente para seja feita a
+
+
+           correção semântica das estruturas.
+
+
+
+      C)   Diferentemente do que ocorre no período II, o fragmento I apresenta ocorrência de ambiguidade como um vício de
+
+
+           linguagem, comprometendo a compreensão da mensagem.
+
+
+
+      D)   É possível reconhecer a ocorrência de ambiguidade apenas no período II; o emprego do pronome “seus” no período I
+
+
+           contribui para que o referente já introduzido no texto seja mantido.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)
+
+
+       É possível reconhecer a ocorrência de ambiguidade apenas no período II; o emprego do pronome “seus” no período I
+
+
+       contribui para que o referente já introduzido no texto seja mantido.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                     61/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+      Comentário do professor:
+
+
+
+
+         Cuidado! Nem sempre o uso de pronome possessivo gera ambiguidade!
+
+
+
+
+         Nos exemplos, a ambiguidade ocorre apenas no período II: o trabalho é do especialista OU do aluno? Já no período I,
+
+
+         o emprego do pronome “seus” contribui para que o referente já mencionado no texto seja mantido.
+
+
+
+
+         Portanto, Gabarito Letra D.
+
+
+
+
+                                       2023   CESPE (CEBRASPE)      Secretaria de Estado de Planejamento e Orçamento do Estado de Roraima
+      Questão       4001313965
+                                                Analista de Planejamento e Orçamento - Especialidade: Planejamento e Orçamento (SEPLAN RR)
+
+      Texto CB1A1
+
+
+
+
+      A governabilidade refere-se à capacidade política de governar, que deriva da relação de legitimidade do Estado e do seu
+
+      governo com a sociedade. Está presente quando a população legitima o exercício do poder pelo Estado. A legitimidade, nesse
+
+      contexto, deve ser entendida como a aceitação do poder do governo ou do Estado pela sociedade.
+
+
+
+
+      Nesse sentido, os cidadãos e a cidadania organizada são a fonte ou a origem principal da governabilidade, ou seja, é a partir
+
+      deles (e de sua capacidade de articulação em partidos, associações e demais instituições representativas) que surgem e se
+
+      desenvolvem as condições para a governabilidade plena.
+
+
+
+
+      Vinculada à dimensão estatal, governabilidade diz respeito às condições sistêmicas e institucionais sob as quais se dá o
+
+      exercício do poder, tais como as características do sistema político, a forma de governo, as relações entre os poderes, o
+
+      sistema de intermediação de interesses. Representa, assim, um conjunto de atributos essenciais ao exercício do governo, sem
+
+      os quais nenhum poder pode ser exercido.
+
+
+
+
+      Há três dimensões inerentes ao conceito de governabilidade: capacidade do governo de identificar problemas críticos e de
+
+      formular políticas adequadas ao enfrentamento desses problemas, capacidade de mobilizar meios e recursos necessários à
+
+      execução e à implantação das políticas públicas e capacidade de liderança do Estado, sem a qual as decisões se tornam
+
+      ineficientes. A governabilidade, então, significa que o governo deve tomar decisões amparadas em um processo que inclua a
+
+      participação dos diversos setores da sociedade, dos poderes constituídos, das instituições públicas e privadas e dos
+
+      segmentos representativos da sociedade, para garantir que as escolhas atendam aos anseios da sociedade e contem com seu
+
+      apoio na implementação de programas e projetos e na fiscalização dos serviços públicos.
+
+
+
+
+      Sob esse enfoque, significa a participação dos diversos setores da sociedade nos processos decisórios que dizem respeito às
+
+      ações do poder público, uma vez que incorpora a articulação do aparelho estatal ao sistema político de uma sociedade,
+
+      ampliando o leque possível e indispensável à legitimidade e ao suporte das ações governamentais em busca de sua eficácia.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                            62/72
+                     6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      Em resumo, governabilidade refere-se às condições do ambiente político em que se efetivam ou se devem efetivar as ações da
+
+      administração, à base de legitimidade dos governos, à credibilidade e à imagem públicas da burocracia. Desse modo, o
+
+      desafio da governabilidade consiste em conciliar os muitos interesses desses atores (na maioria, divergentes) e reuni-los em
+
+      um objetivo comum (ou em vários objetivos comuns) a ser perseguido por todos. Assim, a capacidade de articular-se em
+
+      alianças políticas e pactos sociais constitui-se em fator crítico para a viabilização dos objetivos do Estado. Essa tentativa de
+
+      articulação que a governabilidade procura é uma forma de intermediação de interesses.
+
+
+
+
+      Thiago Antunes da Silva.
+
+
+
+
+      Conceitos e evolução da administração pública: o desenvolvimento do papel administrativo, 2017. Internet:
+
+      <www.online.unisc.br> (com adaptações)
+
+
+
+
+      No que concerne aos aspectos linguísticos do texto CB1A1, julgue o próximo item.
+
+
+
+
+      No primeiro período do quarto parágrafo, a expressão “a qual” foi empregada para tornar menos ambígua a estrutura do
+
+      período, haja vista que essa expressão retoma apenas “capacidade de liderança do Estado”, e não as três dimensões
+
+      apresentadas.
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Retomando o trecho, temos: “Há três dimensões inerentes ao conceito de governabilidade: capacidade do governo de
+
+
+           identificar problemas críticos e de formular políticas adequadas ao enfrentamento desses problemas, capacidade de
+
+
+           mobilizar meios e recursos necessários à execução e à implantação das políticas públicas e capacidade de liderança
+
+
+           do Estado, sem a qual as decisões se tornam ineficientes.”
+
+
+
+
+           O pronome relativo "a qual" está no feminino singular e foi usado para retomar apenas um termo anterior, "capacidade
+
+           de liderança do Estado". Se esse pronome fosse retomar todas as três capacidades citadas, ele deveria ser usado em
+
+           sua forma plural, "as quais". Por isso seu uso desfaz uma possível ambiguidade.
+
+
+
+
+           Portanto, o item está correto.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                        63/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+      Questão           4001326273              2022     FCM - Fundação CEFETMINAS     Instituto Federal de Brasília   Meio Ambiente (IFB)
+
+
+      Pomar do cerrado
+
+
+
+
+      Quando visitou Brasília na década de 1970, Clarice Lispector escreveu que as árvores da nova capital eram mirradinhas e
+
+
+      pareciam de plástico. Mas se ela voltasse à cidade nos dias de hoje ficaria surpresa. As árvores floresceram, se tornaram
+
+
+      frondosas, abrigam sombras, produzem flores e frutos. É possível fazer até um calendário floral. A Novacap plantou muitas
+
+
+      espécies, estrangeiras, que se aclimataram à região e, por assim dizer, ganharam cidadania cerratense. Além disso, os
+
+
+      brasilienses de outros estados também pontilharam Brasília de mangueiras, amoreiras, jaqueiras, pitangueiras, abacateiros,
+
+
+      entre outros. Cada um introduziu a fruta preferida de sua região.
+
+
+
+
+      Então, é uma criação coletiva que contribuiu para consolidar a cidade-parque. Apanhei muitas frutas para os meus filhos
+
+
+      quando eram pequenos. Era uma festa topar com as amoreiras do Eixão aos domingos. Esse é um dos aspectos mais
+
+
+      singulares e agradáveis da cidade. O biólogo e pesquisador Marcelo Kuhlman é apaixonado por qualquer espécie de planta e
+
+
+      nada tem contra o plantio de árvores exóticas em áreas urbanas e reverencia a cidade-parque, mas levanta uma questão
+
+
+      importante: a maior ameaça ao cerrado é o desconhecimento e a desvalorização. Por isso, ele propõe que sejam plantadas
+
+
+      árvores frutíferas nativas no Plano Piloto e nas cidades-satélites.
+
+
+
+
+      Espécies nativas de frutos do cerrado possuem a vantagem de já estarem adaptadas ao clima e ao solo local, são riquíssimas
+
+
+      em nutrientes e ainda servem de alimento para a fauna nativa, como diversas espécies de aves, argumenta Kuhlman. E
+
+
+      continua: o plantio de espécies como pequi, mangaba, araticum, jatobá, cagaita, murici e bacupari em áreas urbanas também
+
+
+      valorizaria a flora local, que é um patrimônio genético e cultural da nossa região. Se a população desconhece as plantas que
+
+
+      estão no seu quintal, a tendência é de que essas espécies caiam no esquecimento.
+
+
+
+
+      Realmente, nos tempos de criança e adolescente, bastava dar um passo que eu estava em pleno cerrado. Catei muito pequi,
+
+
+      cajuzinho, araticum e cagaita. Mas, agora, compro pequi à beira da estrada e, quando pergunto de onde vem, quase sempre a
+
+
+      resposta é: de Minas Gerais. Com o crescimento urbano desordenado, essas espécies desapareceram das cercanias de Brasília.
+
+
+      Atualmente, só é possível uma imersão no cerrado em áreas restritas como o Jardim Botânico ou o Parque Nacional. Seria
+
+
+      preciso estender o acesso a todos os brasilienses. É necessário haver envolvimento da população em geral para que se possa
+
+
+      despertar o interesse das pessoas e reconhecermos que a conservação do cerrado e das suas espécies depende de todos nós,
+
+
+      diz Kuhlman sobre a utopia de transformar Brasília em cidade-pomar.
+
+
+
+
+      Disponível em: https://www.correiobraziliense.com.br/app/noticia/cidades/2019/12/22/interna_cidadesdf,815959/cronica-da-
+
+
+      cidade.shtml. Adaptado.
+
+
+
+
+      Considerando-se que uma mesma palavra pode apresentar diferentes significados conforme o contexto em que foi
+
+
+      empregada, no trecho “Apanhei muitas frutas para os meus filhos quando eram pequenos.”, a palavra sublinhada significa
+
+
+      “ajuntar, colher, tomar”. Todavia, em outros contextos, pode ser empregada no sentido de “prender, ser espancado,
+
+
+      compreender, entre outros.
+
+
+
+
+      A esse fenômeno linguístico dá-se o nome de
+
+
+
+      A)   sinonímia.
+
+
+
+      B)   paronímia.
+
+
+
+      C)   denotação.
+
+
+
+      D)   polissemia.
+
+
+
+      E)   hiperonímia.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                            64/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: D)   polissemia.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+         Questão direta. Quando o enunciado diz “uma mesma palavra pode apresentar diferentes significados conforme o
+
+
+         contexto em que foi empregada”, estamos diante de um caso de polissemia.
+
+
+
+
+         Portanto, gabarito Letra (D).
+
+
+
+
+      Questão        4001325039    2022     FCM - Fundação CEFETMINAS      Instituto Federal de Brasília   Assistente em Administração (IFB)
+
+
+      Os dois textos seguintes tratam de alguns aspectos semânticos e estilísticos das palavras.
+
+
+
+
+      TEXTO I
+
+
+
+
+      “Em Djursholm, subúrbio elegante da cidade de Estocolmo, fica a sede do Instituto Mittag-Leffler. O palacete foi construído
+
+
+      na década de 1890 pelo matemático sueco Gösta Mittag-Leffler (1846–1927), cujo casamento com a rica herdeira Signe af
+
+
+      Lindfors do tara-o com os meios necessários para se permitir e a sua família uma residência refinada”.
+
+
+
+
+      TEXTO II
+
+
+
+
+      Avalie o que se informa a respeito.
+
+
+
+
+      I – No Texto II, a frase “tive que trocar todas as peças.”, observa-se o emprego do vocábulo destacado em sentido
+
+
+      conotativo, figurado, pelo seu poder evocativo.
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                              65/72
+                        6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      II – Na frase “Isso é um paradoxo.” (Texto II), considerando-se o contexto, o termo sublinhado pode ser corretamente
+
+
+      substituído, sem prejuízo de sentido ao texto, por “consenso”.
+
+
+
+
+      III – No Texto I, as palavras “elegante ” e “refinada” foram empregadas em sentido próprio, literal, pois apenas qualificam os
+
+
+      substantivos que as acompanham na sentença, respectivamente.
+
+
+
+
+      IV – No primeiro período do Texto I, a palavra “família” é polissêmica, pois, se utilizada em novos contextos, apresentará
+
+
+      outros sentidos como, por exemplo: categorização científica, tipos gráficos, elementos químicos, para citar alguns.
+
+
+
+
+      Está correto apenas o que se afirma em
+
+
+
+      A)    II.
+
+
+
+      B)    IV.
+
+
+
+      C)    I e II.
+
+
+
+      D)    I e III.
+
+
+
+      E)    III e IV.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)       IV.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Vejamos os itens:
+
+
+
+
+           I – ( F) “peças.”, nesse caso, foi utilizado no sentido próprio, denotativo.
+
+
+
+
+           II – ( F) “Paradoxo” é o oposto de “consenso”.
+
+
+
+
+           III – ( F) “refinada” não está sendo empregado em seu sentido próprio, denotativo.
+
+
+
+
+           IV – ( V) Exatamente. “família” é polissêmico, por todos os sentidos apresentados no texto.
+
+
+
+
+           Portanto, gabarito Letra (B).
+
+
+
+
+      Questão             2379451841                    2020     IBADE    Prefeitura de Linhares (ES)   Condutor de Veículos (Pref Linhares/ES)
+
+
+      Na frase “Ela tem uma pele de pêssego.”, há uma figura de linguagem denominada:
+
+
+
+      A)    metonímia.
+
+
+
+      B)    eufemismo.
+
+
+
+      C)    metáfora.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                 66/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      D)    hipérbole.
+
+
+
+      E)    prosopopeia.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: C)    metáfora.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Temos nas alternativas: metonímia (um termo por outro similar, sem perder a proximidade de sentidos), eufemismo
+
+
+           (palavra ou expressão por outra mais "suave"), metáfora (real sentido por um sentido simbólico), hipérbole (exagero
+
+
+           proposital para enfatizar uma ideia) e prosopopeia/personificação (ações ou características de seres vivos a algo
+
+
+           inanimado).
+
+
+
+
+           Gabarito: Letra C
+
+
+
+
+      Questão            2379443709                   2019    IBADE    Prefeitura de Vila Velha (ES)   Professor de Artes (Pref Vila Velha/ES)
+
+
+      Em “João morreu no doce contato das águas plácidas da Lagoa.”, ocorre a seguinte figura de linguagem:
+
+
+
+      A)    Metáfora.
+
+
+
+      B)    Sinestesia.
+
+
+
+      C)    Paradoxo.
+
+
+
+      D)    Metonímia.
+
+
+
+      E)    Antonomásia.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)   Sinestesia.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           Em "doce contato", temos sinestesia - figura de linguagem caracterizada por combinar termos que remetem aos
+
+
+           sentidos do corpo humano: audição, paladar, tato, visão e olfato.
+
+
+
+
+           Gabarito: Letra B.
+
+
+
+
+      Questão            4001890779                                                                               2023     Questão Adaptada
+
+
+      PREF. DE VILA VELHA-ES / Professor / 2020
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                                67/72
+                     6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+      Observe o período abaixo.
+
+
+
+
+      “A manhã, toldo de um tecido tão aéreo    que, tecido, se eleva por si: luz balão.”
+
+
+
+
+      Quantos aos aspectos gramatical, sintático e semântico, pode-se fazer a seguinte análise:
+
+
+
+
+      No período há duas metáforas.
+
+
+
+      A)    Certo.
+
+
+
+      B)    Errado.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)    Certo.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+           No primeiro verso, o eu-lírico (voz de um poema) compara a manhã a um toldo, objeto físico que cobre uma local,
+
+
+           porque a manhã, o céu, simbolicamente, “cobre o dia”; sendo o tecido desse toldo metafórico o céu, o tecido é
+
+
+           “aéreo”. Depois, na segunda metáfora, a luz eleva-se por si mesma, como se eleva um balão.
+
+
+
+
+           Portanto, item correto.
+
+
+
+
+                                                                                   2020     FUNDEP    Prefeitura de Barão de Cocais (MG)
+      Questão          1552140589
+                                                                                      Advogado CRAS e CREAS (Pref Barão de Cocais/MG)
+
+      Por que uso de antibióticos na agropecuária preocupa médicos e cientistas
+
+
+
+
+      Há quatro anos, em uma fazenda de criação intensiva em Xangai, na China, um exame feito em um porco prestes a ser
+
+
+      abatido encontrou uma bactéria resistente ao antibiótico colistina. O achado acendeu um alerta que ecoou pelo mundo –
+
+
+      cada vez mais temeroso com a capacidade que micro-organismos têm demonstrado em driblar tratamentos à base de
+
+
+      antibióticos.
+
+
+
+
+      A bactéria resistente encontrada no suíno, uma Escherichia coli , levou os cientistas da China a aprofundar os exames –
+
+
+      agora, também em frangos de fazendas de quatro províncias chinesas, nas carnes cruas desses animais à venda em mercados
+
+
+      de Guangzhou, e em amostras de pessoas hospitalizadas com infecções nas províncias de Guangdong e Zhejiang.
+
+
+
+
+      Eles encontraram uma “alta prevalência” do Escherichia coli com o gene MCR-1, que dá às bactérias uma alta resistência à
+
+
+      colistina e tem potencial de se alastrar para outras bactérias, como a Klebsiella pneumoniae e Pseudomonas aeruginosa. O
+
+
+      MCR-1 foi encontrado em 166 de 804 animais analisados, e em 78 de 523 amostras de carne crua.
+
+
+
+
+      Já nos humanos, a incidência foi menor, mas se mostrou presente em 16 amostras de 1.322 pacientes hospitalizados.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                          68/72
+                  6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+      “Por causa da proporção relativamente baixa de amostras positivas coletadas em humanos na comparação com animais, é
+
+
+      provável que a resistência à colistina mediada pelo MCR-1 tenha se originado em animais e posteriormente se alastrado para
+
+
+      os humanos”, explicou em 2015 Jianzhong Shen, da Universidade de Agricultura em Pequim, um dos autores do estudo,
+
+
+      cujos resultados foram publicados no periódico The Lancet Infectious Diseases.
+
+
+
+
+      Mas como esse material genético resistente pode ter passado dos animais para os humanos? O caminho de “transmissão” de
+
+
+      microrganismos (bactérias, parasitas, fungos, etc.) resistentes é uma incógnita não só para o caso dos porcos, frangos e
+
+
+      pacientes na China, mas para o uso veterinário e médico de antibióticos como um todo.
+
+
+
+
+      Pode ser que esses microrganismos ou resquícios de antibióticos (restos dos medicamentos que, em contato com os
+
+
+      micróbios, podem estimular sua resistência) possam estar se alastrando pelos alimentos, ou ainda através do lixo hospitalar,
+
+
+      lençóis freáticos, rios e canais de esgoto – e a investigação para desvendar as rotas de bactérias tem motivado inúmeras
+
+
+      pesquisas no Brasil e no mundo.
+
+
+
+
+      “As bactérias não têm fronteiras: a resistência pode passar de um lugar a outro sem passaporte e de várias formas”, explica
+
+
+      Flávia Rossi, doutora em patologia pela Faculdade de Medicina da Universidade de São Paulo (USP) e integrante do Grupo
+
+
+      Consultivo da OMS para a Vigilância Integrada da Resistência Antimicrobiana (WHO-Agisar). “Com a globalização, não só o
+
+
+      transporte de pessoas é rápido, como os alimentos da China chegam ao Brasil e vice-versa. Essa cadeia mimetiza o que
+
+
+      acontece com o clima: estamos todos interligados. Por isso, a Organização Mundial da Saúde (OMS) vem trabalhando com o
+
+
+      enfoque de ‘One Health’ (‘Saúde única’ em português, a perspectiva de que a saúde das pessoas, dos animais e o ambiente
+
+
+      estão conectados).”
+
+
+
+
+      Agora, a dimensão global do problema ganhou um mapeamento inédito juntando pesquisas já feitas medindo a presença de
+
+
+      microrganismos resistentes em alimentos de origem animal em países de baixa e média renda – e o Brasil aparece no grupo
+
+
+      de lugares com situação preocupante. Não quer dizer que o estudo considere o país como um todo, mas pontos que já foram
+
+
+      submetidos a pesquisas, como abatedouros de bois em cidades gaúchas ou em uma fazenda produtora de leite e queijo em
+
+
+      Goiás.
+
+
+
+
+      ALVIM, Mariana. BBC News. Disponível em: <https://www.bbc. com/portuguese/geral-50119820>. Acesso em: 16 nov. 2019.
+
+
+
+
+      Releia este trecho.
+
+
+
+
+      “O achado acendeu um alerta que ecoou pelo mundo – cada vez mais temeroso com a capacidade que micro-
+
+
+      organismos têm demonstrado em driblar tratamentos à base de antibióticos.”
+
+
+
+
+      A figura de linguagem que confere características humanas a objetos ou animais, como ocorre nesse trecho, é
+
+
+      chamada de
+
+
+
+      A)   metáfora.
+
+
+
+      B)   prosopopeia.
+
+
+
+      C)   sinestesia.
+
+
+
+      D)   metonímia.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: B)   prosopopeia.
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                    69/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+      Comentário do professor:
+
+
+
+
+           A figura de linguagem que humaniza os animais é a “prosopopeia”, também chamada de personificação.
+
+
+
+
+           Gabarito letra B.
+
+
+
+
+      Questão            2379468392            2019    IBADE   Prefeitura de Vila Velha (ES)   Professor Coordenador (Pref Vila Velha/ES)
+
+
+
+
+      No verso “Um galo sozinho não tece uma manhã” há o recurso expressivo denominado:
+
+
+
+      A)    prosopopeia.
+
+
+
+      B)    metáfora.
+
+
+
+      C)    metonímia.
+
+
+
+      D)    eufemismo.
+
+
+
+      E)    catacrese.
+
+
+
+
+      Solução:
+
+
+
+
+      Gabarito: A)   prosopopeia.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                           70/72
+                   6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+
+           Literalmente, um galo não pode tecer nada; então, a atribuição de traço ou comportamento humano a um animal
+
+
+           configura figura linguagem, chamada personificação ou prosopopeia. Veremos a seguir as demais figuras mencionadas
+
+
+           nas alternativas.
+
+
+
+
+           Gabarito letra A.
+
+
+
+
+                                                          2019    FUNDEP     Departamento Municipal de Água e Esgoto de Uberlândia (MG)
+      Questão          1394224908
+                                                                                              Assistente Social (DMAE de Uberlândia/MG)
+
+      Leia o texto III a seguir, retirado da obra Gabriela, cravo e canela para responder à questão
+
+
+
+
+      TEXTO III
+
+
+
+
+      — Bié...
+
+
+      — Seu Nacib...
+
+
+      — Por que “seu” Nacib? Sou seu marido, não seu patrão...
+
+
+      Ela sorriu, arrancou os sapatos, começou a arrumar, os pés descalços. Ele tomou-lhe da mão, repreendeu:
+
+
+      — Não pode mais não, Bié...
+
+
+      — O que?
+
+
+      — Andar sem sapatos. Agora você é uma senhora.
+
+
+      Assustou-se:
+
+
+      — Posso não? Andar descalça, de pé no chão?
+
+
+      — Pode não.
+
+
+      — E por que?
+
+
+      — Você é uma senhora, de posses, de representação.
+
+
+      — Sou não, seu Nacib. Sou só Gabriela...
+
+
+      — Vou te educar – tomou-a nos braços, levou-a pra cama.
+
+
+      — Moço bonito...
+
+
+
+
+      AMADO, Jorge. Gabriela, cravo e canela. 1958.
+
+
+
+
+      Releia o trecho a seguir.
+
+
+
+
+      “— Posso não? Andar descalça, de pé no chão?”
+
+
+
+
+      A seguinte figura de linguagem pode ser percebida na expressão em destaque:
+
+
+
+      A)    Hipérbole.
+
+
+
+      B)    Hipérbato.
+
+
+
+      C)    Eufemismo.
+
+
+
+      D)    Anáfora.
+
+
+
+
+      Solução:
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                                                         71/72
+                 6. Palavras homônimas, parônimas e cognatas. Relações de sentido entre palavras sinoním
+
+
+
+      Gabarito: B)   Hipérbato.
+
+
+
+
+      Comentário do professor:
+
+
+
+
+         O hipérbato é uma inversão brusca da estrutura sintática:
+
+
+
+
+         Não posso andar descalça, de pé no chão?
+
+
+
+
+         “— Posso não? Andar descalça, de pé no chão?”
+
+
+
+
+         Portanto, Gabarito letra B.
+
+
+
+
+   Referências e links deste capítulo
+
+
+
+
+         1 https://g1.globo.com/sp/sao-paulo/noticia/2022/01/27/cidade-de-sp-tem-um-roubo-a-cada-
+
+
+         quatro-minutos-em-2021-diz-levantamento-da-ssp.ghtml
+
+
+
+
+         2 http://www.homortadela.com.br
+
+
+
+
+         3 https://chicoalencar/
+
+
+
+
+         4 https://www.cronicasdacidade.com.br/tag/tecnologia
+
+
+
+
+Linguística para Câmara dos Deputados (Analista Legislativo - Registro e Redação)                72/72
+
