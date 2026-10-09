@@ -52,10 +52,6 @@ Para Saussure, a língua precede historicamente a fala, uma vez que o falante s�
 = E
 > O Curso afirma o contrário: historicamente, o fato de fala vem sempre antes. É ouvindo os outros que aprendemos a língua materna, e a língua se estabelece pela prática da fala.
 ---
-Por ser de natureza psíquica, a língua constitui, para Saussure, uma abstração sem realidade concreta.
-= E
-> Saussure afirma que a língua não é menos que a fala um objeto de natureza concreta. Os signos são psíquicos, mas não são abstrações: são realidades que têm sede no cérebro.
----
 A comparação da língua com o jogo de xadrez ilustra que o valor de cada elemento depende de sua posição no sistema, e não da matéria de que é feito, o que se resume na afirmação de que a língua é forma, e não substância.
 = C
 > No xadrez, uma peça de madeira pode ser trocada por outra de marfim sem alterar o jogo. Importam as regras e as relações, assim como, na língua, importa o valor definido pelas diferenças entre os elementos.
@@ -87,5 +83,33 @@ A língua brasileira de sinais (LIBRAS) constitui língua, e não mera linguagem
 Na concepção de linguagem como forma de interação, a língua é entendida como código fechado por meio do qual um emissor transmite uma mensagem a um receptor, cabendo a este apenas decodificá-la.
 = E
 > O item descreve a concepção de linguagem como instrumento de comunicação, que vê a língua como código. Na concepção interacionista, a linguagem é lugar de ação e de constituição dos sujeitos.
+---
+Na concepção de linguagem como expressão do pensamento, a língua ocupa papel secundário, servindo apenas para exteriorizar o pensamento construído no interior da mente, razão pela qual essa concepção está associada à valorização das normas gramaticais do falar e do escrever bem.
+= C
+> Essa concepção vê a linguagem como espelho do mundo e do pensamento, e dela decorre a gramática tradicional ou normativa. Nela, a enunciação é ato individual, independente do outro e do contexto (Aula 1, § 1.3).
+---
+Na concepção de linguagem como instrumento de comunicação, o sistema linguístico é concebido como interno à consciência do indivíduo, que o constrói a cada interação de acordo com os efeitos de sentido pretendidos.
+= E
+> Nessa concepção, a língua é um código convencionado e preestabelecido, externo à consciência do indivíduo, que serve para transmitir informações. A construção de efeitos de sentido na interação caracteriza a concepção interacionista.
+---
+Na perspectiva da linguagem como forma de interação, o indivíduo, ao usar a língua, não apenas exterioriza o pensamento ou transmite informações, mas realiza ações e atua sobre o outro, em determinada situação de comunicação.
+= C
+> É a concepção da linguagem como lugar de interação, associada a Bakhtin, Benveniste, Koch e Travaglia, e adotada pelos documentos educacionais brasileiros (PCN e BNCC).
+---
+Para Edward Sapir, a linguagem é um método puramente humano e não instintivo de comunicar ideias, emoções e desejos por meio de símbolos voluntariamente produzidos.
+= C
+> Definição de Sapir, autor ligado ao relativismo linguístico, para quem a língua é uma categorização simbólica organizada da cultura (Aula 1, § 1.2).
+---
+Para Chomsky, a linguagem é um componente da mente/cérebro humanos dedicado ao conhecimento e ao uso da língua, sendo a língua um estado dessa faculdade, o que torna o conhecimento linguístico individual e interno.
+= C
+> Visão gerativista: a faculdade da linguagem é o "órgão da linguagem", e a criança seleciona opções específicas de um conjunto pré-determinado (Aula 1, § 1.2).
+---
+Carlos Franchi concebe a língua como mero instrumento de mediação entre o pensamento e o mundo, cuja função se esgota na transmissão de informações.
+= E
+> Para Franchi, "a língua é atividade constitutiva": ela vai além de instrumento de comunicação ou modo de interação e constitui o próprio conhecimento, o pensamento e a interação humana.
+---
+Embora a liberdade de combinação seja característica essencial da fala, traços como o tom de voz e a maneira de articular as palavras não são inteiramente individuais, pois dependem também do grupo social e da região do falante.
+= C
+> É a ressalva feita na Aula 1 (§ 1.3). No plano teórico, corresponde à noção de norma de Coseriu: o uso habitual e coletivo de uma comunidade.
 ---
 @texto -

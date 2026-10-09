@@ -1,138 +1,188 @@
 # Teoria do signo linguístico — resumo
 
-> ⚠️ Material feito sem o livro em mãos. As citações de Saussure seguem a tradução brasileira do *Curso de Linguística Geral* (Cultrix) **de memória**. Confira a redação exata na sua edição antes de decorar uma frase literal.
-
 Subtópicos do edital: ✅ **1.1 Linguagem, língua e fala** · ⬜ 1.2 Significante e significado; significação · ⬜ 1.3 Arbitrariedade e motivação; linearidade · ⬜ 1.4 Referente, referência, representação, sentido · ⬜ 1.5 Denotação e conotação
+
+> **Fontes deste resumo**
+> - **Base:** Aula 1 (§ 1.2 Linguística e § 1.3 Linguagem × Língua × Fala) e Aula 2 (§ 2.3, que amplia as concepções de linguagem), Prof.ª Patricia Manzato, em [`../material/`](../material/README.md).
+> - **Complementos:** Saussure, *Curso de Linguística Geral* (CLG, Cultrix); Geraldi e Travaglia (concepções de linguagem); Coseriu; Labov; artigos acadêmicos conferidos na internet (lista no fim).
+> - 🔎 marca o que **não está nas aulas** e veio da pesquisa. ⚠️ marca **divergência** entre a aula e a obra de referência.
 
 ---
 
 ## 1.1 Linguagem, língua e fala
 
-### 1. O problema que Saussure quis resolver
+### 1. Onde o assunto nasce
 
-A linguística do século XIX estudava as línguas de forma histórica e comparativa, misturando fonética, psicologia, história e sociologia. Saussure (*Curso de Linguística Geral*, 1916, obra **póstuma**, organizada por Bally e Sechehaye a partir das anotações de alunos) queria definir **um objeto próprio** para a linguística.
+- Até o século XIX predominava a linguística **histórico-comparativa** (perspectiva **diacrônica**): agrupar línguas em famílias, achar relações entre elas e reconstituir a língua primitiva (o protoindo-europeu). *(Aula 1, § 1.2)*
+- No início do século XX, com os **estruturalistas**, passa-se a estudar também as relações internas da língua num dado momento (perspectiva **sincrônica**). *(Aula 1)*
+- **Ferdinand de Saussure**, *Curso de Linguística Geral* (**1916**). 🔎 A obra é **póstuma**, publicada por Bally e Sechehaye a partir de notas de alunos. Saussure recorta a **língua** dentro da linguagem e faz dela o objeto da linguística.
 
-A linguagem humana é ampla demais para servir de objeto, porque mistura tudo. Então Saussure **recorta** dentro dela uma parte social e sistemática, a **língua**, e deixa de lado o uso individual, a **fala**.
+| Diacronia | Sincronia |
+|---|---|
+| Estudo **cronológico**, no eixo da **sucessividade**: a língua ao longo do tempo | Estudo da língua **em dado momento**, no eixo da **simultaneidade**: fatos que coexistem no mesmo sistema |
+| Ex.: do latim ao português | Ex. da aula: concordância "os menino escolhido" no português de hoje |
 
-> "É o ponto de vista que cria o objeto." O objeto da linguística não é dado pronto: é construído pelo recorte teórico.
+> **Metáfora do xadrez** (aula): a cada lance a posição muda, mas cada posição pode ser descrita sem saber os lances anteriores. Assim também se descreve a língua num momento dado. 🔎 No CLG, o xadrez também ilustra que o **valor** da peça depende do sistema e não do material de que é feita (madeira ou marfim): "a língua é **forma** e não substância".
 
-### 2. As três noções
+> ⚠️ **Língua × fala** e **sincronia × diacronia** são dicotomias **diferentes**. A banca tenta igualá-las.
 
-| | **Linguagem** (*langage*) | **Língua** (*langue*) | **Fala** (*parole*) |
+### 2. Linguagem
+
+**Para Saussure:**
+- A linguagem, tomada em seu todo, é "**multiforme e heteróclita**", "a cavaleiro de diferentes domínios" (físico, fisiológico e psíquico). Pertence ao domínio **individual e social** e não se deixa classificar em nenhuma categoria de fatos humanos. 🔎 *(CLG; citação conferida em artigos acadêmicos)*
+- Por isso ela **não pode ser o objeto** da linguística.
+- A **língua** "não se confunde com a linguagem; é somente uma **parte determinada e essencial** dela". *(Aula 1)*
+
+**"Para a sua banca"** (destaque da aula): a linguagem humana é entendida como uma **abstração**, a **capacidade** que o homem tem de se comunicar com seus semelhantes por meio de signos verbais. Por isso compreende fatores **físicos, fisiológicos e psíquicos**.
+
+**Outras visões de linguagem trazidas pela aula 1** (atenção: a banca pede para reconhecer o autor):
+
+| Autor | Linguagem / língua |
+|---|---|
+| **Saussure** (1916) | A língua é a parte social e essencial da linguagem; o signo une conceito e imagem acústica |
+| **Bakhtin** (1929) | A verdadeira substância da língua é a **interação verbal**, um fenômeno social. A língua vive e evolui na comunicação concreta, e não no sistema abstrato nem no psiquismo individual. Bakhtin é o precursor da **Teoria da Enunciação** (impulsionada por **Benveniste**) e cria o **dialogismo**: "toda enunciação é um diálogo" |
+| **Sapir** (1929) | A linguagem é um método **puramente humano e não instintivo** de comunicar ideias, emoções e desejos por **símbolos voluntariamente produzidos**. A língua é uma **categorização simbólica** da cultura. Corrente do **relativismo linguístico** |
+| **Chomsky** (1957) | A linguagem é um componente da **mente/cérebro**; a faculdade da linguagem é o "**órgão da linguagem**", e a língua é um **estado** dessa faculdade. A linguagem é um conjunto (finito ou infinito) de sentenças, com **infinitude discreta**. O conhecimento linguístico é **individual e interno**, e a criança **seleciona opções** de um conjunto pré-determinado. **Gramática Gerativa** |
+| **Carlos Franchi** (1977) | "A língua é **atividade constitutiva**": mais que instrumento de comunicação ou modo de interação, ela **constitui** o conhecimento, o pensamento e a interação. Posição compartilhada com **Marcuschi** |
+
+### 3. As três concepções de linguagem (muito cobradas)
+
+Esta é a parte mais desenvolvida nas aulas (Aula 1, § 1.3; Aula 2, § 2.3). 🔎 A sistematização clássica é de **João Wanderley Geraldi** (*O texto na sala de aula*) e **Luiz Carlos Travaglia** (*Gramática e interação*).
+
+| | **1. Expressão do pensamento / representação** | **2. Instrumento de comunicação** | **3. Forma de interação (inter-ação)** |
 |---|---|---|---|
-| O que é | Faculdade humana de comunicar por signos, no todo | **Sistema** de signos compartilhado pela comunidade | **Uso individual** do sistema em cada ato concreto |
-| Natureza | **Heterogênea** ("multiforme e heteróclita"): física, fisiológica, psíquica; individual e social | **Homogênea**, **social**, psíquica | **Heterogênea**, **individual**, psicofísica |
-| Relação com o indivíduo | — | O indivíduo **registra passivamente**; sozinho não pode criá-la nem modificá-la | **Ato de vontade e inteligência** do falante |
-| Duração | — | Relativamente estável; existe "na massa" dos falantes | **Momentânea**: cada ato é único |
-| Papel na teoria | Não pode ser objeto da linguística, pois não se classifica numa categoria só | **Objeto da linguística** | Fica para uma "linguística da fala", **secundária** |
+| Ideia central | A linguagem é "**espelho**" do mundo e do pensamento. Quem pensa bem se expressa bem | A linguagem **transmite informações**. A língua é um **código** (signos combinados segundo regras), convencionado e preestabelecido | Ao usar a língua, o sujeito **age sobre o outro**, com uma finalidade. A linguagem é **lugar de interação** e de construção de sentidos numa situação concreta |
+| Papel da língua | Secundário: só **exterioriza** o pensamento, que se forma na mente | **Externa** à consciência do indivíduo: um código que os falantes dominam e usam de modo semelhante | Construída na interação. O **diálogo** é característica decisiva |
+| Enunciação | **Ato individual**, independente do outro e do contexto | Emissor → mensagem → receptor; falha = **ruído** | Depende dos interlocutores, dos lugares sociais e do contexto |
+| Gramática associada | **Normativa / tradicional** ("falar e escrever bem") | Estudo do código, da estrutura | **Internalizada**; competência **textual/discursiva** |
+| Correntes (Aula 2) | Racionalismo cartesiano; Saussure na "vertente inicial"; gramática normativa | **Estruturalismo** e **funcionalismo** | Sociolinguística, Análise do Discurso, Interacionismo Sociodiscursivo; base dos **PCN** e da **BNCC** |
+| Representantes (Aula 2) | Platão, Aristóteles, Descartes, Saussure | Saussure, **Jakobson** (funções da linguagem), **Bühler** (modelo *organon*), Chomsky | **Bakhtin**, **Benveniste**, **Labov**, **Travaglia**, **Koch**, **Fiorin** |
 
-Uma frase para guardar:
+> ⚠️ A Aula 2 põe **Saussure** em duas colunas (1 e 2) e **Chomsky** na 2. É uma leitura didática. Na prova, guie-se pela **ideia** do item, e não por um rótulo de autor.
+> - Saussure → "língua como sistema/código social".
+> - Chomsky → "gramática internalizada, inata, individual".
+> - Bakhtin → "interação".
 
-> **linguagem = língua + fala**. A língua é a parte **social e essencial** da linguagem; a fala é a parte **individual e acessória** (ou "acidental").
+> Nas questões comentadas da aula aparecem como nomes válidos das concepções "representação", "integração", "intercompreensão" e "inter-ação". "**Oposição**" não é concepção de linguagem.
 
-### 3. Língua (*langue*): o que cai
+### 4. Língua (*langue*)
 
-- "Produto social da faculdade de linguagem e conjunto de convenções necessárias, adotadas pelo corpo social, para permitir o exercício dessa faculdade nos indivíduos."
-- É um **sistema de signos** que exprimem ideias. Importa a relação entre os elementos, ou seja, o **valor** (subtópico 1.2).
-- É um "**tesouro**" depositado pela prática da fala na mente dos membros de uma comunidade.
-- **Não está completa em nenhum indivíduo**. Só existe de modo completo **na massa** dos falantes, na coletividade.
-- O indivíduo **não cria nem modifica** a língua sozinho. Ele a **aprende** e a registra passivamente. Daí a ideia de **imutabilidade** do signo (subtópico 1.3).
-- Pode ser estudada **separadamente** da fala. Prova: estudamos línguas mortas, que ninguém mais fala.
-- É de natureza **psíquica**, mas **concreta**: os signos são realidades que têm sede no cérebro, e não abstrações.
-- "A língua é **forma e não substância**." O que define cada elemento são as diferenças em relação aos outros, e não o material físico (som, tinta).
+**Na aula:**
+- Corresponde ao **sistema de regras** (fonológicas, morfológicas, sintáticas e semânticas) que determina o emprego dos sons, das formas e das relações sintáticas necessárias para produzir significados.
+- Existe na **consciência de todo indivíduo** que se comunica por meio de um código linguístico.
+- Não é criação de um indivíduo, mas de uma **comunidade**: é um conceito **social**.
+- É **abstrata e coletiva**, um "**código virtual**". É uma visão **formalista**, que valoriza o funcionamento interno.
+- Exemplo do português no Brasil: não há distinção entre alfabetizados e analfabetos; a língua está internalizada; todo brasileiro compreende um português e vice-versa; os sotaques mudam, mas o **sistema é o mesmo**.
 
-**Analogias clássicas**
+**No CLG** (a aula cita os dois primeiros pontos; 🔎 os demais vêm da obra):
+- "Produto social da faculdade de linguagem e conjunto de **convenções necessárias, adotadas pelo corpo social**, para permitir o exercício dessa faculdade nos indivíduos." É a definição que deu gabarito na questão de Turilândia/2024 comentada na aula.
+- "Parte **social** da linguagem, **exterior ao indivíduo**", que sozinho não pode criá-la nem modificá-la. "Um todo por si e um **princípio de classificação**." *(Aula 1)*
+- 🔎 É um **sistema de signos** que exprimem ideias, de natureza **homogênea**.
+- 🔎 É um "**tesouro**" depositado pela prática da fala nos membros da comunidade. **Não está completa em nenhum indivíduo**: só existe de modo completo **na massa** dos falantes.
+- 🔎 O indivíduo a **registra passivamente**.
+- 🔎 Pode ser estudada **separadamente** da fala. Prova disso: estudamos línguas mortas.
 
-| Analogia | Lado da língua | Lado da fala |
-|---|---|---|
-| **Jogo de xadrez** | As **regras** e o **valor** de cada peça dentro do sistema; o material da peça não importa | Cada partida jogada |
-| **Sinfonia** | A partitura, que existe independentemente da execução | A **execução** pelos músicos; os erros dos músicos não alteram a sinfonia |
-| **Dicionário** | Exemplares idênticos distribuídos entre os indivíduos, ou seja, o modelo coletivo | — |
+> ⚠️ **"Abstrata" ou "concreta"?**
+> - A aula chama a língua de **abstrata**, um "código virtual". Essa é a leitura corrente nos manuais.
+> - No CLG, Saussure diz que a língua, **não menos que a fala, é um objeto de natureza concreta**: os signos são psíquicos, mas **não são abstrações**, porque têm sede no cérebro. Não consegui confirmar a redação literal em fonte online; confira no CLG (Introdução, cap. III).
+> - Na prova:
+>   - item genérico ("a língua é um sistema abstrato, social e coletivo") → tende a **C**, que é a leitura dos manuais;
+>   - item que atribui **a Saussure** a afirmação de que a língua "não tem realidade concreta" → **E**.
 
-**Fórmulas do *Curso*:**
-- Língua: **1 + 1 + 1 + 1… = 1**, um modelo coletivo presente em cada cérebro.
-- Fala: **1 + 1' + 1'' + 1'''…**, uma soma de atos particulares, sem nada de coletivo.
+### 5. Fala (*parole*)
 
-### 4. Fala (*parole*): o que cai
+**Na aula:**
+- É a **atualização da língua**: a parcela **concreta e individual** da língua, acionada por um falante em cada situação concreta de comunicação.
+- Sua característica essencial é a **liberdade de combinação**.
+- ⚠️ **CUIDADO** (destaque da aula): tom de voz e articulação variam de pessoa para pessoa, mas **não são totalmente individuais**. Dependem do **grupo social** e da **região**. Ex.: as gírias de uma faixa etária.
+  - 🔎 Essa ressalva é exatamente o que **Coseriu** chama de **norma** (ver item 8).
 
-- "**Ato individual de vontade e inteligência**", no qual se distinguem:
+**No CLG** (🔎, citação conferida):
+- "Ato **individual** de **vontade e inteligência**", no qual se distinguem:
   1. as **combinações** pelas quais o falante usa o código da língua para exprimir seu pensamento pessoal;
-  2. o **mecanismo psicofísico** que lhe permite exteriorizar essas combinações.
-- É **individual, momentânea, heterogênea** e não forma sistema.
+  2. o **mecanismo psicofísico** que permite exteriorizar essas combinações.
+- É **heterogênea**, **momentânea** e **acessória** em relação à língua.
 
-### 5. Interdependência: uma não existe sem a outra
+> ⚠️ **"Fala" ≠ oralidade.** A *parole* é **qualquer** uso individual da língua: um discurso na tribuna e um texto escrito são, ambos, fala. A oposição **oral × escrito** é outro tema (tópico 7.2). Essa é a armadilha mais provável para o seu cargo.
 
-- A **língua é necessária** para que a fala seja **inteligível** e produza seus efeitos.
-- A **fala é necessária** para que a língua **se estabeleça**. Historicamente, **o fato de fala vem sempre antes**: aprendemos a língua ouvindo os outros falarem.
-- **É a fala que faz evoluir a língua.** As mudanças começam em atos individuais e, se a comunidade as adota, entram no sistema.
-- "A língua é, ao mesmo tempo, o **instrumento** e o **produto** da fala."
+### 6. Quadro-resumo
 
-> Pegadinha frequente: "Para Saussure, a fala independe da língua", ou "a língua independe historicamente da fala". **Errado.** São **interdependentes**. A língua pode ser **estudada** separadamente, mas não **existe** sem a fala.
+| | Linguagem | Língua | Fala |
+|---|---|---|---|
+| O que é | **Faculdade/capacidade** de comunicar por signos | **Sistema** de regras e signos | **Uso concreto** do sistema |
+| Plano | Individual **e** social | **Social**, coletivo | **Individual** |
+| Natureza | **Heterogênea** (física, fisiológica, psíquica) | **Homogênea**, psíquica | Heterogênea, psicofísica |
+| Estabilidade | — | Estável, existe "na massa" | **Momentânea**, a cada ato |
+| Papel | Não é objeto da linguística | **Objeto** da linguística saussuriana | Linguística da fala, **secundária** |
 
-### 6. O circuito da fala
+> **linguagem = língua + fala**: a língua é a parte social e essencial; a fala, a parte individual e acessória.
 
-Dois interlocutores, A e B:
-1. **Fase psíquica:** no cérebro de A, o **conceito** aciona a **imagem acústica** correspondente.
-2. **Fase fisiológica:** o cérebro envia impulsos aos órgãos da fonação.
-3. **Fase física:** as ondas sonoras vão da boca de A ao ouvido de B.
-4. O processo se inverte em B: ouvido → cérebro → imagem acústica → conceito.
+### 7. Interdependência 🔎
 
-A parte **executiva** (a fonação) pertence à **fala**. A parte **receptiva e coordenadora**, que liga conceito e imagem acústica, é onde se forma a **língua**.
+- A **língua é necessária** para que a fala seja **inteligível**.
+- A **fala é necessária** para que a língua **se estabeleça**. Historicamente, o **fato (ato) de fala vem sempre antes**.
+- **É a fala que faz evoluir a língua.** As inovações individuais só entram no sistema quando a comunidade as adota.
+- A língua é, ao mesmo tempo, "o **instrumento** e o **produto** da fala". *(citação conferida)*
 
-> A **imagem acústica** não é o som físico. É a **impressão psíquica** do som. Isso volta no subtópico 1.2: significante = imagem acústica.
+> A língua pode ser **estudada** separadamente, mas não **existe** sem a fala. Itens que dizem que "são independentes" estão **errados**.
 
-### 7. Objeto da linguística
+**Circuito da fala** (CLG) 🔎: no cérebro de A, o **conceito** aciona a **imagem acústica** (fase psíquica), que vira impulso para os órgãos da fonação (fase fisiológica) e onda sonora até B (fase física). Em B, o processo se inverte. A **imagem acústica** é a impressão **psíquica** do som, e não o som físico. Isso é a base do subtópico 1.2.
 
-- "A linguística tem por **único e verdadeiro objeto a língua** considerada em si mesma e por si mesma." É a frase final do *Curso*, atribuída aos **editores**.
-- **Linguística da língua** = essencial. **Linguística da fala** = secundária. Saussure faz a primeira.
-- Saussure prevê uma ciência geral dos signos, a **semiologia**. A linguística seria **parte** dela.
-- **Atenção às dicotomias:** língua × fala é **uma** dicotomia. **Sincronia × diacronia** é **outra** (estudo do sistema num momento × evolução no tempo). Não as confunda num item. Para Saussure, a linguística da língua é prioritariamente **sincrônica**.
+### 8. Releituras que a banca mistura 🔎
 
-### 8. Depois de Saussure: releituras que a banca mistura
-
-| Autor | Noções | O que muda em relação a Saussure |
+| Autor | Proposta | Contraste com Saussure |
 |---|---|---|
-| **Hjelmslev** | esquema, norma, uso | Divide a *langue* em níveis |
-| **Coseriu** | **sistema, norma, fala** | Cria a **norma**, nível intermediário entre o que o sistema permite e o que cada falante faz: o uso **habitual e coletivo**. Ex.: o sistema permite "*caminhação*", a norma consagra "*caminhada*". |
-| **Chomsky** | **competência × desempenho** | Parecida com língua × fala, mas a **competência é individual, mental e inata** (o conhecimento que o falante ideal tem da gramática). A *langue* é **social**. Não trate como sinônimos. |
-| **Bakhtin/Volóchinov** | crítica ao "**objetivismo abstrato**" | A língua não é um sistema abstrato e estável. Ela vive na **interação verbal** concreta e na **enunciação**, que é social (liga com o tópico 5). |
-| **Labov** (sociolinguística) | **heterogeneidade ordenada** | A variação não é caos individual da fala: ela é **sistemática** e social (liga com o tópico 7). |
+| **Coseriu** | **Sistema × norma × fala** | A **norma** é o uso **habitual e coletivo** de uma comunidade, entre o que o sistema permite e o que o indivíduo faz. Ex.: o sistema admitiria "*caminhação*"; a norma consagra "*caminhada*" |
+| **Chomsky** | **Competência × desempenho** | Parecido com língua × fala, mas a competência é **individual, mental e inata**, e a *langue* é **social**. Não são sinônimos |
+| **Bakhtin/Volóchinov** | Crítica ao "**objetivismo abstrato**" | A língua não é um sistema estável de formas idênticas: vive na **interação verbal** e na enunciação |
+| **Labov** | **Heterogeneidade ordenada** | A variação não é caos da fala individual: é **sistemática** e social (tópico 7) |
+| **Libras** | — | É **língua** (Lei nº 10.436/2002), com sistema completo, de modalidade **gesto-visual**. Não é "linguagem de sinais" |
 
-### 9. Sentidos de "linguagem" e "língua" fora de Saussure
+### 9. Como a banca cobra este subtópico
 
-- **Linguagem** em sentido amplo é qualquer sistema de signos: verbal (palavras) ou **não verbal** (gestos, imagens, sinais de trânsito, música). Linguagem **mista** = verbal + não verbal.
-- **Língua** no sentido comum é o **idioma** de uma comunidade (português, inglês). A **Libras** é **língua** (sistema linguístico completo, de modalidade gesto-visual), e não "linguagem de sinais".
-- **Concepções de linguagem** (Geraldi, muito cobradas em provas de professor):
-  1. **expressão do pensamento**: ligada à gramática normativa;
-  2. **instrumento de comunicação**: a língua como código, ligada ao estruturalismo e à teoria da comunicação;
-  3. **forma de interação**: a linguagem como lugar de ação entre sujeitos, ligada a Bakhtin e à enunciação.
-  (Mais detalhes no tópico 8, "Concepções de gramática".)
-
-### 10. Ligação com o cargo (Registro e Redação)
-
-- **"Fala" saussuriana ≠ oralidade.** A *parole* é **qualquer** uso individual da língua: um discurso oral é fala, e um e-mail escrito também é fala. A oposição **oral × escrito** é outra discussão (Marcuschi, tópico 7.2).
-- Na degravação, o orador produz **fala** (*parole*), e o redator a transpõe para a escrita **com base no sistema** (*langue*) e na **norma** (Coseriu) da modalidade escrita formal. Isso conecta este tópico com a retextualização (6.2) e com a revisão de transcrições.
-- Para a discursiva, este é um bom eixo de introdução: a transcrição registra um ato de fala único e irrepetível usando um sistema social compartilhado.
+- **Nas questões das aulas** (bancas variadas):
+  - definição de língua de Saussure ("produto social… convenções adotadas pelo corpo social");
+  - as três concepções de linguagem, inclusive reconhecer o nome que **não** é uma concepção ("oposição");
+  - "expressão do pensamento ↔ estudos tradicionais" e "instrumento de comunicação ↔ teoria da comunicação, língua como código" (ambos corretos).
+- **No estilo CEBRASPE:** a banca costuma transcrever um **trecho do CLG** (edição Cultrix) e pedir que você reconheça o conceito ou princípio. Exemplo: na questão de 2018 do IF Fluminense, comentada na Aula 1, ela citou os trechos sobre arbitrariedade e linearidade. Por isso, vale reconhecer as **frases-chave** de Saussure:
+  - "multiforme e heteróclita";
+  - "produto social… convenções necessárias";
+  - "ato individual de vontade e inteligência";
+  - "instrumento e produto da fala".
+- **Ponte com o seu cargo:** a degravação registra um **ato de fala** único usando um **sistema social** (língua) e a **norma** da escrita formal. É uma boa abertura para uma discursiva sobre transcrição.
 
 ---
 
 ## Pegadinhas (1.1)
 
-| Item como aparece na prova | Gabarito e motivo |
+| Item como aparece | Gabarito e motivo |
 |---|---|
-| A linguagem é o objeto de estudo da linguística saussuriana. | **E.** O objeto é a **língua**. A linguagem é heteróclita demais. |
-| A língua é a parte individual da linguagem, e a fala, a parte social. | **E.** Está **invertido**. |
-| A língua existe de forma completa no cérebro de cada falante. | **E.** Só existe completa **na massa**, na coletividade. |
-| O falante pode, individualmente, modificar a língua. | **E.** O indivíduo a registra passivamente. As mudanças nascem na fala, mas só entram na língua se adotadas pela comunidade. |
-| A fala é um ato individual de vontade e inteligência. | **C.** Definição do *Curso*. |
-| Para Saussure, a fala corresponde à modalidade oral da língua. | **E.** A *parole* inclui a escrita. Fala ≠ oralidade. |
-| A língua é homogênea; a linguagem, heterogênea. | **C.** |
-| Historicamente, a fala precede a língua. | **C.** "O fato de fala vem sempre antes." |
-| Língua e fala são independentes entre si. | **E.** São **interdependentes**. A língua pode ser *estudada* à parte, mas não *existe* sem a fala. |
-| A competência chomskiana equivale à *langue* de Saussure. | **E** (como equivalência). A competência é individual e inata; a *langue* é social. |
-| Por ser psíquica, a língua é uma abstração. | **E.** Para Saussure, a língua é psíquica e **concreta**. |
-| Língua × fala é o mesmo que sincronia × diacronia. | **E.** São dicotomias **distintas**. |
-| Na analogia do xadrez, o material de que as peças são feitas é irrelevante para o jogo. | **C.** A língua é **forma, não substância**. |
-| Na tricotomia de Coseriu, a norma é o uso individual de cada falante. | **E.** A norma é o uso **coletivo e habitual**. O individual é a fala. |
+| A linguagem é o objeto da linguística saussuriana. | **E.** O objeto é a **língua**. A linguagem é heteróclita. |
+| A língua é a parte individual da linguagem; a fala, a social. | **E.** Está invertido. |
+| A língua existe completa no cérebro de cada falante. | **E.** Só existe completa **na massa** dos falantes. |
+| Para Saussure, a fala é um ato individual de vontade e inteligência. | **C.** |
+| A fala, em Saussure, corresponde à modalidade oral. | **E.** Fala ≠ oralidade; a escrita também é *parole*. |
+| A característica essencial da fala é a liberdade de combinação, embora o modo de falar dependa também do grupo social e da região. | **C.** É a ressalva da aula (e a norma de Coseriu). |
+| Historicamente, a língua precede a fala. | **E.** O fato de fala vem sempre antes. |
+| Língua e fala são independentes. | **E.** São interdependentes; a língua só pode ser *estudada* à parte. |
+| Língua × fala equivale a sincronia × diacronia. | **E.** São dicotomias distintas. |
+| Na concepção de linguagem como instrumento de comunicação, a língua é um código externo ao indivíduo. | **C.** |
+| Na concepção interacionista, a enunciação é ato individual independente do contexto. | **E.** Isso descreve a concepção de **expressão do pensamento**. |
+| A gramática normativa decorre da concepção de linguagem como expressão do pensamento. | **C.** |
+| Para Chomsky, a língua é um estado da faculdade da linguagem, componente da mente/cérebro. | **C.** |
+| Competência (Chomsky) = *langue* (Saussure). | **E.** A competência é individual e inata; a *langue*, social. |
+| Para Sapir, a linguagem é um método instintivo de comunicação. | **E.** É "puramente humano e **não instintivo**". |
+| Para Franchi, a língua é mero instrumento de comunicação. | **E.** É **atividade constitutiva**. |
+| Na tricotomia de Coseriu, a norma é o uso individual. | **E.** É o uso coletivo e habitual. |
 
 Itens Certo/Errado no formato de importação: [`questoes-importacao.txt`](./questoes-importacao.txt).
+
+---
+
+### Referências da pesquisa complementar
+
+- SAUSSURE, F. *Curso de Linguística Geral*. São Paulo: Cultrix (passagens conferidas em artigos que citam a obra).
+- "O conceito saussuriano de língua: desdobramentos", *Estudos Linguísticos* (GEL): https://revistas.gel.org.br/estudos-linguisticos/article/download/1741/1291
+- *Eidéa* (UESC), sobre a interdependência língua/fala: https://periodicos.uesc.br/index.php/eidea/article/download/1804/1610
+- *Domínios de Linguagem* (UFU), sobre concreto × abstrato no CLG: https://seer.ufu.br/index.php/dominiosdelinguagem/article/download/28504/16871/124204
+- GERALDI, J. W. *O texto na sala de aula*; TRAVAGLIA, L. C. *Gramática e interação* (concepções de linguagem).

@@ -10,6 +10,8 @@
 
 ## Bibliografia
 
+**Aulas-base (material/):** Aula 1 — Fundamentos da Linguística (§§ 1.2–1.3) e Aula 2 (§ 2.3); para 1.5 (denotação/conotação), Aula 6.
+
 **Base (estudar):**
 - SAUSSURE, F. *Curso de Linguística Geral* (Cultrix). Introdução, caps. III–IV (linguagem, língua e fala); 1ª parte, caps. I–II (natureza do signo, arbitrariedade, linearidade, imutabilidade/mutabilidade); 2ª parte, cap. IV (valor) e cap. VI, § 3 (arbitrário absoluto × relativo = motivação).
 - FIORIN, J. L. (org.). *Introdução à Linguística I: objetos teóricos* (Contexto). Capítulos sobre linguagem/língua e sobre a teoria dos signos.
