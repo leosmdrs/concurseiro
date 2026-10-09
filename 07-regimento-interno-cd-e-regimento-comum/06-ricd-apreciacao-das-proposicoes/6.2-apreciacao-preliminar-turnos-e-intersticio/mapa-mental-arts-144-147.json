@@ -1,0 +1,511 @@
+{
+  "rootId": "c3865ee8-5de8-4788-bb61-0721ed165327",
+  "nodes": {
+    "c3865ee8-5de8-4788-bb61-0721ed165327": {
+      "id": "c3865ee8-5de8-4788-bb61-0721ed165327",
+      "label": "Apreciação preliminar — RICD arts. 144 a 147",
+      "x": 0,
+      "y": 0,
+      "color": "#6366f1",
+      "comment": "Capítulo III do Título V (Da Apreciação das Proposições). Parte específica do edital: pode cair na discursiva.",
+      "depth": 0,
+      "parentId": null,
+      "children": [
+        "d80edd92-1db4-4f41-8165-815990da9184",
+        "4cd8d94c-f387-4ac1-9a89-23cbf921f916",
+        "c3f67cf3-9a63-4b45-aeed-c7efee690f97",
+        "f5c88b91-76ed-458b-af9f-2b9bfb8af03a",
+        "e1cbe8ce-b153-4dcb-a1e5-18d41a3e4896",
+        "6f8f1e43-ffb9-4bcb-9e2c-c7f8e3beac7e"
+      ],
+      "hideInReview": false,
+      "question": ""
+    },
+    "d80edd92-1db4-4f41-8165-815990da9184": {
+      "id": "d80edd92-1db4-4f41-8165-815990da9184",
+      "label": "Quando ocorre (art. 144)",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "Art. 144: haverá apreciação preliminar em Plenário quando for provido recurso contra parecer terminativo de Comissão, emitido na forma do art. 54.",
+      "depth": 1,
+      "parentId": "c3865ee8-5de8-4788-bb61-0721ed165327",
+      "children": [
+        "40fafb9a-adcf-4bac-93d5-c06461f49e65",
+        "b339daf0-fa26-4b10-925b-a8f35e41824b",
+        "f12f4723-7aa8-4b4b-9def-8f417a8e646f"
+      ],
+      "hideInReview": false,
+      "question": ""
+    },
+    "40fafb9a-adcf-4bac-93d5-c06461f49e65": {
+      "id": "40fafb9a-adcf-4bac-93d5-c06461f49e65",
+      "label": "Recurso PROVIDO contra parecer terminativo de Comissão",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "Não basta interpor o recurso: ele precisa ser provido.",
+      "depth": 2,
+      "parentId": "d80edd92-1db4-4f41-8165-815990da9184",
+      "children": [
+        "11653228-8aeb-4467-97f9-9e55dbc116a5"
+      ],
+      "hideInReview": true,
+      "question": "Qual é o gatilho da apreciação preliminar?"
+    },
+    "11653228-8aeb-4467-97f9-9e55dbc116a5": {
+      "id": "11653228-8aeb-4467-97f9-9e55dbc116a5",
+      "label": "Parecer terminativo (art. 54)",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "Art. 54: é terminativo o parecer da CCJC, da CFT e da Comissão Especial do art. 34, II, sobre as preliminares.",
+      "depth": 3,
+      "parentId": "40fafb9a-adcf-4bac-93d5-c06461f49e65",
+      "children": [
+        "286a5daa-da29-441d-b6d5-84dda00cc91b",
+        "6fa4b9f6-8184-4346-be00-ef9d4528d72a",
+        "eb6247df-2b9b-4a92-8e56-44728ef35dda"
+      ],
+      "hideInReview": true,
+      "question": "Quais pareceres são terminativos?"
+    },
+    "286a5daa-da29-441d-b6d5-84dda00cc91b": {
+      "id": "286a5daa-da29-441d-b6d5-84dda00cc91b",
+      "label": "CCJC: constitucionalidade ou juridicidade",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "Art. 54, I.",
+      "depth": 4,
+      "parentId": "11653228-8aeb-4467-97f9-9e55dbc116a5",
+      "children": [],
+      "hideInReview": true,
+      "question": "O parecer terminativo da CCJC trata de quê?"
+    },
+    "6fa4b9f6-8184-4346-be00-ef9d4528d72a": {
+      "id": "6fa4b9f6-8184-4346-be00-ef9d4528d72a",
+      "label": "CFT: adequação financeira ou orçamentária",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "Art. 54, II.",
+      "depth": 4,
+      "parentId": "11653228-8aeb-4467-97f9-9e55dbc116a5",
+      "children": [],
+      "hideInReview": true,
+      "question": "O parecer terminativo da CFT trata de quê?"
+    },
+    "eb6247df-2b9b-4a92-8e56-44728ef35dda": {
+      "id": "eb6247df-2b9b-4a92-8e56-44728ef35dda",
+      "label": "Comissão Especial (art. 34, II): ambas as preliminares",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "Art. 54, III. Comissão Especial criada quando a proposição envolve mais de 4 comissões de mérito.",
+      "depth": 4,
+      "parentId": "11653228-8aeb-4467-97f9-9e55dbc116a5",
+      "children": [],
+      "hideInReview": true,
+      "question": "Qual comissão especial emite parecer terminativo, e sobre o quê?"
+    },
+    "b339daf0-fa26-4b10-925b-a8f35e41824b": {
+      "id": "b339daf0-fa26-4b10-925b-a8f35e41824b",
+      "label": "Ocorre em Plenário",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "A apreciação preliminar é feita pelo Plenário, e não pelas comissões.",
+      "depth": 2,
+      "parentId": "d80edd92-1db4-4f41-8165-815990da9184",
+      "children": [],
+      "hideInReview": true,
+      "question": "Quem faz a apreciação preliminar?"
+    },
+    "f12f4723-7aa8-4b4b-9def-8f417a8e646f": {
+      "id": "f12f4723-7aa8-4b4b-9def-8f417a8e646f",
+      "label": "É parte integrante do turno em que se acha a matéria",
+      "x": 0,
+      "y": 0,
+      "color": "#3b82f6",
+      "comment": "Art. 144, parágrafo único. Não é um turno autônomo.",
+      "depth": 2,
+      "parentId": "d80edd92-1db4-4f41-8165-815990da9184",
+      "children": [],
+      "hideInReview": true,
+      "question": "A apreciação preliminar é um turno próprio?"
+    },
+    "4cd8d94c-f387-4ac1-9a89-23cbf921f916": {
+      "id": "4cd8d94c-f387-4ac1-9a89-23cbf921f916",
+      "label": "Objeto (art. 145, caput)",
+      "x": 0,
+      "y": 0,
+      "color": "#10b981",
+      "comment": "O Plenário delibera SOMENTE sobre as preliminares, sem examinar o mérito.",
+      "depth": 1,
+      "parentId": "c3865ee8-5de8-4788-bb61-0721ed165327",
+      "children": [
+        "c2355be2-9a9f-4473-b956-062310f19ed5",
+        "e859fb82-a66a-41b8-9bd3-418233381005"
+      ],
+      "hideInReview": false,
+      "question": ""
+    },
+    "c2355be2-9a9f-4473-b956-062310f19ed5": {
+      "id": "c2355be2-9a9f-4473-b956-062310f19ed5",
+      "label": "Somente as preliminares (sem mérito)",
+      "x": 0,
+      "y": 0,
+      "color": "#10b981",
+      "comment": "Art. 145, caput: 'somente quanto à sua constitucionalidade e juridicidade ou adequação financeira e orçamentária'.",
+      "depth": 2,
+      "parentId": "4cd8d94c-f387-4ac1-9a89-23cbf921f916",
+      "children": [
+        "99c3e7c9-b8c4-4e65-9948-c75d5a23b420",
+        "87ac5f43-eab8-46db-a075-edf195ed5128"
+      ],
+      "hideInReview": true,
+      "question": "Sobre o que o Plenário delibera na apreciação preliminar?"
+    },
+    "99c3e7c9-b8c4-4e65-9948-c75d5a23b420": {
+      "id": "99c3e7c9-b8c4-4e65-9948-c75d5a23b420",
+      "label": "Constitucionalidade e juridicidade",
+      "x": 0,
+      "y": 0,
+      "color": "#10b981",
+      "comment": "Preliminar ligada ao parecer da CCJC.",
+      "depth": 3,
+      "parentId": "c2355be2-9a9f-4473-b956-062310f19ed5",
+      "children": [],
+      "hideInReview": true,
+      "question": "Qual preliminar corresponde à CCJC?"
+    },
+    "87ac5f43-eab8-46db-a075-edf195ed5128": {
+      "id": "87ac5f43-eab8-46db-a075-edf195ed5128",
+      "label": "Adequação financeira e orçamentária",
+      "x": 0,
+      "y": 0,
+      "color": "#10b981",
+      "comment": "Preliminar ligada ao parecer da CFT.",
+      "depth": 3,
+      "parentId": "c2355be2-9a9f-4473-b956-062310f19ed5",
+      "children": [],
+      "hideInReview": true,
+      "question": "Qual preliminar corresponde à CFT?"
+    },
+    "e859fb82-a66a-41b8-9bd3-418233381005": {
+      "id": "e859fb82-a66a-41b8-9bd3-418233381005",
+      "label": "O mérito NÃO é apreciado nessa fase",
+      "x": 0,
+      "y": 0,
+      "color": "#10b981",
+      "comment": "Pegadinha clássica: o item afirma que o Plenário examina conveniência e oportunidade, mas isso é mérito.",
+      "depth": 2,
+      "parentId": "4cd8d94c-f387-4ac1-9a89-23cbf921f916",
+      "children": [],
+      "hideInReview": true,
+      "question": "O mérito é examinado na apreciação preliminar?"
+    },
+    "c3f67cf3-9a63-4b45-aeed-c7efee690f97": {
+      "id": "c3f67cf3-9a63-4b45-aeed-c7efee690f97",
+      "label": "Votação com emenda saneadora (art. 145, §§ 1º a 3º)",
+      "x": 0,
+      "y": 0,
+      "color": "#f59e0b",
+      "comment": "Emenda saneadora é a que corrige o vício (inconstitucionalidade, injuridicidade, inadequação ou incompatibilidade financeira ou orçamentária).",
+      "depth": 1,
+      "parentId": "c3865ee8-5de8-4788-bb61-0721ed165327",
+      "children": [
+        "a529d965-09cd-41c5-bb38-bbee5245eecc",
+        "fe9bcd5b-86b3-474d-be53-54fa5b70479c",
+        "076cc79c-17c4-4e8c-99ce-8b7c57de4bcd"
+      ],
+      "hideInReview": false,
+      "question": ""
+    },
+    "a529d965-09cd-41c5-bb38-bbee5245eecc": {
+      "id": "a529d965-09cd-41c5-bb38-bbee5245eecc",
+      "label": "A emenda saneadora é votada PRIMEIRO",
+      "x": 0,
+      "y": 0,
+      "color": "#f59e0b",
+      "comment": "Art. 145, § 1º.",
+      "depth": 2,
+      "parentId": "c3f67cf3-9a63-4b45-aeed-c7efee690f97",
+      "children": [],
+      "hideInReview": true,
+      "question": "Havendo emenda saneadora, o que se vota primeiro?"
+    },
+    "fe9bcd5b-86b3-474d-be53-54fa5b70479c": {
+      "id": "fe9bcd5b-86b3-474d-be53-54fa5b70479c",
+      "label": "Emenda acolhida → proposição aprovada quanto à preliminar, com a modificação",
+      "x": 0,
+      "y": 0,
+      "color": "#f59e0b",
+      "comment": "Art. 145, § 2º.",
+      "depth": 2,
+      "parentId": "c3f67cf3-9a63-4b45-aeed-c7efee690f97",
+      "children": [],
+      "hideInReview": true,
+      "question": "O que acontece se a emenda saneadora for acolhida?"
+    },
+    "076cc79c-17c4-4e8c-99ce-8b7c57de4bcd": {
+      "id": "076cc79c-17c4-4e8c-99ce-8b7c57de4bcd",
+      "label": "Emenda rejeitada → vota-se a proposição",
+      "x": 0,
+      "y": 0,
+      "color": "#f59e0b",
+      "comment": "Art. 145, § 3º.",
+      "depth": 2,
+      "parentId": "c3f67cf3-9a63-4b45-aeed-c7efee690f97",
+      "children": [
+        "e78479fc-3d71-430e-a4fa-60c31c01edaf",
+        "61dd13b6-dcbe-4702-a294-151872651166"
+      ],
+      "hideInReview": true,
+      "question": "O que acontece se a emenda saneadora for rejeitada?"
+    },
+    "e78479fc-3d71-430e-a4fa-60c31c01edaf": {
+      "id": "e78479fc-3d71-430e-a4fa-60c31c01edaf",
+      "label": "Proposição aprovada → retoma o seu curso",
+      "x": 0,
+      "y": 0,
+      "color": "#f59e0b",
+      "comment": "Art. 145, § 3º, primeira parte.",
+      "depth": 3,
+      "parentId": "076cc79c-17c4-4e8c-99ce-8b7c57de4bcd",
+      "children": [],
+      "hideInReview": true,
+      "question": "E se, em seguida, a proposição for aprovada?"
+    },
+    "61dd13b6-dcbe-4702-a294-151872651166": {
+      "id": "61dd13b6-dcbe-4702-a294-151872651166",
+      "label": "Proposição rejeitada → arquivada DEFINITIVAMENTE",
+      "x": 0,
+      "y": 0,
+      "color": "#f59e0b",
+      "comment": "Art. 145, § 3º, parte final. Não volta à comissão.",
+      "depth": 3,
+      "parentId": "076cc79c-17c4-4e8c-99ce-8b7c57de4bcd",
+      "children": [],
+      "hideInReview": true,
+      "question": "E se a proposição for rejeitada?"
+    },
+    "f5c88b91-76ed-458b-af9f-2b9bfb8af03a": {
+      "id": "f5c88b91-76ed-458b-af9f-2b9bfb8af03a",
+      "label": "Emenda saneadora da própria comissão (art. 146)",
+      "x": 0,
+      "y": 0,
+      "color": "#8b5cf6",
+      "comment": "Se a comissão que emitiria o parecer terminativo já apresenta emenda saneadora, a matéria não para: segue o curso, e a preliminar fica para depois.",
+      "depth": 1,
+      "parentId": "c3865ee8-5de8-4788-bb61-0721ed165327",
+      "children": [
+        "0cef7cc4-50be-4be5-9834-e49541b39efb",
+        "c93b71ac-3582-4410-a87d-6d83b39f1ef3",
+        "5a76eb39-04b6-4860-9724-9af10891e096"
+      ],
+      "hideInReview": false,
+      "question": ""
+    },
+    "0cef7cc4-50be-4be5-9834-e49541b39efb": {
+      "id": "0cef7cc4-50be-4be5-9834-e49541b39efb",
+      "label": "Quem apresenta a emenda",
+      "x": 0,
+      "y": 0,
+      "color": "#8b5cf6",
+      "comment": "As mesmas três comissões do art. 54.",
+      "depth": 2,
+      "parentId": "f5c88b91-76ed-458b-af9f-2b9bfb8af03a",
+      "children": [
+        "0bf587bb-6176-416b-a807-9237ebafcfd9",
+        "5ca05971-5047-4e14-8780-ef517266f04b",
+        "1c4343df-17cf-4f55-9971-6175c145b760"
+      ],
+      "hideInReview": true,
+      "question": "Quais comissões podem apresentar a emenda saneadora do art. 146?"
+    },
+    "0bf587bb-6176-416b-a807-9237ebafcfd9": {
+      "id": "0bf587bb-6176-416b-a807-9237ebafcfd9",
+      "label": "CCJC: vício de inconstitucionalidade ou injuridicidade",
+      "x": 0,
+      "y": 0,
+      "color": "#8b5cf6",
+      "comment": "Art. 146.",
+      "depth": 3,
+      "parentId": "0cef7cc4-50be-4be5-9834-e49541b39efb",
+      "children": [],
+      "hideInReview": true,
+      "question": "Que vício a emenda da CCJC sana?"
+    },
+    "5ca05971-5047-4e14-8780-ef517266f04b": {
+      "id": "5ca05971-5047-4e14-8780-ef517266f04b",
+      "label": "CFT: inadequação ou incompatibilidade financeira ou orçamentária",
+      "x": 0,
+      "y": 0,
+      "color": "#8b5cf6",
+      "comment": "Art. 146.",
+      "depth": 3,
+      "parentId": "0cef7cc4-50be-4be5-9834-e49541b39efb",
+      "children": [],
+      "hideInReview": true,
+      "question": "Que vício a emenda da CFT sana?"
+    },
+    "1c4343df-17cf-4f55-9971-6175c145b760": {
+      "id": "1c4343df-17cf-4f55-9971-6175c145b760",
+      "label": "Comissão Especial do art. 34, II",
+      "x": 0,
+      "y": 0,
+      "color": "#8b5cf6",
+      "comment": "Art. 146.",
+      "depth": 3,
+      "parentId": "0cef7cc4-50be-4be5-9834-e49541b39efb",
+      "children": [],
+      "hideInReview": true,
+      "question": "Que outra comissão pode apresentar emenda saneadora?"
+    },
+    "c93b71ac-3582-4410-a87d-6d83b39f1ef3": {
+      "id": "c93b71ac-3582-4410-a87d-6d83b39f1ef3",
+      "label": "Efeito: a matéria prossegue o seu curso",
+      "x": 0,
+      "y": 0,
+      "color": "#8b5cf6",
+      "comment": "Art. 146.",
+      "depth": 2,
+      "parentId": "f5c88b91-76ed-458b-af9f-2b9bfb8af03a",
+      "children": [],
+      "hideInReview": true,
+      "question": "Apresentada a emenda saneadora pela comissão, a matéria para?"
+    },
+    "5a76eb39-04b6-4860-9724-9af10891e096": {
+      "id": "5a76eb39-04b6-4860-9724-9af10891e096",
+      "label": "A preliminar é feita APÓS a manifestação das demais comissões do despacho inicial",
+      "x": 0,
+      "y": 0,
+      "color": "#8b5cf6",
+      "comment": "Art. 146, parte final.",
+      "depth": 2,
+      "parentId": "f5c88b91-76ed-458b-af9f-2b9bfb8af03a",
+      "children": [],
+      "hideInReview": true,
+      "question": "Nesse caso, quando ocorre a apreciação preliminar?"
+    },
+    "e1cbe8ce-b153-4dcb-a1e5-18d41a3e4896": {
+      "id": "e1cbe8ce-b153-4dcb-a1e5-18d41a3e4896",
+      "label": "Preclusão das preliminares (art. 147)",
+      "x": 0,
+      "y": 0,
+      "color": "#ef4444",
+      "comment": "Reconhecidas pelo Plenário, as preliminares não podem ser novamente arguidas em contrário.",
+      "depth": 1,
+      "parentId": "c3865ee8-5de8-4788-bb61-0721ed165327",
+      "children": [
+        "cc116a8e-6e6e-4dec-b70e-56a52ed33257",
+        "94058f4e-91d3-43de-af71-0e48d9475899"
+      ],
+      "hideInReview": false,
+      "question": ""
+    },
+    "cc116a8e-6e6e-4dec-b70e-56a52ed33257": {
+      "id": "cc116a8e-6e6e-4dec-b70e-56a52ed33257",
+      "label": "Reconhecidas pelo Plenário → não podem ser arguidas novamente em contrário",
+      "x": 0,
+      "y": 0,
+      "color": "#ef4444",
+      "comment": "Art. 147. Evita rediscutir questão já decidida pelo Plenário.",
+      "depth": 2,
+      "parentId": "e1cbe8ce-b153-4dcb-a1e5-18d41a3e4896",
+      "children": [],
+      "hideInReview": true,
+      "question": "Depois que o Plenário reconhece as preliminares, elas podem ser contestadas de novo?"
+    },
+    "94058f4e-91d3-43de-af71-0e48d9475899": {
+      "id": "94058f4e-91d3-43de-af71-0e48d9475899",
+      "label": "Alcance: constitucionalidade, juridicidade e adequação financeira e orçamentária",
+      "x": 0,
+      "y": 0,
+      "color": "#ef4444",
+      "comment": "Art. 147.",
+      "depth": 2,
+      "parentId": "e1cbe8ce-b153-4dcb-a1e5-18d41a3e4896",
+      "children": [],
+      "hideInReview": true,
+      "question": "Quais preliminares ficam preclusas?"
+    },
+    "6f8f1e43-ffb9-4bcb-9e2c-c7f8e3beac7e": {
+      "id": "6f8f1e43-ffb9-4bcb-9e2c-c7f8e3beac7e",
+      "label": "Pegadinhas CEBRASPE",
+      "x": 0,
+      "y": 0,
+      "color": "#ec4899",
+      "comment": "Trocas clássicas de palavras nesse capítulo.",
+      "depth": 1,
+      "parentId": "c3865ee8-5de8-4788-bb61-0721ed165327",
+      "children": [
+        "0151c32f-1f05-42f3-8387-0a2b59a38572",
+        "db3c8200-b659-496d-8e21-de00d250b736",
+        "c4fee4de-a4f5-4260-ae6b-486c8b30d5dc",
+        "c780cb5f-32c4-46cf-8bd1-5dfb61405c11"
+      ],
+      "hideInReview": false,
+      "question": ""
+    },
+    "0151c32f-1f05-42f3-8387-0a2b59a38572": {
+      "id": "0151c32f-1f05-42f3-8387-0a2b59a38572",
+      "label": "'Interposto o recurso, haverá apreciação preliminar' → ERRADO",
+      "x": 0,
+      "y": 0,
+      "color": "#ec4899",
+      "comment": "O recurso precisa ser PROVIDO (art. 144).",
+      "depth": 2,
+      "parentId": "6f8f1e43-ffb9-4bcb-9e2c-c7f8e3beac7e",
+      "children": [],
+      "hideInReview": true,
+      "question": "Basta interpor recurso contra parecer terminativo?"
+    },
+    "db3c8200-b659-496d-8e21-de00d250b736": {
+      "id": "db3c8200-b659-496d-8e21-de00d250b736",
+      "label": "'A apreciação preliminar é turno autônomo' → ERRADO",
+      "x": 0,
+      "y": 0,
+      "color": "#ec4899",
+      "comment": "É parte integrante do turno (art. 144, parágrafo único).",
+      "depth": 2,
+      "parentId": "6f8f1e43-ffb9-4bcb-9e2c-c7f8e3beac7e",
+      "children": [],
+      "hideInReview": true,
+      "question": "A preliminar constitui turno próprio?"
+    },
+    "c4fee4de-a4f5-4260-ae6b-486c8b30d5dc": {
+      "id": "c4fee4de-a4f5-4260-ae6b-486c8b30d5dc",
+      "label": "'O Plenário examina o mérito na preliminar' → ERRADO",
+      "x": 0,
+      "y": 0,
+      "color": "#ec4899",
+      "comment": "Só constitucionalidade, juridicidade e adequação financeira e orçamentária (art. 145).",
+      "depth": 2,
+      "parentId": "6f8f1e43-ffb9-4bcb-9e2c-c7f8e3beac7e",
+      "children": [],
+      "hideInReview": true,
+      "question": "Mérito entra na preliminar?"
+    },
+    "c780cb5f-32c4-46cf-8bd1-5dfb61405c11": {
+      "id": "c780cb5f-32c4-46cf-8bd1-5dfb61405c11",
+      "label": "'Rejeitadas emenda e proposição, a matéria volta à comissão' → ERRADO",
+      "x": 0,
+      "y": 0,
+      "color": "#ec4899",
+      "comment": "É arquivada definitivamente (art. 145, § 3º).",
+      "depth": 2,
+      "parentId": "6f8f1e43-ffb9-4bcb-9e2c-c7f8e3beac7e",
+      "children": [],
+      "hideInReview": true,
+      "question": "Para onde vai a proposição rejeitada na preliminar?"
+    }
+  },
+  "thresholds": {
+    "revealThreshold": 10,
+    "hideBadgeOnZero": true
+  },
+  "edges": []
+}
