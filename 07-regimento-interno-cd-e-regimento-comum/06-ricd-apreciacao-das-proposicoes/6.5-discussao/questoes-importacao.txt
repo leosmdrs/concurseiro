@@ -189,8 +189,8 @@ A aprovação do requerimento de encerramento da discussão impede, na mesma ses
 = C
 > Art. 178, § 4.º (incluído pela Resolução n.º 21/2021).
 ---
-Encerrada a discussão do projeto com emendas, a matéria será imediatamente submetida a votação em Plenário, cabendo ao Relator de Plenário manifestar-se oralmente sobre as emendas.
+Encerrada a discussão do projeto com emendas, a matéria será submetida à votação em Plenário independentemente de parecer sobre as emendas, as quais serão apreciadas diretamente pelos deputados.
 = E
-> Art. 179: encerrada a discussão com emendas, a matéria "irá às Comissões que a devam apreciar". Publicados os pareceres sobre as emendas e distribuídos os avulsos, ela poderá figurar na Ordem do Dia, obedecido o interstício. Para matérias urgentes, observe as regras próprias da urgência (arts. 152 a 157).
+> Art. 179: encerrada a discussão com emendas, a matéria "irá às Comissões que a devam apreciar" (arts. 139, II, e 121, parágrafo único). O parecer sobre as emendas pode ser dado diretamente em Plenário, por delegação das comissões, mas há sempre parecer. Publicados os pareceres e distribuídos os avulsos, a matéria pode figurar na Ordem do Dia, obedecido o interstício.
 ---
 @texto -
