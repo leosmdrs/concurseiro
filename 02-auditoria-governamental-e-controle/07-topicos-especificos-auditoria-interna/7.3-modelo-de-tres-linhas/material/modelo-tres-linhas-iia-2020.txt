@@ -1,0 +1,479 @@
+MODELO DAS TRÊS LINHAS DO IIA 2020
+Índice
+
+
+
+
+Introdução ..................................................................................................................................................... 1
+
+Princípios do Modelo das Três Linhas........................................................................................................ 2
+
+        Princípio 1: Governança ...................................................................................................................... 2
+        Princípio 2: Papéis do corpo administrativo...................................................................................... 2
+        Princípio 3: Gestão e os papéis da primeira e segunda linhas ........................................................ 3
+        Princípio 4: Papéis da terceira linha ................................................................................................... 3
+        Princípio 5: A independência da terceira linha .................................................................................. 3
+        Princípio 6: Criando e protegendo valor ............................................................................................ 4
+
+Principais Papéis do Modelo das Três Linhas ........................................................................................... 5
+
+        O corpo administrativo ........................................................................................................................ 5
+        Gestão ................................................................................................................................................... 5
+        Auditoria interna ................................................................................................................................... 6
+        Prestadores externos de avaliação .................................................................................................... 6
+
+Relacionamento Entre os Principais Papéis .............................................................................................. 7
+
+        Entre o corpo administrativo e a gestão (papéis de primeira e segunda linha) ............................. 7
+        Entre a gestão (papéis de primeira e segunda linhas) e a auditoria interna .................................. 7
+        Entre a auditoria interna e o corpo administrativo ............................................................................ 8
+        Entre todos os papéis .......................................................................................................................... 8
+
+Aplicando o Modelo ...................................................................................................................................... 9
+
+        Estrutura, papéis e responsabilidades ............................................................................................... 9
+        Supervisão e avaliação .......................................................................................................................10
+        Coordenação e alinhamento ..............................................................................................................10
+INTRODUÇÃO
+
+
+As organizações são empreendimentos humanos,
+operando em um mundo cada vez mais incerto, complexo,             Principais Termos
+interconectado e volátil. Geralmente, elas têm vários             Organização - Um grupo organizado de
+stakeholders com interesses diversos, mutáveis e, às              atividades, recursos e pessoas que
+vezes, concorrentes. Os stakeholders confiam a                    trabalham em direção a objetivos
+                                                                  compartilhados.
+supervisão organizacional a um corpo administrativo, que,
+por sua vez, delega recursos e autoridade à gestão para           Stakeholders - Os grupos e indivíduos
+tomar as ações apropriadas, incluindo o gerenciamento de          cujos interesses são atendidos ou
+riscos.                                                           impactados pela organização.
+
+Por esses e outros motivos, as organizações precisam de           Corpo administrativo - Indivíduos
+                                                                  responsáveis perante os stakeholders
+estruturas e processos eficazes para permitir o atingimento
+                                                                  pelo sucesso da organização.
+dos objetivos, ao mesmo tempo em que apoiam uma forte
+governança e gerenciamento de riscos. Como o corpo                Gestão - Indivíduos, equipes e funções
+administrativo recebe relatórios da gestão sobre                  de apoio atribuídos para oferecer
+                                                                  produtos e/ou serviços aos clientes da
+atividades, resultados e previsões, o corpo administrativo
+                                                                  organização.
+e a gestão confiam na auditoria interna para prestar
+avaliação objetiva e independente e aconselhar sobre              Auditoria interna - Indivíduos que
+todos os assuntos, além de promover e facilitar a inovação        operam independentemente da gestão
+e a melhoria. O corpo administrativo é responsável, em            para oferecer avaliação e
+                                                                  conhecimentos sobre a adequação e
+última instância, pela governança, que é alcançada por
+                                                                  eficácia da governança e do
+meio das ações e comportamentos do corpo
+                                                                  gerenciamento de riscos (incluindo
+administrativo, bem como da gestão e da auditoria interna.        controle interno).
+O Modelo de Três Linhas ajuda as organizações a                   Modelo das Três Linhas - O modelo
+identificar estruturas e processos que melhor auxiliam no         anteriormente conhecido como Três
+atingimento dos objetivos e facilitam uma forte governança        Linhas de Defesa.
+e gerenciamento de riscos. O modelo é aplicável a todas           Controle interno – Processos criados
+as organizações e é otimizado por:                                para oferecer confiança razoável sobre o
+                                                                  atingimento dos objetivos.
+
+    ▪ Adotar uma abordagem baseada em princípios e adaptar o modelo para atender aos objetivos e
+         circunstâncias organizacionais.
+
+    ▪ Focar na contribuição que o gerenciamento de riscos oferece para atingir objetivos e criar valor, bem
+         como questões de “defesa” e proteção de valor.
+
+    ▪ Compreender claramente os papéis e responsabilidades representados no modelo e os
+         relacionamentos entre eles.
+
+    ▪ Implantar medidas para garantir que as atividades e os objetivos estejam alinhados com os
+         interesses priorizados dos stakeholders.
+
+
+
+
+                                                      1
+PRINCÍPIOS DO MODELO
+DAS TRÊS LINHAS
+
+
+Princípio 1: Governança
+A governança de uma organização requer estruturas e
+processos apropriados que permitam:                               Principais Termos
+                                                                  Tomada de decisões baseada em riscos
+    ▪ Prestação de contas por parte de um corpo                   - Um processo considerado que inclui
+        administrativo aos stakeholders quanto à                  análise, planejamento, ação,
+        supervisão organizacional através da integridade,         monitoramento e revisão, e leva em
+        liderança e transparência.                                conta os possíveis impactos da
+                                                                  incerteza sobre os objetivos.
+    ▪ Ações (incluindo o gerenciamento de riscos) da              Avaliação – Confirmação e confiança
+        gestão para atingir os objetivos da organização
+        por meio da tomada de decisões baseada em                 independentes.
+
+        riscos e da aplicação de recursos.
+
+    ▪ Avaliação e assessoria por uma função de auditoria interna independente, para oferecer clareza
+        e confiança, além de promover e facilitar a melhoria contínua, por meio de investigação rigorosa e
+        comunicação perspicaz.
+
+
+Princípio 2: Papéis do corpo administrativo
+O corpo administrativo garante que:
+
+
+    ▪ Estruturas e processos adequados estejam em vigor para uma governança eficaz.
+    ▪ Os objetivos e atividades organizacionais estejam alinhados com os interesses priorizados dos
+        stakeholders.
+
+O corpo administrativo:
+
+
+    ▪ Delega responsabilidades e oferece recursos à gestão para atingir os objetivos da organização,
+        garantindo que as expectativas legais, regulatórias e éticas sejam atendidas.
+
+    ▪ Estabelece e supervisiona uma função de auditoria interna independente, objetiva e competente
+        para oferecer clareza e confiança no progresso em direção ao atingimento dos objetivos.
+
+
+
+
+                                                    2
+Princípio 3: Gestão e os papéis da primeira e segunda linhas
+A responsabilidade da gestão de atingir os objetivos organizacionais compreende os papéis da primeira e
+segunda linhas.1 Os papéis de primeira linha estão mais diretamente alinhados com a entrega de produtos
+e/ou serviços aos clientes da organização, incluindo funções de apoio2. Os papéis de segunda linha fornecem
+assistência no gerenciamento de riscos.
+
+Os papéis de primeira e segunda linha podem ser combinados ou separados. Alguns papéis de segunda
+linha podem ser atribuídos a especialistas, para fornecer conhecimentos complementares, apoio,
+monitoramento e questionamento àqueles com papéis de primeira linha. Os papéis de segunda linha podem
+se concentrar em objetivos específicos do gerenciamento de riscos, como: conformidade com leis,
+regulamentos e comportamento ético aceitável; controle interno; segurança da informação e tecnologia;
+sustentabilidade; e avaliação da qualidade. Como alternativa, os papéis de segunda linha podem abranger
+uma responsabilidade mais ampla pelo gerenciamento de riscos, como o gerenciamento de riscos
+corporativos (enterprise risk management – ERM). No entanto, a responsabilidade pelo gerenciamento de
+riscos segue fazendo parte dos papéis de primeira linha e dentro do escopo da gestão.
+
+
+Princípio 4: Papéis da terceira linha3
+A auditoria interna presta avaliação e assessoria independentes e objetivas sobre a adequação e eficácia da
+governança e do gerenciamento de riscos. Isso é feito através da aplicação competente de processos
+sistemáticos e disciplinados, expertise e conhecimentos. Ela reporta suas descobertas à gestão e ao corpo
+administrativo para promover e facilitar a melhoria contínua. Ao fazê-lo, pode considerar a avaliação de outros
+prestadores internos e externos.
+
+
+Princípio 5: A independência da terceira linha
+A independência da auditoria interna em relação a responsabilidades da gestão é fundamental para sua
+objetividade, autoridade e credibilidade. É estabelecida por meio de: prestação de contas ao corpo
+administrativo; acesso irrestrito a pessoas, recursos e dados necessários para concluir seu trabalho; e
+liberdade de viés ou interferência no planejamento e prestação de serviços de auditoria.
+
+
+
+
+1. Os termos “primeira linha”, “segunda linha” e “terceira linha” do modelo original são mantidos para familiaridade. No
+entanto, as “linhas” não pretendem denotar elementos estruturais, mas uma diferenciação útil de papéis. Logicamente, os
+papéis do corpo administrativo também constituem uma "linha", mas essa convenção não foi adotada para evitar confusão.
+A numeração (primeira, segunda, terceira) não deve ser considerada como significando operações sequenciais. Em vez
+disso, todos os papéis operam simultaneamente.
+2. Alguns consideram funções de apoio (como RH, serviços de administração e construção) como papéis de segunda linha.
+Para maior clareza, o Modelo das Três Linhas considera que os papéis da primeira linha incluem tanto atividades de “front
+of house” quanto de “back office”, e que os papéis da segunda linha incluem atividades complementares focadas em
+assuntos relacionados a riscos.
+3. Em algumas organizações, são identificados outros papéis de terceira linha, como supervisão, inspeção, investigação,
+análise e correção, que podem fazer parte da função de auditoria interna ou operar separadamente.
+
+
+
+
+                                                           3
+Princípio 6: Criando e protegendo valor
+Todos os papéis que trabalham juntos contribuem coletivamente para a criação e proteção de valor quando
+estão alinhados entre si e com os interesses priorizados dos stakeholders. O alinhamento das atividades é
+feito através da comunicação, cooperação e colaboração. Isso garante a confiabilidade, coerência e
+transparência das informações necessárias para a tomada de decisões baseada em riscos.
+
+
+
+
+O Modelo das Três Linhas do The IIA
+
+
+
+
+                                                                                                   PRESTADORES EXTERNOS DE AVALIAÇÃO
+                            CORPO ADMINISTRATIVO
+             Prestação de contas aos stakeholders pela supervisão organizacional
+
+            Papéis do corpo administrativo: integridade, liderança e transparência
+
+
+
+
+                       GESTÃO                                          AUD. INTERNA
+           Ações (incluindo gerenciar riscos) para                     Avaliação independente
+              atingir objetivos organizacionais
+
+      Papéis da 1ª linha:       Papéis da 2ª linha:                      Papéis da 3ª linha:
+          Provisão de            Expertise, apoio,                           Avaliação e
+       produtos/serviços         monitoramento e                              assessoria
+         aos clientes;           questionamento                           independentes e
+        gerenciar riscos          sobre questões                           objetivas sobre
+                                  relacionadas a                        questões relativas ao
+                                       riscos                              atingimento dos
+                                                                               objetivos
+
+
+
+ LEGENDA         Prestação de contas,           Delegar, orientar,               Alinhamento,
+                 reporte                        recursos, supervisão             comunicação,
+                                                                                 coordenação,
+                                                                                 colaboração
+
+
+
+
+                                                      4
+PRINCIPAIS PAPÉIS DO MODELO DAS
+TRÊS LINHAS
+
+
+As organizações diferem consideravelmente na distribuição de responsabilidades. No entanto, os
+seguintes papéis de alto nível servem para amplificar os Princípios do Modelo das Três Linhas.
+
+
+O corpo administrativo
+
+    ▪ Aceita prestação de contas pela supervisão da organização perante os stakeholders.
+    ▪ Envolve os stakeholders, para monitorar seus interesses e se comunicar de forma transparente
+        sobre o atingimento dos objetivos.
+
+    ▪ Cultiva uma cultura que promove comportamento ético e responsabilidade.
+    ▪ Estabelece estruturas e processos para governança, incluindo comitês auxiliares, conforme
+        necessário.
+
+    ▪ Delega responsabilidades e oferece recursos à gestão para atingir os objetivos da organização.
+    ▪ Determina o apetite organizacional a riscos e exerce a supervisão do gerenciamento de riscos
+        (incluindo controle interno).
+
+    ▪ Mantém a supervisão da conformidade com as expectativas legais, regulatórias e éticas.
+    ▪ Estabelece e supervisiona uma função de auditoria interna independente, objetiva e competente.
+Gestão
+Papéis da primeira linha
+    ▪ Liderar e dirigir ações (incluindo gerenciamento de riscos) e aplicação de recursos para atingir os
+        objetivos da organização.
+
+    ▪ Manter um diálogo contínuo com o corpo administrativo e reportar: resultados planejados, reais e
+        esperados, vinculados aos objetivos da organização; e riscos.
+
+    ▪ Estabelecer e manter estruturas e processos apropriados para o gerenciamento de operações e
+        riscos (incluindo controle interno).
+
+    ▪ Garantir a conformidade com as expectativas legais, regulatórias e éticas.
+
+
+
+                                                    5
+Papéis da segunda linha
+   ▪ Fornecer expertise complementar, apoio, monitoramento e questionamento quanto ao
+       gerenciamento de riscos, incluindo:
+           o    Desenvolvimento, implantação e melhoria contínua das práticas de gerenciamento de
+                riscos (incluindo controle interno) nos níveis de processo, sistemas e entidade.
+           o    O atingimento dos objetivos de gerenciamento de riscos, como: conformidade com leis,
+                regulamentos e comportamento ético aceitável; controle interno; segurança da informação
+                e tecnologia; sustentabilidade; e avaliação da qualidade.
+
+   ▪ Fornecer análises e reportar sobre a adequação e eficácia do gerenciamento de riscos (incluindo
+       controle interno).
+
+
+Auditoria interna
+
+   ▪ Mantém a prestação de contas primária perante o corpo administrativo e a independência das
+       responsabilidades da gestão.
+
+   ▪ Comunica avaliação e assessoria independentes e objetivas à gestão e ao corpo administrativo
+       sobre a adequação e eficácia da governança e do gerenciamento de riscos (incluindo controle
+       interno), para apoiar o atingimento dos objetivos organizacionais e promover e facilitar a melhoria
+       contínua.
+
+   ▪ Reporta ao corpo administrativo prejuízos à independência e objetividade e implanta salvaguardas
+       conforme necessário.
+
+
+Prestadores externos de avaliação
+
+   ▪ Prestam avaliação adicional para:
+           o    Cumprir com as expectativas legislativas e regulatórias que servem para proteger os
+                interesses dos stakeholders.
+           o    Atender aos pedidos da gestão e do corpo administrativo para complementar as fontes
+                internas de avaliação.
+
+
+
+
+                                                   6
+RELACIONAMENTO ENTRE OS
+PRINCIPAIS PAPÉIS
+
+
+Entre o corpo administrativo e a gestão (papéis de primeira e segunda
+linha)
+O corpo administrativo normalmente determina a
+direção da organização, definindo a visão, missão, valores          Principal termo
+e apetite organizacional a riscos. Em seguida, delega a             Chief executive officer (CEO) - O
+responsabilidade pelo atingimento dos objetivos da                  indivíduo mais sênior da organização,
+organização à gestão, juntamente com os recursos                    com responsabilidade pelas operações.
+necessários. O corpo administrativo recebe relatórios da
+gestão sobre os resultados planejados, reais e esperados,
+bem como relatórios sobre riscos e gerenciamento de riscos.
+
+As organizações variam quanto ao grau de sobreposição e separação entre os papéis do corpo administrativo
+e da gestão. O corpo administrativo pode ser mais ou menos "proativo" com relação a questões estratégicas
+e operacionais. O corpo administrativo ou a gestão podem assumir a liderança no desenvolvimento do plano
+estratégico ou pode ser um esforço compartilhado. Em algumas jurisdições, o CEO pode ser membro do
+corpo administrativo e até mesmo ser seu presidente. Em todos os casos, é preciso haver uma comunicação
+forte entre a gestão e o corpo administrativo. O CEO, normalmente, é o ponto focal dessa comunicação, mas
+outros gerentes seniores podem ter interações frequentes com o corpo administrativo. As organizações
+podem desejar, e seus reguladores podem exigir que os líderes dos papéis de segunda linha, como um Chief
+Risk Officer (CRO) e um Chief Compliance Officer (CCO), tenham uma linha de reporte direto ao corpo
+administrativo. Isso é totalmente consistente com os Princípios do Modelo das Três Linhas.
+
+
+Entre a gestão (papéis de primeira e segunda linhas)
+e a auditoria interna
+A independência da auditoria interna em relação à gestão garante que esteja livre de impedimentos e
+parcialidade no planejamento e execução de seu trabalho, desfrutando de acesso irrestrito às pessoas,
+recursos e informações de que necessita. Presta contas perante o corpo administrativo. No entanto, a
+independência não implica isolamento. Deve haver interação regular entre a auditoria interna e a gestão, para
+garantir que o trabalho da auditoria interna seja relevante e esteja alinhado às necessidades estratégicas e
+operacionais da organização. Em todas as suas atividades, a auditoria interna constrói seu conhecimento e
+entendimento da organização, o que contribui para a avaliação e assessoria que oferece como conselheira
+confiável e parceira estratégica. São necessárias colaboração e comunicação entre os papéis de primeira e
+segunda linha da gestão e auditoria interna, para garantir que não haja duplicação, sobreposição ou lacunas
+desnecessárias.
+
+
+                                                     7
+Entre a auditoria interna e o corpo administrativo
+A auditoria interna é responsável e, às vezes, descrita
+como sendo os "olhos e ouvidos" do corpo administrativo.                Principais Termos
+                                                                        Chief Audit Executive (CAE) - O
+O corpo administrativo é responsável pela supervisão da
+                                                                        indivíduo mais sênior da organização,
+auditoria interna, que exige: garantir que uma função                   responsável pelos serviços de auditoria
+independente de auditoria interna seja estabelecida,                    interna, geralmente conhecido como
+incluindo a contratação e demissão do Chief Audit                       Chefe de Auditoria Interna ou título
+Executive (CAE); servir como a principal linha de reporte               similar.
+do CAE4; aprovar e fornecer recursos ao plano de
+auditoria; receber e considerar relatórios do CAE; e
+possibilitar o livre acesso do CAE ao corpo administrativo, incluindo sessões privadas sem a presença da
+gestão.
+
+
+
+
+Entre todos os papéis
+O corpo administrativo, a gestão e a auditoria interna têm responsabilidades distintas, mas todas as atividades
+precisam estar alinhadas com os objetivos da organização. A base para uma coerência bem-sucedida é a
+coordenação, colaboração e comunicação regulares e eficazes.
+
+
+
+
+4. Para propósitos administrativos, o CAE também pode reportar a um nível devidamente sênior da gestão.
+
+
+                                                         8
+APLICANDO O MODELO
+
+
+
+Estrutura, papéis e responsabilidades
+O Modelo de Três Linhas é mais eficaz quando adaptado para se alinhar aos objetivos e circunstâncias da
+organização. A forma como a organização está estruturada e como os papéis são atribuídos deve ser
+determinada pela gestão e pelo corpo administrativo. O corpo administrativo pode estabelecer comitês para
+prestar supervisão adicional sobre aspectos de sua responsabilidade, como auditoria, riscos, finanças,
+planejamento e remuneração. Na gestão, é provável que haja arranjos funcionais e hierárquicos e uma
+tendência crescente à especialização, conforme as organizações aumentam em tamanho e complexidade.
+
+Funções, equipes e até indivíduos podem ter responsabilidades que incluam papéis de primeira e segunda
+linha. No entanto, a direção e supervisão dos papéis de segunda linha podem ser criadas para garantir um
+certo grau de independência em relação àqueles com papéis de primeira linha — e até mesmo em relação
+aos níveis mais altos da gestão —, estabelecendo prestação de contas primária e linhas de reporte ao corpo
+administrativo. O Modelo de Três Linhas permite quantas linhas de reporte forem necessárias entre a gestão
+e o corpo administrativo. Em algumas organizações, principalmente nas instituições financeiras
+regulamentadas, há um requisito estatutário de que esses arranjos garantam independência suficiente.
+Mesmo nessas situações, os gerentes com papéis de primeira linha permanecem responsáveis pelo
+gerenciamento de riscos.
+
+Os papéis de segunda linha podem incluir monitoramento, assessoria, orientação, teste, análise e reporte
+sobre assuntos relacionados ao gerenciamento de riscos. Na medida em que fornecem apoio e
+questionamento àqueles com papéis de primeira linha e participam das decisões e ações da gestão, os papéis
+de segunda linha fazem parte das responsabilidades da gestão e nunca são totalmente independentes da
+gestão, independentemente das linhas de reporte e prestação de contas.
+
+Uma característica determinante dos papéis de terceira linha é a independência em relação à gestão. Os
+Princípios do Modelo das Três Linhas descrevem a importância e a natureza da independência da auditoria
+interna, diferenciando a auditoria interna de outras funções e possibilitando o valor distintivo de sua avaliação
+e assessoria. A independência da auditoria interna é protegida ao não tomar decisões ou ações que façam
+parte das responsabilidades da gestão (incluindo o gerenciamento de riscos) e ao se recusar de avaliar as
+atividades pelas quais a auditoria interna tem responsabilidade atual ou recente. Por exemplo, em algumas
+organizações, é solicitado que o CAE assuma responsabilidades adicionais de tomada de decisão sobre
+atividades de competências semelhantes, como aspectos de conformidade estatutária ou gerenciamento de
+riscos corporativos (ERM). Em tais circunstâncias, a auditoria interna não é independente dessas atividades
+ou de seus resultados e, portanto, quando o corpo administrativo busca avaliação e assessoria
+independentes e objetivas relacionadas a essas áreas, é necessário que sua provisão seja realizada por um
+terceiro qualificado.
+
+
+
+
+                                                       9
+Supervisão e avaliação
+O corpo administrativo depende de relatórios da gestão (incluindo aqueles com papéis de primeira e segunda
+linhas), auditoria interna e outros, a fim de exercer a supervisão e o atingimento de seus objetivos, pelos
+quais é responsável perante os stakeholders. A gestão presta uma avaliação valiosa (também conhecida
+como atestados) sobre os resultados planejados, reais e previstos, sobre os riscos e sobre o gerenciamento
+de riscos, recorrendo à expertise e conhecimento diretos. Aqueles com papéis de segunda linha prestam
+avaliação adicional sobre questões relacionadas a riscos. Devido à independência da auditoria interna em
+relação à gestão, a avaliação que ela presta carrega o mais alto grau de objetividade e confiança, além do
+grau que aqueles com papéis de primeira e segunda linha podem fornecer ao corpo administrativo,
+independentemente das linhas de reporte. Também podem ser obtidas avaliações adicionais de prestadores
+externos.
+
+
+Coordenação e alinhamento
+A governança eficaz requer a atribuição apropriada de responsabilidades, bem como um forte alinhamento
+das atividades por meio de cooperação, colaboração e comunicação. O corpo administrativo busca confirmar,
+por meio da auditoria interna, que as estruturas e processos de governança foram devidamente criados e
+estejam operando conforme o planejado.
+
+
+
+
+                                                    10
+Sobre o The IIA
+The Institute of Internal Auditors (The IIA) é o mais reconhecido advogado, educador e fornecedor de normas, orientações e certificações
+da profissão de auditoria interna. Fundado em 1941, o The IIA atende, atualmente, mais de 200.000 membros de mais de 170 países e
+territórios. A sede global da associação fica em Lake Mary, na Flórida, EUA. Para mais informações, visite www.globaliia.org.
+
+Isenção de Responsabilidade
+O The IIA publica este documento para fins informativos e educacionais. Este material de orientação não tem o objetivo de fornecer respostas
+definitivas a específicas circunstâncias individuais e, como tal, deve ser usado apenas como guia. O The IIA recomenda que você sempre
+busque conselhos especializados independentes, relacionados diretamente a qualquer situação específica. O The IIA não aceita qualquer
+responsabilidade pela confiança depositada unicamente nesta orientação.
+
+Copyright
+Copyright © 2020 The Institute of Internal Auditors, Inc. Todos os direitos reservados. Para permissão para reprodução, favor contatar
+copyright@theiia.org.
+
+Julho de 2020
+
+                                                                                    Sede Global
+                                                                                    The Institute of Internal Auditors
+                                                                                    1035 Greenwood Blvd., Suíte 149
+                                                                                    Lake Mary, FL 32746, EUA
+                                                                                    Tel.:     +1-407-937-1111
+                                                                                    Fax:       +1-407-937-1101
+                                                                                    www.globaliia.org
+

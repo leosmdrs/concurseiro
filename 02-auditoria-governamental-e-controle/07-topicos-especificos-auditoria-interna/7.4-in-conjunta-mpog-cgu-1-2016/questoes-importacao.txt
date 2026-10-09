@@ -1,0 +1,288 @@
+@banca CEBRASPE (inédita)
+@ano 2026
+@orgao CGU
+@cargo Auditor Federal de Finanças e Controle
+
+@texto Instrução Normativa Conjunta MP/CGU n.º 1/2016
+Com base na Instrução Normativa Conjunta MP/CGU n.º 1/2016, que dispõe sobre controles internos, gestão de riscos e governança no âmbito do Poder Executivo federal, julgue os itens a seguir.
+@fim
+
+Os órgãos e entidades do Poder Executivo federal deverão adotar medidas para a sistematização de práticas relacionadas à gestão de riscos, aos controles internos e à governança.
+= C
+> Art. 1º, literal. A IN dirige-se a todos os órgãos e entidades do Poder Executivo federal e trata de três temas: gestão de riscos, controles internos e governança.
+---
+Apetite a risco corresponde ao nível de risco a que a organização permanece exposta após a implementação de ações gerenciais para o tratamento do risco.
+= E
+> O item descreveu o risco residual (art. 2º, XV). Apetite a risco é o "nível de risco que uma organização está disposta a aceitar" (art. 2º, II). A banca costuma trocar conceitos vizinhos da mesma lista de definições.
+---
+A auditoria interna é atividade independente e objetiva de avaliação e de consultoria que busca avaliar e melhorar a eficácia dos processos de gerenciamento de riscos, de controles internos, de integridade e de governança, constituindo a terceira linha ou camada de defesa das organizações públicas.
+= C
+> Art. 2º, III. Note que a IN inclui expressamente a "integridade" entre os processos avaliados pela auditoria interna e a posiciona como terceira linha (ou camada) de defesa.
+---
+No modelo de linhas de defesa adotado pela norma, a supervisão dos controles internos é executada por todos os níveis de gestão da organização, ao passo que a operacionalização desses controles cabe a instâncias específicas, como os comitês de risco e de controles internos.
+= E
+> O item inverteu as linhas. A operacionalização dos controles internos da gestão (1.ª linha) é executada por todos os níveis de gestão; a supervisão dos controles (2.ª linha) é executada por instâncias específicas, como comitês de risco e controles internos (art. 2º, III).
+---
+São componentes dos controles internos da gestão o ambiente de controle interno da entidade, a avaliação de risco, as atividades de controles internos, a informação e comunicação e o monitoramento.
+= C
+> Art. 2º, IV (repetido no art. 11). São cinco componentes, inspirados no COSO I. Não confunda com os oito componentes da estrutura de gestão de riscos (art. 16).
+---
+Os controles internos da gestão são destinados a enfrentar os riscos e a fornecer segurança absoluta de que, na consecução da missão da entidade, os objetivos gerais da organização serão alcançados.
+= E
+> Os controles fornecem "segurança razoável", e não absoluta (art. 2º, V). Nenhum sistema de controle elimina totalmente o risco; a troca de "razoável" por "absoluta" é pegadinha clássica.
+---
+Entre os objetivos gerais a cujo alcance se destinam os controles internos da gestão, incluem-se a execução ordenada, ética, econômica, eficiente e eficaz das operações, o cumprimento das obrigações de accountability, o cumprimento das leis e regulamentos aplicáveis e a salvaguarda dos recursos para evitar perdas, mau uso e danos.
+= C
+> Art. 2º, V, alíneas "a" a "d". São quatro objetivos gerais, e a lista do item está completa.
+---
+Para os fins da referida norma, fraude compreende quaisquer atos ilegais caracterizados por desonestidade, dissimulação ou quebra de confiança, inclusive aqueles praticados mediante o uso de ameaça de violência ou de força física.
+= E
+> Art. 2º, VI: os atos de fraude "não implicam o uso de ameaça de violência ou de força física". O item contrariou a parte final da definição.
+---
+A governança no setor público compreende essencialmente os mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a atuação da gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade.
+= C
+> Art. 2º, IX, literal. Distinga da definição genérica de governança (art. 2º, VIII): "combinação de processos e estruturas implantadas pela alta administração, para informar, dirigir, administrar e monitorar as atividades da organização".
+---
+Incerteza é a possibilidade de ocorrência de um evento que venha a ter impacto no cumprimento dos objetivos, sendo medida em termos de impacto e de probabilidade.
+= E
+> O item descreveu "risco" (art. 2º, XIII). Incerteza é a "incapacidade de saber com antecedência a real probabilidade ou impacto de eventos futuros" (art. 2º, X).
+---
+Risco inerente é aquele a que a organização está exposta sem considerar quaisquer ações gerenciais que possam reduzir a probabilidade de sua ocorrência ou seu impacto.
+= C
+> Art. 2º, XIV, literal. Contraponto: risco residual é o risco a que a organização está exposta após a implementação de ações gerenciais de tratamento (art. 2º, XV).
+---
+Mensuração de risco significa estimar a importância de um risco e calcular a probabilidade e o impacto de sua ocorrência.
+= C
+> Art. 2º, XI, literal.
+---
+O Sistema de Controle Interno do Poder Executivo federal, que tem como órgão central a Controladoria-Geral da União e utiliza como instrumentos a auditoria e a fiscalização, confunde-se com os controles internos da gestão, uma vez que ambos se destinam a avaliar a gestão dos administradores públicos federais.
+= E
+> O art. 2º, XVI, é expresso: o SCI "não se confunde com os controles internos da gestão, de responsabilidade de cada órgão e entidade". O art. 7º reforça a distinção, inclusive em relação à auditoria interna.
+---
+Os controles internos da gestão constituem a primeira linha de defesa das organizações públicas e são operados exclusivamente pelos dirigentes máximos dos órgãos e entidades, a quem compete a condução dos macroprocessos finalísticos.
+= E
+> Art. 3º: os controles internos da gestão são operados "por todos os agentes públicos responsáveis pela condução de atividades e tarefas, no âmbito dos macroprocessos finalísticos e de apoio". O "exclusivamente" e a restrição aos macroprocessos finalísticos tornam o item errado.
+---
+Órgãos e entidades de pequeno porte estão dispensados de manter controles internos da gestão efetivos, desde que adotem procedimentos simplificados compatíveis com sua estrutura administrativa.
+= E
+> Art. 3º, § 1º: os controles internos da gestão, "independentemente do porte da organização, devem ser efetivos e consistentes com a natureza, complexidade e risco das operações realizadas". A proporcionalidade existe (§ 5º), mas não dispensa a efetividade.
+---
+Os controles internos da gestão baseiam-se no gerenciamento de riscos e integram o processo de gestão, e seus componentes aplicam-se a todos os níveis, unidades e dependências do órgão ou da entidade pública.
+= C
+> Art. 3º, §§ 2º e 3º.
+---
+Os controles internos da gestão não devem ser implementados de forma circunstancial, mas como uma série de ações que permeiam as atividades da organização, de modo contínuo, inerentes à maneira pela qual o gestor administra a organização.
+= C
+> Art. 5º, literal.
+---
+Além dos controles internos da gestão, os órgãos e entidades do Poder Executivo federal devem, obrigatoriamente, instituir diretorias específicas de compliance, que constituem a segunda linha de defesa das organizações.
+= E
+> Art. 6º: os órgãos e entidades "podem" estabelecer instâncias de segunda linha. É faculdade, e não obrigação. Comitês, diretorias ou assessorias de riscos, controles internos, integridade e compliance são apenas exemplos.
+---
+Os controles internos da gestão não se confundem com as atribuições da auditoria interna, cuja finalidade específica é a medição e a avaliação da eficácia e da eficiência dos controles internos da gestão da organização.
+= C
+> Art. 7º. Quem executa os controles é a gestão (1.ª linha); quem os mede e avalia é a auditoria interna (3.ª linha).
+---
+Constitui princípio dos controles internos da gestão o compromisso da alta administração em atrair, desenvolver e reter pessoas com competências técnicas, em alinhamento com os objetivos da organização.
+= C
+> Art. 8º, IV. A IN lista quinze princípios para o desenho e a implementação dos controles internos da gestão.
+---
+O resultado da avaliação dos controles internos da gestão deve ser comunicado aos responsáveis pela adoção de ações corretivas, excluída a alta administração, de forma a preservar a autonomia das unidades operacionais.
+= E
+> Art. 8º, XV: a comunicação deve ser feita aos responsáveis pela adoção de ações corretivas, "incluindo a alta administração".
+---
+A existência de objetivos claros é pré-requisito para a eficácia do funcionamento dos controles internos da gestão, os quais devem ser estruturados para oferecer segurança razoável de que os objetivos da organização serão alcançados.
+= C
+> Art. 9º, literal.
+---
+Conforme a referida instrução normativa, as operações de um órgão serão eficientes quando a aquisição dos insumos necessários se der na quantidade e qualidade adequadas, forem entregues no lugar certo e no momento preciso, ao custo mais baixo.
+= E
+> O item descreveu operações econômicas (art. 10, § 2º). Eficientes são as operações que consomem o mínimo de recursos para alcançar dada quantidade e qualidade de resultados, ou que alcançam o máximo de resultado com dados recursos (art. 10, § 3º).
+---
+As operações de um órgão ou entidade serão efetivas quando alcançarem os resultados pretendidos a médio e longo prazo, produzindo impacto positivo e resultando no cumprimento dos objetivos das organizações.
+= C
+> Art. 10, § 5º. Compare: eficácia é o cumprimento de objetivos imediatos, traduzidos em metas de produção ou de atendimento (§ 4º); efetividade é o resultado e o impacto no médio e longo prazo.
+---
+Operações eficazes são aquelas que consomem o mínimo de recursos para alcançar determinada quantidade e qualidade de resultados.
+= E
+> O item descreveu eficiência (art. 10, § 3º). Eficazes são as operações que cumprem objetivos imediatos, traduzidos em metas de produção ou de atendimento, de acordo com o planejamento (art. 10, § 4º).
+---
+É objetivo dos controles internos da gestão assegurar que as informações produzidas sejam íntegras e confiáveis à tomada de decisões, ao cumprimento de obrigações de transparência e à prestação de contas.
+= C
+> Art. 10, III. Os cinco objetivos do art. 10 são: suporte à missão, à continuidade e à sustentabilidade; eficiência, eficácia e efetividade operacional; informações íntegras e confiáveis; conformidade; e salvaguarda dos ativos.
+---
+O monitoramento é a base de todos os controles internos da gestão, sendo formado pelo conjunto de regras e estrutura que determinam a qualidade desses controles e influenciam a forma pela qual se estabelecem as estratégias e os objetivos.
+= E
+> A base de todos os controles internos da gestão é o ambiente de controle (art. 11, I). O monitoramento (art. 11, V) é obtido por revisões específicas ou monitoramento contínuo e se destina a aferir a eficácia dos demais componentes.
+---
+Integram o ambiente de controle, entre outros elementos, a filosofia da direção e o estilo gerencial, com clara assunção da responsabilidade de supervisionar os controles internos da gestão, e as políticas e práticas de recursos humanos, especialmente a avaliação do desempenho dos colaboradores.
+= C
+> Art. 11, I, alíneas "c" e "e". Os demais elementos são: integridade e valores éticos; comprometimento com colaboradores competentes; e estrutura organizacional com clara atribuição de responsabilidades e delegação de autoridade.
+---
+As atividades de controles internos podem ser preventivas, quando reduzem a ocorrência de eventos de risco, ou detectivas, quando possibilitam a identificação da ocorrência desses eventos, e podem ser implementadas de forma manual ou automatizada.
+= C
+> Art. 11, III. Essas atividades devem ser apropriadas, funcionar consistentemente de acordo com um plano de longo prazo, ter custo adequado e ser abrangentes, razoáveis e diretamente relacionadas aos objetivos de controle.
+---
+Procedimentos de autorização e aprovação, segregação de funções, controles de acesso a recursos e registros, conciliações e supervisão são exemplos de atividades de controles internos mencionados na norma.
+= C
+> Art. 11, III, alíneas "a" a "h". A segregação de funções desdobra-se em autorização, execução, registro e controle.
+---
+No componente informação e comunicação, a comunicação eficaz deve fluir exclusivamente de cima para baixo, da alta administração para os servidores, a fim de garantir a uniformidade das orientações sobre os controles internos da gestão.
+= E
+> Art. 11, IV: "A comunicação eficaz deve fluir para baixo, para cima e através da organização". O item restringiu indevidamente o fluxo.
+---
+As avaliações específicas, cuja abrangência e frequência dependem da avaliação de risco e da eficácia dos procedimentos de monitoramento contínuo, abrangem também a avaliação realizada pelas unidades de auditoria interna dos órgãos e entidades e pelos órgãos do Sistema de Controle Interno do Poder Executivo federal.
+= C
+> Art. 11, V, "b", literal.
+---
+O monitoramento contínuo, por exigir independência, somente pode ser realizado pela auditoria interna, não cabendo sua execução por instâncias de conformidade da própria administração, como os comitês específicos.
+= E
+> Art. 11, V, "a": o monitoramento contínuo é realizado nas operações normais da organização e "pode ser realizado pela própria Administração por intermédio de instâncias de conformidade, como comitês específicos", que atuam como segunda linha de defesa.
+---
+A responsabilidade por estabelecer, manter, monitorar e aperfeiçoar os controles internos da gestão é da alta administração, sem prejuízo das responsabilidades dos gestores dos processos organizacionais e de programas de governo; aos demais servidores cabem a operacionalização dos controles e a identificação e comunicação de deficiências às instâncias superiores.
+= C
+> Art. 12, caput e parágrafo único.
+---
+A gestão de riscos do órgão ou entidade deve ser sistemática, estruturada e oportuna, subordinada ao interesse público, e os procedimentos de controle interno devem ser proporcionais ao risco, observada a relação custo-benefício.
+= C
+> Art. 14, I e III. Os demais princípios da gestão de riscos são: níveis de exposição a riscos adequados; mapeamento de riscos para apoio à decisão e ao planejamento estratégico; e uso da gestão de riscos para a melhoria contínua dos processos.
+---
+Constitui objetivo da gestão de riscos eliminar todos os riscos aos quais a organização esteja exposta, de modo a garantir o alcance integral de seus objetivos.
+= E
+> Art. 15, II: o objetivo é "aumentar a probabilidade de alcance dos objetivos da organização, reduzindo os riscos a níveis aceitáveis". A gestão de riscos não elimina riscos nem garante resultados.
+---
+É objetivo da gestão de riscos assegurar que os responsáveis pela tomada de decisão, em todos os níveis do órgão ou entidade, tenham acesso tempestivo a informações suficientes quanto aos riscos aos quais a organização está exposta, inclusive para determinar questões relativas à delegação.
+= C
+> Art. 15, I, literal.
+---
+A estrutura do modelo de gestão de riscos prevista na norma compõe-se dos mesmos cinco componentes da estrutura de controles internos da gestão: ambiente, avaliação de riscos, atividades de controle, informação e comunicação e monitoramento.
+= E
+> A estrutura de gestão de riscos tem oito componentes (art. 16): ambiente interno, fixação de objetivos, identificação de eventos, avaliação de riscos, resposta a riscos, atividades de controles internos, informação e comunicação e monitoramento. São cinco os componentes dos controles internos da gestão (art. 11).
+---
+Na resposta a riscos, o órgão ou entidade deve identificar qual estratégia seguir — evitar, transferir, aceitar ou tratar — em relação aos riscos mapeados e avaliados, e a escolha dependerá do nível de exposição a riscos previamente estabelecido pela organização em confronto com a avaliação que se fez do risco.
+= C
+> Art. 16, V, literal.
+---
+A avaliação de riscos deve ser realizada exclusivamente por meio de análises quantitativas, de modo a assegurar a objetividade na mensuração da probabilidade e do impacto dos eventos.
+= E
+> Art. 16, IV: a avaliação de riscos deve ser feita "por meio de análises qualitativas, quantitativas ou da combinação de ambas", considerando os riscos inerentes e residuais.
+---
+No modelo de gestão de riscos, as atividades de controles internos incluem controles preventivos e detectivos, bem como a preparação prévia de planos de contingência e de resposta à materialização dos riscos.
+= C
+> Art. 16, VI. Essas atividades, também denominadas procedimentos de controle, devem estar distribuídas por toda a organização, em todos os níveis e funções.
+---
+No componente informação e comunicação da estrutura de gestão de riscos, apenas os dados produzidos internamente devem ser considerados, a fim de preservar a confiabilidade das informações utilizadas na tomada de decisão.
+= E
+> Art. 16, VII: devem ser consideradas "não apenas [...] dados produzidos internamente, mas, também, [...] informações sobre eventos, atividades e condições externas".
+---
+Os gestores são os responsáveis pela avaliação dos riscos no âmbito das unidades, dos processos e das atividades que lhes são afetos, cabendo à alta administração avaliar os riscos no âmbito da organização, desenvolvendo uma visão de riscos de forma consolidada.
+= C
+> Art. 16, parágrafo único, literal.
+---
+A política de gestão de riscos deveria ser instituída pelos órgãos e entidades do Poder Executivo federal no prazo de até seis meses, contado da publicação da instrução normativa.
+= E
+> Art. 17: o prazo é de até doze meses, contado da publicação da IN.
+---
+A política de gestão de riscos deve especificar, ao menos, princípios e objetivos organizacionais, competências e responsabilidades para a efetivação da gestão de riscos e diretrizes sobre, entre outros pontos, como será medido o desempenho da gestão de riscos e o desenvolvimento contínuo dos agentes públicos nessa matéria.
+= C
+> Art. 17, I a III. As diretrizes (inciso II) também tratam da integração da gestão de riscos ao planejamento estratégico, da periodicidade de identificação, avaliação, tratamento e monitoramento dos riscos, da integração das instâncias responsáveis e do uso de metodologias e ferramentas.
+---
+As tipologias de riscos previstas na norma — operacionais, de imagem ou reputação, legais e financeiros ou orçamentários — constituem rol taxativo, de modo que os órgãos e entidades não podem considerar outras categorias no mapeamento de seus riscos.
+= E
+> Art. 18: devem ser consideradas, "entre outras possíveis", as quatro tipologias listadas. O rol é exemplificativo.
+---
+@texto Situação hipotética — mapeamento de riscos de uma autarquia
+Ao mapear seus riscos, determinada autarquia federal identificou os seguintes eventos: (I) possível atraso no cronograma de licitações, capaz de comprometer a execução orçamentária do exercício; (II) falhas recorrentes no sistema informatizado de concessão de benefícios, decorrentes de deficiências de infraestrutura tecnológica; (III) alteração normativa recente, que poderá inviabilizar parte de suas atividades finalísticas; e (IV) divulgação de notícias com potencial de abalar a confiança da sociedade na capacidade da autarquia de cumprir sua missão institucional.
+Considerando essa situação hipotética e as tipologias de riscos previstas na IN Conjunta MP/CGU n.º 1/2016, julgue os itens seguintes.
+@fim
+
+O evento I deve ser classificado como risco operacional, por decorrer de falhas nos processos internos de contratação da autarquia.
+= E
+> O atraso no cronograma de licitações é o exemplo dado pela própria IN para riscos financeiros/orçamentários, isto é, eventos "que possam comprometer a própria execução orçamentária" (art. 18, "d").
+---
+O evento II enquadra-se como risco operacional.
+= C
+> Riscos operacionais são eventos que podem comprometer as atividades do órgão, normalmente associados a falhas, deficiência ou inadequação de processos internos, pessoas, infraestrutura e sistemas (art. 18, "a").
+---
+Os eventos III e IV classificam-se, respectivamente, como risco legal e risco de imagem/reputação.
+= C
+> Art. 18, "c" (eventos derivados de alterações legislativas ou normativas) e "b" (eventos que podem comprometer a confiança da sociedade, de parceiros, de clientes ou de fornecedores na capacidade do órgão de cumprir sua missão).
+---
+@texto Instrução Normativa Conjunta MP/CGU n.º 1/2016
+Com base na Instrução Normativa Conjunta MP/CGU n.º 1/2016, que dispõe sobre controles internos, gestão de riscos e governança no âmbito do Poder Executivo federal, julgue os itens a seguir.
+@fim
+
+O dirigente máximo da organização é o principal responsável pelo estabelecimento da estratégia da organização e da estrutura de gerenciamento de riscos, incluindo o estabelecimento, a manutenção, o monitoramento e o aperfeiçoamento dos controles internos da gestão.
+= C
+> Art. 19, literal.
+---
+Cada risco mapeado e avaliado deve estar associado a um agente responsável formalmente identificado, que deve ser o gestor com alçada suficiente para orientar e acompanhar as ações de mapeamento, avaliação e mitigação do risco.
+= C
+> Art. 20, caput e § 1º. Entre as responsabilidades do gestor de risco (§ 2º) estão gerenciar o risco conforme a política, monitorá-lo ao longo do tempo e garantir que as informações adequadas sobre ele estejam disponíveis em todos os níveis da organização.
+---
+São princípios da boa governança, segundo a norma, a liderança, a integridade, a responsabilidade, o compromisso, a transparência, a accountability e a eficiência.
+= E
+> O art. 21 lista seis princípios: liderança, integridade, responsabilidade, compromisso, transparência e accountability. A eficiência não integra esse rol; a banca costuma acrescentar um elemento estranho à lista.
+---
+Accountability, como princípio de boa governança, consiste na obrigação dos agentes ou organizações que gerenciam recursos públicos de assumir responsabilidades por suas decisões e pela prestação de contas de sua atuação de forma voluntária, assumindo integralmente a consequência de seus atos e omissões.
+= C
+> Art. 21, VI, literal.
+---
+Para uma efetiva governança, os princípios de boa governança devem ser aplicados individualmente, cada qual sob a responsabilidade de uma instância específica da organização, a fim de evitar sobreposição de atribuições.
+= E
+> Art. 21, § 1º: os princípios "devem ser aplicados de forma integrada, como um processo, e não apenas individualmente, sendo compreendidos por todos na organização".
+---
+Riscos e controles internos devem ser geridos de forma integrada, objetivando o estabelecimento de um ambiente de controle e gestão de riscos que respeite os valores, interesses e expectativas da organização e de todas as partes interessadas, tendo o cidadão e a sociedade como principais vetores.
+= C
+> Art. 22, literal.
+---
+@texto Situação hipotética — Comitê de Governança, Riscos e Controles
+O ministro de Estado titular de determinado ministério editou portaria para instituir o Comitê de Governança, Riscos e Controles do órgão. Conforme a portaria, o comitê será composto pelo próprio ministro e pelos secretários das unidades a ele diretamente subordinadas, contando com o apoio do Assessor Especial de Controle Interno. Entre as atribuições conferidas ao colegiado, incluem-se aprovar a política de gestão de riscos do órgão e estabelecer os limites de exposição a riscos globais do ministério.
+Considerando essa situação hipotética e o disposto na IN Conjunta MP/CGU n.º 1/2016, julgue os itens a seguir.
+@fim
+
+A composição do comitê descrita na situação hipotética está em conformidade com a instrução normativa.
+= C
+> Art. 23, § 1º: o comitê é composto pelo dirigente máximo e pelos dirigentes das unidades a ele diretamente subordinadas e é apoiado pelo respectivo Assessor Especial de Controle Interno. Ele é instituído pelos dirigentes máximos (art. 23, caput).
+---
+Ao atribuir ao comitê a aprovação da política de gestão de riscos e o estabelecimento dos limites de exposição a riscos globais do órgão, a portaria extrapolou o disposto na instrução normativa, que reserva tais atribuições à Controladoria-Geral da União.
+= E
+> Ambas são competências do próprio comitê: aprovar política, diretrizes, metodologias e mecanismos de gestão de riscos e controles (art. 23, § 2º, VII) e estabelecer limites de exposição a riscos globais e limites de alçada (inciso X). À CGU cabe apenas a faculdade de avaliar a política e sua aplicação (art. 24).
+---
+Nessa situação, o Assessor Especial de Controle Interno deveria presidir o comitê, por ser a autoridade responsável pelo controle interno no âmbito do ministério.
+= E
+> O Assessor Especial de Controle Interno não compõe nem preside o comitê; ele o apoia (art. 23, § 1º). A composição é do dirigente máximo e dos dirigentes das unidades diretamente subordinadas.
+---
+Compete ao comitê supervisionar o mapeamento e a avaliação dos riscos-chave que podem comprometer a prestação de serviços de interesse público, bem como monitorar as recomendações e orientações por ele deliberadas.
+= C
+> Art. 23, § 2º, VIII e XIII. O comitê tem treze competências.
+---
+@texto Instrução Normativa Conjunta MP/CGU n.º 1/2016
+Com base na Instrução Normativa Conjunta MP/CGU n.º 1/2016, que dispõe sobre controles internos, gestão de riscos e governança no âmbito do Poder Executivo federal, julgue os itens a seguir.
+@fim
+
+A norma atribui à Controladoria-Geral da União a competência para aprovar a política de gestão de riscos de cada órgão e entidade do Poder Executivo federal, como condição para sua entrada em vigor.
+= E
+> Art. 24: a CGU "poderá" avaliar a política de gestão de riscos, avaliar se os procedimentos estão de acordo com ela e avaliar a eficácia dos controles internos da gestão. A aprovação da política cabe ao Comitê de Governança, Riscos e Controles (art. 23, § 2º, VII).
+---
+A Controladoria-Geral da União, no cumprimento de suas atribuições institucionais, poderá avaliar a eficácia dos controles internos da gestão implementados pelos órgãos e entidades para mitigar os riscos, bem como outras respostas aos riscos avaliados.
+= C
+> Art. 24, III, literal.
+---
+Os princípios dos controles internos da gestão incluem o mapeamento das vulnerabilidades que impactam os objetivos, de forma que sejam adequadamente identificados os riscos a serem geridos, e o adequado suporte de tecnologia da informação para apoiar a implementação desses controles.
+= C
+> Art. 8º, VII e X.
+---
+De acordo com a norma, a avaliação de risco, como componente dos controles internos da gestão, é procedimento a ser executado uma única vez, por ocasião da implantação do sistema de controles internos, cabendo ao monitoramento a revisão posterior dos riscos.
+= E
+> Art. 11, II: a avaliação de risco é o "processo permanente de identificação e análise dos riscos relevantes" e "envolve identificação, avaliação e resposta aos riscos, devendo ser um processo permanente".
+---
+O ambiente interno, componente da estrutura de gestão de riscos, inclui, entre outros elementos, a integridade, os valores éticos e a competência das pessoas, e constitui a base para todos os outros componentes dessa estrutura, provendo disciplina e prontidão para a gestão de riscos.
+= C
+> Art. 16, I. No modelo de gestão de riscos, a base é o "ambiente interno"; nos controles internos da gestão, é o "ambiente de controle" (art. 11, I).
+---
+A instrução normativa entra em vigor noventa dias após a data de sua publicação, prazo destinado à adaptação dos órgãos e entidades às novas exigências.
+= E
+> Art. 25: a IN Conjunta entra em vigor "na data de sua publicação". O prazo de adaptação previsto é outro: até doze meses para instituir a política de gestão de riscos (art. 17).
+---
+@texto -

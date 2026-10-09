@@ -1,0 +1,283 @@
+01/07/2019                                                       SEI/CGU - 1153381 - Portaria
+
+
+
+
+                                       CONTROLADORIA-GERAL DA UNIÃO
+
+
+
+                                                    PORTARIA Nº 2035/2019
+                                                                        Aprova a Orientação Prática: Auditoria Anual de Contas.
+
+
+
+   O SECRETÁRIO FEDERAL DE CONTROLE INTERNO, no uso de suas atribuições e considerando
+   o disposto no art. 22, inc. I e § 5º, e no art. 24, inc. IX, ambos da Lei nº 10.180, de 6 de fevereiro de 2001,
+   bem como no art. 15 do Decreto nº 3.591, de 6 de setembro 2000,
+
+
+   RESOLVE:
+
+
+   Art. 1º Aprovar, na forma do Anexo Único a esta Portaria, a "Orientação Prática: Auditoria Anual de
+   Contas", que orienta a Controladoria-Geral da União - CGU quanto às particularidades e aos aspectos
+   singulares relacionados à Auditoria Anual de Contas.
+   Art. 2º Fica revogada a Portaria SFC nº 855, de 27 de março de 2018, que aprovou o Manual de Auditoria
+   Anual de Contas.
+   Art. 3º Os processos de trabalho que se encontram em andamento poderão observar o fluxo anteriormente
+   estabelecido.
+   Art. 4º O uso compulsório do disposto no Anexo Único a esta Portaria ocorrerá a partir de janeiro de
+   2020.
+   Art. 5º Esta Portaria entra em vigor na data de sua publicação.
+
+
+                                          ANTÔNIO CARLOS BEZERRA LEONEL
+
+                Documento assinado eletronicamente por ANTONIO CARLOS BEZERRA LEONEL, Secretário Federal de
+                Controle Interno, em 28/06/2019, às 11:30, conforme horário oﬁcial de Brasília, com fundamento no
+                art. 6º, §1º, do Decreto nº 8.539, de 08 de outubro de 2015.
+
+
+
+                   A autenticidade deste documento pode ser conferida no site https://sei.cgu.gov.br/conferir
+
+
+  informando o código verificador 1153381 e o código CRC 3CA04E57
+
+                                                          ANEXO ÚNICO
+
+                       ORIENTAÇÃO PRÁTICA: AUDITORIA ANUAL DE CONTAS
+
+
+  Sumário
+
+  1.         INTRODUÇÃO.. 2
+
+  2.    ELABORAÇÃO DO RELATÓRIO DE GESTÃO DAS UNIDADES PRESTADORAS DE
+  CONTAS (UPC) 2
+https://sei.cgu.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1273500&infra_siste…   1/5
+01/07/2019                                                       SEI/CGU - 1153381 - Portaria
+
+  3.         NEGOCIAÇÃO DO ESCOPO COM O TCU.. 2
+
+  4.         PRORROGAÇÃO DE PRAZO DAS AAC. 3
+
+  5.         CERTIFICADO DE AUDITORIA. 3
+
+  5.1.       PROPOSTA DE CERTIFICADO DE AUDITORIA. 4
+
+  6.         TRÂMITE DA PROPOSTA DE CERTIFICAÇÃO.. 5
+
+  7.         ENCAMINHAMENTO DAS PEÇAS DA AUDITORIA. 5
+
+
+
+   1.INTRODUÇÃO
+   Esta Orientação tem por objetivo auxiliar as Unidades de Auditoria Interna Governamentais (UAIG) do
+   Poder Executivo Federal quanto às peculiaridades e aspectos singulares relacionados com as Auditorias
+   Anuais de Contas.
+   Aspectos gerais relacionados com a atividade de auditoria interna governamental devem seguir as
+   diretrizes estabelecidas no Referencial Técnico da Atividade de Auditoria Interna Governamental do
+   Poder Executivo Federal, aprovado pela Instrução Normativa CGU nº 3, de 9 de junho de 2017.
+   Informações técnicas de cunho geral podem ser obtidas no Manual de Orientações Técnicas da Atividade
+   de Auditoria Interna Governamental do Poder Executivo Federal, aprovado pela Instrução Normativa
+   CGU nº 8, de 6 de dezembro de 2017, na "Orientação Prática: Relatório de Auditoria", aprovada pela
+   Portaria SFC nº 1.037, de 7 de março de 2019, e em outros atos normativos, diretrizes e orientações
+   vigentes a respeito do tema.
+   A Auditoria Anual de Contas (AAC) tem por objetivos avaliar a eficácia, a eficiência, a economicidade e a
+   conformidade legal da aplicação dos recursos públicos e os principais resultados alcançados pela unidade
+   auditada na gestão das atividades e dos programas de governo (ou equivalentes).
+   O trabalho deve destacar as boas práticas administrativas e seus impactos no desempenho da unidade,
+   assim como as falhas que impactaram negativamente os resultados, informando as providências corretivas
+   necessárias. A auditoria anual de contas deve ser composta pelo conjunto de todos os trabalhos de
+   auditoria desenvolvidos em determinada unidade ao longo do exercício examinado e dos exames
+   específicos, que tenham como foco o exercício sob exame.
+   O cliente primário da AAC é o Tribunal de Contas da União (TCU), que tem por atribuição julgar as
+   contas dos gestores públicos, e sendo clientes naturais os próprios gestores, o Ministro supervisor e a
+   sociedade.
+
+
+   2.ELABORAÇÃO DO RELATÓRIO DE GESTÃO DAS UNIDADES PRESTADORAS DE
+   CONTAS (UPC)
+   As Assessorias Especiais de Controle Interno (AECI) dos Ministérios detêm a competência de orientar as
+   UPC, vinculadas ao órgão sob sua jurisdição, na elaboração do Relatório de Gestão (RG).
+   Subsidiariamente, as UPC poderão solicitar orientação às Unidade de Auditoria Interna Governamental
+   (UAIG) quanto à elaboração das peças do RG que estão sob a responsabilidade da UPC. Neste caso cabe à
+   UAIG a análise pontual de itens previamente indicados pela UPC, não sendo responsável por validar as
+   informações prestadas pelo gestor neste momento, pois a validação ocorrerá, se for o caso, como resultado
+   do trabalho de auditoria.
+
+
+   3.APRESENTAÇÃO DO ESCOPO AO TCU
+   De forma a maximizar esforços e minimizar retrabalho, o escopo das AAC, definido pela UAIG, deve ser
+   apresentado e discutido preliminarmente com o TCU.
+   As unidades técnicas do Tribunal podem, em razão da necessidade de acompanhamento de aspecto
+   específico e relevante da gestão da unidade auditada, propor ajustes no escopo apresentado pela UAIG.
+https://sei.cgu.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1273500&infra_siste…   2/5
+01/07/2019                                                       SEI/CGU - 1153381 - Portaria
+
+   Durante a discussão pode haver inclusão ou exclusão de objetos de auditoria. A inclusão de novos temas
+   deve ser negociada, tendo como contrapartida a redução da extensão de trabalhos ou a exclusão de temas.
+   Tal medida visa não comprometer ou prejudicar a capacidade da UAIG de gerar informações qualificadas.
+   O TCU poderá optar por negociar o escopo por meio de suas representações nos Estados. Neste caso, a
+   UAIG regional deverá interagir com a UAIG demandante, buscando subsídios para a negociação.
+   Nos casos de auditorias em UPC que possuam unidades descentralizadas e exista a necessidade de
+   realização de auditorias nas unidades descentralizadas sob o mesmo escopo, caberá à UAIG demandante
+   elaborar a proposta e apresentá-la às UAIG regionais que forem executar as auditorias para uma decisão
+   consensual.
+
+
+   4.PRORROGAÇÃO DE PRAZO DAS AAC
+   A prorrogação de prazo está prevista em instrução normativa do TCU, bem como é disciplinada na decisão
+   normativa que define a forma, os prazos e os conteúdos para a elaboração das peças de responsabilidade
+   dos órgãos de controle interno para o exercício sob exame.
+   A prorrogação de prazo poderá ocorrer nos casos em que for imprescindível o aprofundamento das
+   análises, em caso de fato superveniente que comprometa a execução do trabalho no prazo regulamentar ou
+   em outras situações que justifiquem o pedido.
+   Para as prorrogações de prazo por até trinta dias, a UAIG executora deverá comunicar a respectiva
+   unidade técnica do TCU e a UAIG demandante, com o devido registro das comunicações como papeis de
+   trabalho.
+   Para as prorrogações por prazo superior a trinta dias, as tratativas com o TCU serão feitas por intermédio
+   do Gabinete do Ministro. A UAIG deve formalizar processo administrativo, com a devida fundamentação
+   que justifica a necessidade da prorrogação, anexando minuta da comunicação ministerial a ser enviada ao
+   TCU.
+
+
+   5.CERTIFICADO DE AUDITORIA
+   O certificado de auditoria materializa a opinião da UAIG sobre a gestão e os resultados alcançados pela
+   UPC, eliminando assim a necessidade de emissão de Parecer do Controle Interno em documento separado.
+   Para a emissão da opinião, a UAIG deve considerar o contexto em que se deram os achados de auditoria e
+   o correspondente impacto sobre o interesse público.
+   Na opinião da UAIG deve ser observada, também, a relevância das eventuais distorções, impropriedades
+   ou irregularidades detectadas, avaliando inclusive o impacto sobre o desempenho e alcance dos objetivos
+   da UPC.[1] Decisão Normativa nº 172, de 12 de dezembro de 2018, Art. 17, Tribunal de Contas da União.
+   Para os conceitos exarados acima, o TCU adota as seguintes definições[2]:
+
+      1. distorção: diferença entre a informação contábil declarada e a informação contábil requerida,
+         considerando a estrutura de relatório financeiro aplicável, no que concerne ao valor, à classificação,
+         à apresentação ou à divulgação de um item das demonstrações financeiras;
+      2. impropriedade: falha de natureza formal que não caracterize inobservância de princípios e normas
+         constitucionais e legais que regem a Administração Pública Federal na execução dos orçamentos da
+         União e nas demais operações realizadas com recursos públicos federais;
+      3. irregularidade: ato comissivo ou omissivo, que caracterize ilegalidade, ilegitimidade,
+         antieconomicidade ou qualquer infração a norma constitucional ou infraconstitucional de natureza
+         contábil, financeira, orçamentária, operacional ou patrimonial, bem como aos princípios da
+         Administração Pública.
+
+   Ressalta-se que a prática de atos de gestão ou a infração a normas de que trata a alínea "b" do inciso III do
+   art. 16 da Lei nº 8.443, de 16 de julho de 1992 (prática de ato de gestão ilegal, ilegítimo, antieconômico,
+   ou infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou
+   patrimonial) somente caracterizará irregularidade quando:
+
+
+https://sei.cgu.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1273500&infra_siste…   3/5
+01/07/2019                                                       SEI/CGU - 1153381 - Portaria
+
+      1. tenham potencialidade de causar prejuízos ao erário;
+      2. configurem grave desvio relativamente aos princípios a que está submetida a Administração
+         Pública.
+
+   Considerando o resultado do trabalho e os achados relacionados às distorções, impropriedades e
+   irregularidades, os tipos de certificados possíveis são:
+
+      1. Regularidade: quando não foram encontradas desconformidades ou se estas tiveram baixo impacto
+         nos objetivos e metas da UPC;
+      2. Regularidade com ressalvas: quando foram encontradas desconformidades que produziram impactos
+         médios, altos ou muito altos nos objetivos e metas da UPC; ou
+      3. Irregularidade: quando as desconformidades produziram dano potencial ao patrimônio público ou
+         desvios graves aos princípios da Administração Pública por parte de agentes do Rol de
+         Responsáveis.
+
+   Na finalização dos trabalhos, caso não se tenha obtido evidência suficiente e adequada para emitir opinião,
+   em decorrência de restrição de acesso a informações ou omissão do auditado, a UAIG pode se abster de
+   emitir opinião no certificado de auditoria, devendo constar do relatório de auditoria ou dos anexos as
+   iniciativas adotadas para obtenção das informações.[3]
+   Destaca-se que a não implementação de recomendações dos órgãos de Auditoria Interna Governamental,
+   por si só, não enseja opinião pela certificação de irregularidade, devendo a UAIG obter dos titulares das
+   UPC as razões para a não adoção das medidas determinadas, fazendo-se o registro no relatório. Quando
+   consideradas insuficientes as razões apresentadas, poderá ser emitido, conforme o caso, Certificado de
+   Regularidade com Ressalva ou de Irregularidade.
+
+
+   5.1.PROPOSTA DE CERTIFICADO DE AUDITORIA
+   Cabe ao responsável pela UAIG executora propor o certificado de auditoria para assinatura do dirigente de
+   controle interno, no caso da CGU, o Secretário Federal de Controle Interno ou, por delegação, o diretor de
+   UAIG.
+   Na elaboração da proposta de certificado de auditoria devem-se observar:
+
+             O nome e o CPF dos agentes evidenciados como responsáveis pelos fatos constatados (opinião pela
+             regularidade com ressalva ou irregularidade) não devem constar do certificado. Os elementos
+             necessários para a responsabilização devem ser registrados no relatório de auditoria que fundamenta
+             o respectivo certificado e na matriz dos elementos da responsabilização de agentes do Rol de
+             Responsáveis.
+             Em regra, devem constar do relatório de auditoria de contas apenas achados de auditoria que tenham
+             relação com os integrantes do Rol de Responsáveis da unidade auditada;
+             Achados de auditoria relacionados com agentes ou servidores públicos não relacionados no Rol de
+             Responsáveis devem constar do relatório caso estes atores tenham participado de fatos que ensejem
+             a responsabilização de agentes integrantes do Rol. Assim sendo, a menos que haja responsabilização
+             em conjunto com agente integrante do Rol, um achado de auditoria de impacto médio, alto ou muito
+             alto praticado sem a participação de integrante do Rol não deve ser apresentado no relatório de
+                                          [4]
+             auditoria anual de contas ;
+             O certificado deverá conter:
+               1. Número do relatório de auditoria em que se baseia;
+               2. Nome da unidade auditada;
+               3. Nome da autoridade supervisora da unidade auditada a quem será dirigido o parecer contido
+                  no certificado;
+               4. Município e Unidade da Federação (UF) da unidade auditada;
+               5. Ano de exercício das contas auditadas;
+https://sei.cgu.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1273500&infra_siste…   4/5
+01/07/2019                                                       SEI/CGU - 1153381 - Portaria
+
+              6. Apresentação sucinta dos achados de auditoria que subsidiaram a proposta de certificação da
+                 gestão (regular, regular com ressalvas ou irregular). Se os achados não trazem elementos de
+                 convicção suficientes, deverá ser manifestada a negativa de opinião com as devidas
+                 justificativas; e
+                                                      [5]
+              7. A opinião geral da auditoria .
+
+
+   6.TRÂMITE DA PROPOSTA DE CERTIFICAÇÃO
+   O responsável pela UAIG executora deve disponibilizar à UAIG demandante o relatório de auditoria, a
+   proposta de certificação da gestão acompanhada das razões pelas quais sugere a certificação e os papéis de
+   trabalho que sustentam a opinião.
+   As propostas de certificação de irregularidade serão levadas à alta direção responsável pela UAIG
+   demandante para apreciação dos fatos. O encaminhamento do certificado para a apreciação deverá ocorrer
+   com antecedência mínima de 5 dias úteis em relação ao prazo para entrega das peças da CGU ao TCU..
+
+
+   7.ENCAMINHAMENTO DAS PEÇAS DA AUDITORIA
+   O relatório de auditoria e o certificado devem ser apresentados ao TCU exclusivamente por via eletrônica,
+   juntamente com a matriz dos elementos da responsabilização de agentes do Rol de Responsáveis. O
+   relatório submetido ao TCU deve ser completo, sem aposição de sigilo de qualquer espécie[6].
+   Para preenchimento da matriz dos elementos da responsabilização de agentes do Rol de Responsáveis
+   deverá ser utilizado o modelo disponibilizado pelo TCU.
+   Será comunicada ao Ministério supervisor, por intermédio da AECI, ou ao órgão de nível hierárquico
+   equivalente a disponibilidade das peças complementares ao relatório de gestão no sistema do TCU.
+   Encaminhadas as peças ao TCU, a UAIG executora deverá providenciar a publicação do relatório e
+   demais peças, inclusive quanto à aposição de sigilo.
+   Caso haja a necessidade de revisão de peças do processo de AAC já enviadas ao TCU, a UAIG deve
+   solicitar ao órgão Supervisor das Contas ou ao TCU, conforme o estágio em que o processo esteja, a
+   devolução do processo de prestação de contas pelo sistema do TCU. Com a devolução a UAIG
+   pode realizar os ajustes necessários e a nova apresentação das contas.
+
+
+   [1] Decisão Normativa nº 172, de 12 de dezembro de 2018, Art. 17, Tribunal de Contas da União.
+   [2] Decisão Normativa nº 172, de 12 de dezembro de 2018, Art. 17 §1º, Tribunal de Contas da União.
+   [3] Decisão Normativa nº 172, de 12 de dezembro de 2018, Art. 17 §3º, Tribunal de Contas da União.
+   [4]Decisão Normativa nº 172, de 12 de dezembro de 2018, Art. 19, Inciso I, Tribunal de Contas da União.
+   [5] Item nº 172, 173, 174 e 175 do Referencial Técnico da Atividade de Auditoria Interna Governamental
+   do Poder Executivo Federal, aprovado pela IN nº 03/2017 SFC/CGU.
+   [6] Acórdão 1195/2018-Plenário: 9.14. determinar à Controladoria-Geral da União que, mesmo em
+   circunstâncias que entenda sensíveis, abstenha-se de apor sigilo, por intermédio de tarjas ou outros meios,
+   à identificação de responsáveis perante o TCU, como ocorrido em relação a sete ocupantes de função de
+   confiança no Sesi/CN mencionados no item 1.1.1.6 do Relatório de Auditoria de Gestão 201407977
+   (Processo 00190.010837/2014-81).
+  Referência: Processo nº 00190.105950/2019-58                                                                             SEI nº 1153381
+
+
+
+
+https://sei.cgu.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1273500&infra_siste…   5/5
+

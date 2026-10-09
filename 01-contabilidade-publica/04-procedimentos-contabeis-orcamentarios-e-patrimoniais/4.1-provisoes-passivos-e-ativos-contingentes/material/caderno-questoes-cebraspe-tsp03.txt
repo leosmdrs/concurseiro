@@ -1,0 +1,2049 @@
+                    TSP 03
+                    https://www.tecconcursos.com.br/s/Q76oPS
+                    Ordenação: Por Matéria e Assunto
+
+
+www.tecconcursos.com.br/questoes/3816111
+
+CEBRASPE (CESPE) - ACE (TCE-MG)/TCE MG/Ciências Contábeis/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+1) No exercício financeiro de 2023, um ente federado foi acionado judicialmente por uma empresa de construção civil, alegando inadimplência contratual, referente à
+execução de obras públicas. Na ocasião, a procuradoria jurídica avaliou que as chances de perda eram possíveis, mas não prováveis, o processo ainda estava em fase
+inicial e o valor ainda não era totalmente mensurável.
+
+No exercício financeiro de 2024, após uma nova tramitação do processo, a procuradoria jurídica revisou o parecer e concluiu que a perda passou a ser provável, com uma
+perda de valor estimado com confiabilidade em R$ 1,8 milhão.
+
+No exercício financeiro de 2025, o tribunal emitiu uma sentença definitiva, condenando o ente federado em R$ 2 milhões (valor atualizado).
+
+Com base na situação hipotética apresentada, tendo como base os critérios de mensuração de passivos, é correto afirmar que uma provisão
+      a) foi registrada em 2024, quando a perda passou a ser provável e o valor mensurado com segurança.
+      b) foi registrada em 2025, quando passou a existir uma obrigação presente para a entidade.
+      c) foi registrada nos exercícios financeiros de 2023, 2024 e 2025, mudando apenas o status da provisão a cada ano, ou seja, remota (em 2023), possível (em 2024)
+      e provável (em 2025).
+      d) não foi registrada em nenhum dos exercícios financeiros, uma vez que em nenhum deles os critérios de reconhecimento de uma provisão foram atendidos.
+      e) foi registrada em 2023, quando a perda era possível, mas ainda não havia certeza quanto ao valor.
+
+Gabarito: A
+
+
+www.tecconcursos.com.br/questoes/3816236
+
+CEBRASPE (CESPE) - ACE (TCE-MG)/TCE MG/Ciências Contábeis/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+2) Uma entidade do setor público reivindica um direito na justiça e acredita ser provável que o desfecho do processo judicial lhe venha a ser favorável. Diante dessa
+situação hipotética, e considerando os procedimentos contábeis previstos na NBC TSP 03 – provisões, passivos contingentes e ativos contingentes, a entidade em questão
+deve
+      a) reconhecer uma provisão passiva, considerando a possibilidade, mesmo que remota, de o desfecho da ação judicial vir a ser desfavorável à entidade.
+      b) reconhecer o ativo decorrente do direito, cujo registro terá como contrapartida uma conta de resultado.
+      c) reconhecer o ativo decorrente do direito, cujo registro terá como contrapartida uma conta de outros resultados abrangentes.
+      d) não reconhecer o ativo decorrente do direito e apresentar, na data das demonstrações contábeis, uma breve descrição da natureza do ativo, evidenciando,
+      quando aplicável, uma estimativa de seu efeito financeiro.
+      e) não reconhecer o ativo decorrente do direito, ficando a entidade dispensada de apresentar a descrição da natureza do ativo e de evidenciar, quando aplicável,
+      uma estimativa de seu efeito financeiro.
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/3872591
+
+CEBRASPE (CESPE) - AFE (SEFAZ PR)/SEFAZ PR/Administrador/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+3) Servidor da secretaria de fazenda (SEFA), Paulo, contador, consultou Fábio, também contador na SEFA, para esclarecer se determinado passivo constitui uma provisão.
+
+Nessa situação hipotética, é correto que Fábio informe que as provisões, diferentemente dos demais passivos,
+      a) apresentam incerteza quanto ao prazo ou valor.
+      b) ocorrem com regularidade.
+      c) são ajustes de valores contábeis.
+      d) têm alta previsibilidade.
+      e) somam montante pouco expressivo.
+
+Gabarito: A
+
+
+www.tecconcursos.com.br/questoes/3874786
+
+CEBRASPE (CESPE) - AFE (SEFAZ PR)/SEFAZ PR/Contador/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+4) No âmbito da NBC TSP 03 – Provisões, Passivos Contingentes e Ativos Contingentes, o reconhecimento de provisões envolve julgamento profissional e uso de
+estimativas, em razão das incertezas inerentes às obrigações.
+
+De acordo com a referida norma, julgue os próximos itens.
+
+       I As provisões apresentam, em regra, menor grau de incerteza que a maior parte dos demais ativos e passivos reconhecidos nas demonstrações contábeis.
+        II O uso de estimativas na mensuração de provisões compromete a confiabilidade das demonstrações contábeis, uma vez que tais obrigações não possuem
+        valores mensuráveis de forma objetiva.
+
+        III Em regra, a entidade é capaz de determinar um intervalo de possíveis resultados, podendo realizar uma estimativa da obrigação suficientemente confiável para
+        fins de reconhecimento da provisão, sendo considerados extremamente raros os casos em que isso não é possível.
+
+Assinale a opção correta.
+      a) Nenhum item está certo.
+      b) Apenas o item I está certo.
+      c) Apenas o item II está certo.
+      d) Apenas o item III está certo.
+      e) Todos os itens estão certos.
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/3919602
+
+CEBRASPE (CESPE) - Analista (INFRA S.A.)/INFRA S.A./Contador/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+5) A INFRA S.A. elaborou suas demonstrações contábeis referentes ao exercício de 2025 observando as disposições do MCASP (11ª edição) e das NBC TSP aplicáveis.
+Durante o período, a referida empresa pública registrou ajustes para perdas com créditos tributários; avaliou provisões de longo prazo sujeitas a atualização pelo valor do
+dinheiro no tempo; analisou processos judiciais associados a possível entrada futura de recursos; reconheceu receitas tributárias cujo fato gerador havia ocorrido antes da
+arrecadação; e deliberou internamente sobre determinada obrigação ainda não formalizada.
+
+A partir da situação hipotética precedente, julgue o item a seguir.
+
+Os ajustes para perdas com ativos, como créditos de liquidação duvidosa e dívida ativa, devem ser classificados como provisões no plano de contas aplicado ao setor
+público (PCASP), uma vez que se referem a passivos de prazo ou valor incerto.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3919603
+
+CEBRASPE (CESPE) - Analista (INFRA S.A.)/INFRA S.A./Contador/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+6) A INFRA S.A. elaborou suas demonstrações contábeis referentes ao exercício de 2025 observando as disposições do MCASP (11ª edição) e das NBC TSP aplicáveis.
+Durante o período, a referida empresa pública registrou ajustes para perdas com créditos tributários; avaliou provisões de longo prazo sujeitas a atualização pelo valor do
+dinheiro no tempo; analisou processos judiciais associados a possível entrada futura de recursos; reconheceu receitas tributárias cujo fato gerador havia ocorrido antes da
+arrecadação; e deliberou internamente sobre determinada obrigação ainda não formalizada.
+
+A partir da situação hipotética precedente, julgue o item a seguir.
+
+Se o efeito do tempo sobre o dinheiro for material, o aumento do valor contábil das provisões decorrentes do transcurso do tempo deve ser reconhecido como variação
+patrimonial diminutiva (VPD) financeira.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3919614
+
+CEBRASPE (CESPE) - Analista (INFRA S.A.)/INFRA S.A./Contador/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+7) A INFRA S.A. elaborou suas demonstrações contábeis referentes ao exercício de 2025 observando as disposições do MCASP (11ª edição) e das NBC TSP aplicáveis.
+Durante o período, a referida empresa pública registrou ajustes para perdas com créditos tributários; avaliou provisões de longo prazo sujeitas a atualização pelo valor do
+dinheiro no tempo; analisou processos judiciais associados a possível entrada futura de recursos; reconheceu receitas tributárias cujo fato gerador havia ocorrido antes da
+arrecadação; e deliberou internamente sobre determinada obrigação ainda não formalizada.
+
+A partir da situação hipotética precedente, julgue o item a seguir.
+
+Os ativos contingentes relacionados aos processos judiciais mencionados devem ser reconhecidos nas demonstrações contábeis e evidenciados em notas explicativas caso
+os recursos incorporem benefícios econômicos para a INFRA S.A. e caso a entrada desses recursos seja considerada provável.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3954082
+
+CEBRASPE (CESPE) - Ana Amb (Ipaam)/IPAAM/Ciências Contábeis/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+8) Uma entidade reconheceu provisão para ação judicial com probabilidade de perda considerada provável e montante mensurável. Em uma segunda ação, a chance é
+possível e não mensurável. Nessa situação hipotética, de acordo com a NBC TSP 03,
+
+      a) a primeira situação deve ser reconhecida diretamente no patrimônio líquido.
+      b) nenhuma situação deve ser reconhecida ou divulgada.
+      c) a segunda situação deve ser reconhecida como provisão com base em estimativa arbitrária.
+      d) ambas as situações devem ser reconhecidas como provisão no passivo.
+      e) a primeira situação deve ser reconhecida como provisão, e a segunda deve ser divulgada como passivo contingente em notas.
+
+Gabarito: E
+
+
+www.tecconcursos.com.br/questoes/3954091
+
+CEBRASPE (CESPE) - Ana Amb (Ipaam)/IPAAM/Ciências Contábeis/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+9) Uma autarquia reconheceu passivo contingente decorrente de processo com chance de perda classificada como possível e mensuração incerta. No relatório, o gestor
+propôs não divulgar as informações para evitar preocupação do usuário. Com base nessa situação hipotética e no disposto na NBC TSP 03, assinale a opção correta.
+
+      a) Deve-se reconhecer provisão somente quando houver pagamento.
+      b) Deve-se reconhecer provisão pelo valor máximo da causa.
+      c) Deve-se reconhecer provisão diretamente no patrimônio líquido.
+      d) O passivo contingente não se reconhece nem se divulga.
+      e) As informações relevantes, como natureza e riscos, devem ser divulgadas em notas explicativas sem reconhecimento contábil.
+
+Gabarito: E
+
+
+www.tecconcursos.com.br/questoes/3954292
+
+CEBRASPE (CESPE) - Ana Amb (Ipaam)/IPAAM/Ciências Contábeis/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+10) Uma autarquia ambiental figura como ré em processo judicial movido por um proprietário rural. O autor da ação contesta uma multa ambiental de R$ 150.000 que já
+foi devidamente recolhida aos cofres da autarquia. O proprietário alega erro material na autuação e exige a devolução integral do valor pago. No encerramento do
+exercício financeiro, ao analisar o estágio atual do processo, a procuradoria jurídica da autarquia emitiu parecer formal, concluindo que:
+
+        (i) existe uma obrigação presente resultante de evento passado (o questionamento judicial do pagamento efetuado);
+        (ii) há probabilidade de o tribunal anular a multa e obrigar a autarquia a restituir o valor ao proprietário; e
+        (iii) o valor a ser restituído (R$ 150.000) pode ser estimado com total fiabilidade.
+
+Nessa situação hipotética, conforme o disposto na NBC TSP 03 –Provisões, Passivos Contingentes e Ativos Contingentes, o procedimento contábil que deve ser adotado
+pela autarquia é
+      a) providenciar o reconhecimento de uma provisão em contas de passivo.
+      b) registrar o valor em contas de compensação (atos potenciais passivos), sem afetar o patrimônio líquido.
+      c) registrar uma obrigação como depósitos e devoluções, já que a procuradoria jurídica reconhece que se trata de uma causa perdida.
+      d) abster-se de qualquer registro ou divulgação até que ocorra o trânsito em julgado da decisão judicial.
+      e) classificar o evento como um passivo contingente, realizando apenas a divulgação em notas explicativas.
+
+Gabarito: A
+
+
+www.tecconcursos.com.br/questoes/3965221
+
+CEBRASPE (CESPE) - Ana Adm (TCE RN)/TCE RN/Ciências Contábeis/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+11) De acordo com o disposto na norma brasileira de contabilidade aplicada ao setor público (NBC TSP) acerca de provisões, passivos contingentes e ativos contingentes,
+julgue o item a seguir.
+
+Na responsabilidade solidária, a entidade deve reconhecer como provisão o valor integral da obrigação, incluída a parcela que se espera ser liquidada pelas demais partes.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3968102
+
+CEBRASPE (CESPE) - AudCE (TCE RN)/TCE RN/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+12) O tribunal de contas de certo estado está realizando auditoria financeira na secretaria estadual de saúde. Durante os trabalhos, a equipe de auditoria depara-se com
+as seguintes situações ocorridas no exercício de 2025: (a) ação judicial movida por um sindicato de servidores pleiteando reajustes retroativos, tendo a assessoria jurídica
+do órgão classificado o risco de perda como provável, mas ressaltado que o valor exato final depende de cálculos complexos de liquidação de sentença, embora tenha
+fornecido uma estimativa confiável baseada em jurisprudência; (b) investigação preliminar do Ministério Público sobre supostas irregularidades em contratos de
+publicidade, cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente sob o controle da entidade,
+mas a saída de recursos é considerada possível; (c) autuação da secretaria por descumprimento de normas sanitárias, caso em que a assessoria jurídica considera a
+perda possível, porém a validade da multa está condicionada ao resultado de um recurso administrativo em outra instância, cujo desfecho depende de interpretação
+jurídica inédita, tornando a existência da obrigação incerta até a decisão final.
+
+À luz dos normativos aplicados ao setor público acerca de provisões, passivos contingentes e ativos contingentes, julgue o item a seguir.
+
+No caso da investigação preliminar (b), como a saída de recursos, ainda que haja incerteza, é considerada possível, seus valores devem ser registrados em contas de
+controle do PCASP e divulgados em notas explicativas.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3968104
+
+CEBRASPE (CESPE) - AudCE (TCE RN)/TCE RN/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+13) O tribunal de contas de certo estado está realizando auditoria financeira na secretaria estadual de saúde. Durante os trabalhos, a equipe de auditoria depara-se com
+as seguintes situações ocorridas no exercício de 2025: (a) ação judicial movida por um sindicato de servidores pleiteando reajustes retroativos, tendo a assessoria jurídica
+do órgão classificado o risco de perda como provável, mas ressaltado que o valor exato final depende de cálculos complexos de liquidação de sentença, embora tenha
+fornecido uma estimativa confiável baseada em jurisprudência; (b) investigação preliminar do Ministério Público sobre supostas irregularidades em contratos de
+publicidade, cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente sob o controle da entidade,
+mas a saída de recursos é considerada possível; (c) autuação da secretaria por descumprimento de normas sanitárias, caso em que a assessoria jurídica considera a
+perda possível, porém a validade da multa está condicionada ao resultado de um recurso administrativo em outra instância, cujo desfecho depende de interpretação
+jurídica inédita, tornando a existência da obrigação incerta até a decisão final.
+
+À luz dos normativos aplicados ao setor público acerca de provisões, passivos contingentes e ativos contingentes, julgue o item a seguir.
+
+No caso da ação judicial (a), a dificuldade em calcular o valor exato final da liquidação de sentença impede o reconhecimento de uma provisão, devendo a entidade
+apenas divulgar o evento em notas explicativas como um passivo contingente.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3968105
+
+CEBRASPE (CESPE) - AudCE (TCE RN)/TCE RN/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+14) O tribunal de contas de certo estado está realizando auditoria financeira na secretaria estadual de saúde. Durante os trabalhos, a equipe de auditoria depara-se com
+as seguintes situações ocorridas no exercício de 2025: (a) ação judicial movida por um sindicato de servidores pleiteando reajustes retroativos, tendo a assessoria jurídica
+do órgão classificado o risco de perda como provável, mas ressaltado que o valor exato final depende de cálculos complexos de liquidação de sentença, embora tenha
+fornecido uma estimativa confiável baseada em jurisprudência; (b) investigação preliminar do Ministério Público sobre supostas irregularidades em contratos de
+publicidade, cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente sob o controle da entidade,
+mas a saída de recursos é considerada possível; (c) autuação da secretaria por descumprimento de normas sanitárias, caso em que a assessoria jurídica considera a
+perda possível, porém a validade da multa está condicionada ao resultado de um recurso administrativo em outra instância, cujo desfecho depende de interpretação
+jurídica inédita, tornando a existência da obrigação incerta até a decisão final.
+
+À luz dos normativos aplicados ao setor público acerca de provisões, passivos contingentes e ativos contingentes, julgue o item a seguir.
+
+Com relação ao descumprimento das normas sanitárias (c), como a assessoria jurídica considera a perda possível, a multa deve ser contabilmente registrada como uma
+provisão.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3969268
+
+CEBRASPE (CESPE) - AudCE (TCE RN)/TCE RN/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+15) Considerando as Normas Brasileiras de Contabilidade para o Setor Público (NBC TSP) relativas a provisões, passivos contingentes e ativos contingentes, estoques,
+ativo imobilizado, ativo intangível, bem como à redução ao valor recuperável de ativo não gerador de caixa, julgue o item a seguir.
+
+No setor público, uma provisão deve ser reconhecida no balanço patrimonial sempre que a saída de recursos for classificada como possível, desde que o montante da
+obrigação possa ser estimado com adequada confiabilidade pela entidade.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3992432
+
+CEBRASPE (CESPE) - AA (SEMA AM)/SEMA AM/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+16) Considere que uma autarquia tenha um processo com perda classificada como provável e mensurável, e outro processo com perda classificada como possível e não
+mensurável.
+
+Nessa situação hipotética,
+
+      a) a perda provável e mensurável deve ser reconhecida diretamente no patrimônio líquido.
+      b) ambas as perdas devem ser reconhecidas como provisão.
+      c) a perda provável e mensurável deve ser reconhecida como provisão, e a perda possível e não mensurável deve ser divulgada como passivo contingente em notas.
+      d) nenhuma das perdas deve ser reconhecida ou divulgada.
+      e) a perda possível e não mensurável deve ser reconhecida por estimativa arbitrária.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/3992737
+
+CEBRASPE (CESPE) - AA (SEMA AM)/SEMA AM/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+17) Segundo a NBC TSP 03, o reconhecimento de provisões representa um desafio para as entidades públicas.
+
+As provisões se distinguem dos demais passivos porque
+      a) estão estritamente associadas a riscos contingentes.
+      b) derivam de apropriações por competência.
+      c) envolvem incerteza sobre o prazo ou o valor do desembolso.
+      d) consistem em ajustes com impacto no resultado do exercício.
+      e) decorrem de riscos legalmente assumidos.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/3995459
+
+CEBRASPE (CESPE) - TNS (SEMA AM)/SEMA AM/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+18) No que diz respeito aos passivos contingentes, assinale a opção correta.
+
+      a) A natureza do saldo da conta de execução de passivos contingentes é devedora.
+      b) No anexo de metas fiscais, avaliam-se os passivos contingentes.
+      c) No anexo de riscos fiscais, são informadas as providências a serem tomadas na avaliação dos passivos contingentes.
+      d) Os passivos contingentes estão no plano de contas excluído das contas de controle.
+      e) Os passivos contingentes não afetam as contas públicas.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/4126270
+
+CEBRASPE (CESPE) - EGP (SEPLAG AL)/SEPLAG AL/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+19) A respeito de provisões e passivos contingentes, julgue o item.
+
+Havendo materialidade, o valor da provisão deve ser descontado pela taxa de juros adequada, para refletir o valor presente da obrigação.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/4126271
+
+CEBRASPE (CESPE) - EGP (SEPLAG AL)/SEPLAG AL/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+20) A respeito de provisões e passivos contingentes, julgue o item.
+
+Suponha que um ente governamental viole uma lei ambiental, mas não haja certeza da existência de dano real ao meio ambiente. Nessa situação hipotética, verifica-se
+um passivo contingente, não devendo ser realizado registro patrimonial.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/4126272
+
+CEBRASPE (CESPE) - EGP (SEPLAG AL)/SEPLAG AL/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+21) A respeito de provisões e passivos contingentes, julgue o item.
+
+Provisões passivas e provisões ativas diferem entre si, principalmente, no que diz respeito ao impacto sobre o patrimônio do ente público e aos critérios de mensuração.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/4130067
+
+CEBRASPE (CESPE) - EGP (SEPLAG AL)/SEPLAG AL/Contabilidade/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+22) No que se refere a provisões, estoques e créditos adicionais de ente público, julgue o item.
+
+Para o reconhecimento de provisão, deve haver obrigação presente, legal ou não formalizada, resultante de evento passado, probabilidade de saída de recursos para
+liquidar a obrigação e possibilidade de estimativa confiável do valor da obrigação.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/4146947
+
+CEBRASPE (CESPE) - Assi (Pref Porto Velho)/Pref Porto Velho/Arrecadação/2026
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+23) A Procuradoria-Geral do Município X enviou ao setor de contabilidade geral da Secretaria de Economia relatório atualizado sobre três grandes litígios judiciais movidos
+por ex-servidores e prestadores de serviços contra o município. A equipe de contabilidade foi instada a analisar o risco de perda e a confiabilidade da mensuração de cada
+caso para realizar o fechamento do balanço patrimonial, de acordo com o que se segue.
+
+        Processo 1: risco de perda avaliado como provável, podendo o valor do desembolso futuro ser estimado, com confiabilidade, em R$ 5.000.000.
+        Processo 2: risco de perda avaliado como possível, sendo o valor estimado do impacto R$ 12.000.000.
+        Processo 3: risco de perda avaliado como remoto, sendo o valor estimado do impacto R$ 8.000.000.
+
+Considerando os critérios de reconhecimento e divulgação de provisões e passivos contingentes no setor público, assinale a opção correta em relação ao procedimento a
+ser adotado pela equipe da referida secretaria de economia.
+
+      a) A referida secretaria deve aguardar o trânsito em julgado de todos os processos para realizar qualquer tipo de registro contábil ou divulgação, haja vista que
+      passivos contingentes sob litígio judicial só ganham reflexo patrimonial após a ordem de pagamento dos precatórios.
+      b) Os processos 1 e 2 reúnem as características conceituais para serem reconhecidos no balanço patrimonial como provisões, enquanto o processo 3 deve ser
+      classificado como passivo contingente e divulgado em notas explicativas.
+      c) O processo 1 deve ser reconhecido no balanço patrimonial como uma provisão; o processo 2 não deve ser reconhecido no balanço, mas a sua existência como
+      passivo contingente deve ser obrigatoriamente divulgada em notas explicativas; e o processo 3 não deve ser reconhecido nem divulgado.
+      d) Todos os três processos enquadram-se na definição estrita de passivos contingentes da contabilidade pública, devendo ser integralmente provisionados no
+      passivo patrimonial para atender ao princípio da prudência e preservar o equilíbrio fiscal do município.
+      e) O processo 2 deve ser registrado no passivo como uma provisão de risco médio, enquanto o processo 1, por ter estimativa confiável, dispensa o registro no
+      balanço, exigindo-se apenas a escrituração em contas de controle da execução orçamentária.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/3251811
+
+CEBRASPE (CESPE) - AJ TRF6/TRF 6/Apoio Especializado/Contabilidade/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+24) A respeito do patrimônio público, seus componentes, sua variação e mensuração, julgue o item a seguir, de acordo com o Manual de Contabilidade Aplicada ao Setor
+Público (MCASP).
+
+Se não for possível realizar uma estimativa confiável do valor da obrigação, ainda que seja provável uma saída de recursos para a sua extinção, a provisão não deve ser
+reconhecida, impondo-se sua divulgação como um passivo contingente.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3259160
+
+CEBRASPE (CESPE) - TJ TRF6/TRF 6/Apoio Especializado/Contabilidade/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+25) Quanto à mensuração de ativos e passivos de acordo com o MCASP (10.ª edição), julgue o item a seguir.
+
+Se o valor reconhecido de uma provisão houver decorrido da utilização do valor presente dos desembolsos futuros, a fim de se refletir o efeito do tempo no dinheiro, a
+cada novo período, o valor da provisão deverá ser atualizado, reconhecendo-se, em contrapartida, uma variação patrimonial diminutiva financeira.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3314947
+
+CEBRASPE (CESPE) - AA (ANM)/ANM/Contabilidade/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+26) Acerca do patrimônio público, da sua composição, e da mensuração e variação de valor dos seus componentes, julgue o próximo item.
+
+Os passivos contingentes devem ser registrados em contas patrimoniais, gerando variações patrimoniais diminutivas, enquanto as provisões devem ser registradas em
+contas de controle do Plano de Contas Aplicado ao Setor Público e divulgadas em notas explicativas.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3342089
+
+CEBRASPE (CESPE) - AJ TRT10/TRT 10/Administrativa/Contabilidade/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+27) Acerca da composição do patrimônio público e das suas variações, bem como da mensuração de passivos, julgue o itema seguir, de acordo com o Manual de
+Contabilidade Aplicado ao Setor Público (MCASP).
+
+Uma provisão deverá ser reconhecida patrimonialmente quando existir uma obrigação presente resultante de eventos passados ou quando for provável a saída de
+recursos.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3373291
+CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+28) Tendo como fundamento as normas brasileiras de contabilidade aplicadas ao setor público nos procedimentos patrimoniais, julgue o item subsecutivo.
+
+Quando o valor de uma obrigação for igual ao valor provisionado, deve haver a baixa da provisão e o registro de uma variação patrimonial aumentativa como
+contrapartida.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3385326
+
+CEBRASPE (CESPE) - AFP (SEFAZ RJ)/SEFAZ RJ/Contábil Financeira/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+29) O governo detectou que, devido a um erro no sistema de cobrança, um tributo pode ter sido cobrado indevidamente de determinados contribuintes, sendo
+necessário fazer a restituição. O desembolso esperado será de $ 10 milhões, se a totalidade dos valores cobrados for restituída; de $ 5 milhões, caso o erro tenha
+resultado apenas em uma cobrança a maior do tributo; ou não haverá valor a restituir, caso o erro do sistema não tenha afetado a cobrança do tributo. Estima-se que
+20% dos contribuintes tenham sido indevidamente tributados, 10% tributados a maior e 70% não tenham sido afetados.
+
+Nessa situação hipotética, o valor esperado para a provisão com as restituições será
+
+      a) $ 2.000.000.
+      b) $ 2.500.000.
+      c) $ 3.000.000.
+      d) $ 5.000.000.
+      e) $ 10.000.000.
+
+Gabarito: B
+
+
+www.tecconcursos.com.br/questoes/3385329
+
+CEBRASPE (CESPE) - AFP (SEFAZ RJ)/SEFAZ RJ/Contábil Financeira/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+30) Quando não houver mais incertezas quanto ao valor e ao prazo de determinado passivo, este deixará de ser
+
+      a) um dispêndio extraorçamentário.
+      b) uma despesa orçamentária.
+      c) uma variação patrimonial diminutiva.
+      d) uma provisão.
+      e) um passivo contingente.
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/3385332
+
+CEBRASPE (CESPE) - AFP (SEFAZ RJ)/SEFAZ RJ/Contábil Financeira/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+31) Caso uma provisão e um passivo contingente surjam de um mesmo conjunto de circunstâncias no setor público, a entidade
+      a) deverá solicitar orientação ao tribunal de contas.
+      b) não deverá fazer nenhuma divulgação.
+      c) deverá divulgar a relação entre a provisão e o passivo contingente.
+      d) deverá divulgar uma provisão.
+      e) deverá divulgar um passivo contingente.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/3437435
+
+CEBRASPE (CESPE) - Ana (EMBRAPA)/EMBRAPA/Orçamento e Finanças/Contabilidade/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+32) Julgue o item a seguir, a respeito de normas e práticas de contabilidade aplicada ao setor público.
+
+A prestação de contas no setor público pode excluir informações sobre passivos contingentes, pois estes não afetam o resultado financeiro imediato da entidade.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3446290
+
+CEBRASPE (CESPE) - AJ (STM)/STM/Apoio Especializado/Contabilidade/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+33) Acerca do processo de mensuração das provisões e dos passivos contingentes do setor público, julgue o item que se seguem.
+
+Os passivos contingentes devem ser reavaliados na data de apresentação das demonstrações contábeis, e seus valores devem ser ajustados no balanço patrimonial para
+refletir a melhor estimativa corrente.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3446292
+
+CEBRASPE (CESPE) - AJ (STM)/STM/Apoio Especializado/Contabilidade/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+34) Acerca do processo de mensuração das provisões e dos passivos contingentes do setor público, julgue o item que se seguem.
+
+Em caso de desobediência a uma lei ambiental por uma entidade pública, uma provisão deve ser constituída caso fique claro que um dano foi causado e que a reparação
+será exigida.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3454105
+
+CEBRASPE (CESPE) - Ana Tec (SUSEP)/SUSEP/Contabilidade Pública/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+35) Julgue o item a seguir, relativos ao processo de mensuração das provisões e passivos contingentes do setor público.
+
+Quando não for possível estimar confiavelmente um passivo contingente, ele deve ser divulgado como provisão.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3454107
+
+CEBRASPE (CESPE) - Ana Tec (SUSEP)/SUSEP/Contabilidade Pública/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+36) Julgue o item a seguir, relativos ao processo de mensuração das provisões e passivos contingentes do setor público.
+
+Quando o efeito do tempo no dinheiro for material, o valor da provisão deve ser estimado ponderando-se todos os possíveis resultados.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3474892
+
+CEBRASPE (CESPE) - Ana SN (CAESB)/CAESB/Contador/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+37) No setor público, as provisões devem ser reavaliadas na data de apresentação das demonstrações contábeis e ajustadas para refletir a melhor estimativa corrente.
+Sendo assim, caso, ao final de determinado exercício financeiro, seja confirmada uma obrigação a pagar de $ 100 referente a uma provisão anteriormente constituída de
+$ 90, deve ser registrado
+
+      a) um débito na conta de provisão de $ 100 e um crédito da obrigação a pagar de $ 100.
+      b) um débito na conta de provisão de $ 90, um débito de uma variação patrimonial diminutiva de $ 10 e um crédito da obrigação a pagar de $ 100.
+      c) um débito na conta de provisão de $ 100, um crédito da obrigação a pagar de $ 90 e um crédito de uma variação patrimonial aumentativa de $ 10.
+      d) um débito na conta de provisão de $ 100 e um crédito de reversão da provisão de $ 100.
+      e) um débito da obrigação a pagar de $ 100 e um crédito na conta de provisão de $ 100.
+
+Gabarito: B
+
+
+www.tecconcursos.com.br/questoes/3493945
+
+CEBRASPE (CESPE) - Cont (PF)/PF/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+38) Julgue o item a seguir, acerca de procedimentos contábeis patrimoniais dispostos no Manual de Contabilidade Aplicada ao Setor Público (MCASP).
+
+Nenhuma divulgação deve ser feita quando uma provisão e um passivo contingente no setor público surgirem de um mesmo conjunto de circunstâncias.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3495794
+
+CEBRASPE (CESPE) - Aud (FUB)/FUB/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+39) Em relação ao tratamento contábil de ativos contingentes e de provisões no setor público, julgue o item a seguir.
+
+Nenhuma provisão deve ser reconhecida para despesas que ainda devam ser incorridas para operar no futuro.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3495795
+
+CEBRASPE (CESPE) - Aud (FUB)/FUB/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+40) Em relação ao tratamento contábil de ativos contingentes e de provisões no setor público, julgue o item a seguir.
+
+Um ativo contingente é um ativo provável que resulta de eventos presentes cuja existência seja confirmada pela ocorrência ou não de um ou mais eventos futuros
+incertos que estejam sob o controle da entidade.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3495969
+
+CEBRASPE (CESPE) - Cont (FUB)/FUB/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+41) Com base nas normas brasileiras de contabilidade para o setor público (NBC TSP), julgue o item a seguir.
+
+A melhor estimativa do valor a ser reconhecido como provisão deve corresponder ao valor máximo que a entidade poderia vir a desembolsar, considerando os cenários
+mais pessimistas possíveis, ainda que não sejam prováveis.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3514230
+
+CEBRASPE (CESPE) - Cont (CAU MG)/CAU MG/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+42) Em relação a mensuração de passivos, provisões e passivos contingentes, julgue o item seguinte.
+
+A mensuração da provisão deve refletir a melhor estimativa do valor que a entidade racionalmente pagaria para liquidar ou transferir a obrigação na data das
+demonstrações contábeis, considerando, inclusive, evidências posteriores ao encerramento do exercício.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3514233
+
+CEBRASPE (CESPE) - Cont (CAU MG)/CAU MG/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+43) Em relação a mensuração de passivos, provisões e passivos contingentes, julgue o item seguinte.
+
+A provisão, enquanto passivo de valor ou prazo incerto, deve ser reconhecida quando houver obrigação presente resultante de eventos passados, sendo distinta do
+passivo contingente, cuja existência ou exigibilidade depende da ocorrência de eventos futuros incertos não totalmente controláveis pela entidade.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3599104
+
+CEBRASPE (CESPE) - AJ (TJ PA)/TJ PA/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+44) Julgue o item a seguir, a respeito do regime orçamentário e da mensuração de provisões e passivos contingentes no setor público.
+
+O valor contábil da provisão diminui a cada período para refletir o seu valor justo quando o desconto a valor presente é utilizado.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3599105
+
+CEBRASPE (CESPE) - AJ (TJ PA)/TJ PA/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+45) Julgue o item a seguir, a respeito do regime orçamentário e da mensuração de provisões e passivos contingentes no setor público.
+
+O aumento no valor contábil de uma provisão deve ser reconhecido como uma despesa financeira.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3599106
+
+CEBRASPE (CESPE) - AJ (TJ PA)/TJ PA/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+46) Julgue o item a seguir, a respeito do regime orçamentário e da mensuração de provisões e passivos contingentes no setor público.
+
+Os passivos contingentes devem ser periodicamente avaliados para que se determine se o seu potencial de serviços se tornou possível.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3599134
+
+CEBRASPE (CESPE) - AJ (TJ PA)/TJ PA/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+47) Julgue o item a seguir, com base nas Normas Brasileiras de Contabilidade – NBC TSP.
+
+Uma entidade do setor público, ao ter uma obrigação presente decorrente de uma decisão judicial a ela desfavorável já transitada em julgado, deve reconhecer o passivo
+correspondente em suas demonstrações contábeis, mesmo que o valor exato dessa obrigação ainda seja incerto e exija estimativa.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3662751
+
+CEBRASPE (CESPE) - APE (TCE-RS)/TCE RS/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+48) Em relação ao registro contábil das provisões e aos passivos contingentes do setor público, julgue o item seguinte.
+
+O passivo contingente é um passivo de prazo ou valor incerto, cuja saída de recursos públicos é provável.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3662752
+
+CEBRASPE (CESPE) - APE (TCE-RS)/TCE RS/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+49) Em relação ao registro contábil das provisões e aos passivos contingentes do setor público, julgue o item seguinte.
+
+Gastos decorrentes de ações futuras da própria entidade do setor público não devem ser reconhecidos como provisão.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3683583
+
+CEBRASPE (CESPE) - AECE (TCE MS)/TCE MS/Ciências Contábeis/2025
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+50) Uma prefeitura foi acionada judicialmente por um fornecedor que alega não ter recebido um pagamento no valor de R$ 20.000. Em 2023, a assessoria jurídica da
+prefeitura classificou o risco como remoto, razão por que nada foi reconhecido nem divulgado. No entanto, em 2024, o surgimento de novos documentos tornou a saída
+de recursos provável.
+
+Nessa situação hipotética, de acordo com o MCASP, a prefeitura em 2024 deveria
+
+      a) manter o processo registrado como passivo contingente em contas de controle, sem impacto nas demonstrações patrimoniais.
+      b) continuar sem reconhecer nada, já que o processo ainda não transitou em julgado.
+      c) reconhecer uma provisão no passivo no valor de R$ 20.000, pois a saída de recursos passou a ser provável.
+      d) divulgar apenas em notas explicativas o valor de R$ 20.000, já que se trata de obrigação incerta.
+      e) registrar o valor de R$ 20.000 diretamente como despesa orçamentária, sem afetar o patrimônio líquido.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/2782004
+
+CEBRASPE (CESPE) - Cont (CAU BR)/CAU BR/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+51) Em relação a conceituação, objeto e campo de aplicação da contabilidade pública e patrimônio público e seus componentes, julgue o item a seguir.
+No passivo do setor público, uma provisão é uma obrigação presente, com pouca probabilidade de saída de recursos, e que deve ser evidenciada em notas explicativas, e
+não reconhecida no balanço patrimonial.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/2782023
+
+CEBRASPE (CESPE) - Cont (CAU BR)/CAU BR/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+52) Acerca de mensuração de passivos, passivos contingentes, reavaliação e depreciação, julgue o item subsequente.
+
+A prudência justifica que os passivos contingentes sejam reconhecidos nas contas patrimoniais imediatamente após a sua classificação e definição, apesar da baixa
+probabilidade de saída de recursos para satisfazer a obrigação.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/2843791
+
+CEBRASPE (CESPE) - Ana Min (MPE TO)/MPE TO/Especializado/Ciências Contábeis/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+53) Considerando aspectos relativos a mensuração de ativos, redução a valor recuperável, provisões e tratamento contábil aplicável aos impostos e contribuições, julgue
+o seguinte item.
+
+Os passivos contingentes não devem ser reconhecidos em contas patrimoniais, sendo representados por contas de controle que não aparecem no balanço patrimonial,
+enquanto as provisões são reconhecidas pela contabilidade pública.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2843828
+
+CEBRASPE (CESPE) - Ana Min (MPE TO)/MPE TO/Especializado/Ciências Contábeis/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+54) Considerando aspectos relativos a mensuração de ativos, redução a valor recuperável, provisões e tratamento contábil aplicável aos impostos e contribuições, julgue
+o seguinte item.
+
+Um passivo de prazo ou valor incerto é uma provisão, entretanto, se uma obrigação presente não puder ser reconhecida por ser improvável a saída de recursos da
+entidade para o seu pagamento ou se não for possível estimar com confiabilidade o seu valor, tal obrigação será considerada um passivo contingente.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2847714
+
+CEBRASPE (CESPE) - Tec Min (MPE TO)/MPE TO/Especializado/Técnico em Contabilidade/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+55) Julgue o seguinte item, relativo às provisões, aos passivos contingentes e à mensuração dos passivos.
+
+Quando uma obrigação provisionada se confirma em montante inferior à provisão constituída, esta diferença deverá ser baixada na forma de uma variação patrimonial
+aumentativa.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2985359
+
+CEBRASPE (CESPE) - Cont (Cach Itapemirim)/Pref Cach Itapemirim/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+56) Tendo em conta os aspectos da reavaliação e depreciação de ativos, passivos contingentes e sistemas de custos no setor público, julgue o item subsecutivo.
+
+Um passivo contingente pode decorrer de uma obrigação possível ou presente, resultante de eventos passados, mas que não é reconhecida na contabilidade da entidade,
+sejaporque é improvável uma saída de recursos para satisfazer à obrigação ou porque não é possível fazer uma estimativa confiável do valor dessa obrigação.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3008796
+CEBRASPE (CESPE) - AGP (SEPLAG CE)/SEPLAG CE/Contabilidade Pública/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+57) No que diz respeito à mensuração de ativos e passivos, julgue o próximo item.
+
+Classifica-se como passivo contingente a obrigação cujo valor não se pode estimar de maneira confiável.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3039857
+
+CEBRASPE (CESPE) - AFTM (Pref Mossoró)/Pref Mossoró/Ciências Contábeis/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+58) Julgue o item subsequente, relativo à mensuração de provisões e passivos contingentes no setor público.
+
+Caso a saída de recursos de um passivo contingente se torne provável, uma provisão deve ser reconhecida nas demonstrações contábeis do período em que ocorrer a
+mudança na probabilidade.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3039859
+
+CEBRASPE (CESPE) - AFTM (Pref Mossoró)/Pref Mossoró/Ciências Contábeis/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+59) Julgue o item subsequente, relativo à mensuração de provisões e passivos contingentes no setor público.
+
+Quando o efeito do tempo no dinheiro for material, o valor da provisão deverá corresponder a 100% do valor exigido para se liquidar a operação.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3046991
+
+CEBRASPE (CESPE) - ACE (TCE PR)/TCE PR/Contábil/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+60) Uma entidade governamental detectou que, devido a um erro no sistema de cobrança, um tributo pode ter sido cobrado indevidamente de determinados
+contribuintes, sendo necessário fazer a restituição. Caso se identifique que a totalidade dos valores cobrados deverá ser restituída, o desembolso esperado será de R$ 1
+milhão; caso se identifique que o erro resultou apenas em uma cobrança a maior do tributo, o desembolso esperado será de R$ 500 mil; e, finalmente, caso se identifique
+que o erro no sistema não afetou a cobrança do tributo, não haverá valor a restituir.
+
+Nessa situação hipotética, caso se estime que 20% dos contribuintes tenham sido indevidamente tributados, 10% tenham sido tributados a maior e 70% não tenham
+sido afetados, então o valor esperado para a provisão com as restituições será de
+      a) R$ 300 mil.
+      b) R$ 250 mil.
+      c) R$ 200 mil.
+      d) R$ 50 mil.
+      e) R$ 0,00.
+
+Gabarito: B
+
+
+www.tecconcursos.com.br/questoes/3075268
+
+CEBRASPE (CESPE) - Ana Adm (TCE AC)/TCE AC/Contabilidade/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+61) Acerca de provisões e passivos contingentes, julgue o próximo item.
+
+Como o reconhecimento de uma provisão implica o lançamento de uma variação patrimonial diminutiva, quando a obrigação passa a ter prazo e valor definidos e este é
+menor que o da provisão lançada, deve-se reconhecer uma variação patrimonial aumentativa simultaneamente ao registro da obrigação.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3084028
+
+CEBRASPE (CESPE) - Atu (CAGEPA)/CAGEPA/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+62) No registro contábil das provisões no setor público, uma provisão só será reconhecida quando
+      a) a ocorrência ou não de um evento futuro incerto não estiver totalmente sob o controle da entidade.
+      b) não for possível fazer uma estimativa confiável do valor de uma obrigação.
+      c) for improvável que uma saída de recursos seja exigida para a extinção da obrigação.
+      d) as entidades executarem ações para evitar gastos futuros.
+      e) o pagamento da obrigação possuir prazo ou valor incerto.
+
+Gabarito: E
+
+
+www.tecconcursos.com.br/questoes/3144015
+
+CEBRASPE (CESPE) - AnDR (CODEVASF)/CODEVASF/Contabilidade/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+63) Julgue o item a seguir, relativos a mensuração de ativos e passivos, patrimônios e suas variações, bem como a aspectos gerais da contabilidade pública.
+
+O reconhecimento de provisões depende de uma estimativa do valor da obrigação a ser registrada na contabilidade, sendo permitido tal registro sem o conhecimento
+exato do valor da obrigação, devendo a estimativa do passivo ser confiável.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/3202401
+
+CEBRASPE (CESPE) - AJ TSE/TSE/Administrativa/Contabilidade/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+64) Em relação ao registro de provisões e passivos contingentes no setor público, julgue o próximo item.
+
+Um passivo contingente será registrado quando o valor da obrigação correspondente puder ser confiavelmente estimado.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/3202402
+
+CEBRASPE (CESPE) - AJ TSE/TSE/Administrativa/Contabilidade/2024
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+65) Em relação ao registro de provisões e passivos contingentes no setor público, julgue o próximo item.
+
+Toda provisão é uma obrigação presente derivada de um evento passado.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2339178
+
+CEBRASPE (CESPE) - Per Crim (POLC AL)/POLC AL/Ciências Contábeis, Ciências Econômicas ou Administração/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+66) Julgue o seguinte item, relativo à mensuração de ativos e passivos do setor público em conformidade com o disposto no Manual de Contabilidade Aplicada ao Setor
+Público (MCASP).
+
+Para refletir o transcurso do tempo, o valor da provisão deve ser ajustado periodicamente.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2400543
+
+CEBRASPE (CESPE) - AJE (TJ ES)/TJ ES/Judiciária/Contador/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+67) Julgue o seguinte item relativamente ao processo de mensuração de ativos e de passivos do setor público.
+
+Quando o valor de uma obrigação for incerto, ela deverá ser registrada, contabilmente, como passivo contingente.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/2414654
+
+CEBRASPE (CESPE) - ACI (CGDF)/CG DF/Finanças e Controle/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+68) No tratamento contábil dos passivos contingentes, a divulgação da saída de recursos que for considerada remota deve ser
+      a) dispensada.
+      b) feita em notas explicativas.
+      c) feita em contas de resultado.
+      d) feita em contas patrimoniais.
+
+Gabarito: A
+
+
+www.tecconcursos.com.br/questoes/2415254
+
+CEBRASPE (CESPE) - ACI (CGDF)/CG DF/Planejamento e Orçamento/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+69) Quando a provisão mensurada envolver uma grande população de itens, a obrigação deverá ser estimada
+
+      a) pelo resultado que apresentar menor risco.
+      b) pelo resultado individual mais provável.
+      c) pelo resultado que apresentar maior risco.
+      d) pela ponderação de todos os possíveis resultados.
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/2590316
+
+CEBRASPE (CESPE) - Ana (MPE RO)/MPE RO/Contábil/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+70) Na contabilidade aplicada ao setor público, as provisões se distinguem dos demais passivos porque
+      a) a confirmação da ocorrência dessas obrigações não está totalmente sob o controle da entidade.
+      b) é improvável que uma saída de recursos seja exigida para a extinção dessas obrigações.
+      c) elas dependem da ocorrência de um ou mais eventos futuros incertos.
+      d) é impossível fazer uma estimativa confiável do valor dessas obrigações.
+      e) essas obrigações possuem prazo ou valor incerto.
+
+Gabarito: E
+
+
+www.tecconcursos.com.br/questoes/2591952
+
+CEBRASPE (CESPE) - Ana (MPE RO)/MPE RO/Auditoria/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+71) Uma provisão deverá ser conhecida quando cumulativamente
+
+        I exista uma obrigação presente, formalizada ou não, resultante de eventos passados;
+
+        II exista expressa determinação legal;
+
+        III seja provável uma saída de recursos que incorporam benefícios econômicos ou potencial de serviços para a extinção da obrigação;
+
+        IV seja possível fazer uma estimativa confiável do valor da obrigação;
+
+        V existam recursos em caixa para sua quitação futura.
+
+Estão certos apenas os itens
+
+      a) I, II e V.
+      b) I, III e IV.
+      c) I, III e V.
+      d) II, III e IV.
+      e) II, IV e V.
+
+Gabarito: B
+
+
+www.tecconcursos.com.br/questoes/2638570
+
+CEBRASPE (CESPE) - Ana TI (DATAPREV)/DATAPREV/Contabilidade/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+72) A respeito das provisões e passivos contingentes do setor público, julgue o item a seguir.
+
+Quando o pagamento de um passivo contingente se tornar provável, deve ser reconhecida uma provisão sobre esse valor nas demonstrações contábeis do período em
+que houver a mudança dessa probabilidade.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2638571
+
+CEBRASPE (CESPE) - Ana TI (DATAPREV)/DATAPREV/Contabilidade/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+73) A respeito das provisões e passivos contingentes do setor público, julgue o item a seguir.
+
+Uma provisão deve ser registrada quando houver incerteza sobre o valor a ser desembolsado para extinção de uma obrigação.
+
+      Certo
+      Errado
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2638572
+
+CEBRASPE (CESPE) - Ana TI (DATAPREV)/DATAPREV/Contabilidade/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+74) A respeito das provisões e passivos contingentes do setor público, julgue o item a seguir.
+
+As provisões devem ser divulgadas como parte das contas a pagar.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/2638573
+
+CEBRASPE (CESPE) - Ana TI (DATAPREV)/DATAPREV/Contabilidade/2023
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+75) A respeito das provisões e passivos contingentes do setor público, julgue o item a seguir.
+
+A divulgação dos passivos contingentes é dispensada se a saída de recursos para seu pagamento for considerada remota.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/1912273
+
+CEBRASPE (CESPE) - ADP (DPE RO)/DPE RO/Contabilidade/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+76) No setor público, apenas devem ser reconhecidas como provisões as obrigações
+      a) decorrentes de eventos passados que existam independentemente das ações futuras da entidade.
+      b) decorrentes de eventos passados que dependam das ações futuras da entidade.
+      c) presentes que existam independentemente das ações futuras da entidade.
+      d) decorrentes de eventos passados que dependam de autorização orçamentária.
+      e) presentes que dependam das ações futuras da entidade.
+
+Gabarito: A
+
+
+www.tecconcursos.com.br/questoes/1937473
+
+CEBRASPE (CESPE) - AFCE (TCE-SC)/TCE SC/Ciências Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+77) No que concerne à mensuração de provisões e passivos contingentes no setor público, julgue o item seguinte.
+
+Caso não seja possível estimar de maneira confiável o valor de uma obrigação, uma provisão deverá ser reconhecida nas demonstrações contábeis da entidade.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1937474
+
+CEBRASPE (CESPE) - AFCE (TCE-SC)/TCE SC/Ciências Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+78) No que concerne à mensuração de provisões e passivos contingentes no setor público, julgue o item seguinte.
+
+Uma obrigação a pagar deverá ser reconhecida quando não houver mais incertezas quanto ao prazo e valor de determinada provisão.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/1937475
+
+CEBRASPE (CESPE) - AFCE (TCE-SC)/TCE SC/Ciências Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+79) No que concerne à mensuração de provisões e passivos contingentes no setor público, julgue o item seguinte.
+
+Se o processo de mensuração indicar que é remota a saída de recursos para determinado passivo contingente, esta deverá ser divulgada em notas explicativas.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+www.tecconcursos.com.br/questoes/1970270
+
+CEBRASPE (CESPE) - AAAJ (DP DF)/DP DF/Contabilidade/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+80) Julgue o item a seguir, de acordo com as disposições do MCASP (8.ª edição) acerca dos procedimentos contábeis patrimoniais aplicáveis ao setor público.
+
+Não sendo possível fazer uma estimativa confiável do valor de uma obrigação, ela deve ser reconhecida contabilmente como uma provisão.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1980347
+
+CEBRASPE (CESPE) - Esp GT (TELEBRAS)/TELEBRAS/Contador/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+81) Julgue o item a seguir, relativos aos procedimentos contábeis patrimoniais aplicados na mensuração de passivos do setor público.
+
+Uma provisão deverá ser reconhecida nas demonstrações contábeis caso se torne provável a saída de recursos para um passivo contingente.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/1980349
+
+CEBRASPE (CESPE) - Esp GT (TELEBRAS)/TELEBRAS/Contador/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+82) Julgue o item a seguir, relativos aos procedimentos contábeis patrimoniais aplicados na mensuração de passivos do setor público.
+
+Uma provisão só será reconhecida quando for possível estimar de maneira confiável o valor da obrigação.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/1990103
+
+CEBRASPE (CESPE) - Ana (PGE RJ)/PGE RJ/Contábil/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+83) Julgue o item subsequente, relativo a mensuração de passivos, provisões e passivos contingentes.
+
+Apesar de não serem reconhecidos em contas patrimoniais, os passivos contingentes devem ser registrados em contas de controle e divulgados em notas explicativas.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2029157
+
+CEBRASPE (CESPE) - Cont (FUB)/FUB/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+84) No que se refere ao patrimônio público e à sua composição, julgue os seguintes itens, à luz do que dispõe o MCASP, 9.ª edição.
+
+Um passivo contingente, ao contrário das provisões, não deve ser formalmente reconhecido em conta contábil do passivo, seja porque é improvável a saída de recursos
+ou por não ser possível estimar com confiança o valor da obrigação.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2082776
+
+CEBRASPE (CESPE) - Sub Proc (MPCM PA)/TCM PA/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+85) As provisões se distinguem dos demais passivos porque envolvem incerteza acerca do prazo ou do valor do desembolso futuro necessário para a sua extinção. No
+que diz respeito à mensuração das provisões, deve-se reconhecer
+
+      a) o montante pelo qual um passivo pode ser liquidado entre partes cientes e interessadas em transação sob condições normais de mercado.
+      b) a importância recebida para se assumir uma obrigação, a qual corresponde ao caixa ou equivalentes de caixa, ou ao valor de outra importância recebida à época
+      na qual a entidade incorreu no passivo.
+      c) o custo no qual a entidade incorre no cumprimento das obrigações representadas pelo passivo, assumindo que o faz da maneira menos onerosa.
+      d) o montante que a entidade racionalmente aceitaria na troca pela assunção do passivo existente.
+      e) a melhor estimativa do desembolso exigido para se extinguir a obrigação presente na data das demonstrações contábeis.
+
+Gabarito: E
+www.tecconcursos.com.br/questoes/2151366
+
+CEBRASPE (CESPE) - Aud Est (SECONT ES)/SECONT ES/Ciências Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+86) Relativamente ao tratamento contábil das provisões, passivos contingentes e ativos contingentes, julgue o próximo item.
+
+Como podem resultar no reconhecimento de receitas que nunca virão a ser realizadas, os ativos contingentes não devem ser reconhecidos nas demonstrações contábeis.
+
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2151368
+
+CEBRASPE (CESPE) - Aud Est (SECONT ES)/SECONT ES/Ciências Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+87) Relativamente ao tratamento contábil das provisões, passivos contingentes e ativos contingentes, julgue o próximo item.
+
+Nem as provisões nem os passivos contingentes são reconhecidos como passivos.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/2164345
+
+CEBRASPE (CESPE) - Ana (APEX)/ApexBrasil/Processos Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+88) Quando a provisão mensurada envolve grande população de itens, a obrigação é estimada
+      a) tendo como base um indexador usado para corrigir os contratos do respectivo ente federado.
+      b) com base nos riscos envolvidos para liquidar a obrigação.
+      c) aplicando-se uma taxa de desconto trazendo os montantes a valor presente.
+      d) ponderando-se todos os possíveis resultados.
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/2208491
+
+CEBRASPE (CESPE) - AGE (SEE PE)/SEE PE/Ciências Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+89) Acerca do registro contábil de provisões e passivos contingentes no setor público, julgue o item a seguir.
+
+A divulgação dos passivos contingentes é dispensada nos casos em que a saída de recursos for considerada apenas provável.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/2208492
+
+CEBRASPE (CESPE) - AGE (SEE PE)/SEE PE/Ciências Contábeis/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+90) Acerca do registro contábil de provisões e passivos contingentes no setor público, julgue o item a seguir.
+
+Caso o valor da obrigação a pagar seja diferente do valor da provisão, essa diferença deve ser registrada em contas de ajuste de exercícios anteriores no patrimônio
+líquido.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/2214935
+
+CEBRASPE (CESPE) - Aud Con Sub (TCE PB)/TCE PB/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+91) Julgue o item a seguir, relativos ao registro contábil das provisões e dos passivos contingentes no setor público.
+
+A divulgação dos passivos contingentes é dispensada somente quando a saída de recursos for considerada remota.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/2214936
+CEBRASPE (CESPE) - Aud Con Sub (TCE PB)/TCE PB/2022
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+92) Julgue o item a seguir, relativos ao registro contábil das provisões e dos passivos contingentes no setor público.
+
+Deverá ser registrada uma variação patrimonial diminutiva com a reversão da provisão caso o valor da obrigação a pagar seja inferior ao valor da provisão reconhecida.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1503964
+
+CEBRASPE (CESPE) - AnDR (CODEVASF)/CODEVASF/Contabilidade/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+93) Julgue o item a seguir, relativo à mensuração de ativos e passivos do setor público.
+
+Para que reflitam a melhor estimativa corrente, as provisões devem ser reavaliadas mensalmente.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1536735
+
+CEBRASPE (CESPE) - ACE (TC DF)/TC DF/Auditoria/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+94) Julgue o item a seguir, relativos à mensuração de ativos e passivos no setor público.
+
+Quando envolve uma grande população de itens, a provisão da obrigação deve ser estimada ponderando-se todos os possíveis resultados.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/1628513
+
+CEBRASPE (CESPE) - Ana (APEX)/ApexBrasil/Processos Contábeis/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+95) As provisões se distinguem dos demais passivos no setor público porque elas
+      a) apresentam baixa probabilidade de pagamento.
+      b) não precisam de autorização legislativa para serem registradas.
+      c) envolvem incerteza sobre o prazo ou valor do desembolso necessário para sua extinção.
+      d) não precisam ser decorrentes de eventos passados.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/1705170
+
+CEBRASPE (CESPE) - AJ (PGDF)/PG DF/Contabilidade/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+96) Relativamente à mensuração das provisões e dos passivos contingentes, julgue o item subsecutivo.
+
+Quando a provisão envolver uma grande população de itens, seu valor deve corresponder à melhor estimativa de desempenho para liquidar cada obrigação.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1705172
+
+CEBRASPE (CESPE) - AJ (PGDF)/PG DF/Contabilidade/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+97) Relativamente à mensuração das provisões e dos passivos contingentes, julgue o item subsecutivo.
+
+Caso uma saída de recursos de um passivo contingente se torne provável, uma provisão deve ser reconhecida nas demonstrações contábeis do período em que ocorreu a
+mudança na probabilidade.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/1718450
+
+CEBRASPE (CESPE) - AFFE (SEFAZ CE)/SEFAZ CE/Contábil-Financeira/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+98) Com relação aos procedimentos contábeis de mensuração de ativos e passivos no setor público, julgue o item a seguir.
+
+As provisões se distinguem dos demais passivos porque a existência delas será confirmada apenas pela ocorrência, ou não, de um ou mais eventos futuros incertos que
+não estejam totalmente sob o controle da entidade.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1784242
+
+CEBRASPE (CESPE) - AUD (TC DF)/TC DF/Conselheiro-Substituto/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+99) Com relação à mensuração de ativos e à composição de passivos, julgue o item a seguir.
+
+Uma obrigação decorrente de eventos futuros cujo montante e cujo vencimento ainda dependem de definições futuras constitui um passivo contingente.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1810553
+
+CEBRASPE (CESPE) - AFTE (SEFAZ RR)/SEFAZ RR/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+100) Relativamente à sua mensuração, os passivos contingentes no setor público
+      a) devem ser avaliados apenas quando houver evidências de que uma saída de recursos que incorporam benefícios econômicos ou potencial de serviços se tornou
+      provável.
+      b) devem ser avaliados periodicamente para determinar se uma saída de recursos que incorporam benefícios econômicos ou potencial de serviços se tornou
+      provável.
+      c) devem ser avaliados desde que os órgãos de controle apontem que uma saída de recursos que incorporam benefícios econômicos ou potencial de serviços se
+      tornou provável.
+      d) devem ser avaliados especificamente quando uma decisão judicial estabelecer que uma saída de recursos que incorporam benefícios econômicos ou potencial de
+      serviços se tornou provável.
+      e) não devem ser avaliados, uma vez que não satisfazem a nenhum dos critérios de reconhecimento nas demonstrações contábeis.
+
+Gabarito: B
+
+
+www.tecconcursos.com.br/questoes/1870527
+
+CEBRASPE (CESPE) - Ana Leg (ALECE)/ALECE/Ciências Contábeis/2021
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+101) No tratamento de passivos e ativos contingentes, a avaliação da presença de riscos e incertezas é determinante. A esse respeito, segundo definições da NBC TSP
+03, conceitua-se risco como
+
+      a) a possibilidade de que ocorra uma perda.
+      b) a perda ou o ganho orçados.
+      c) a matematização da incerteza.
+      d) a imponderabilidade dos fatos
+      e) a ocorrência de determinado evento.
+
+Gabarito: C
+
+
+www.tecconcursos.com.br/questoes/1144453
+
+CEBRASPE (CESPE) - AFTE (SEFAZ AL)/SEFAZ AL/2020
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+102) O gestor contábil de um ente público realizou o procedimento de contabilização das provisões e dos passivos contingentes, decorrentes de demandas judiciais
+tributárias, com base no seguinte quadro informativo.
+
+Quando, em consequência de eventos passados, possa existir uma saída de recursos que incorporem benefícios econômicos ou potencial de serviços seja exigida para a
+extinção de:
+
+
+a) uma obrigação presente; ou
+
+
+b) uma obrigação possível, cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente sob o
+controle da entidade.
+
+                                         probabilidade de        possibilidade de estimativa
+  tipo de demanda        obrigação                                                                     classificação                forma de evidenciação
+                                         saída de recursos               confiável do valor
+
+trabalhista             presente      provável                possível                            provisão                 balanço patrimonial e nota explicativa
+
+tributária              presente      provável                não possível                        passivo contingente      nota explicativa
+
+tributária              presente      pouco provável          possível ou não possível            passivo contingente      balanço patrimonial
+
+tributária              presente      remota                  possível ou não possível            passivo contingente      nota explicativa
+tributária              presente        provável                possível                          passivo contingente      nota explicativa
+
+O auditor informou a necessidade de correção dos relatórios, pois o quadro apresenta algumas inconsistências no que diz respeito à classificação e à forma de
+evidenciação.
+
+A respeito dessa situação hipotética, julgue o item a seguir.
+
+A demanda tributária identificada como pouco provável quanto à probabilidade de saída de recursos deve ser classificada como provisão evidenciada no balanço
+patrimonial.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/1144494
+
+CEBRASPE (CESPE) - AFTE (SEFAZ AL)/SEFAZ AL/2020
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+103) O gestor contábil de um ente público realizou o procedimento de contabilização das provisões e dos passivos contingentes, decorrentes de demandas judiciais
+tributárias, com base no seguinte quadro informativo.
+
+Quando, em consequência de eventos passados, possa existir uma saída de recursos que incorporem benefícios econômicos ou potencial de serviços seja exigida para a
+extinção de:
+
+
+a) uma obrigação presente; ou
+
+
+b) uma obrigação possível, cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente sob o
+controle da entidade.
+
+                                           probabilidade de       possibilidade de estimativa
+  tipo de demanda         obrigação                                                                    classificação                forma de evidenciação
+                                          saída de recursos                confiável do valor
+
+trabalhista             presente        provável                possível                          provisão                 balanço patrimonial e nota explicativa
+
+tributária              presente        provável                não possível                      passivo contingente      nota explicativa
+
+tributária              presente        pouco provável          possível ou não possível          passivo contingente      balanço patrimonial
+
+tributária              presente        remota                  possível ou não possível          passivo contingente      nota explicativa
+
+tributária              presente        provável                possível                          passivo contingente      nota explicativa
+
+O auditor informou a necessidade de correção dos relatórios, pois o quadro apresenta algumas inconsistências no que diz respeito à classificação e à forma de
+evidenciação.
+
+A respeito dessa situação hipotética, julgue o item a seguir.
+
+A probabilidade de saída de recursos classificada como remota não deve ser evidenciada no balanço patrimonial nem em notas explicativas.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/1144504
+
+CEBRASPE (CESPE) - AFTE (SEFAZ AL)/SEFAZ AL/2020
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+104) O gestor contábil de um ente público realizou o procedimento de contabilização das provisões e dos passivos contingentes, decorrentes de demandas judiciais
+tributárias, com base no seguinte quadro informativo.
+
+Quando, em consequência de eventos passados, possa existir uma saída de recursos que incorporem benefícios econômicos ou potencial de serviços seja exigida para a
+extinção de:
+
+
+a) uma obrigação presente; ou
+
+
+b) uma obrigação possível, cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente sob o
+controle da entidade.
+
+                                           probabilidade de       possibilidade de estimativa
+  tipo de demanda         obrigação                                                                    classificação                forma de evidenciação
+                                          saída de recursos                confiável do valor
+
+trabalhista             presente        provável                possível                          provisão                 balanço patrimonial e nota explicativa
+
+tributária              presente        provável                não possível                      passivo contingente      nota explicativa
+
+tributária              presente        pouco provável          possível ou não possível          passivo contingente      balanço patrimonial
+
+tributária              presente        remota                  possível ou não possível          passivo contingente      nota explicativa
+tributária              presente        provável                    possível                               passivo contingente   nota explicativa
+
+O auditor informou a necessidade de correção dos relatórios, pois o quadro apresenta algumas inconsistências no que diz respeito à classificação e à forma de
+evidenciação.
+
+A respeito dessa situação hipotética, julgue o item a seguir.
+
+A demanda trabalhista, diferentemente das tributárias, só pode ser reconhecida como provisão.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/972845
+
+CEBRASPE (CESPE) - Ana Min (MPC TCE-PA)/TCE PA/Ciências Contábeis/2019
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+105) A tabela a seguir apresenta informações sobre processos judiciais de uma entidade pública, nos quais a referida entidade é ré.
+
+                                                                                          estimativa
+                                                                              obrigação                    valor
+                                                                natureza                  confiável de
+                                                                               presente                  (em reais)
+                                                                                             valor
+
+                                                                tributária       sim        positivo      258.000
+
+                                                                tributária       sim        negativo      120.000
+
+                                                                trabalhista      sim        positivo      300.000
+
+                                                                ambiental        não        positivo       80.000
+
+                                                                ambiental        sim        positivo       55.000
+
+O departamento jurídico dessa entidade informa ainda que é considerada provável a saída de recursos que incorporem benefícios econômicos para liquidar as obrigações.
+
+A partir da classificação desses processos, o valor da provisão que deverá ser reconhecida nas contingências pelo gestor contábil da entidade corresponde a
+
+      a) R$ 813.000, visto que a contingência de todas as situações é o principal fator para reconhecimento.
+      b) R$ 733.000, visto que estimativas não confiáveis não podem compor o valor de reconhecimento.
+      c) R$ 693.000, visto que valores de obrigações não presentes não podem compor o valor de reconhecimento.
+      d) R$ 613.000, visto que estimativas não confiáveis e obrigações não presentes não podem compor o valor de reconhecimento.
+      e) R$ 558.000, visto que as estimativas de natureza ambiental e as estimativas não confiáveis não podem compor o valor de reconhecimento.
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/974676
+
+CEBRASPE (CESPE) - Proc C (MPC TCE-PA)/TCE PA/2019
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+106) Assinale a opção que apresenta fato que deve ser registrado na contabilidade pública como provisão.
+
+      a) créditos de liquidação duvidosa
+      b) créditos de dívida pública ativa
+      c) férias vencidas e não pagas
+      d) reclamações trabalhistas de valor incerto
+      e) restos a pagar liquidados
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/1043870
+
+CEBRASPE (CESPE) - AJ (TJ AM)/TJ AM/Contabilidade/2019
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+107) Tendo como referência os normativos e a legislação vigente, julgue o item que se segue, acerca da mensuração de ativos e passivos na contabilidade pública.
+
+Ente público da administração direta que figure como réu em ação trabalhista com grande probabilidade de ganho do autor da ação deverá reconhecer um passivo
+contingente correspondente a esse evento, ainda que incerto o valor final da causa.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/582893
+
+CEBRASPE (CESPE) - ACP (TCE-PB)/TCE PB/Demais Áreas/2018
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+108) Em relação aos passivos contingentes das entidades do setor público, o procedimento contábil exigido é que eles sejam
+
+      a) reduzidos do saldo das disponibilidades no balanço patrimonial.
+      b) reconhecidos em contas patrimoniais.
+      c) divulgados em notas explicativas sempre que a probabilidade de saída de recursos no futuro for considerada remota.
+      d) registrados em contas de controle sempre que a probabilidade de saída de recursos no futuro for considerada provável.
+      e) registrados em contas de controle e também divulgados em notas explicativas sempre que a probabilidade de saída de recursos no futuro não for considerada
+      remota.
+
+Gabarito: E
+
+
+www.tecconcursos.com.br/questoes/726054
+
+CEBRASPE (CESPE) - ACE (TCE-MG)/TCE MG/Ciências Contábeis/2018
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+109) A fim de proceder à correta elaboração de relatórios financeiros, o gestor de uma entidade pública solicitou ao departamento jurídico informações sobre a existência
+de eventos resultantes de obrigações presentes decorrentes de eventos passados em que as probabilidades de saída de recurso tivessem sido classificadas como
+prováveis e remotas. Em resposta, o gestor recebeu a seguinte tabela.
+
+                                                                                                                       valor estimado
+                                 natureza do evento jurídico saída de recurso confiabilidade da mensuração
+                                                                                                                          (em R$)
+
+                                            trabalhista                provável             estimativas confiáveis         250.000
+
+                                               fiscal                  provável             estimativas confiáveis         100.000
+
+                                               fiscal                   remota              estimativas confiáveis         420.000
+
+                                               cível                    remota            estimativas não confiáveis       230.000
+
+                                            ambiental                  provável           estimativas não confiáveis       180.000
+
+Considerando essas informações, o gestor deverá reconhecer e evidenciar na conta de provisões um montante igual a
+
+      a) R$ 770.000.
+      b) R$ 950.000.
+      c) R$ 1.180.000.
+      d) R$ 250.000.
+      e) R$ 350.000.
+
+Gabarito: E
+
+
+www.tecconcursos.com.br/questoes/464458
+
+CEBRASPE (CESPE) - GPPGE (SEE DF)/SEE DF/Contabilidade/2017
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+110) Em relação aos mecanismos contábeis para avaliação de ativos, passivos, impostos e custos, julgue o item que se segue.
+
+Órgão público que pretenda consignar recursos em seu orçamento para a eventualidade de condenação em processos judiciais que ainda estejam em curso deverá
+registrar esses recursos como passivos contingentes.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/534291
+
+CEBRASPE (CESPE) - AUCE (TCE-PE)/TCE PE/Auditoria de Contas Públicas/2017
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+111) Denomina-se mensuração o processo contábil que consiste em determinar e apresentar os valores referentes a itens do ativo e do passivo, mediante o emprego de
+métodos qualitativos e quantitativos. A respeito da mensuração dos ativos e passivos, julgue o item que se segue.
+
+Como é dispensada a divulgação dos passivos contingentes, eles estão isentos da avaliação periódica.
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/561901
+
+CEBRASPE (CESPE) - AJ (TRF 1ª Região)/TRF 1/Administrativa/"Sem Especialidade"/2017
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+112) Determinado órgão da administração pública direta federal concedeu suprimento de fundos a um servidor público, a fim de realizar gastos de pequena monta em
+serviços de reparos. No encerramento do exercício, o servidor havia utilizado metade do montante concedido e, mesmo já encerrado o prazo de aplicação dos recursos,
+não recolheu, por meio da guia de recolhimento da União (GRU), o valor não utilizado.
+
+Julgue o item a seguir, com referência a essa situação e a aspectos a ela relacionados.
+
+No caso em questão, como existe uma obrigação possível por parte do servidor, resultante de eventos passados, o órgão público deverá registrar um passivo contingente.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+www.tecconcursos.com.br/questoes/561902
+
+CEBRASPE (CESPE) - AJ (TRF 1ª Região)/TRF 1/Administrativa/"Sem Especialidade"/2017
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+113) Determinado órgão da administração pública direta federal concedeu suprimento de fundos a um servidor público, a fim de realizar gastos de pequena monta em
+serviços de reparos. No encerramento do exercício, o servidor havia utilizado metade do montante concedido e, mesmo já encerrado o prazo de aplicação dos recursos,
+não recolheu, por meio da guia de recolhimento da União (GRU), o valor não utilizado.
+
+Julgue o item a seguir, com referência a essa situação e a aspectos a ela relacionados.
+
+As provisões diferenciam-se dos passivos contingentes na medida em que, mesmo existindo incerteza quanto ao seu valor, as provisões deverão ser reconhecidas como
+passivos na contabilidade aplicada ao setor público.
+
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/566391
+
+CEBRASPE (CESPE) - AJ TRE TO/TRE TO/Administrativa/Contabilidade/2017
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+114) Em caso de geração de passivos contingentes decorrentes da concessão de benefícios sociais em áreas como saúde e educação, o ente público, a fim de
+reconhecer a provisão dessa obrigação, deverá
+
+      a) registrar contratos não onerosos de fornecimento de benefícios.
+      b) divulgar as bases de reconhecimento e mensuração adotadas.
+      c) recusar recebimento da compensação do serviço prestado.
+      d) determinar os valores, incertos ou não, dos benefícios a serem pagos.
+      e) estipular a data de liquidação dos benefícios.
+
+Gabarito: B
+
+
+www.tecconcursos.com.br/questoes/335680
+
+CEBRASPE (CESPE) - AJ TRT8/TRT 8/Administrativa/"Sem Especialidade"/2016
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+115) Com referência às determinações do MCASP, assinale a opção correta acerca da mensuração de passivos, provisões e passivos contingentes.
+
+      a) O fato de o valor das provisões ser a melhor estimativa do desembolso exigido para se extinguir a obrigação faz com que as provisões não sejam reavaliadas.
+      b) Se a saída de recursos para o pagamento da obrigação for improvável, a provisão deverá ser reclassificada como passivo contingente.
+      c) Se puderem ser estimados confiavelmente, os passivos contingentes deverão ser reconhecidos em contas patrimoniais.
+      d) Os passivos derivados de apropriações por competência, por já possuírem fato gerador, não devem ser reconhecidos como provisões.
+      e) Por estarem relacionados a valores incertos, os ajustes de perdas estimadas são registrados como provisões.
+
+Gabarito: D
+
+
+www.tecconcursos.com.br/questoes/276817
+
+CEBRASPE (CESPE) - Cont (FUB)/FUB/2015
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+116) Julgue o item subsequente, relativo aos procedimentos contábeis de mensuração de ativos e passivos que devem ser efetuados pela UnB.
+
+Não é possível o reconhecimento de provisão caso não possa ser feita estimativa confiável do valor da obrigação.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/307447
+
+CEBRASPE (CESPE) - AJ STJ/STJ/Apoio Especializado/Contadoria/2015
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+117) Julgue o item seguinte, acerca do tratamento contábil aplicável a impostos e contribuições e a registro de provisões no setor público.
+
+A constituição de uma provisão para repartição tributária é justificável, em caso de incerteza, no momento do reconhecimento do crédito tributário, quanto ao montante a
+ser transferido.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/307448
+
+CEBRASPE (CESPE) - AJ STJ/STJ/Apoio Especializado/Contadoria/2015
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+118) Julgue o item seguinte, acerca do tratamento contábil aplicável a impostos e contribuições e a registro de provisões no setor público.
+As provisões devem ser reavaliadas e ajustadas na data de apresentação das demonstrações contábeis para refletir a melhor estimativa corrente.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/312601
+
+CEBRASPE (CESPE) - Cont (MPOG)/MPO/"SPU"/2015
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+119) Uma instituição pública federal adquiriu, em 2/1/2008, por R$ 77.000,00, um software de gestão e mapeamento de riscos, cujo período de benefícios esperados era
+de seis anos, estimando-se um valor residual de R$ 5.000,00. A instituição também adquiriu, na mesma data, dez computadores novos do tipo desktop pelo valor total de
+R$ 10.000,00, com vida útil estimada em cinco anos e valor residual nulo, para utilização nas atividades de administração da entidade.
+
+A respeito dessa situação hipotética e dos aspectos contábeis a ela relacionados, julgue o item a seguir.
+
+Uma provisão deverá ser registrada no passivo quando existir obrigação resultante de eventos passados e for provável a saída de recursos futuros, ainda que o seu valor
+seja incerto.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/185452
+
+CEBRASPE (CESPE) - Cont (CADE)/CADE/2014
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+120) Acerca de ativos e passivos na contabilidade pública, julgue o próximo item.
+
+Um passivo decorrente da constituição de provisão para férias deve ser reconhecido sempre que houver a possibilidade de saída de recursos dos cofres públicos para a
+quitação da obrigação e houver estimativa confiável do montante a ser pago.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/186322
+
+CEBRASPE (CESPE) - Cont (PF)/PF/2014
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+121) A respeito da composição do patrimônio público, do ativo, do passivo e das variações patrimoniais, julgue o item que se segue.
+
+Na composição do patrimônio público, as provisões, por constituírem contas de despesas ou retificadoras do ativo, envolvem certo grau de incerteza quanto ao seu valor
+e à data prevista de pagamento, sendo, por isso, excluídas do exigível de curto prazo.
+
+      Certo
+      Errado
+
+Gabarito: Errado
+
+
+www.tecconcursos.com.br/questoes/250048
+
+CEBRASPE (CESPE) - AA (ANTAQ)/ANTAQ/Ciências Contábeis/2014
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+122) Com relação às variações patrimoniais e à mensuração de ativos e passivos, julgue o item a seguir.
+
+Os passivos contingentes são periodicamente avaliados para se determinar se uma saída de recursos que incorpora benefícios econômicos se tornou provável.
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/319473
+
+CEBRASPE (CESPE) - AJ (TJ SE)/TJ SE/Contabilidade/2014
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+123) Acerca da mensuração de ativos e passivos e do tratamento contábil aplicável aos impostos e às contribuições no setor público, julgue o item subsequente.
+
+Quanto ao valor e à data prevista de pagamento, as provisões e os passivos contingentes são contabilizados com algum grau de incerteza.
+
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/109438
+CEBRASPE (CESPE) - AJ TRT10/TRT 10/Administrativa/Contabilidade/2013
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+124) Acerca do registro contábil e das peculiaridades das contas que compõem a contabilidade pública, julgue o item a seguir.
+
+Nos casos em que houver a liquidação ou a baixa da provisão para passivos contingentes decorrentes de contratos de parceria público-privada, que estiver associada à
+garantia de reembolso, também deverá ser efetuada a baixa dessa garantia.
+
+      Certo
+      Errado
+
+Gabarito: Certo
+
+
+www.tecconcursos.com.br/questoes/229899
+
+CEBRASPE (CESPE) - Ana MPU/MPU/Planejamento e Orçamento/2013
+AFO, Direito Financeiro e Contabilidade Pública - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+125) Quanto ao plano de contas aplicado ao setor público, ao regime contábil, ao SIAFI e ao suprimento de fundos, julgue o item subsequente.
+
+Pelo regime de competência, o registro de uma provisão representa obrigação presente na data do balanço, resultante de evento passado, quando confiável a estimativa
+do valor da obrigação.
+      Certo
+      Errado
+
+Gabarito: Certo
+

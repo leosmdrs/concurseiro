@@ -1,0 +1,1250 @@
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+              Na aquisição do bem, os lançamentos serão iguais ao tratamento padrão, com o registro do
+        terreno em contrapartida ao passivo correspondente. Os encargos também deverão ser reconhecidos
+        no passivo, seguido da conta retificadora.
+
+        Natureza da informação: patrimonial
+        D 1.2.3.2.x.xx.xx Bens Imóveis
+        C 2.1.2.x.x.xx.xx Empréstimos e Financiamentos a Curto Prazo (P)                  800.000,00
+
+        Natureza da informação: patrimonial
+        D 2.1.2.x.x.xx.xx (-) Encargos Financeiros a Apropriar Curto Prazo (P)
+        C 2.1.2.x.x.xx.xx Juros e Encargos a Pagar (P)                       52.948,37
+
+              A diferença ocorrerá na apropriação dos juros. Ao invés de serem reconhecidos no resultado do
+        exercício, eles deverão ser incorporados ao bem. Segue o lançamento correspondente à incorporação
+        dos juros ao final do 1º mês:
+
+        Natureza da informação: patrimonial
+        D 1.2.3.2.x.xx.xx Bens Imóveis
+        C 2.1.2.x.x.xx.xx (-) Encargos Financeiros a Apropriar Curto Prazo (P)                     8.000,00
+
+           16.3.     EVIDENCIAÇÃO
+
+              A entidade deve divulgar em notas explicativas:
+
+              a. A política contábil adotada para os custos de empréstimos;
+              b. O total dos custos de empréstimos capitalizados durante o período; e
+              c. A taxa de capitalização usada na determinação do montante dos custos de empréstimos
+                 elegíveis à capitalização (quando for necessário utilizar taxa de capitalização para montantes
+                 obtidos em conjunto).
+
+        17. PROVISÕES, PASSIVOS CONTINGENTES E ATIVOS CONTINGENTES
+
+              A normatização dos procedimentos contábeis relativos a provisões, aos passivos contingentes e
+        aos ativos contingentes foi elaborada com base na Norma Brasileira de Contabilidade (NBC TSP) 03 –
+        Provisões, Passivos Contingentes e Ativos Contingentes, do Conselho Federal de Contabilidade,
+        observando também a International Public Sector Accounting Standards (IPSAS) 19 – Provisões,
+        Passivos Contingentes e Ativos Contingentes do International Public Sector Accounting Standards Board
+        (IPSASB) e a legislação aplicável.
+              O objetivo deste capítulo é conceituar provisões, passivos contingentes e ativos contingentes, e
+        normatizar os procedimentos para reconhecimento, mensuração e evidenciação das provisões, dos
+        passivos contingentes e dos ativos contingentes.
+              Os procedimentos aqui descritos aplicam-se a provisões, passivos contingentes e ativos
+        contingentes de forma geral, incluindo a contabilização de contratos onerosos e provisões para
+        reestruturação. Excluem-se do escopo deste capítulo os seguintes itens:
+
+              a. Provisões e passivos contingentes oriundos de benefícios sociais concedidos pela entidade
+                 para os quais a entidade não recebe compensação dos beneficiários em valor
+                 aproximadamente igual ao dos produtos e serviços fornecidos;
+              b. Contratos a executar, quando não onerosos;
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   291
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+               c. Contratos de seguro sujeitos a normas contábeis específicas;
+               d. Benefícios a empregados, exceto os de rescisão contratual resultantes de processo de
+                  reestruturação;
+               e. Instrumentos financeiros, incluindo garantias;
+               f. Contratos de execução;
+               g. Arrendamento mercantil, com exceção de arrendamento mercantil operacional que tenha se
+                  tornado oneroso.
+
+              Para fins do item “b”, contrato a executar é aquele que nenhuma das partes cumpriu quaisquer
+        de suas obrigações ou ambas executaram parcialmente na mesma proporção. Por sua vez, um contrato
+        é considerado oneroso quando os custos inevitáveis de atender suas obrigações excederem os
+        benefícios econômicos ou potencial de serviços que se espera receber.
+              Além das exceções elencadas acima, sempre que houver norma para tratar de um tipo específico
+        de provisão, ativo contingente ou passivo contingente, deverá prevalecer a norma específica.
+              Ressalta-se que as provisões para repartição de crédito tributário e o reconhecimento da
+        provisão atuarial são tratados em item a parte neste capítulo, tendo em vista suas características
+        específicas.
+
+          17.1.        DEFINIÇÕES
+
+               Provisão
+
+              Provisão é um passivo de prazo ou valor incerto.
+              O termo provisão não deve remeter a elementos do ativo, como ajuste para perdas de recebíveis,
+        por exemplo.
+
+               Passivo Contingente
+
+               Passivo contingente é:
+
+           a. Uma obrigação possível resultante de eventos passados e cuja existência será confirmada
+              apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente
+              sob o controle da entidade; ou
+
+           b. Uma obrigação presente resultante de eventos passados, mas que não é reconhecida porque:
+
+                      i.    É improvável uma saída de recursos que incorporam benefícios econômicos ou
+                            potencial de serviços ser exigida para extinguir a obrigação; ou
+
+                      ii. Não é possível fazer uma estimativa confiável do valor da obrigação.
+
+               Ativo Contingente
+
+              Ativo contingente é um ativo possível resultante de eventos passados e cuja existência será
+        confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão
+        totalmente sob o controle da entidade.
+
+          17.2.        PROVISÕES
+
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   292
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+             Provisões são obrigações presentes, derivadas de eventos passados, cujos pagamentos se
+        esperam que resultem para a entidade saídas de recursos capazes de gerar benefícios econômicos ou
+        potencial de serviços, e que possuem prazo ou valor incerto.
+             O Plano de Contas Aplicado ao Setor Público (PCASP) elenca alguns tipos de provisões, por
+        exemplo:
+
+              a.   Provisões para riscos trabalhistas;
+              b.   Provisões para riscos fiscais;
+              c.   Provisões para riscos cíveis;
+              d.   Provisões para repartição de créditos tributários; e
+              e.   Provisões para riscos decorrentes de contratos de Parcerias Público-Privadas (PPP).
+
+               As provisões se distinguem dos demais passivos porque envolvem incerteza sobre o prazo ou o
+        valor do desembolso futuro necessário para a sua extinção. As provisões não se confundem com os
+        demais passivos, tais como passivos derivados de apropriações por competência, decorrentes de bens
+        ou serviços recebidos, mas que não tenham sido pagos, faturados ou formalmente acordados com o
+        fornecedor, incluindo os valores devidos aos empregados, como, por exemplo, valores relacionados ao
+        pagamento de férias e décimo terceiro salário. Embora em certos momentos seja necessário estimar o
+        valor ou o prazo dos passivos derivados de apropriações por competência, a incerteza é geralmente
+        muito menor que nas provisões. Essas obrigações são geralmente divulgadas como parte das contas a
+        pagar. Por sua vez, as provisões são divulgadas separadamente.
+               O processo de convergência às normas internacionais de contabilidade ocasionou mudanças
+        significativas na definição de provisões. Com as mudanças adotadas, as provisões deixaram de se referir
+        a ajustes dos valores contábeis de ativos e passaram a se referir apenas a passivos de prazo ou valor
+        incertos.
+               Dessa forma, embora sejam comumente conhecidos como “provisões”, não são provisões nos
+        termos deste capítulo os ajustes de perdas estimadas com ativos, como, por exemplo, os ajustes para
+        perdas com investimentos e para créditos de liquidação duvidosa, inclusive o ajuste para créditos de
+        dívida ativa. No PCASP, tais ajustes são reconhecidos como contas redutoras do ativo.
+
+           17.2.1.      Reconhecimento
+
+              As provisões devem ser reconhecidas quando estiverem presentes os três requisitos abaixo:
+
+              a. Exista uma obrigação presente (formalizada ou não) resultante de eventos passados;
+              b. Seja provável uma saída de recursos que incorporam benefícios econômicos ou potencial de
+                 serviços para a extinção da obrigação;
+              c. Seja possível fazer uma estimativa confiável do valor da obrigação.
+
+              Para que exista uma obrigação presente resultante de eventos passados é necessário que a
+        entidade não possua alternativa realista senão liquidar a obrigação criada pelo evento. Esta situação
+        existe quando a liquidação for exigida por lei ou, no caso de obrigação não formalizada, quando o evento
+        cria expectativas válidas em terceiros acerca do cumprimento da obrigação pela entidade.
+              Além disso, são reconhecidas como provisões apenas as obrigações decorrentes de eventos
+        passados que existam independentemente das ações futuras da entidade. Assim, uma decisão da
+        entidade não origina uma obrigação, exceto se a decisão tenha sido comunicada a terceiros e gere uma
+        expectativa válida de que a entidade cumprirá com suas responsabilidades.
+              Por exemplo, uma entidade do setor público deve reconhecer uma provisão para pagamento de
+        multas ou custos de reparação provenientes de danos ambientais, conforme imposto pela legislação, na
+        medida em que estiver obrigada a restaurar os danos já causados. Já a decisão da entidade de instalar
+
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   293
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+        filtros para evitar a emissão de gases poluentes não enseja o registro de uma provisão, pelo fato de as
+        entidades poderem evitar o gasto futuro decorrente de suas ações futuras.
+               Uma saída de recursos é considerada como provável se a probabilidade de o evento ocorrer for
+        maior que a de não ocorrer. Quando a probabilidade for baixa, deve-se evidenciar um passivo
+        contingente. Apenas se a possibilidade for remota não será necessária a divulgação do evento.
+               Em relação ao item “c”, cabe ressaltar que o uso de estimativas é uma parte essencial da
+        elaboração das demonstrações contábeis e não prejudica a sua confiabilidade. Isso é especialmente
+        válido no caso das provisões, que, por natureza, têm mais incerteza que a maior parte dos demais ativos
+        e passivos. Com exceção de casos extremamente raros, uma entidade é capaz de determinar um
+        intervalo de possíveis resultados e, desse modo, pode realizar uma estimativa da obrigação que seja
+        suficientemente confiável para o reconhecimento da provisão. Nesses casos em que nenhuma
+        estimativa confiável possa ser realizada, o passivo, embora exista, não pode ser reconhecido, mas
+        deverá ser divulgado como passivo contingente.
+               Atendidos os requisitos, as provisões devem ser reconhecidas no passivo, em contas patrimoniais
+        específicas do PCASP.
+
+               Reconhecimento da provisão
+
+        Natureza da informação: patrimonial
+        D 3.9.7.x.x.xx.xx    VPD de Constituição de Provisões
+        C 2.x.7.x.x.xx.xx    Provisões (P)
+
+           17.2.2.         Mensuração
+
+              O valor reconhecido como provisão deve ser a melhor estimativa do desembolso exigido para se
+        extinguir a obrigação presente na data das demonstrações contábeis.
+              A melhor estimativa do gasto necessário para a extinção da obrigação presente corresponde ao
+        valor que a entidade racionalmente pagaria para, na data das demonstrações contábeis, liquidar a
+        obrigação ou transferi-la a um terceiro.
+              As estimativas dos resultados e efeitos financeiros são determinadas pelo julgamento da
+        administração da entidade, complementados pela experiência de casos similares e, em alguns casos,
+        por relatórios de peritos independentes. A evidência considerada inclui qualquer evidência adicional
+        fornecida por eventos subsequentes à divulgação das demonstrações contábeis.
+              Quando uma única obrigação estiver sendo mensurada, o resultado individual mais provável
+        pode ser a melhor estimativa do passivo.
+              Quando a provisão mensurada envolve uma grande população de itens, a obrigação é estimada
+        ponderando-se todos os possíveis resultados. Este método estatístico corresponde ao "valor esperado".
+
+              Exemplo:
+              O governo detectou que, devido a um erro no sistema de cobrança, um tributo pode ter sido
+        cobrado indevidamente de determinados contribuintes, sendo necessário fazer a restituição. Caso se
+        identifique que a totalidade dos valores cobrados deverá ser restituída, o desembolso esperado será R$
+        5 milhões. Caso se identifique que o erro resultou apenas numa cobrança a maior do tributo, o
+        desembolso esperado será R$ 2 milhões. Caso se identifique que o erro do sistema não afetou a cobrança
+        do tributo, não haverá valor a restituir. Estima-se que 10% dos contribuintes foram indevidamente
+        tributados, 30% tenham sido tributados a maior e que 60% não foram afetados.
+
+               Nesta situação, o valor esperado para a provisão com as restituições é:
+
+               (10% de R$ 5 milhões) + (30% de R$ 2 milhões) + (60% de R$ 0) = R$ 1.100.000,00
+
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   294
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+              Ajuste a valor presente
+
+              Quando o efeito do tempo no dinheiro for material, o valor da provisão deve corresponder ao
+        valor presente dos desembolsos que se espera que sejam exigidos para liquidar a obrigação.
+              Assim, o valor da provisão deverá ser descontado utilizando-se uma taxa que reflita as atuais
+        avaliações de mercado quanto ao valor do dinheiro no tempo e aos riscos específicos para o passivo. A
+        taxa a ser utilizada pode variar a depender do tipo de provisão a ser registrada. São exemplos de taxas
+        usualmente utilizadas para desconto a valor presente: Selic, IPCA e TJLP.
+              Quando o desconto a valor presente for utilizado, o valor contábil da provisão aumenta a cada
+        período para refletir o transcurso do tempo. Este aumento é reconhecido como uma despesa financeira.
+
+              Reconhecimento da despesa financeira
+
+        Natureza da informação: patrimonial
+        D 3.4.x.x.x.xx.xx    Variações Patrimoniais Diminutivas Financeiras
+        C 2.x.7.x.x.xx.xx    Provisões (P)
+
+              Exemplo:
+              O governo concedeu um benefício a pequenos agricultores na forma de redução de taxa de juros
+        para a aquisição de equipamentos agrícolas. Estima-se que, em decorrência do subsídio concedido, o
+        governo deverá pagar os seguintes valores às instituições financeiras credoras, ao longo dos próximos
+        5 (cinco) anos:
+
+                                                   Prazo        Valor estimado da
+                                                   (ano)            obrigação
+                                                     1            R$ 180.000.000,00
+                                                     2            R$ 200.000.000,00
+                                                     3            R$ 250.000.000,00
+                                                     4            R$ 380.000.000,00
+                                                     5            R$ 390.000.000,00
+                                                   Total         R$ 1.400.000.000,00
+
+              Considerando uma taxa Selic de 13% a.a, o valor a ser provisionado em X0 será (em R$ milhões):
+
+        180/(1,13) + 200/(1,13)² + 250/(1,13)³ + 380/(1,13)4 + 390/(1,13)5 = R$ 933,92
+
+        Natureza da informação: patrimonial
+        D 3.9.7.x.x.xx.xx    VPD de Constituição de Provisões                                      R$ 933,92
+        C 2.x.7.x.x.xx.xx    Provisões (P)                                                         R$ 933,92
+
+              Ao longo do tempo, o valor da provisão deverá ser ajustado para refletir o transcurso do tempo.
+        No exemplo acima, considerando que nenhum pagamento tenha sido efetuado ainda, o valor
+        provisionado ao final de X1 será o seguinte (em R$ milhões):
+
+        180 + 200/(1,13) + 250/(1,13)² + 380/(1,13)³ + 390/(1,13)4 = R$ 1.055,33
+        1.055,33 – 933,92 = 121,41
+
+              Reconhecimento da despesa financeira
+
+        Natureza da informação: patrimonial
+        D 3.4.x.x.x.xx.xx    Variações Patrimoniais Diminutivas Financeiras                        R$ 121,41
+        C 2.x.7.x.x.xx.xx    Provisões (P)                                                         R$ 121,41
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   295
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+               Mudanças nas Provisões
+
+              As provisões devem ser reavaliadas na data de apresentação das demonstrações contábeis e
+        ajustadas para refletir a melhor estimativa corrente.
+              Quando não houver mais incertezas quanto ao valor e ao prazo de determinado passivo este
+        deixará de ser uma provisão, devendo ser reconhecida a obrigação a pagar correspondente. O valor da
+        obrigação a pagar poderá ser exatamente igual ao valor provisionado, situação na qual haverá o registro
+        de um fato meramente permutativo. Entretanto, o valor da obrigação a pagar poderá ser inferior ou
+        superior ao valor da provisão. Nesses casos, deverá ser registrada uma variação patrimonial diminutiva
+        com a complementação ou uma variação patrimonial aumentativa com a reversão da provisão,
+        respectivamente.
+
+               Lançamentos:
+
+               a. Quando o valor da obrigação for igual ao valor provisionado:
+
+               Baixa da provisão e registro do passivo correspondente
+
+        Natureza da informação: patrimonial
+        D 2.x.7.x.x.xx.xx    Provisões (P)
+        C 2.x.x.x.x.xx.xx    Obrigações a Pagar (P)
+
+               b. Quando o valor da obrigação for maior que o valor provisionado:
+
+               Baixa da provisão e registro do passivo correspondente
+
+        Natureza da informação: patrimonial
+        D 2.x.7.x.x.xx.xx    Provisões (P)
+        D 3.x.x.x.x.xx.xx    VPD
+        C 2.x.x.x.x.xx.xx    Obrigações a Pagar (P)
+
+               c. Quando o valor da obrigação for menor que o valor provisionado:
+
+               Registro do passivo e reversão da provisão
+
+        Natureza da informação: patrimonial
+        D 2.x.7.x.x.xx.xx    Provisões (P)
+        C 2.x.x.x.x.xx.xx    Obrigações a Pagar (P)
+        C 4.9.7.1.x.xx.xx    Reversão de Provisões
+
+              Uma provisão somente poderá ser usada para os desembolsos para os quais foi originalmente
+        reconhecida. Ajustar gastos contra uma provisão originalmente reconhecida para outros propósitos
+        ocultaria o impacto de eventos diferentes.
+              Se já não for mais provável que será necessária uma saída de recursos que incorporam benefícios
+        econômicos futuros para o pagamento da obrigação, a provisão deve ser revertida.
+
+               Reversão da provisão
+
+        Natureza da informação: patrimonial
+        D 2.x.7.x.x.xx.xx    Provisões (P)
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   296
+MCASP     Parte II – Procedimentos Contábeis Patrimoniais
+          Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                           e
+
+
+
+
+        C 4.9.7.1.x.xx.xx         Reversão de Provisões
+
+           17.2.3.       Evidenciação
+
+               Para cada tipo\classe de provisão, a entidade deve evidenciar:
+
+               a.   O valor contábil no início e no final do período;
+               b.   Provisões complementares feitas no período, incluindo aumentos nas provisões existentes;
+               c.   Montantes utilizados (isto é, incorridos e imputados contra a provisão) durante o período;
+               d.   As quantias não utilizadas revertidas durante o período;
+               e.   O aumento no período do valor descontado decorrente do transcurso do tempo e os efeitos
+                    de qualquer alteração na taxa de desconto.
+
+               Adicionalmente, recomenda-se que seja evidenciado (a):
+
+               a. Uma breve descrição da natureza da obrigação e a periodicidade prevista de qualquer saída
+                  resultante de benefícios econômicos ou potencial de serviços;
+               b. Uma indicação das incertezas sobre o valor ou a periodicidade destas saídas. Quando for
+                  necessário fornecer informação adequada, a entidade deve evidenciar as principais
+                  premissas feitas a respeito dos eventos futuros;
+               c. O montante de algum reembolso previsto, declarando o valor de qualquer ativo reconhecido
+                  para tal reembolso.
+
+              Quando uma provisão e um passivo contingente surgirem de um mesmo conjunto de
+        circunstâncias, a entidade deve divulgar a relação entre a provisão e os passivos contingentes.
+
+           17.3.      PASSIVOS CONTINGENTES
+
+              Os passivos contingentes não devem ser reconhecidos em contas patrimoniais. No entanto,
+        deverão ser registrados em contas de controle do PCASP e divulgados em notas explicativas. A
+        divulgação só é dispensada nos casos em que a saída de recursos for considerada remota.
+              Os passivos contingentes devem ser periodicamente avaliados para determinar se uma saída de
+        recursos que incorporam benefícios econômicos ou potencial de serviços se tornou provável. Caso a
+        saída se torne provável, uma provisão deverá ser reconhecida nas demonstrações contábeis do período
+        em que ocorreu a mudança na probabilidade. Por exemplo, uma entidade do governo pode ter
+        desobedecido a uma lei ambiental, mas não está claro se algum dano foi causado ao meio ambiente.
+        Quando, subsequentemente, tornar-se claro que o dano foi causado e que a reparação será exigida, a
+        entidade deverá constituir uma provisão.
+
+               Registro de passivos contingentes
+
+        Natureza de informação: controle
+        D 7.1.2.x.x.xx.xx    Atos Potenciais Passivos
+        C 8.1.2.x.x.xx.xx    Execução de Atos Potenciais Passivos
+
+             Para cada tipo/classe de passivo contingente, a entidade deve evidenciar, em notas explicativas,
+        uma breve descrição da natureza do passivo contingente e, quando aplicável:
+
+               a. A estimativa de seu efeito financeiro;
+               b. A indicação das incertezas em relação à quantia ou periodicidade da saída; e
+               c. A possibilidade de algum reembolso.
+
+
+
+
+                                      Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   297
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+           17.4.       ATIVOS CONTINGENTES
+
+              Ativos contingentes usualmente decorrem de eventos não planejados ou não esperados que não
+        estejam totalmente sob o controle da entidade e que acarretam a possibilidade de um ingresso de
+        recursos sob a forma de benefícios econômicos ou potencial de serviços. Assim, há incerteza quanto ao
+        ingresso de recursos. É o caso, por exemplo, de uma reivindicação por meio de processo judicial cujo
+        resultado é incerto.
+              Os ativos contingentes não devem ser reconhecidos em contas patrimoniais, uma vez que podem
+        resultar no reconhecimento de receitas que nunca virão a ser realizadas. No entanto, quando uma
+        entrada de recursos for considerada provável, eles deverão ser registrados em contas de controle do
+        PCASP e divulgados em notas explicativas.
+
+               Lançamentos de registro de ativos contingentes:
+
+        Natureza da Informação: controle
+        D 7.1.1.x.x.xx.xx    Atos Potenciais Ativos
+        C 8.1.1.x.x.xx.xx    Execução de Atos Potenciais Ativos
+
+              Os ativos contingentes deverão ser reavaliados continuamente para assegurar que os reflexos de
+        sua evolução sejam adequadamente apresentados nas demonstrações contábeis. Se ocorrer algum
+        evento que torne praticamente certo que uma entrada de benefícios econômicos ou potencial de
+        serviços surgirá, e desde que o valor do ativo possa ser mensurado corretamente, o ativo e a variação
+        patrimonial aumentativa relacionada deverão ser reconhecidas nas demonstrações contábeis do
+        período em que ocorrer a mudança na probabilidade.
+              Para cada classe de ativo contingente, a entidade deve evidenciar, em notas explicativas, uma
+        descrição da natureza do ativo contingente e, quando aplicável, a estimativa de seu efeito financeiro,
+        mensurada em conformidade com os critérios utilizados para a mensuração das provisões.
+
+           17.5.       SITUAÇÕES ESPECÍFICAS
+
+           17.5.1.         Reestruturação
+
+              Uma entidade do setor público deverá registrar uma provisão para reestruturação quando for
+        provável uma saída de recursos decorrentes deste processo. Uma obrigação não formalizada para
+        reestruturação surge apenas quando a entidade tiver um plano formal para reestruturação e tiver
+        criado uma expectativa válida naqueles por ela afetados, seja ao começar a implantação desse plano ou
+        ao anunciar as suas principais características.
+              São exemplos de eventos que podem se enquadrar na definição de reestruturação:
+
+               a. O fim de uma atividade ou serviço;
+               b. O fechamento de uma sucursal ou o encerramento das atividades de uma agência
+                  governamental em lugar ou região específicos, ou a realocação de atividades de uma região
+                  para outra;
+               c. Alterações na estrutura de gestão como, por exemplo, a eliminação de um nível de gerência;
+               d. Reorganizações fundamentais que têm um efeito material na natureza e no foco das
+                  operações da entidade.
+
+               Um plano formal para reestruturação deverá identificar pelo menos:
+
+               a. O negócio ou parte do negócio em questão;
+
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   298
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+              b. Os principais locais afetados;
+              c. O local, a função e o número aproximado de empregados que serão compensados
+                 financeiramente por seu desligamento;
+              d. Os desembolsos que serão realizados; e
+              e. Quando o plano será executado.
+
+              Para que um plano justifique o registro de uma obrigação não formalizada, sua implementação
+        precisa ser planejada para ter início tão logo quanto possível e ser concluída em um prazo em que
+        alterações significativas provavelmente não ocorrerão.
+              Caso se espere uma grande demora para o início da reestruturação, ou que ela tome tempo
+        demais, é pouco provável que o plano crie expectativa válida de que o governo ou a entidade encontre-
+        se comprometida com a reestruturação, pois o intervalo de tempo permite que o plano seja alterado.
+        Assim, a provisão não deverá ser registrada, devendo o fato ser evidenciado em notas explicativas.
+              No setor público, uma reestruturação pode ocorrer no âmbito do governo como um todo ou de
+        órgãos e entidades como um ministério, secretaria, agência, entre outros.
+              Quando a reestruturação envolver venda ou transferência de operações, nenhuma obrigação
+        deverá ser registrada até que haja um acordo obrigatório de venda ou transferência, ainda que a
+        entidade tenha anunciado publicamente sua decisão. Quando a venda for somente uma parte da
+        reestruturação, uma obrigação não formalizada pode surgir para as outras partes.
+              Uma provisão de reestruturação deve incluir apenas os desembolsos diretos decorrentes da
+        reestruturação, que são aqueles que se encontram simultaneamente relacionados com a reestruturação
+        e não associados com as atividades em curso na entidade.
+              Uma provisão de reestruturação não inclui custos como:
+
+              a. Novo treinamento ou realocação de funcionários;
+              b. Marketing; ou
+              c. Investimento em novos sistemas e redes de distribuição.
+
+              Estes custos relacionam-se à condução futura da atividade e não são passivos de reestruturação
+        na data das demonstrações contábeis.
+
+           17.5.2.      Responsabilidade Solidária
+
+              Uma obrigação pela qual a entidade esteja conjunta e solidariamente responsável é considerada
+        um passivo contingente, uma vez que se espera que o valor seja pago pela outra parte. Por exemplo, no
+        caso de uma dívida relacionada a um empreendimento conjunto (joint venture), a parcela da obrigação
+        que se espera ser cumprida pelas demais participantes é tratada como um passivo contingente e deve,
+        portanto, ser evidenciada em notas explicativas. O mesmo acontece quanto às garantias concedidas. A
+        entidade só reconhece uma provisão para a parte da obrigação para a qual é provável a saída de
+        recursos.
+
+           17.5.3.      Repartição de Crédito Tributário
+
+               No momento do reconhecimento do crédito tributário, pode haver incerteza sobre o montante a
+        ser transferido, devido ao fato de que a obrigação de transferir somente existirá em relação ao montante
+        arrecadado e parcela do tributo pode não ser arrecadada. Assim, justifica-se o registro da provisão para
+        repartição tributária, no ente arrecadador, já que há incerteza quanto ao valor que deverá ser
+        transferido.
+               O ente que receberá os recursos provenientes da repartição só deve reconhecer o ativo quando
+        houver a arrecadação do tributo. Entretanto, é facultado o registro do ativo contingente, em contas de
+        controle, pelo valor que se espera receber.
+
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   299
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+              O cálculo da provisão para repartição tributária deve ser efetuado com base nos créditos de
+        impostos e contribuições ainda não arrecadados sujeitos à repartição, deduzidos do respectivo ajuste
+        para perdas.
+              Os lançamentos são apresentados com valores exemplificativos.
+
+               Reconhecimento do crédito tributário
+
+        Natureza da informação: patrimonial
+        D 1.1.2.1.1.xx.xx    Crédito Tributário a Receber (P)                                                     200
+        C 4.1.1.2.1.xx.xx    Imposto sobre Patrimônio e Renda – IPVA                                              200
+
+               Ajustes de perdas estimadas (10%)
+
+        Natureza da informação: patrimonial
+        D 3.6.1.7.x.xx.xx    VPD com Ajuste de Perdas de Créditos                                                 20
+        C 1.1.2.9.x.xx.xx    (-) Ajuste de Perdas de Créditos a Curto Prazo (P)                                   20
+
+               Reconhecimento da provisão para repartição de crédito tributário (50%)
+
+        Natureza da informação: patrimonial
+        D 3.5.2.1.x.xx.xx    Distribuição Constitucional e Legal de Receitas                                      90
+        C 2.1.7.5.x.xx.xx    Provisão para Repartição de Créditos a Curto Prazo (P)                               90
+
+              Somente na arrecadação do tributo ocorrerá a baixa do ativo anteriormente registrado em contas
+        a receber contra o montante do recurso que ingressou no caixa do ente. Ainda nesse momento, é
+        baixada a provisão contra a conta de obrigações de repartição a outros entes, conforme cada caso.
+              Somente no momento da arrecadação por parte do ente transferidor, o ente recebedor terá
+        condições de reconhecer a variação patrimonial aumentativa e o ativo (créditos a receber).
+
+               Lançamentos:
+
+               a. Quando o valor da obrigação for igual ao valor provisionado:
+
+               Arrecadação do Tributo
+
+        Natureza da informação: patrimonial
+        D 1.1.1.1.x.xx.xx    Caixa e Equivalentes de Caixa em Moeda Nacional                                      180
+        C 1.1.2.1.1.xx.xx    Crédito Tributário a Receber                                                         180
+
+               Baixa da provisão e registro do passivo correspondente
+
+        Natureza da informação: patrimonial
+        D 2.1.7.5.x.xx.xx    Provisão para Repartição de Créditos a Curto Prazo                                   90
+        C 2.1.5.x.x.xx.xx    Obrigações de Repartição a Outros Entes                                              90
+
+               Reversão do ajuste de perdas estimadas
+
+        Natureza da informação: patrimonial
+        D 1.1.2.9.x.xx.xx    (-) Ajuste de Perdas de Créditos a Curto Prazo                                       20
+        C 1.1.2.1.1.xx.xx    Crédito Tributário a Receber                                                         20
+
+               Transferência para Outros Entes
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   300
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+        Natureza da informação: patrimonial
+        D 2.1.5.x.x.xx.xx    Obrigações de Repartição a Outros Entes                                         90
+        C 1.1.1.1.x.xx.xx    Caixa e Equivalentes de Caixa em Moeda Nacional                                 90
+
+              b. Quando o valor da obrigação for maior que o valor provisionado:
+
+              Arrecadação do Tributo
+
+        Natureza da informação: patrimonial
+        D 1.1.1.1.x.xx.xx    Caixa e Equivalentes de Caixa em Moeda Nacional                                 240
+        C 1.1.2.1.1.xx.xx    Crédito Tributário a Receber                                                    200
+        C 4.1.1.2.1.xx.xx    Imposto sobre Patrimônio e Renda – IPVA                                         40
+
+              Baixa da provisão e registro do passivo correspondente
+
+        Natureza da informação: patrimonial
+        D 2.1.7.5.x.xx.xx    Provisão para Repartição de Créditos a Curto Prazo                              90
+        D 3.5.2.1.x.xx.xx    Distribuição Constitucional e Legal de Receitas                                 30
+        C 2.1.5.x.x.xx.xx    Obrigações de Repartição a Outros Entes                                         120
+
+              Reversão do ajuste de perdas estimadas
+
+        Natureza da informação: patrimonial
+        D 1.1.2.9.x.xx.xx    (-) Ajuste de Perdas de Créditos a Curto Prazo                                  20
+        C 4.9.7.2.x.xx.xx    Reversão de Ajustes de Perdas                                                   20
+
+              Transferência para Outros Entes
+
+        Natureza da informação: patrimonial
+        D 2.1.5.x.x.xx.xx    Obrigações de Repartição a Outros Entes                                         120
+        C 1.1.1.1.x.xx.xx    Caixa e Equivalentes de Caixa em Moeda Nacional                                 120
+
+              c. Quando o valor da obrigação for menor que o valor provisionado:
+
+              Arrecadação do Tributo
+
+        Natureza da informação: patrimonial
+        D 1.1.1.1.x.xx.xx    Caixa e Equivalentes de Caixa em Moeda Nacional                                 160
+        C 1.1.2.1.1.xx.xx    Crédito Tributário a Receber                                                    160
+
+              Baixa da provisão e registro do passivo correspondente
+
+        Natureza da informação: patrimonial
+        D 2.1.7.5.x.xx.xx    Provisão para Repartição de Créditos a Curto Prazo                              90
+        C 2.1.5.x.x.xx.xx    Obrigações de Repartição a Outros Entes                                         85
+        C 4.9.7.1.x.xx.xx    Reversão de Provisões                                                           5
+
+              Reversão do ajuste de perdas estimadas
+
+        Natureza da informação: patrimonial
+        D 1.1.2.9.X.xx.xx    (-) Ajuste de Perdas de Créditos a Curto Prazo                                  20
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   301
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+        D 3.6.1.7.x.xx.xx             VPD com Ajuste de Perdas de Créditos                                        10
+        C 1.1.2.1.1.xx.xx             Crédito Tributário a Receber                                                30
+
+               Transferência para Outros Entes
+
+        Natureza da informação: patrimonial
+        D 2.1.5.x.x.xx.xx    Obrigações de Repartição a Outros Entes                                              85
+        C 1.1.1.1.x.xx.xx    Caixa e Equivalentes de Caixa em Moeda Nacional                                      85
+
+              Entre o momento do lançamento do tributo pelo ente transferidor e a efetiva arrecadação, é
+        facultado ao ente recebedor o registro de um ativo contingente em contas de controle.
+
+               Arrecadação do Tributo
+
+        Natureza da informação: controle
+        D 7.1.1.9.x.xx.xx    Outros Atos Potenciais Ativos                                                        180
+        C 8.1.1.9.x.xx.xx    Execução de Outros Atos Potenciais Ativos                                            180
+
+             Somente no momento da arrecadação por parte do ente transferidor, o ente recebedor terá
+        condições de reconhecer a variação patrimonial aumentativa e o ativo correspondente (créditos a
+        receber). Caso o ente tenha registrado o ativo contingente, nesse momento deverá ser registrada
+        também a sua execução.
+
+               Registro do crédito a receber (arrecadação do tributo pelo ente arrecadador)
+
+        Natureza da informação: patrimonial
+        D 1.1.2.3.x.xx.xx    Créditos de Transferências a Receber (P)                                             180
+        C 4.5.2.1.x.xx.xx    Transferências Constitucionais e Legais de Receitas                                  180
+
+              Quando do efetivo recebimento da transferência, o ente registra o ingresso em caixa e a baixa do
+        direito a receber. Nesse momento são contabilizados os registros referentes à execução orçamentária
+        da receita, conforme item 3.3 – Registro da Receita Orçamentária da Parte I – Procedimentos Contábeis
+        Orçamentários deste Manual, com a consequente alteração do atributo superávit financeiro do crédito
+        a receber. Os lançamentos patrimoniais são apresentados abaixo:
+
+               Alteração do atributo
+
+        Natureza da informação: patrimonial
+        D 1.1.2.3.x.xx.xx    Créditos de Transferências a Receber (F)                                             180
+        C 1.1.2.3.x.xx.xx    Créditos de Transferências a Receber (P)                                             180
+
+               Recebimento da transferência
+
+        Natureza da informação: patrimonial
+        D 1.1.1.1.x.xx.xx    Caixa e Equivalentes de Caixa em Moeda Nacional (F)                                  180
+        C 1.1.2.3.x.xx.xx    Créditos de Transferências a Receber (F)                                             180
+
+           17.5.4.         Provisão Matemática Previdenciária
+
+             A Norma Brasileira de Contabilidade (NBC TSP) 15 – Benefícios a Empregados, do Conselho
+        Federal de Contabilidade - CFC, quanto ao conteúdo específico de RPPS, destaca a necessidade do
+
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   302
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+        reconhecimento do passivo atuarial e sua evidenciação no Balanço Patrimonial, em atendimento ao
+        regime de competência.
+              Para demonstrar a real situação patrimonial e financeira do Regime Próprio de Previdência Social
+        (RPPS), como entidade contábil, deve-se seguir a regulamentação realizada pelos normativos da
+        Secretaria de Previdência, especificamente quanto a reservas matemáticas previdenciárias e suas
+        respectivas provisões.
+              Entende-se por provisão matemática previdenciária a diferença a maior entre os valores
+        provisionados para fazer face à totalidade dos compromissos futuros do plano para com seus
+        beneficiários e dependentes e as contribuições correspondentes. Ou seja, a provisão matemática
+        previdenciária, também conhecida como passivo atuarial, representa o valor presente do total dos
+        recursos necessários ao pagamento dos compromissos dos planos de benefícios, calculados
+        atuarialmente, em determinada data.
+              Para o registro das provisões matemáticas previdenciárias, o ente deverá utilizar os
+        desdobramentos da seguinte conta do PCASP:
+
+                                               PROVISÕES              Compreende os passivos de prazo ou de valor
+                                              MATEMÁTICAS             incertos, relacionados a futuros benefícios
+                   2.2.7.2.0.00.00
+                                            PREVIDENCIÁRIAS A         previdenciários a serem pagos aos contribuintes,
+                                              LONGO PRAZO             com probabilidade de ocorrerem no longo prazo.
+
+              Registro da Provisão
+
+        Natureza da informação: patrimonial
+        D 3.9.7.2.x.xx.xx    VPD de Provisões Matemáticas Previdenciárias                                    180
+        C 2.2.7.2.x.xx.xx    Provisões Matemáticas Previdenciárias a Longo Prazo                             180
+
+             A metodologia de cálculo e a constituição das provisões matemáticas são objeto de normativos
+        próprios da Secretaria de Previdência Social.
+
+           17.6.     GRÁFICOS E TABELAS
+
+           17.6.1.      Árvore de Decisão
+
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   303
+MCASP
+MCASP
+MCASP   Parte
+        Parte II
+        Parte IIII ––– Procedimentos
+                       Procedimentos Contábeis
+                       Procedimentos   Contábeis Patrimoniais
+                                      Contábeis    Patrimoniais
+                                                  Patrimoniais
+        Manual
+        Manual de
+        Manual       de Contabilidade
+                     de  Contabilidade Aplicada
+                         Contabilidade Aplicada ao
+                                       Aplicada   ao Setor
+                                                 ao  Setor Público
+                                                     Setor Público
+                                                           Público
+2025
+2025
+2025                                           eee
+
+
+
+
+         17.6.2.          Provisão e Passivo Contingente
+
+               Quando, em consequência de eventos passados, puder existir uma saída de recursos que incorporam
+               benefícios econômicos ou potencial de serviços que seja exigida para a extinção de:
+                   a) Uma obrigação presente; ou
+                   b) Uma obrigação possível cuja existência será confirmada apenas pela ocorrência ou não de um
+                        ou mais eventos futuros incertos que não estão totalmente sob o controle da entidade.
+                                                         Possibilidade de
+                                   Probabilidade de
+                                                            Estimativa                                 Forma de
+                  Obrigação             Saída de                                Classificação
+                                                           Confiável do                              Evidenciação
+                                       Recursos
+                                                              Valor
+                                                                                                        Balanço
+                                                                                                      Patrimonial
+                   Presente             Provável             Possível             Provisão
+                                                                                                        e Notas
+                                                                                                      Explicativas
+                                                                                   Passivo
+                   Presente             Provável           Não possível                            Notas Explicativas
+                                                                                Contingente
+                                                            Possível ou            Passivo
+                   Presente         Pouco provável                                                 Notas Explicativas
+                                                           Não Possível         Contingente
+
+
+
+
+                                         Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   304
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+                                                              Possível ou              Passivo
+                     Presente             Remota                                                         Não é divulgado
+                                                              Não Possível           Contingente
+                                                                                       Passivo
+                     Possível            Provável               Possível                                Notas Explicativas
+                                                                                     Contingente
+
+           17.6.3.       Ativo Contingente
+
+               Quando, em consequência de eventos passados, possa existir um ativo possível, cuja existência será
+               confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão
+               totalmente sob o controle da entidade.
+                  Probabilidade de ingresso de recursos sob a
+                                                                                                Forma de
+                 forma de benefícios econômicos ou potencial        Classificação
+                                                                                              evidenciação
+                             prestação de serviços
+                                                                                         Balanço Patrimonial e
+                                    Certeza                             Ativo
+                                                                                           Notas Explicativas
+                                   Provável                      Ativo Contingente         Notas Explicativas
+                                Pouco provável                   Ativo Contingente           Não é divulgado
+
+        18. APROPRIAÇÃO DE 13º SALÁRIO E FÉRIAS
+              O 13º salário (gratificação natalina) e férias são exemplos de obrigações consideradas passivos
+        derivados de apropriações por competência, não se confundem portanto, com o termo provisões.
+              A diferenciação desses elementos é utilizada para aprimorar a compreensibilidade das
+        demonstrações contábeis.
+              Para o reconhecimento dos passivos relacionados ao 13º salário e às férias deve-se realizar a
+        apropriação mensal em conformidade com o regime de competência.
+              A seguir apresenta-se um roteiro exemplificativo (lançamentos e nível de detalhamento das
+        contas simplificados), com destaque aos registros de natureza patrimonial, em consonância com os
+        conceitos abordados nesse manual.
+
+           18.1.      APROPRIAÇÃO DO 13º SALÁRIO
+
+              A apropriação mensal por competência é o reconhecimento da obrigação do duodécimo de 13º
+        Salário para cada mês trabalhado.
+
+        1 - Apropriação mensal do 13º (1/12 avos):
+
+        Natureza da informação: patrimonial
+        D 3.1.1.x.x.xx.xx Remuneração a pessoal - 13º Salário
+        C 2.1.1.1.x.xx.xx Pessoal a pagar – 13º Salário (P)
+
+        2 - No mês de pagamento da 1ª parcela do 13º Salário:
+
+        a. Empenho:
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.1.xx.xx Crédito Disponível
+        C 6.2.2.1.3.01.xx Crédito Empenhado a Liquidar
+
+        Natureza da informação: controle
+        D 8.2.1.1.1.xx.xx Disponibilidade por Destinação de Recursos (DDR)
+
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   305
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+        C 8.2.1.1.2.xx.xx DDR Comprometida por Empenho
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.3.01.xx Crédito Empenhado a Liquidar
+        C 6.2.2.1.3.02.xx Crédito Empenhado em Liquidação
+
+        b. Liquidação:
+
+        Natureza da informação: patrimonial
+        D 1.1.3.1.1.xx.xx Adiantamentos concedidos – 13º Salário (P)
+        C 2.1.1.1.x.xx.xx Pessoal a Pagar – 13º Salário (F)
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.3.02.xx Crédito Empenhado em Liquidação
+        C 6.2.2.1.3.03.xx Crédito Empenhado Liquidado a Pagar
+
+        Natureza da informação: controle
+        D 8.2.1.1.2.xx.xx DDR Comprometida por Empenho
+        C 8.2.1.1.3.xx.xx DDR Comprometida por Liquidação e Entradas Compensatórias
+
+        c. Pagamento:
+
+        Natureza da informação: patrimonial
+        D 2.1.1.1.x.xx.xx Pessoal a Pagar – 13º Salário (F)
+        C 1.1.1.1.1.xx.xx Caixa e Equivalentes de Caixa em Moeda Nacional (F)
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.3.03.xx Crédito Empenhado Liquidado a Pagar
+        C 6.2.2.1.3.04.xx Crédito Empenhado Liquidado Pago
+
+        Natureza da informação: controle
+        D 8.2.1.1.3.xx.xx DDR Comprometida por Liquidação e Entradas Compensatórias
+        C 8.2.1.1.4.xx.xx DDR Utilizada
+
+        3 - Pagamento da 2ª parcela do 13º Salário:
+
+        3.1 Registro da Folha Bruta do 13º Salário
+
+        Natureza da informação: patrimonial
+        D 2.1.1.1.x.xx.xx Pessoal a pagar – 13º Salário a pagar (P)
+        C 2.1.1.1.x.xx.xx Pessoal a Pagar – 13º Salário (F)
+
+        Esse lançamento deve ser realizado concomitante ao lançamento de natureza orçamentária do
+        empenho.
+
+        3.2 Baixa do adiantamento da 1a parcela
+
+        Natureza da informação: patrimonial
+        D 2.1.1.1.x.xx.xx Pessoal a Pagar – 13º Salário (F)
+        C 1.1.3.1.1.xx.xx Adiantamentos concedidos – 13º Salário (P)
+
+        3.3 Saída do recurso financeiro
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   306
+MCASP    Parte II – Procedimentos Contábeis Patrimoniais
+         Manual de Contabilidade Aplicada ao Setor Público
+2025
+                                          e
+
+
+
+
+        Natureza da informação: patrimonial
+        D 2.1.1.1.x.xx.xx Pessoal a Pagar – 13º Salário (F)
+        C 1.1.1.1.1.xx.xx Caixa e Equivalentes de Caixa em Moeda Nacional (F)
+
+        Os registros complementares de natureza orçamentária e de controle devem ser realizados.
+
+             Ressalta-se que, no encerramento do exercício, não deverá haver saldo na conta de apropriação
+        mensal do 13º salário 2.1.1.1.x.xx.xx Pessoal a pagar – 13º Salário (P).
+
+           18.2.     APROPRIAÇÃO DAS FÉRIAS
+
+              Apresenta-se o roteiro exemplificativo para o registro por competência da apropriação de férias
+        e do abono constitucional (1/3).
+
+        1 - Apropriação mensal de férias, 1/12 avos (abono constitucional 1/3 e o salário no período de férias)
+
+        Natureza de informação: patrimonial
+        D 3.1.1.x.x.xx.xx VPD com Férias
+        C 2.1.1.1.x.xx.xx Férias a pagar (P)
+
+        2 - Pagamento das férias
+        O pagamento das férias usualmente está inserido na folha de salários mensal.
+
+        a - Empenho:
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.1.xx.xx Crédito Disponível
+        C 6.2.2.1.3.01.xx Crédito Empenhado a Liquidar
+
+        Natureza da informação: controle
+        D 8.2.1.1.1.xx.xx Disponibilidade por Destinação de Recursos (DDR)
+        C 8.2.1.1.2.xx.xx DDR Comprometida por Empenho
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.3.01.xx Crédito Empenhado a Liquidar
+        C 6.2.2.1.3.02.xx Crédito Empenhado em Liquidação
+
+        b. Liquidação:
+
+        Natureza da informação: patrimonial
+        D 2.1.1.1.x.xx.xx Férias a pagar(P)
+        C 2.1.1.1.x.xx.xx Pessoal a Pagar - Férias (F)
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.3.02.xx Crédito Empenhado em Liquidação
+        C 6.2.2.1.3.03.xx Crédito Empenhado Liquidado a Pagar
+
+        Natureza da informação: controle
+        D 8.2.1.1.2.xx.xx DDR Comprometida por Empenho
+        C 8.2.1.1.3.xx.xx DDR Comprometida por Liquidação e Entradas Compensatórias
+
+
+
+
+                                     Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   307
+MCASP
+MCASP
+MCASP    Parte
+         Parte II
+         Parte IIII ––– Procedimentos
+                        Procedimentos Contábeis
+                        Procedimentos   Contábeis Patrimoniais
+                                       Contábeis    Patrimoniais
+                                                   Patrimoniais
+         Manual
+         Manual de
+         Manual       de Contabilidade
+                      de  Contabilidade Aplicada
+                          Contabilidade Aplicada ao
+                                        Aplicada   ao Setor
+                                                  ao  Setor Público
+                                                      Setor Público
+                                                            Público
+2025
+2025
+2025                                            eee
+
+
+
+
+        c. Pagamento:
+
+        Natureza da informação: patrimonial
+        D 2.1.1.1.x.xx.xx Pessoal a Pagar - Férias (F)
+        C 1.1.1.1.1.xx.xx Caixa e Equivalentes de Caixa em Moeda Nacional (F)
+
+        Natureza da informação: orçamentária
+        D 6.2.2.1.3.03.xx Crédito Empenhado Liquidado a Pagar
+        C 6.2.2.1.3.04.xx Crédito Empenhado Liquidado Pago
+
+        Natureza da informação: controle
+        D 8.2.1.1.3.xx.xx DDR Comprometida por Liquidação e Entradas Compensatórias
+        C 8.2.1.1.4.xx.xx DDR Utilizada
+
+           18.3.       ENCARGOS SOBRE 13º SALÁRIO E FÉRIAS
+
+              Os encargos patronais incidentes sobre gratificação natalina (13º salário) e férias, tais como as
+        contribuições para o regime de previdência, enquadram-se igualmente na condição de passivo
+        apropriado por competência, portanto, devem ser objeto de apropriação mensal como exemplificado a
+        seguir nas naturezas de informações patrimoniais:
+
+        1 - Apropriação mensal dos encargos 1/12 avos
+
+        Natureza de informação: patrimonial
+        D 3.1.2.x.x.xx.xx Pessoal e Encargos - Encargos Patronais
+        C 2.1.1.4.x.xx.xx Encargos Sociais a Pagar (P)
+
+        2 - Pagamento dos encargos
+
+        Natureza da informação: patrimonial
+        D 2.1.1.4.x.xx.xx Encargos Sociais a Pagar (P)
+        C 2.1.1.4.x.xx.xx Encargos Sociais a Pagar (F)
+
+        Natureza da informação: patrimonial
+        D 2.1.1.4.x.xx.xx Encargos Sociais a Pagar (F)
+        C 1.1.1.1.1.xx.xx Caixa e Equivalentes de Caixa em Moeda Nacional (F)
+
+        Os registros complementares de natureza orçamentária e de controle devem ser realizados.
+
+           18.4.       RESCISÕES DE CONTRATOS QUE CONTENHAM 13º SALÁRIO E FÉRIAS
+
+              A execução da despesa orçamentária das rescisões contratuais (empenho, liquidação e
+        pagamento), a depender da rotina de procedimentos da entidade, além de registrar nas contas de
+        natureza orçamentária, refletem as baixas dos saldos das contas de natureza patrimonial relacionadas
+        às obrigações com 13º salário, férias, encargos e respectivos adiantamentos. Caso as baixas de natureza
+        patrimonial não ocorram nos procedimentos de execução orçamentária, essas deverão ser registradas
+        para que evidencie a nova composição das obrigações a pagar conforme apresentado nos relatórios
+        provenientes do sistema de administração de pessoal (folha de pagamento).
+
+
+
+
+                                          Secretaria do Tesouro Nacional – Manual de Contabilidade Aplicada ao Setor Público – 11ª Edição   308
+
