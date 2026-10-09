@@ -1,0 +1,95 @@
+@banca CEBRASPE (inédita)
+@ano 2026
+@orgao Câmara dos Deputados
+@cargo Analista Legislativo – Registro e Redação
+
+@texto RICD — Comissões Externas (art. 38)
+Com base no Regimento Interno da Câmara dos Deputados (Resolução n.º 17/1989 e suas alterações), julgue os itens a seguir, a respeito das comissões externas.
+@fim
+
+As comissões externas poderão ser instituídas pelo Presidente da Câmara, de ofício ou a requerimento de qualquer deputado, para cumprir missão temporária autorizada.
+= C
+> Art. 38, caput, literal.
+---
+A instituição de comissão externa depende de requerimento subscrito por Líder ou por um terço dos membros da Câmara, não podendo o Presidente instituí-la de ofício.
+= E
+> Art. 38: a comissão externa pode ser instituída pelo Presidente de ofício ou a requerimento de qualquer deputado. A exigência de um terço dos membros é própria do requerimento de criação de CPI (art. 35).
+---
+A instituição de comissão externa estará sujeita à deliberação do Plenário sempre que importar ônus para a Casa.
+= C
+> Art. 38, caput, parte final.
+---
+Toda comissão externa, independentemente de gerar despesa para a Câmara, deve ter sua criação aprovada pelo Plenário.
+= E
+> Pelo art. 38, a deliberação do Plenário só é exigida quando a missão importar ônus para a Casa.
+---
+Compete à Mesa Diretora instituir as comissões externas, cabendo ao Presidente da Câmara apenas designar seus membros.
+= E
+> Quem institui a comissão externa é o Presidente da Câmara (art. 38). A designação dos membros das comissões temporárias também é feita pelo Presidente, por indicação dos Líderes (art. 33, § 1.º).
+---
+Considera-se missão autorizada aquela que implicar o afastamento do parlamentar pelo prazo máximo de oito sessões, se exercida no País, e de trinta, se desempenhada no exterior.
+= C
+> Art. 38, parágrafo único.
+---
+Para fins de comissão externa, a missão autorizada exercida no território nacional poderá implicar o afastamento do parlamentar por até trinta sessões.
+= E
+> No País, o limite é de oito sessões. Trinta é o limite para a missão desempenhada no exterior (art. 38, parágrafo único).
+---
+A missão autorizada destina-se a representar a Câmara dos Deputados nos atos a que esta tenha sido convidada ou a que tenha de assistir.
+= C
+> Art. 38, parágrafo único, parte final.
+---
+As comissões externas integram o rol das comissões temporárias, ao lado das comissões especiais e das comissões parlamentares de inquérito.
+= C
+> Art. 33: as comissões temporárias são especiais (I), de inquérito (II) e externas (III).
+---
+As comissões externas, assim como as comissões parlamentares de inquérito, dispõem de poderes de investigação próprios das autoridades judiciais.
+= E
+> Os poderes de investigação próprios das autoridades judiciais são atribuídos às CPIs (art. 35). A comissão externa destina-se à representação da Câmara em missão temporária.
+---
+A comissão externa compor-se-á do número de membros previsto no ato ou requerimento de sua constituição, designados pelo Presidente por indicação dos Líderes, ou independentemente desta se, no prazo de quarenta e oito horas após criar-se a comissão, não se fizer a escolha.
+= C
+> Art. 33, § 1.º, aplicável a todas as comissões temporárias.
+---
+O deputado designado para integrar comissão externa ficará afastado de suas funções nas comissões permanentes enquanto durar a missão.
+= E
+> Art. 33, § 3.º: a participação em comissão temporária "cumprir-se-á sem prejuízo de suas funções em Comissões Permanentes".
+---
+Na constituição das comissões temporárias, incluídas as externas, observar-se-á o rodízio entre as bancadas não contempladas, de modo que todos os partidos ou blocos parlamentares possam fazer-se representar.
+= C
+> Art. 33, § 2.º.
+---
+@texto Situação hipotética — comissão externa
+Um deputado apresentou requerimento ao Presidente da Câmara para a criação de comissão externa destinada a representar a Casa em conferência internacional, em país estrangeiro, para a qual a Câmara dos Deputados foi formalmente convidada. A missão exigirá passagens aéreas e diárias custeadas pela Câmara e implicará o afastamento dos membros por vinte sessões.
+Considerando essa situação hipotética e o disposto no Regimento Interno da Câmara dos Deputados, julgue os itens seguintes.
+@fim
+
+Por ter sido apresentado por deputado que não é Líder, o requerimento não poderá ser acolhido.
+= E
+> O art. 38 admite requerimento de "qualquer Deputado".
+---
+Como a missão importará ônus para a Casa, a instituição da comissão externa estará sujeita à deliberação do Plenário.
+= C
+> Art. 38, caput, parte final: com ônus, há deliberação do Plenário.
+---
+O afastamento por vinte sessões excede o limite regimental da missão autorizada, razão pela qual a comissão não poderá ser instituída nos termos propostos.
+= E
+> No exterior, o limite é de trinta sessões (art. 38, parágrafo único). Vinte sessões está dentro do limite.
+---
+Os deputados que integrarem a comissão não terão suas ausências às sessões ordinárias, no período da missão, computadas para efeito da perda de mandato por faltas, por se tratar de missão autorizada.
+= C
+> Art. 240, III: perde o mandato o deputado que deixar de comparecer à terça parte das sessões ordinárias da sessão legislativa, "salvo licença ou missão autorizada".
+---
+@texto RICD — Comissões Externas (comando geral)
+Ainda com base no Regimento Interno da Câmara dos Deputados, julgue os itens a seguir.
+@fim
+
+É dever do deputado integrar as comissões e representações externas e desempenhar missão autorizada.
+= C
+> Art. 226, IV.
+---
+A missão autorizada de que trata o art. 38 confunde-se com a licença para desempenhar missão temporária de caráter diplomático ou cultural, ambas concedidas pelo Presidente da Câmara.
+= E
+> São institutos distintos. A missão autorizada (art. 38) é a representação da Câmara por comissão externa. A licença para missão diplomática ou cultural (art. 235, I) é afastamento do mandato e é concedida pela Mesa (art. 235, § 4.º), e não pelo Presidente.
+---
+@texto -

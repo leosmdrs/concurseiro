@@ -24,7 +24,7 @@
 | # | Subtópico | Artigos | Discursiva | Status |
 |---|---|---|---|---|
 | 2.1 | [Comissões permanentes (composição, número de membros, rol do art. 32)](./2.1-comissoes-permanentes/) | arts. 25 a 32 | ✍️ | ⬜ |
-| 2.2 | [Comissões temporárias: especiais, CPI e externas](./2.2-comissoes-temporarias/) | arts. 33 a 38 | ✍️ | ⬜ |
+| 2.2 | [Comissões temporárias: especiais, CPI e externas](./2.2-comissoes-temporarias/) | arts. 33 a 38 | ✍️ | 🟨 |
 | 2.3 | [Presidência das comissões; impedimentos e ausências; vagas](./2.3-presidencia-impedimentos-e-vagas/) | arts. 39 a 45 | ✍️ | ⬜ |
 | 2.4 | [Reuniões e trabalhos (ordem dos trabalhos, prazos)](./2.4-reunioes-e-trabalhos/) | arts. 46 a 52 | ✍️ | ⬜ |
 | 2.5 | [Admissibilidade e apreciação (parecer terminativo, apreciação conclusiva, recurso)](./2.5-admissibilidade-e-apreciacao/) | arts. 53 a 59 | ✍️ | ⬜ |
