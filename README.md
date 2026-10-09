@@ -12,6 +12,7 @@ Todas as disciplinas ficam aqui. Cada **disciplina** é uma pasta, e cada **tóp
 | 4 | Avaliação de Políticas Públicas | CGU | [04-avaliacao-de-politicas-publicas](./04-avaliacao-de-politicas-publicas/) |
 | 5 | Reconhecimento de Fala, Transcrição e Inteligência Artificial | Câmara dos Deputados (Registro e Redação) | [05-reconhecimento-de-fala-transcricao-e-ia](./05-reconhecimento-de-fala-transcricao-e-ia/) · [📋 plano](./05-reconhecimento-de-fala-transcricao-e-ia/PLANO.md) |
 | 6 | Linguística | Câmara dos Deputados (Registro e Redação) | [06-linguistica](./06-linguistica/) |
+| 7 | Regimento Interno da Câmara (RICD) e Regimento Comum do Congresso (RCCN) — ✍️ parte específica / 🚫 parte básica | Câmara dos Deputados (Registro e Redação) | [07-regimento-interno-cd-e-regimento-comum](./07-regimento-interno-cd-e-regimento-comum/) |
 
 📝 **Prova discursiva da Câmara (Registro e Redação):** [critérios de avaliação e fórmulas](./prova-discursiva-camara-registro-e-redacao.md)
 
