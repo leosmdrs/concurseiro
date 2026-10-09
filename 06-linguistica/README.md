@@ -2,7 +2,7 @@
 
 | # | Tópico | Prioridade | Status |
 |---|---|---|---|
-| 01 | [Teoria do signo linguístico](./01-teoria-do-signo-linguistico/) | Alta | ⬜ |
+| 01 | [Teoria do signo linguístico](./01-teoria-do-signo-linguistico/) | Alta | 🟨 |
 | 02 | [Categorias semânticas](./02-categorias-semanticas/) | Média | ⬜ |
 | 03 | [Leitura](./03-leitura/) | Alta | ⬜ |
 | 3.1 | ↳ [Compreensão literal, coesão e coerência](./03-leitura/3.1-compreensao-literal-coesao-coerencia/) | Alta | ⬜ |

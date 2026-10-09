@@ -2,7 +2,7 @@
 
 **Matéria:** Linguística  
 **Prioridade (incidência × pertinência p/ o cargo):** Alta  
-**Status:** ⬜ não iniciado
+**Status:** 🟨 em estudo (1.1 linguagem, língua e fala ✅ resumo)
 
 ## Edital (literal)
 
@@ -29,5 +29,6 @@
 ## Arquivos desta pasta
 
 - `resumo.md` — resumo direcionado (criado quando o tópico for estudado)
+- `questoes-importacao.txt` — itens C/E inéditos no formato de importação
 - `questoes.md` — questões anteriores comentadas + itens C/E inéditos
 - `material/` — conteúdo-base enviado (PDFs, trechos de lei, aulas)

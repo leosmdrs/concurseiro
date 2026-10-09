@@ -1,0 +1,91 @@
+@banca CEBRASPE (inédita)
+@ano 2026
+@orgao Câmara dos Deputados
+@cargo Analista Legislativo – Registro e Redação
+
+@texto Linguagem, língua e fala (texto autoral)
+Ao pronunciar um discurso na tribuna, o parlamentar mobiliza um sistema que não inventou: as palavras, as regras de combinação e as distinções sonoras que emprega já estavam disponíveis na comunidade linguística à qual pertence. Ainda assim, aquele discurso é único — escolhas de vocabulário, entonação, pausas e hesitações não se repetirão da mesma forma em nenhuma outra sessão. Quando o redator transpõe esse discurso para o registro escrito, ele lida, ao mesmo tempo, com o que é coletivo e estável e com o que é individual e passageiro.
+Considerando o texto apresentado e a distinção entre linguagem, língua e fala proposta por Ferdinand de Saussure, julgue os itens a seguir.
+@fim
+
+No texto, o "sistema" que o parlamentar "não inventou" corresponde ao que Saussure denomina língua, ao passo que o discurso único pronunciado na tribuna constitui um ato de fala.
+= C
+> A língua (langue) é o sistema social, compartilhado pela comunidade, que o indivíduo recebe pronto. A fala (parole) é o uso individual e momentâneo desse sistema em cada ato concreto.
+---
+Conforme a teoria saussuriana, as hesitações e pausas mencionadas no texto pertencem à fala, por se tratar de aspectos individuais e acidentais da execução.
+= C
+> A fala é individual, momentânea e heterogênea, e nela estão as particularidades da execução. A língua é a parte social e essencial da linguagem; a fala, a parte individual e acessória.
+---
+Infere-se do texto que, por ser registrado por escrito, o discurso do parlamentar deixa de ser um ato de fala no sentido saussuriano e passa a pertencer ao domínio da língua.
+= E
+> "Fala", em Saussure, não equivale à modalidade oral. Qualquer uso individual da língua, oral ou escrito, é parole. O texto escrito pelo redator também é um ato de fala; a língua é o sistema abstraído do conjunto desses usos.
+---
+Segundo Saussure, o parlamentar, como falante individual, pode modificar a língua por ato de vontade, desde que o faça de forma reiterada em seus pronunciamentos.
+= E
+> O indivíduo registra a língua passivamente e não pode, sozinho, criá-la nem modificá-la. As inovações surgem na fala, mas só se incorporam à língua quando adotadas pela coletividade.
+---
+@texto Linguagem, língua e fala (comando geral)
+Com relação aos conceitos de linguagem, língua e fala, julgue os itens seguintes.
+@fim
+
+Para Saussure, a linguagem, por ser multiforme e heteróclita, abrangendo domínios físicos, fisiológicos e psíquicos, individuais e sociais, não pode constituir, em seu todo, o objeto da linguística.
+= C
+> Como a linguagem não se deixa classificar em nenhuma categoria de fatos humanos, Saussure recorta dentro dela a língua, de natureza homogênea, como objeto da linguística.
+---
+Na concepção saussuriana, a língua é a parte individual da linguagem, e a fala, a parte social, constituída pelas convenções adotadas pela comunidade.
+= E
+> Os conceitos estão invertidos. A língua é social (conjunto de convenções adotadas pelo corpo social); a fala é individual (ato de vontade e inteligência).
+---
+De acordo com Saussure, a língua existe de forma completa no cérebro de cada falante, razão pela qual pode ser descrita com base na produção linguística de um único indivíduo.
+= E
+> A língua não está completa em nenhum indivíduo; só existe de modo completo na massa dos falantes, isto é, na coletividade.
+---
+A fala, conforme Saussure, é um ato individual de vontade e inteligência, no qual se distinguem as combinações com que o falante utiliza o código da língua para exprimir seu pensamento e o mecanismo psicofísico que lhe permite exteriorizar essas combinações.
+= C
+> Definição de parole no Curso de Linguística Geral, com seus dois componentes.
+---
+Embora a língua possa ser estudada separadamente, Saussure reconhece que língua e fala são interdependentes: a língua é necessária para que a fala seja inteligível, e a fala é necessária para que a língua se estabeleça.
+= C
+> Há interdependência. Historicamente, o fato de fala vem sempre antes, e é a fala que faz a língua evoluir. A língua é, ao mesmo tempo, instrumento e produto da fala.
+---
+Para Saussure, a língua precede historicamente a fala, uma vez que o falante só consegue produzir enunciados após ter internalizado o sistema.
+= E
+> O Curso afirma o contrário: historicamente, o fato de fala vem sempre antes. É ouvindo os outros que aprendemos a língua materna, e a língua se estabelece pela prática da fala.
+---
+Por ser de natureza psíquica, a língua constitui, para Saussure, uma abstração sem realidade concreta.
+= E
+> Saussure afirma que a língua não é menos que a fala um objeto de natureza concreta. Os signos são psíquicos, mas não são abstrações: são realidades que têm sede no cérebro.
+---
+A comparação da língua com o jogo de xadrez ilustra que o valor de cada elemento depende de sua posição no sistema, e não da matéria de que é feito, o que se resume na afirmação de que a língua é forma, e não substância.
+= C
+> No xadrez, uma peça de madeira pode ser trocada por outra de marfim sem alterar o jogo. Importam as regras e as relações, assim como, na língua, importa o valor definido pelas diferenças entre os elementos.
+---
+A distinção entre língua e fala coincide com a distinção entre sincronia e diacronia, pois a língua é estudada em determinado momento, ao passo que a fala é estudada em sua evolução histórica.
+= E
+> São dicotomias distintas. Sincronia × diacronia distingue o estudo do sistema num estado dado e o estudo de sua evolução no tempo; não se confunde com língua × fala.
+---
+A noção de competência, proposta por Chomsky, equivale integralmente à noção saussuriana de língua, dado que ambas designam o conhecimento coletivo partilhado pela comunidade de falantes.
+= E
+> Há paralelo entre competência × desempenho e língua × fala, mas não equivalência. A competência é o conhecimento individual, mental e de base inata do falante; a língua saussuriana é social e coletiva.
+---
+Na proposta de Eugenio Coseriu, a norma corresponde a um nível intermediário entre o sistema e a fala, relacionado ao uso habitual e coletivo da língua em uma comunidade.
+= C
+> Coseriu desdobra a dicotomia saussuriana em sistema, norma e fala. A norma é o que é tradicional e habitual no uso coletivo; a fala é a realização individual concreta.
+---
+A crítica de Bakhtin/Volóchinov ao chamado objetivismo abstrato dirige-se à concepção de língua como sistema estável de formas normativamente idênticas, defendendo que a língua vive e evolui na interação verbal concreta.
+= C
+> Em Marxismo e filosofia da linguagem, a corrente saussuriana é chamada de objetivismo abstrato. Para esses autores, a realidade da língua é a interação verbal, realizada por meio de enunciações.
+---
+Na perspectiva da sociolinguística laboviana, a variação linguística é considerada fenômeno aleatório, restrito ao plano da fala e, por isso, irrelevante para a descrição do sistema.
+= E
+> Labov propõe a noção de heterogeneidade ordenada: a variação é sistemática, condicionada por fatores linguísticos e sociais, e integra a descrição da língua.
+---
+A língua brasileira de sinais (LIBRAS) constitui língua, e não mera linguagem gestual, por apresentar sistema linguístico completo, ainda que de modalidade gesto-visual.
+= C
+> A Libras é reconhecida como língua (Lei n.º 10.436/2002), com sistema próprio e níveis de análise linguística. É de modalidade gesto-visual, e não oral-auditiva.
+---
+Na concepção de linguagem como forma de interação, a língua é entendida como código fechado por meio do qual um emissor transmite uma mensagem a um receptor, cabendo a este apenas decodificá-la.
+= E
+> O item descreve a concepção de linguagem como instrumento de comunicação, que vê a língua como código. Na concepção interacionista, a linguagem é lugar de ação e de constituição dos sujeitos.
+---
+@texto -
