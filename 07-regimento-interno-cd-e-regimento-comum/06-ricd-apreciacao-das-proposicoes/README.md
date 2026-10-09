@@ -27,6 +27,6 @@
 | 6.2 | [Apreciação preliminar; turnos; interstício](./6.2-apreciacao-preliminar-turnos-e-intersticio/) | arts. 144 a 150 | ✍️ | ⬜ |
 | 6.3 | [Regime de tramitação e urgência](./6.3-regimes-de-tramitacao-e-urgencia/) | arts. 151 a 157 | ✍️ | ⬜ |
 | 6.4 | [Prioridade, preferência, destaque e prejudicialidade](./6.4-prioridade-preferencia-destaque-prejudicialidade/) | arts. 158 a 164 | ✍️ | ⬜ |
-| 6.5 | [Discussão (inscrição, uso da palavra, adiamento, encerramento, emendas)](./6.5-discussao/) | arts. 165 a 179 | ✍️ | ⬜ |
+| 6.5 | [Discussão (inscrição, uso da palavra, adiamento, encerramento, emendas)](./6.5-discussao/) | arts. 165 a 179 | ✍️ | 🟨 |
 | 6.6 | [Votação (modalidades e processos, processamento, encaminhamento, adiamento)](./6.6-votacao/) | arts. 180 a 193 | ✍️ | ⬜ |
 | 6.7 | [Redação do vencido, redação final e autógrafos](./6.7-redacao-do-vencido-redacao-final-e-autografos/) | arts. 194 a 200 | ✍️ | ⬜ |

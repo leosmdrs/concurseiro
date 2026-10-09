@@ -3,7 +3,7 @@
 **Norma:** Regimento Interno da Câmara dos Deputados (Resolução nº 17/1989) — **arts. 165 a 179**
 **Edital:** Parte **específica** do edital (objetiva **e discursiva**)
 **Discursiva:** ✍️ **Pode cair na discursiva.**
-**Status:** ⬜ não iniciado
+**Status:** 🟨 em estudo
 
 ## Edital (literal)
 

@@ -1,0 +1,196 @@
+@banca CEBRASPE (inédita)
+@ano 2026
+@orgao Câmara dos Deputados
+@cargo Analista Legislativo – Registro e Redação
+
+@texto RICD — Da Discussão (arts. 165 a 179)
+Com base no Regimento Interno da Câmara dos Deputados (Resolução n.º 17/1989 e suas alterações), julgue os itens a seguir, acerca da discussão das proposições.
+@fim
+
+Discussão é a fase dos trabalhos destinada ao debate em Plenário e será feita sobre o conjunto da proposição e das emendas, se houver.
+= C
+> Art. 165, caput e § 1.º, literal.
+---
+A proposição com a discussão encerrada na legislatura anterior poderá ter a discussão reaberta, para receber novas emendas, desde que haja requerimento de Líder aprovado pelo Plenário.
+= E
+> Art. 166: a proposição "terá sempre a discussão reaberta para receber novas emendas". A reabertura é automática e não depende de requerimento nem de deliberação.
+---
+A proposição com todos os pareceres favoráveis poderá ter a discussão dispensada por decisão do Presidente da Câmara, de ofício, quando a matéria estiver em regime de urgência.
+= E
+> Art. 167: a dispensa da discussão ocorre "por deliberação do Plenário, mediante requerimento de Líder". Não é ato do Presidente, e o regimento não a condiciona ao regime de urgência.
+---
+A dispensa da discussão de proposição deverá ser requerida ao ser anunciada a matéria e não prejudica a apresentação de emendas.
+= C
+> Art. 167, parágrafo único, literal.
+---
+Excetuados os projetos de código, nenhuma matéria ficará inscrita na Ordem do Dia para discussão por mais de quatro sessões, em turno único ou primeiro turno, e por mais de duas sessões, em segundo turno.
+= C
+> Art. 168, caput. Guarde: 4 sessões (turno único ou 1.º turno) e 2 sessões (2.º turno). Projetos de código são exceção.
+---
+Os projetos de código, assim como as demais matérias, não poderão permanecer inscritos na Ordem do Dia para discussão por mais de quatro sessões em primeiro turno.
+= E
+> O art. 168 excetua expressamente os projetos de código do limite de sessões de discussão.
+---
+Após a primeira sessão de discussão, a Câmara poderá, mediante proposta do Presidente, ordenar a discussão; aprovada a proposta, o Presidente fixará a ordem dos que desejam debater a matéria, admitindo-se novas inscrições até o encerramento da discussão.
+= E
+> Art. 168, §§ 1.º e 2.º: na discussão ordenada, o Presidente fixa a ordem dos debatedores, o número previsível de sessões e as datas, "não se admitindo inscrição nova".
+---
+Havendo orador na tribuna, o deputado poderá solicitar a palavra para levantar questão de ordem, desde que com permissão do orador, e o tempo utilizado será computado no de que este dispõe.
+= C
+> Art. 169. As exceções são requerer prorrogação de prazo, levantar questão de ordem ou fazer comunicação de natureza urgentíssima, sempre com permissão do orador e com o tempo descontado do orador.
+---
+Para fazer comunicação de natureza urgentíssima, o deputado poderá solicitar a palavra mesmo havendo orador na tribuna, independentemente da permissão deste, caso em que o tempo utilizado será acrescido ao do orador.
+= E
+> Art. 169: mesmo nas exceções, é preciso a "permissão do orador", e o tempo usado é "computado no de que este dispõe", e não acrescido a ele.
+---
+O Presidente solicitará ao orador que estiver debatendo matéria em discussão que interrompa o seu discurso quando houver número legal para deliberar, procedendo-se imediatamente à votação.
+= C
+> Art. 170, I.
+---
+Entre as hipóteses em que o Presidente solicitará a interrupção do orador, inclui-se a recepção de personalidade de excepcional relevo, independentemente de reconhecimento pelo Plenário.
+= E
+> Art. 170, IV: a personalidade de excepcional relevo deve ser "assim reconhecida pelo Plenário". Chefes de qualquer Poder e Presidentes de Câmara ou Assembleia estrangeira dispensam esse reconhecimento.
+---
+A ocorrência de tumulto grave no recinto ou no edifício da Câmara que reclame a suspensão ou o levantamento da sessão constitui hipótese em que o Presidente solicitará ao orador que interrompa seu discurso.
+= C
+> Art. 170, VI.
+---
+Os deputados que desejarem discutir proposição incluída na Ordem do Dia devem inscrever-se previamente na Mesa, antes do início da discussão, e os oradores terão a palavra na ordem de inscrição, alternadamente a favor e contra.
+= C
+> Art. 171, caput e § 1.º.
+---
+É vedada a permuta de inscrição entre os deputados, e o deputado que não se encontrar presente na hora da chamada será reinscrito ao final da lista de oradores.
+= E
+> Art. 171, § 2.º: a permuta é permitida, e quem não estiver presente na hora da chamada "perderá definitivamente a inscrição".
+---
+Na discussão de projeto de iniciativa popular, o primeiro subscritor, ou quem este houver indicado para defendê-lo, falará antes dos oradores inscritos, transformando-se a Câmara, nesse momento, em Comissão Geral, sob a direção de seu Presidente.
+= C
+> Art. 171, § 3.º.
+---
+@texto Situação hipotética — ordem da palavra
+Durante a discussão de um projeto de lei em Plenário, pediram a palavra simultaneamente, sobre o mesmo assunto, os seguintes deputados: o Relator da matéria; o Autor de uma emenda; um deputado favorável ao projeto; o Autor do projeto; e o Autor de voto em separado.
+Considerando essa situação hipotética e o disposto no Regimento Interno da Câmara dos Deputados, julgue os itens seguintes.
+@fim
+
+O Presidente deverá conceder a palavra primeiramente ao Relator, a quem cabe expor o parecer da comissão, e, em seguida, ao Autor do projeto.
+= E
+> Art. 172: a ordem é Autor da proposição (I), Relator (II), Autor de voto em separado (III), Autor da emenda (IV), deputado contrário (V) e deputado favorável (VI). O Autor do projeto fala antes do Relator.
+---
+O Autor de voto em separado terá precedência sobre o Autor da emenda.
+= C
+> Art. 172, III e IV.
+---
+Caso também tivesse pedido a palavra um deputado contrário à matéria, ele falaria antes do deputado favorável.
+= C
+> Art. 172, V e VI: o contrário precede o favorável.
+---
+@texto RICD — Da Discussão (comando geral)
+Ainda com base no Regimento Interno da Câmara dos Deputados, julgue os itens a seguir.
+@fim
+
+Se todos os deputados inscritos para a discussão de determinada proposição forem favoráveis a ela, a palavra lhes será dada pela ordem de inscrição, sem prejuízo da precedência do Autor, do Relator, do Autor de voto em separado e do Autor de emenda.
+= C
+> Art. 172, § 2.º.
+---
+A discussão de proposição com todos os pareceres favoráveis só poderá ser iniciada por orador que a defenda; nessa hipótese, poderão falar contra a matéria oradores em número igual ao dos que a ela se manifestaram favoravelmente.
+= E
+> Art. 172, § 3.º: é o contrário. A discussão "só poderá ser iniciada por orador que a combata", e poderão falar a favor oradores em número igual ao dos que se opuseram.
+---
+Salvo expressa disposição regimental, o deputado só poderá falar uma vez e pelo prazo de cinco minutos na discussão de qualquer projeto.
+= C
+> Art. 174, caput.
+---
+O Autor do projeto e o Relator poderão falar duas vezes cada um na discussão, salvo proibição regimental expressa.
+= C
+> Art. 174, § 2.º.
+---
+Na discussão prévia, só poderão falar o Autor e o Relator do projeto e mais dois deputados, um a favor e outro contra.
+= C
+> Art. 174, § 1.º.
+---
+Qualquer prazo para uso da palavra poderá ser prorrogado pelo Presidente, pela metade, no máximo, inclusive quando se tratar de proposição em regime de urgência ou em segundo turno.
+= E
+> Art. 174, § 4.º: a prorrogação pela metade, no máximo, só cabe "se não se tratar de proposição em regime de urgência ou em segundo turno".
+---
+Havendo três ou mais oradores inscritos para a discussão da mesma proposição, não será concedida prorrogação de tempo.
+= C
+> Art. 174, § 5.º.
+---
+O deputado que usar a palavra sobre a proposição em discussão não poderá falar sobre o vencido nem falar em sentido diverso daquele para o qual se inscreveu, sob pena de ser-lhe retirada a palavra.
+= C
+> Art. 175, II e V. As demais vedações são desviar-se da questão em debate, usar linguagem imprópria e ultrapassar o prazo regimental.
+---
+Aparte é a interrupção, breve e oportuna, do orador para indagação ou esclarecimento relativos à matéria em debate, e o deputado só poderá apartear se o solicitar e obtiver permissão, devendo permanecer de pé ao fazê-lo.
+= C
+> Art. 176, caput e § 1.º.
+---
+Admite-se aparte por ocasião do encaminhamento de votação, desde que o orador o permita expressamente.
+= E
+> Art. 176, § 2.º, IV: não se admite aparte no encaminhamento de votação, mesmo com permissão. Também são vedados apartes à palavra do Presidente, paralelos a discurso, a parecer oral, quando o orador não os permite, durante questão de ordem ou reclamação e nas comunicações do art. 66.
+---
+Os apartes não se incluem no tempo destinado ao orador, a fim de não prejudicar a exposição de quem está na tribuna.
+= E
+> Art. 176, § 3.º: os apartes "incluem-se no tempo destinado ao orador".
+---
+Os apartes só serão sujeitos à revisão do Autor se permitida pelo orador, que poderá modificá-los para adequá-los ao seu discurso.
+= E
+> Art. 176, § 5.º: o orador permite a revisão, mas "não poderá modificá-los".
+---
+Não serão publicados os apartes proferidos em desacordo com os dispositivos regimentais.
+= C
+> Art. 176, § 4.º. Ponto relevante para o trabalho de registro e redação.
+---
+@texto Situação hipotética — adiamento da discussão
+Três proposições foram incluídas na Ordem do Dia: uma proposta de emenda à Constituição (PEC); um projeto de lei em regime de prioridade; e um projeto de lei em regime de urgência. Antes de iniciada a discussão de cada uma delas, foram apresentados requerimentos de adiamento.
+Considerando essa situação hipotética e o disposto no Regimento Interno da Câmara dos Deputados, julgue os itens a seguir.
+@fim
+
+Quanto à PEC, o adiamento da discussão poderá ser concedido pelo prazo de cinco sessões, mediante requerimento assinado por Líder, Autor ou Relator.
+= C
+> Art. 177, caput e III: proposições de tramitação ordinária e PECs têm adiamento de cinco sessões. O requerimento é assinado por Líder, Autor ou Relator.
+---
+O projeto em regime de prioridade poderá ter sua discussão adiada por até cinco sessões.
+= E
+> Art. 177, II: nas proposições com prioridade, o prazo é de três sessões. Guarde: urgência 1, prioridade 3, ordinária/PEC 5.
+---
+Para o projeto em regime de urgência, o adiamento da discussão, pelo prazo de uma sessão, exige requerimento subscrito por um décimo dos membros da Câmara ou por Líderes que representem esse número.
+= C
+> Art. 177, I e § 1.º.
+---
+Se a discussão de uma dessas matérias já tiver sido adiada uma vez, novo adiamento somente poderá ocorrer ante a alegação, reconhecida pelo Presidente da Câmara, de erro na publicação.
+= C
+> Art. 177, § 3.º.
+---
+@texto RICD — Da Discussão (comando geral)
+Ainda com base no Regimento Interno da Câmara dos Deputados, julgue os itens a seguir.
+@fim
+
+O adiamento da discussão poderá ser requerido a qualquer tempo, inclusive após iniciada a discussão do projeto, desde que antes de seu encerramento.
+= E
+> Art. 177, caput: o adiamento é permitido "antes de ser iniciada a discussão".
+---
+Consideram-se prejudicados os requerimentos de adiamento da discussão apresentados após a rejeição do requerimento de retirada da proposição da Ordem do Dia.
+= C
+> Art. 163, IX, ao qual remete o art. 177.
+---
+O encerramento da discussão dar-se-á pela ausência de oradores, pelo decurso dos prazos regimentais ou por deliberação do Plenário.
+= C
+> Art. 178, caput. Sem orador inscrito, declara-se encerrada a discussão (§ 1.º).
+---
+O requerimento de encerramento da discussão será submetido a votação desde que subscrito por um décimo dos membros da Casa e desde que a proposição tenha sido discutida por, pelo menos, seis oradores.
+= E
+> Art. 178, § 2.º: o requerimento deve ser subscrito por cinco centésimos dos membros da Casa (ou Líderes que representem esse número), após discussão por pelo menos doze oradores. O "um décimo" é exigido no adiamento da discussão de matéria urgente (art. 177, § 1.º).
+---
+Submetido a votação o requerimento de encerramento da discussão, será permitido o encaminhamento da votação pelo prazo de três minutos, por um orador contra e um a favor.
+= C
+> Art. 178, § 2.º, parte final.
+---
+A aprovação do requerimento de encerramento da discussão impede, na mesma sessão, a apresentação de requerimento de adiamento de votação, salvo se o Relator reformular o parecer para promover alterações de mérito.
+= C
+> Art. 178, § 4.º (incluído pela Resolução n.º 21/2021).
+---
+Encerrada a discussão do projeto com emendas, a matéria será imediatamente submetida a votação em Plenário, cabendo ao Relator de Plenário manifestar-se oralmente sobre as emendas.
+= E
+> Art. 179: encerrada a discussão com emendas, a matéria "irá às Comissões que a devam apreciar". Publicados os pareceres sobre as emendas e distribuídos os avulsos, ela poderá figurar na Ordem do Dia, obedecido o interstício. Para matérias urgentes, observe as regras próprias da urgência (arts. 152 a 157).
+---
+@texto -
