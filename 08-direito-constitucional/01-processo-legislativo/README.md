@@ -1,4 +1,4 @@
-# Processo legislativo
+# Processo legislativo: disposições gerais; LO e LC; fases
 
 **Disciplina:** Direito Constitucional
 **Prioridade (incidência × pertinência p/ o cargo):** Alta
@@ -15,6 +15,17 @@
   - Subseção I — Disposição geral (art. 59)
   - Subseção II — Da Emenda à Constituição (art. 60)
   - Subseção III — Das Leis (arts. 61 a 69)
+
+## Subtópicos
+
+| # | Subtópico | Base na CF | Status |
+|---|---|---|---|
+| — | **Disposições gerais; LO e LC; fases** (conteúdo do próprio tópico) | arts. 59, 61, 63 a 67 e 69 | ⬜ |
+| 1.1 | [Emenda à Constituição](./1.1-emenda-a-constituicao/) | art. 60 | ⬜ |
+| 1.2 | [Leis delegadas](./1.2-leis-delegadas/) | art. 68 | ⬜ |
+| 1.3 | [Resoluções e decretos legislativos](./1.3-resolucoes-e-decretos-legislativos/) | art. 59, VI e VII (+ arts. 49, 51 e 52) | ⬜ |
+
+> **Medida provisória (art. 62)** não aparece como subtópico na lista enviada; o texto continua na bibliografia do tópico.
 
 ## Ligações com outras disciplinas
 
