@@ -3,13 +3,16 @@
 **Disciplina:** Direito Constitucional
 **Prioridade (incidência × pertinência p/ o cargo):** Alta
 **Discursiva:** ⚠️ a confirmar com o edital
-**Status:** ⬜ não iniciado
+**Status:** 🟨 em estudo (material de estudo pronto)
 
 ## Edital (literal)
 
 > _(a preencher: colar o trecho do edital em que o tópico aparece)_
 
 ## Bibliografia
+
+- **Aula-base:** Estratégia, *Câmara dos Deputados – Direito Constitucional*, Aula 11 (Processo Legislativo e Reforma Constitucional): `material/aula-11-estrategia-processo-legislativo-e-reforma-constitucional.pdf` (+ `.txt`)
+- **Caderno de questões:** TEC, "59. Processo legislativo", 196 questões CEBRASPE: `material/caderno-tec-59-processo-legislativo-cebraspe.pdf` (+ `.txt`)
 
 - **CF/1988, arts. 59 a 69** (Seção VIII — Do Processo Legislativo): [`material/cf88-arts-59-a-69-processo-legislativo.md`](./material/cf88-arts-59-a-69-processo-legislativo.md)
   - Subseção I — Disposição geral (art. 59)
@@ -20,7 +23,7 @@
 
 | # | Subtópico | Base na CF | Status |
 |---|---|---|---|
-| — | **Disposições gerais; LO e LC; fases** (conteúdo do próprio tópico) | arts. 59, 61, 63 a 67 e 69 | ⬜ |
+| — | **Disposições gerais; LO e LC; fases** (conteúdo do próprio tópico) · [resumo](./resumo.md) | arts. 59, 61, 63 a 67 e 69 | 🟨 |
 | 1.1 | [Emenda à Constituição](./1.1-emenda-a-constituicao/) | art. 60 | ⬜ |
 | 1.2 | [Leis delegadas](./1.2-leis-delegadas/) | art. 68 | ⬜ |
 | 1.3 | [Resoluções e decretos legislativos](./1.3-resolucoes-e-decretos-legislativos/) | art. 59, VI e VII (+ arts. 49, 51 e 52) | ⬜ |
