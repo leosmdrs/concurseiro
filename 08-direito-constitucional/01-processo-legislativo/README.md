@@ -19,6 +19,10 @@
   - Subseção II — Da Emenda à Constituição (art. 60)
   - Subseção III — Das Leis (arts. 61 a 69)
 
+## Jurisprudência
+
+- [`jurisprudencia-2021-2026.md`](./jurisprudencia-2021-2026.md): STF, últimos 5 anos (iniciativa, emendas, veto, MP, orçamento), com precedentes anteriores ainda cobrados
+
 ## Subtópicos
 
 | # | Subtópico | Base na CF | Status |
