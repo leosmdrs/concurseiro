@@ -240,7 +240,7 @@ Na maioria dos casos, a Câmara é a casa iniciadora.
 
 🔎 **A sanção NÃO convalida vício de iniciativa** (jurisprudência do STF). É o tema mais repetido do caderno: PG-DF 2022, TRT8 2016, TJ-SC 2023 e outros.
 - Também não convalida **vício de emenda**.
-- 🔎 TCE-RN 2026: a iniciativa reservada **não se considera atendida** quando um parlamentar propõe o projeto, **ainda que** o Chefe do Executivo envie, ao mesmo tempo, projeto **substancialmente idêntico**.
+- 🔎 **Exceção cobrada (TCE-RN 2026):** a reserva de iniciativa **considera-se atendida** quando o parlamentar propõe o projeto **e, simultaneamente, o Chefe do Executivo envia projeto substancialmente idêntico**. A CEBRASPE deu **Errado** para a afirmação de que, nesse caso, a reserva "não poderá ser considerada atendida".
 
 ### Veto
 

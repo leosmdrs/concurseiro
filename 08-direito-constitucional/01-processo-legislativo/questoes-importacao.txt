@@ -1,0 +1,176 @@
+@banca CEBRASPE (inédita)
+@ano 2026
+@orgao Câmara dos Deputados
+@cargo Analista Legislativo – Registro e Redação
+
+@texto Processo legislativo — nível fácil
+Com base na Constituição Federal de 1988 (CF), julgue os itens a seguir, relativos ao processo legislativo.
+@fim
+
+O processo legislativo compreende a elaboração de emendas à Constituição, leis complementares, leis ordinárias, leis delegadas, medidas provisórias, decretos legislativos e resoluções.
+= C
+> [Fácil] Art. 59 da CF, literal. Decretos regulamentares e portarias não integram o processo legislativo.
+---
+A iniciativa popular, no âmbito federal, é exercida pela apresentação de projeto de lei ao Senado Federal, subscrito por, no mínimo, um por cento do eleitorado nacional.
+= E
+> [Fácil] Art. 61, § 2.º: o projeto é apresentado à Câmara dos Deputados, subscrito por, no mínimo, 1% do eleitorado nacional, distribuído por pelo menos cinco Estados, com não menos de 0,3% dos eleitores de cada um deles.
+---
+As leis complementares serão aprovadas por maioria absoluta.
+= C
+> [Fácil] Art. 69 da CF. A lei ordinária é aprovada por maioria simples (art. 47).
+---
+Decorrido o prazo de quinze dias úteis sem manifestação do presidente da República, o silêncio importará veto tácito do projeto de lei.
+= E
+> [Fácil] Art. 66, § 3.º: o silêncio importa sanção (tácita). Não existe veto tácito: o veto é sempre expresso e motivado.
+---
+O veto parcial somente abrangerá texto integral de artigo, de parágrafo, de inciso ou de alínea.
+= C
+> [Fácil] Art. 66, § 2.º. Não se admite veto de palavras ou expressões isoladas.
+---
+O veto presidencial será apreciado separadamente pelo Plenário de cada Casa do Congresso Nacional, em sessões próprias.
+= E
+> [Fácil] Art. 66, § 4.º: o veto é apreciado em sessão conjunta, dentro de trinta dias do recebimento.
+---
+O projeto de lei aprovado por uma Casa será revisto pela outra em dois turnos de discussão e votação.
+= E
+> [Fácil] Art. 65: a Casa revisora aprecia o projeto em um só turno de discussão e votação.
+---
+Sendo emendado pela Casa revisora, o projeto de lei voltará à Casa iniciadora.
+= C
+> [Fácil] Art. 65, parágrafo único.
+---
+São de iniciativa privativa do presidente da República as leis que disponham sobre servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria.
+= C
+> [Fácil] Art. 61, § 1.º, II, "c". É a hipótese de iniciativa privativa mais cobrada.
+---
+Segundo o entendimento do STF, a sanção do chefe do Poder Executivo convalida o vício de iniciativa de lei cuja matéria era de sua iniciativa privativa.
+= E
+> [Fácil] Jurisprudência pacífica do STF: a sanção não supre nem convalida o vício de iniciativa (nem o vício de emenda).
+---
+@texto Processo legislativo — nível médio
+Com base na CF e na jurisprudência do STF, julgue os itens a seguir.
+@fim
+
+A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros de qualquer das Casas do Congresso Nacional.
+= C
+> [Média] Art. 67 (irrepetibilidade relativa). Para a PEC rejeitada ou prejudicada, a vedação na mesma sessão legislativa é absoluta (art. 60, § 5.º).
+---
+A iniciativa popular pode ser utilizada para a apresentação de leis ordinárias, leis complementares e propostas de emenda à Constituição Federal.
+= E
+> [Média] A iniciativa popular cabe para leis ordinárias e complementares, mas não para PEC federal (art. 60 não a prevê). O STF admite que Constituição estadual preveja iniciativa popular de emenda à própria Constituição estadual.
+---
+Toda lei que verse sobre matéria tributária é de iniciativa privativa do presidente da República.
+= E
+> [Média] Art. 61, § 1.º, II, "b": a iniciativa privativa alcança a matéria tributária dos Territórios. Fora disso, a iniciativa em matéria tributária é comum.
+---
+Os parlamentares podem apresentar emendas a projeto de lei de iniciativa privativa do presidente da República, desde que guardem pertinência temática com a proposição e não acarretem aumento de despesa, ressalvadas as hipóteses constitucionais relativas às leis orçamentárias.
+= C
+> [Média] Art. 63, I, c/c art. 166, §§ 3.º e 4.º, e jurisprudência do STF (pertinência temática).
+---
+A vedação de aumento de despesa nos projetos sobre organização dos serviços administrativos dos tribunais federais estende-se, segundo o STF, aos projetos de lei sobre organização judiciária.
+= E
+> [Média] O art. 63, II, alcança apenas os serviços administrativos estruturados nas secretarias dos tribunais, e não a organização judiciária.
+---
+O presidente da República somente poderá solicitar urgência para a apreciação de projetos de lei de sua iniciativa privativa.
+= E
+> [Média] Art. 64, § 1.º: a urgência pode ser solicitada para projetos de sua iniciativa, privativa ou não.
+---
+Solicitada a urgência pelo presidente da República, se a Câmara dos Deputados e o Senado Federal não se manifestarem sobre a proposição, cada qual sucessivamente, em até quarenta e cinco dias, sobrestar-se-ão as demais deliberações legislativas da respectiva Casa, com exceção das que tenham prazo constitucional determinado; esses prazos não correm no recesso nem se aplicam aos projetos de código.
+= C
+> [Média] Art. 64, §§ 2.º e 4.º. Com os dez dias para a Câmara apreciar emendas do Senado (§ 3.º), o rito pode durar até cem dias.
+---
+Esgotado sem deliberação o prazo de trinta dias para apreciação do veto, ficam sobrestadas as deliberações das sessões da Câmara dos Deputados e do Senado Federal até a votação final do veto.
+= E
+> [Média] Art. 66, § 6.º: o veto é colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições. O trancamento atinge a pauta da sessão conjunta do Congresso Nacional, e não as sessões de cada Casa.
+---
+Nos casos de sanção tácita e de rejeição do veto, se a lei não for promulgada pelo presidente da República em quarenta e oito horas, o presidente do Senado a promulgará e, se este não o fizer em igual prazo, caberá ao vice-presidente do Senado fazê-lo.
+= C
+> [Média] Art. 66, § 7.º.
+---
+A publicação é condição de existência da lei, que somente nasce para o mundo jurídico com sua divulgação oficial.
+= E
+> [Média] A promulgação atesta a existência da lei; a publicação é condição de eficácia. Publicação também não se confunde com entrada em vigor.
+---
+Os projetos de lei de iniciativa do STF e dos tribunais superiores terão sua discussão e votação iniciadas na Câmara dos Deputados.
+= C
+> [Média] Art. 64, caput. Também começam na Câmara os projetos do presidente da República; o art. 61, § 2.º, leva para lá os de iniciativa popular.
+---
+As leis ordinárias são hierarquicamente inferiores às leis complementares.
+= E
+> [Média] A diferença entre LC e LO é de campo material (matérias expressamente reservadas à LC) e de quórum (maioria absoluta), e não de hierarquia. Em prova da CEBRASPE (SEBRAE, 2024), foi dado como errado afirmar a inferioridade hierárquica da LO.
+---
+@texto Situação hipotética — tramitação bicameral
+Um deputado federal apresentou projeto de lei ordinária, aprovado pela Câmara dos Deputados. No Senado Federal, o projeto foi aprovado com emendas, e retornou à Câmara, que rejeitou as emendas do Senado.
+Com base nessa situação hipotética e na CF, julgue os itens a seguir.
+@fim
+
+O projeto será encaminhado à sanção com o texto aprovado pela Câmara dos Deputados, sem as emendas do Senado Federal.
+= C
+> [Média] Art. 65, parágrafo único: a Casa iniciadora dá a palavra final sobre as emendas da revisora. Rejeitadas, segue à sanção o texto da iniciadora.
+---
+Ao apreciar as emendas do Senado, a Câmara poderia ter apresentado subemendas, para conciliar os textos aprovados pelas duas Casas.
+= E
+> [Média] A Casa iniciadora apenas aceita ou rejeita as emendas da revisora, sem subemendá-las.
+---
+Se, durante a tramitação no Senado, um partido político considerasse violada norma constitucional do processo legislativo, poderia impetrar mandado de segurança no STF para sustar a tramitação do projeto.
+= E
+> [Média] O controle judicial preventivo por mandado de segurança só pode ser provocado por parlamentar da Casa em que tramita a proposição (no caso, senador), e apenas por vício formal.
+---
+@texto Situação hipotética — iniciativa e emenda no âmbito estadual
+O governador de determinado estado encaminhou à assembleia legislativa projeto de lei que criava cargos na administração direta estadual. Durante a tramitação, deputados estaduais aprovaram emenda que aumentava a remuneração dos novos cargos além do previsto no projeto original. O projeto foi aprovado e o governador o sancionou integralmente.
+Com base nessa situação hipotética, na CF e na jurisprudência do STF, julgue os itens seguintes.
+@fim
+
+A lei é formalmente inconstitucional na parte decorrente da emenda parlamentar, e a sanção do governador não supre o vício.
+= C
+> [Difícil] Por simetria, aplicam-se aos estados a iniciativa reservada (art. 61, § 1.º, II, "a") e a vedação de aumento de despesa por emenda em projeto de iniciativa exclusiva do Executivo (art. 63, I). A sanção não convalida vício de emenda (Tema 686 e jurisprudência pacífica).
+---
+Por força da autonomia dos estados-membros, a Constituição estadual poderia admitir emendas parlamentares com aumento de despesa em projetos de iniciativa privativa do governador.
+= E
+> [Difícil] As regras básicas do processo legislativo federal, incluídos os limites do poder de emenda, são de observância obrigatória para estados, DF e municípios (simetria).
+---
+@texto Processo legislativo — nível difícil (CF e jurisprudência)
+Considerando a CF e a jurisprudência recente do STF, julgue os itens a seguir.
+@fim
+
+Não usurpa a competência privativa do chefe do Poder Executivo lei de iniciativa parlamentar que, embora crie despesa para a administração pública, não trate da sua estrutura ou da atribuição de seus órgãos nem do regime jurídico de servidores públicos.
+= C
+> [Difícil] Tese do Tema 917 da repercussão geral (ARE 878.911), aplicada em julgados recentes: lei estadual de reserva de vagas escolares para irmãos (Informativo 1069/2022), Bolsa Aluguel (Informativo 1084/2023) e proteção de cães e gatos abandonados (Informativo 1155/2024).
+---
+Lei estadual de iniciativa parlamentar que concretiza direito fundamental, como a garantia de vaga para irmãos no mesmo estabelecimento de ensino, é formalmente inconstitucional, por impor obrigação ao Poder Executivo.
+= E
+> [Difícil] Segundo o STF (Informativo 1069/2022), lei parlamentar que reafirma ou densifica direitos fundamentais previstos na CF não viola a reserva de iniciativa do chefe do Executivo. A iniciativa reservada não se presume nem comporta interpretação ampliativa.
+---
+É formalmente inconstitucional dispositivo de lei oriundo de emenda parlamentar que, sem estrita pertinência temática com projeto de iniciativa reservada do tribunal de contas estadual, disponha sobre a escolha e a nomeação de seus conselheiros.
+= C
+> [Difícil] Informativo 1148 do STF (caso da LC n.º 167/2022 de Minas Gerais): a emenda a projeto de iniciativa reservada exige estrita pertinência temática com a matéria originalmente proposta.
+---
+Ainda que guarde pertinência temática com o projeto de iniciativa do chefe do Executivo, é inconstitucional a emenda parlamentar que crie ou aumente despesa obrigatória sem a estimativa de seu impacto orçamentário e financeiro.
+= C
+> [Difícil] Informativo 1194 do STF: além do art. 63, I, da CF, o STF invocou o art. 113 do ADCT, que exige estimativa de impacto orçamentário e financeiro para proposição que crie ou altere despesa obrigatória.
+---
+O veto presidencial publicado após o decurso do prazo constitucional de quinze dias úteis é válido se mantido pelo Congresso Nacional, pois a deliberação legislativa supre o vício de tempestividade.
+= E
+> [Difícil] ADPF 893 (2022): o poder de veto não pode ser exercido após o prazo do art. 66, § 1.º. O veto intempestivo é inconstitucional, e sua manutenção pelo Congresso não sana o vício, porque ele sequer poderia ter sido apreciado.
+---
+Embora o mérito do veto não se sujeite ao controle do Poder Judiciário, a tempestividade de sua oposição pode ser objeto de controle jurisdicional.
+= C
+> [Difícil] As razões do veto (juízo político) são insindicáveis, mas o STF controlou o veto intempestivo na ADPF 893.
+---
+Segundo o STF, configura contrabando legislativo qualquer emenda parlamentar a medida provisória cujo conteúdo não coincida integralmente com o objeto do texto original.
+= E
+> [Difícil] Na ADI 5769 (2023), o STF assentou que só são impertinentes as emendas sobre matéria totalmente estranha à MP, sem conexão ou afinidade com seu tema. A vedação ao contrabando legislativo vem da ADI 5127 (2015), com efeitos ex nunc.
+---
+A lei complementar que estabelece a organização, as atribuições e o estatuto do Ministério Público da União é de iniciativa privativa do procurador-geral da República.
+= E
+> [Difícil] A iniciativa é concorrente entre o procurador-geral da República (art. 128, § 5.º) e o presidente da República (art. 61, § 1.º, II, "d"). Nos estados, a lei complementar do MP estadual é de iniciativa do procurador-geral de justiça.
+---
+Por se tratar de prerrogativa do Legislativo, o Congresso Nacional pode fixar prazo para que o presidente da República apresente projeto de lei sobre matéria de sua iniciativa privativa.
+= E
+> [Difícil] A fixação de prazo pelo Legislativo para o exercício de iniciativa reservada ofende a separação de Poderes, ressalvados os prazos fixados pela própria CF. A mora pode ser reconhecida por mandado de injunção ou ADO.
+---
+A reserva constitucional de iniciativa não poderá ser considerada atendida caso parlamentar proponha projeto de lei sobre matéria de iniciativa privativa do chefe do Poder Executivo, ainda que este envie, simultaneamente, projeto de lei substancialmente idêntico.
+= E
+> [Difícil] Item cobrado pela CEBRASPE (TCE-RN, 2026) com gabarito Errado: segundo o entendimento adotado, o envio simultâneo, pelo chefe do Executivo, de projeto substancialmente idêntico atende a reserva de iniciativa.
+---
+@texto -

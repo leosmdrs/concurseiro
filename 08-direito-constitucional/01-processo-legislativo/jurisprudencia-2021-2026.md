@@ -31,6 +31,8 @@
 
 **Fio condutor (aplicação do Tema 917, de 2016):** "não usurpa a competência privativa do Chefe do Poder Executivo lei que, embora crie despesa para a Administração, **não trata da sua estrutura ou da atribuição de seus órgãos nem do regime jurídico de servidores públicos**". Os julgados acima aplicam esse critério.
 
+> 🔎 **Iniciativa reservada atendida por projeto idêntico do Executivo:** a CEBRASPE (TCE-RN, 2026, item sobre "entendimento dos tribunais superiores") deu **Errado** para a afirmação de que a reserva de iniciativa "não poderá ser considerada atendida" quando o parlamentar propõe o projeto e, **simultaneamente**, o Chefe do Executivo envia **projeto substancialmente idêntico**. Ou seja: nesse cenário, a reserva **é considerada atendida**. Não localizei o acórdão de origem; confira antes de citar.
+
 > A **iniciativa reservada não se presume** e **não comporta interpretação ampliativa**: precisa estar expressa na Constituição. É o argumento que sustenta as validações acima.
 
 ### 1.2 Leis de iniciativa parlamentar que o STF derrubou
@@ -122,6 +124,7 @@ Não estão no recorte, mas os julgados acima se apoiam neles.
 | O veto apresentado após o prazo de 15 dias úteis torna-se válido se mantido pelo Congresso Nacional. | **E** | ADPF 893 |
 | Qualquer emenda parlamentar a MP que não reproduza exatamente seu objeto configura contrabando legislativo. | **E**: só a matéria **totalmente estranha** | ADI 5769 |
 | A sanção do Chefe do Executivo convalida o vício de iniciativa de lei aprovada por emenda parlamentar. | **E** | Jurisprudência pacífica |
+| A reserva de iniciativa não pode ser considerada atendida se o parlamentar propõe o projeto, ainda que o Chefe do Executivo envie simultaneamente projeto substancialmente idêntico. | **E** | CEBRASPE, TCE-RN 2026 |
 | Lei estadual de iniciativa parlamentar pode restringir o poder sancionador do Tribunal de Contas. | **E** | Inf. 1192 |
 
 ---
