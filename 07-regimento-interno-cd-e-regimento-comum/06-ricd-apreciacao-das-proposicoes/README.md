@@ -23,7 +23,7 @@
 
 | # | Subtópico | Artigos | Discursiva | Status |
 |---|---|---|---|---|
-| 6.1 | [Tramitação; recebimento e distribuição das proposições](./6.1-tramitacao-recebimento-e-distribuicao/) | arts. 131 a 143 | ✍️ | ⬜ |
+| 6.1 | [Tramitação; recebimento e distribuição das proposições](./6.1-tramitacao-recebimento-e-distribuicao/) | arts. 131 a 143 | ✍️ | 🟨 |
 | 6.2 | [Apreciação preliminar; turnos; interstício](./6.2-apreciacao-preliminar-turnos-e-intersticio/) | arts. 144 a 150 | ✍️ | ⬜ |
 | 6.3 | [Regime de tramitação e urgência](./6.3-regimes-de-tramitacao-e-urgencia/) | arts. 151 a 157 | ✍️ | ⬜ |
 | 6.4 | [Prioridade, preferência, destaque e prejudicialidade](./6.4-prioridade-preferencia-destaque-prejudicialidade/) | arts. 158 a 164 | ✍️ | ⬜ |

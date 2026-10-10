@@ -1,0 +1,59 @@
+@banca CEBRASPE (inédita)
+@ano 2026
+@orgao Câmara dos Deputados
+@cargo Analista Legislativo – Registro e Redação
+
+@texto RICD — Da Tramitação (arts. 131 a 136)
+Com base no Regimento Interno da Câmara dos Deputados (Resolução n.º 17/1989 e suas alterações), julgue os itens a seguir, acerca da tramitação das proposições.
+@fim
+
+Cada proposição, salvo emenda, recurso ou parecer, terá curso próprio.
+= C
+> Art. 131, literal. Emendas, recursos e pareceres acompanham a proposição a que se referem.
+---
+Apresentada e lida perante o Plenário, a proposição será objeto de decisão da Mesa, nos casos de requerimentos sujeitos a despacho apenas do Presidente, e do Presidente, nas hipóteses de requerimentos que exigem a oitiva da Mesa.
+= E
+> Art. 132, I e II: está invertido. Decide o Presidente nos casos do art. 114 (requerimentos sujeitos a despacho apenas do Presidente) e a Mesa nas hipóteses do art. 115 (despacho do Presidente, ouvida a Mesa).
+---
+Antes da deliberação do Plenário, haverá manifestação das comissões competentes para estudo da matéria, inclusive quando se tratar de requerimento.
+= E
+> Art. 132, § 1.º: a manifestação prévia das comissões é a regra, "exceto quando se tratar de requerimento".
+---
+@texto Situação hipotética — recurso contra apreciação conclusiva
+Um projeto de lei sujeito à apreciação conclusiva foi aprovado pelas comissões, e o respectivo anúncio foi publicado no Diário da Câmara dos Deputados e no avulso da Ordem do Dia. Na quarta sessão seguinte à publicação, 52 deputados apresentaram, em sessão, recurso para que a matéria fosse apreciada pelo Plenário.
+Considerando essa situação hipotética e o disposto no Regimento Interno da Câmara dos Deputados, julgue os itens a seguir.
+@fim
+
+O recurso atende aos requisitos regimentais de subscrição e de prazo, pois foi apresentado por mais de um décimo dos membros da Casa dentro de cinco sessões da publicação do anúncio.
+= C
+> Art. 132, § 2.º: o recurso exige um décimo dos membros da Casa (513 ÷ 10 = 51,3, ou seja, ao menos 52 deputados) e deve ser apresentado em sessão, no prazo de cinco sessões da publicação do anúncio.
+---
+A simples apresentação do recurso, nos termos regimentais, basta para afastar a apreciação conclusiva e submeter o projeto à discussão e votação do Plenário.
+= E
+> Art. 132, § 2.º: o recurso precisa ser "provido por decisão do Plenário da Câmara". Só então a competência do Plenário deixa de ser dispensada.
+---
+@texto RICD — Da Tramitação (comando geral)
+Ainda com base no Regimento Interno da Câmara dos Deputados, julgue os itens seguintes.
+@fim
+
+Ressalvada a interposição de recurso e excetuados os casos em que as deliberações das comissões não têm eficácia conclusiva, a proposição que receber pareceres contrários, quanto ao mérito, de todas as comissões a que for distribuída será tida como rejeitada e arquivada definitivamente por despacho do Presidente, dando-se conhecimento ao Plenário.
+= C
+> Art. 133, caput. Se a matéria estiver em revisão, dá-se conhecimento também ao Senado.
+---
+O parecer contrário a emenda impede que a proposição principal siga seu curso regimental até que a emenda seja retirada pelo autor.
+= E
+> Art. 133, parágrafo único: "O parecer contrário a emenda não obsta a que a proposição principal siga seu curso regimental."
+---
+Logo que voltar das comissões a que tenha sido remetido, o projeto será anunciado no expediente, publicado com os respectivos pareceres no Diário da Câmara dos Deputados e distribuído em avulsos.
+= C
+> Art. 134, literal.
+---
+Decorridos os prazos regimentais de tramitação, qualquer deputado poderá requerer ao Plenário a inclusão na Ordem do Dia de proposição ainda sem pareceres dos órgãos técnicos.
+= E
+> Art. 135: quem pode requerer é o Autor da proposição; o pedido é dirigido ao Presidente; e a proposição já deve ter recebido pareceres dos órgãos técnicos.
+---
+As deliberações do Plenário ocorrerão na mesma sessão, no caso de requerimentos que devam ser imediatamente apreciados, ou mediante inclusão na Ordem do Dia, nos demais casos.
+= C
+> Art. 136, caput. O parágrafo único foi revogado pela Resolução n.º 1/2023.
+---
+@texto -
