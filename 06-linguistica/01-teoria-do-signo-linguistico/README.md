@@ -2,7 +2,7 @@
 
 **Matéria:** Linguística  
 **Prioridade (incidência × pertinência p/ o cargo):** Alta  
-**Status:** 🟨 em estudo (1.1 linguagem, língua e fala ✅ resumo)
+**Status:** 🟨 em estudo (1.1 linguagem, língua e fala ✅; 1.2 significante, significado e significação ✅ resumo + 15 itens)
 
 ## Edital (literal)
 

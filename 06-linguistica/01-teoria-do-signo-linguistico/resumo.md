@@ -1,6 +1,6 @@
 # Teoria do signo linguístico — resumo
 
-Subtópicos do edital: ✅ **1.1 Linguagem, língua e fala** · ⬜ 1.2 Significante e significado; significação · ⬜ 1.3 Arbitrariedade e motivação; linearidade · ⬜ 1.4 Referente, referência, representação, sentido · ⬜ 1.5 Denotação e conotação
+Subtópicos do edital: ✅ **1.1 Linguagem, língua e fala** · ✅ **1.2 Significante e significado; significação** · ⬜ 1.3 Arbitrariedade e motivação; linearidade · ⬜ 1.4 Referente, referência, representação, sentido · ⬜ 1.5 Denotação e conotação
 
 > **Fontes deste resumo**
 > - **Base:** Aula 1 (§ 1.2 Linguística e § 1.3 Linguagem × Língua × Fala) e Aula 2 (§ 2.3, que amplia as concepções de linguagem), Prof.ª Patricia Manzato, em [`../material/`](../material/README.md).
@@ -179,6 +179,133 @@ Itens Certo/Errado no formato de importação: [`questoes-importacao.txt`](./que
 
 ---
 
+## 1.2 Significante e significado; significação
+
+> **Fontes desta seção**
+> - **Base:** Aula 1, § 1.2 (definição de signo), e Aula 2 (mesmo texto, no tópico sobre Saussure). As aulas tratam só da definição de signo e das duas características (arbitrariedade e linearidade); **não abordam "significação"**.
+> - **Complementos 🔎:** Saussure, CLG (1ª parte, cap. I, "Natureza do signo linguístico", p. 79–81 da ed. Cultrix; 2ª parte, cap. IV, "O valor linguístico"); Barthes, *Elementos de semiologia* (II, "Significado e significante"); Hjelmslev, *Prolegômenos a uma teoria da linguagem*; artigos acadêmicos que citam essas obras (lista no fim).
+
+### 1. O que o signo une (e o que ele **não** une)
+
+**Na aula:** "o signo linguístico corresponde à união entre um **significado** e um **significante**"; Saussure afirmava que o signo une "um **conceito** e uma **imagem acústica**". "Tanto conceito (ideia) quanto imagem acústica (grupo sonoro) são elementos **psíquicos** e estão unidos, em nosso cérebro, por um **vínculo de associação**." *(Aula 1, p. 5–6)*
+
+**No CLG** 🔎 (citações conferidas em artigos que citam a p. 80 da ed. Cultrix):
+- "O signo linguístico une **não uma coisa e uma palavra**, mas **um conceito e uma imagem acústica**."
+- A imagem acústica "**não é o som material**, coisa puramente física, mas a **impressão psíquica** desse som".
+- O signo é "uma **entidade psíquica de duas faces**".
+
+**Prova do caráter psíquico** 🔎: sem mover os lábios nem a língua, conseguimos falar conosco ou recitar mentalmente um poema. A imagem acústica existe mesmo sem som físico.
+
+> ⚠️ O signo **não** liga a palavra à **coisa** do mundo. A coisa é o **referente** (subtópico 1.4), que Saussure deixa **fora** do signo.
+
+### 2. A troca de nomes: conceito → significado; imagem acústica → significante
+
+| Termo inicial (CLG) | Termo definitivo | O que é | Natureza |
+|---|---|---|---|
+| **Conceito** | **Significado** | A ideia, o conteúdo | Psíquica |
+| **Imagem acústica** | **Significante** | A "impressão psíquica" do som | Psíquica (**não** é o som físico) |
+| — | **Signo** | O **total**, a união das duas faces | Entidade psíquica de duas faces |
+
+🔎 Por que trocar os nomes? Saussure conserva **signo** para o total e adota **significado** e **significante** porque esses termos marcam a oposição que separa as duas faces **entre si** e **em relação ao todo** de que fazem parte. *(paráfrase do CLG, p. 81; conferir a redação literal)*
+
+**O esquema do CLG** 🔎: uma elipse cortada por uma barra, com o **conceito "árvore" em cima** e a **imagem acústica *arbor* embaixo** (o exemplo de Saussure é a palavra latina *arbor*) e **setas nos dois sentidos**. As setas mostram que **um evoca o outro**, nos dois sentidos.
+
+### 3. As duas faces são inseparáveis
+
+🔎 Metáfora da **folha de papel** (CLG, 2ª parte, cap. IV): "o pensamento é o anverso e o som o verso"; **não se pode cortar um sem cortar, ao mesmo tempo, o outro**. Na língua, não há som sem ideia nem ideia sem som. Isolar um dos lados é abstração da fonologia pura ou da psicologia pura, não da linguística.
+
+| Afirmação | Gabarito |
+|---|---|
+| Sem significante não há significado, e vice-versa. | **C** |
+| É possível isolar o significado e estudá-lo como signo linguístico. | **E** (o signo é a **união**) |
+
+### 4. O significante não é a letra nem o som físico
+
+| Não é o significante (em Saussure) | Por quê |
+|---|---|
+| O **som físico** (onda sonora) | É substância física; o significante é a **impressão psíquica** desse som |
+| A **grafia** (as letras) | A escrita é **outro sistema**, que **representa** a língua. O significante do signo linguístico é a **imagem acústica** |
+
+**Caráter linear** (só lembrando, é o subtópico 1.3): por ser de natureza **auditiva**, o significante se desenvolve **no tempo**, numa só dimensão. *(Aula 1)*
+
+> 🔎 **Fora da língua oral:** na semiologia, o significante pode ter substância **visual** (sinal de trânsito, imagem, vestuário, segundo Barthes). Nas **línguas de sinais**, como a Libras, o signo também tem duas faces, e o significante é **visual-espacial**.
+
+### 5. Significação: três sentidos que a banca pode cobrar 🔎
+
+As aulas **não tratam** deste ponto. O termo muda conforme o autor:
+
+**a) Em Saussure: significação × valor**
+
+| Significação | Valor |
+|---|---|
+| Relação **interna ao signo**: o significado como contraparte do significante (relação **vertical**, dentro da elipse) | Relação **entre signos** do sistema: o que um signo **é** depende do que os outros **não são** (relação **horizontal**) |
+| Pode coincidir de uma língua para outra | Raramente coincide de uma língua para outra |
+
+- **Exemplo de Saussure** (conferido): o francês ***mouton*** pode ter a **mesma significação** que o inglês ***sheep***, mas **não o mesmo valor**. Para a carne servida à mesa, o inglês usa ***mutton***, e o francês só tem *mouton*. *Sheep* tem um vizinho no sistema que *mouton* não tem.
+- O valor é **diferencial** (negativo): os conceitos se definem "não positivamente, por seu conteúdo, mas negativamente, por suas relações com os outros termos do sistema". 🔎 *(paráfrase do CLG; conferir a redação literal)*
+- 🔎 Exemplo clássico em português: *temer*, *recear* e *ter medo* delimitam-se uns aos outros; se um desaparecesse, os outros absorveriam seu conteúdo.
+
+**b) Em Barthes: significação = processo; signo = produto**
+- "A significação pode ser concebida como um **processo**; é o **ato que une** o significante e o significado, ato **cujo produto é o signo**." *(Barthes, Elementos de semiologia, II; citação conferida em fonte secundária)*
+- Também chamada de **semiose**.
+- Barthes: o significado não é "uma coisa", mas uma **representação psíquica** da coisa; e só se define **dentro** do processo de significação.
+
+**c) Em Hjelmslev: função semiótica**
+- **Expressão** (≈ significante) e **conteúdo** (≈ significado) são os dois **planos** da linguagem, e cada plano tem **forma** e **substância**.
+- A relação entre os dois planos é a **função semiótica** (≈ significação). Os dois planos são **solidários**: não há expressão sem conteúdo nem conteúdo sem expressão.
+
+| Saussure | Hjelmslev | Barthes |
+|---|---|---|
+| Significante | Plano da expressão | Significante (substância sempre material) |
+| Significado | Plano do conteúdo | Significado (representação psíquica) |
+| Signo (o total) | Signo = unidade das duas formas | Signo = **produto** |
+| Significação (relação interna) × valor | Função semiótica | Significação = **processo/ato** |
+
+> ⚠️ **No uso comum, "significado" e "significação" são sinônimos** ("qual a significação desta palavra?"). Na teoria, **não**: significado é **uma face** do signo; significação é a **relação** (Saussure) ou o **processo** (Barthes) que une as faces. 🔎 Em semântica da enunciação (Ducrot), "significação" também designa o valor da **frase** (unidade da língua), em oposição ao **sentido** do **enunciado** (subtópico 1.4).
+
+### 6. Releituras para reconhecer 🔎
+
+| Autor | O que muda |
+|---|---|
+| **Benveniste** | O laço entre significante e significado é **necessário**, não arbitrário: os dois são "consubstanciais" na mente do falante. Arbitrária é a relação do signo com a **realidade** (subtópico 1.3) |
+| **Lacan** | Inverte o esquema (S/s): o **significante** fica por cima e tem **primazia** sobre o significado. Basta reconhecer o nome |
+| **Peirce** | Modelo **triádico** (representâmen, objeto, interpretante), diferente do modelo **diádico** de Saussure (subtópico 1.4) |
+
+### 7. Aplicação ao seu cargo: degravação
+
+- **Homófonos** (*concerto* × *conserto*; *sessão* × *seção* × *cessão*): **um só significante** (a mesma imagem acústica) associado a **significados diferentes**, ou seja, **signos diferentes**. Quem transcreve não escolhe a grafia pelo som, e sim pelo **significado**, que o **contexto** revela.
+- **Sinônimos** (*recear* × *temer*): significantes diferentes e significados próximos, mas **valores** distintos (cada um se define pelo outro).
+- Ponte com o tópico **3.5** (homonímia, paronímia, sinonímia; Aula 6).
+
+### 8. Como a banca cobra este subtópico
+
+- A CEBRASPE costuma transcrever trechos do CLG (ed. Cultrix) e pedir o reconhecimento do conceito (ver a questão do IF Fluminense, 2018, comentada na Aula 1).
+- Frases-chave para reconhecer: "**conceito e imagem acústica**"; "**não uma coisa e uma palavra**"; "**impressão psíquica**"; "**entidade psíquica de duas faces**"; "**folha de papel**".
+- Trocas prováveis: significado ↔ referente; significante ↔ som físico ou letra; significado ↔ significação; valor ↔ significação.
+
+## Pegadinhas (1.2)
+
+| Item como aparece | Gabarito e motivo |
+|---|---|
+| Para Saussure, o signo une uma coisa e um nome. | **E.** Une um **conceito** e uma **imagem acústica**. |
+| O significante é o som material emitido pelo falante. | **E.** É a **impressão psíquica** do som. |
+| Significante e significado são ambos de natureza psíquica. | **C.** O signo é entidade psíquica de duas faces. |
+| O significado de "mesa" é o objeto mesa. | **E.** O objeto é o **referente**; o significado é o **conceito**. |
+| Para Saussure, o significante do signo linguístico é a forma escrita da palavra. | **E.** A escrita representa a língua; o significante é a imagem acústica. |
+| Pode-se separar o pensamento do som na língua, como se separam as faces de uma folha. | **E.** A metáfora diz o contrário: não se corta um lado sem cortar o outro. |
+| Signo, para Saussure, é sinônimo de significante. | **E.** Signo é o **total** (significante + significado). |
+| *Mouton* e *sheep* têm a mesma significação, mas não o mesmo valor. | **C.** Exemplo do CLG. |
+| O valor de um signo decorre de suas propriedades positivas. | **E.** O valor é **diferencial** (negativo). |
+| Para Barthes, a significação é o ato que une significante e significado, e o signo é seu produto. | **C.** |
+| Na teoria, significado e significação são sinônimos. | **E.** Significado é uma **face**; significação é a **relação** ou o **processo**. |
+| Expressão e conteúdo, em Hjelmslev, correspondem grosso modo a significante e significado. | **C.** |
+| Para Benveniste, o laço significante–significado é arbitrário. | **E.** Para ele é **necessário**; arbitrária é a relação com a realidade. |
+| Homófonos têm o mesmo significante e significados diferentes. | **C.** |
+
+Itens Certo/Errado no formato de importação: [`questoes-importacao.txt`](./questoes-importacao.txt) (bloco 1.2).
+
+---
+
 ### Referências da pesquisa complementar
 
 - SAUSSURE, F. *Curso de Linguística Geral*. São Paulo: Cultrix (passagens conferidas em artigos que citam a obra).
@@ -186,3 +313,9 @@ Itens Certo/Errado no formato de importação: [`questoes-importacao.txt`](./que
 - *Eidéa* (UESC), sobre a interdependência língua/fala: https://periodicos.uesc.br/index.php/eidea/article/download/1804/1610
 - *Domínios de Linguagem* (UFU), sobre concreto × abstrato no CLG: https://seer.ufu.br/index.php/dominiosdelinguagem/article/download/28504/16871/124204
 - GERALDI, J. W. *O texto na sala de aula*; TRAVAGLIA, L. C. *Gramática e interação* (concepções de linguagem).
+- 1.2: *Actas* (UFPB), sobre o signo e a p. 80 do CLG: https://periodicos.ufpb.br/index.php/actas/article/download/14639/8290/23744
+- 1.2: *Matraga* (UERJ), sobre o signo saussuriano: https://www.e-publicacoes.uerj.br/matraga/article/download/17503/12894/57641
+- 1.2: *Mosaico* (Unesp), com a definição de significação de Barthes: https://www.olhodagua.ibilce.unesp.br/revistamosaico/article/download/436/406
+- 1.2: Universalis, "Valeur, linguistique" (valor × significação; *mouton*/*sheep*): https://www.universalis.fr/encyclopedie/valeur-linguistique/
+- 1.2: Hjelmslev (expressão/conteúdo, forma/substância), *Estudos da Linguagem* (UESB): https://periodicos2.uesb.br/index.php/estudosdalinguagem/article/download/2422/2005/4012
+- BARTHES, R. *Elementos de semiologia*. São Paulo: Cultrix. HJELMSLEV, L. *Prolegômenos a uma teoria da linguagem*. São Paulo: Perspectiva. BENVENISTE, É. "Natureza do signo linguístico", em *Problemas de linguística geral I*.

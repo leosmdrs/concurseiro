@@ -113,3 +113,74 @@ Embora a liberdade de combinação seja característica essencial da fala, traç
 > É a ressalva feita na Aula 1 (§ 1.3). No plano teórico, corresponde à noção de norma de Coseriu: o uso habitual e coletivo de uma comunidade.
 ---
 @texto -
+
+@texto Significante e significado (texto autoral)
+Ao degravar o discurso de um parlamentar, o redator ouviu a sequência sonora correspondente a "conserto" e precisou decidir se o orador se referia ao reparo de algo ou a uma apresentação musical. A dúvida só foi resolvida pelo contexto: o deputado falava da reforma de um prédio público. Situações como essa mostram que, na transcrição, não basta reconhecer os sons; é preciso identificar a ideia a que eles estão associados.
+Considerando o texto apresentado e a teoria do signo linguístico de Ferdinand de Saussure, julgue os itens a seguir.
+@fim
+
+As formas "conserto" e "concerto", por corresponderem a uma mesma imagem acústica associada a conceitos distintos, constituem signos linguísticos diferentes.
+= C
+> Homófonos têm o mesmo significante (imagem acústica) ligado a significados diferentes. Como o signo é a união das duas faces, mudando o significado muda o signo.
+---
+Para Saussure, a dificuldade do redator decorre do fato de o significante da palavra ser a sequência de letras usada para grafá-la, que difere entre "conserto" e "concerto".
+= E
+> O significante, em Saussure, é a imagem acústica, isto é, a impressão psíquica do som. A escrita é outro sistema, que representa a língua. Justamente por terem o mesmo significante, as duas palavras geraram a dúvida.
+---
+O texto ilustra que o redator, para fixar a grafia, precisou identificar o significado associado à sequência sonora ouvida, o que só foi possível pelo contexto.
+= C
+> O som não permite distinguir os homófonos; a escolha da grafia depende do significado (conceito), revelado pela situação de comunicação.
+---
+@texto Significante e significado (comando geral)
+Com relação à teoria do signo linguístico e às noções de significante, significado e significação, julgue os itens seguintes.
+@fim
+
+Segundo Saussure, o signo linguístico une uma coisa a um nome, de modo que o significado de uma palavra corresponde ao objeto do mundo a que ela se refere.
+= E
+> O signo "une não uma coisa e uma palavra, mas um conceito e uma imagem acústica" (CLG). O objeto do mundo é o referente, que fica fora do signo; o significado é o conceito.
+---
+A imagem acústica, no sentido saussuriano, não corresponde ao som material, físico, mas à impressão psíquica desse som, razão pela qual é possível recitar mentalmente um poema sem emitir som algum.
+= C
+> No CLG, a imagem acústica é "a impressão psíquica" do som. O exemplo de falar consigo mesmo ou recitar mentalmente demonstra seu caráter psíquico.
+---
+Para Saussure, o signo linguístico é uma entidade psíquica de duas faces, e tanto o conceito quanto a imagem acústica estão unidos no cérebro por um vínculo de associação.
+= C
+> Formulação do CLG ("entidade psíquica de duas faces") e da Aula 1: conceito e imagem acústica são elementos psíquicos unidos por um vínculo de associação.
+---
+Saussure substituiu os termos conceito e imagem acústica por significado e significante, respectivamente, e reservou o termo signo para designar a união de ambos.
+= C
+> Signo designa o total; significado substitui conceito, e significante substitui imagem acústica.
+---
+Ao comparar a língua a uma folha de papel, cujo anverso é o pensamento e cujo verso é o som, Saussure sustenta que, na língua, é possível isolar o som do pensamento, assim como se separam as duas faces de uma folha.
+= E
+> A metáfora afirma o oposto: não se pode cortar o anverso sem cortar o verso. Na língua, som e pensamento são inseparáveis.
+---
+Para Saussure, o francês "mouton" e o inglês "sheep" podem ter a mesma significação sem ter o mesmo valor, pois o inglês dispõe de "mutton" para designar a carne servida à mesa.
+= C
+> Exemplo do CLG para distinguir significação (relação interna ao signo) de valor (relação com os demais signos do sistema).
+---
+O valor linguístico de um signo decorre das propriedades positivas de seu conteúdo, independentemente dos demais termos do sistema.
+= E
+> O valor é diferencial e negativo: um termo se define por aquilo que os outros não são, isto é, por suas relações com os demais termos do sistema.
+---
+Na perspectiva de Roland Barthes, a significação pode ser entendida como o processo que une o significante ao significado, sendo o signo o produto desse processo.
+= C
+> Barthes, Elementos de semiologia: a significação é o ato que une significante e significado, ato cujo produto é o signo.
+---
+No âmbito da teoria do signo, significado e significação são termos sinônimos, ambos designando a face conceitual do signo.
+= E
+> Significado é uma das faces do signo (o conceito). Significação é a relação entre as faces (Saussure) ou o processo que as une (Barthes). Os termos só se confundem no uso comum.
+---
+Na teoria de Hjelmslev, os planos da expressão e do conteúdo, cada um com forma e substância, correspondem, em linhas gerais, ao significante e ao significado de Saussure.
+= C
+> Hjelmslev reelabora a dicotomia saussuriana: expressão ≈ significante e conteúdo ≈ significado. A relação entre os planos é a função semiótica.
+---
+Para Émile Benveniste, a relação entre significante e significado é arbitrária, sendo necessária apenas a relação entre o signo e a realidade que ele designa.
+= E
+> Benveniste inverte a afirmação: o laço entre significante e significado é necessário (são consubstanciais na mente do falante); arbitrária é a relação entre o signo e a realidade.
+---
+Nas línguas de sinais, como a Libras, o signo linguístico não apresenta significante, visto que não há imagem acústica envolvida em sua produção.
+= E
+> O signo das línguas de sinais também tem duas faces; o significante é de natureza visual-espacial. A imagem acústica é própria das línguas orais.
+---
+@texto -
