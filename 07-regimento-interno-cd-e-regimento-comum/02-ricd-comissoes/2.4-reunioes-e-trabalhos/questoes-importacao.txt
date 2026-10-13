@@ -1,0 +1,70 @@
+@banca CEBRASPE (inédita)
+@ano 2026
+@orgao Câmara dos Deputados
+@cargo Analista Legislativo – Registro e Redação
+
+@texto RICD — Prazos das Comissões (art. 52)
+Com base no Regimento Interno da Câmara dos Deputados (Resolução n.º 17/1989 e suas alterações), julgue os itens a seguir, a respeito dos prazos das comissões.
+@fim
+
+Os prazos fixados no art. 52 do Regimento Interno para que as comissões examinem as proposições e sobre elas decidam aplicam-se ressalvados os casos em que o próprio Regimento determine de forma diversa.
+= C
+> Art. 52, caput: "Excetuados os casos em que este Regimento determine de forma diversa, as Comissões deverão obedecer aos seguintes prazos para examinar as proposições e sobre elas decidir".
+---
+Matéria em regime de urgência deve ser examinada e decidida pela comissão no prazo de cinco dias úteis.
+= E
+> O prazo é de cinco SESSÕES (art. 52, I), e não de dias úteis. Os prazos das comissões no art. 52 são contados em sessões.
+---
+Os prazos para que a comissão examine a matéria e sobre ela decida são de dez sessões, no regime de prioridade, e de quarenta sessões, no regime de tramitação ordinária.
+= C
+> Art. 52, II (prioridade: dez sessões) e III (tramitação ordinária: quarenta sessões).
+---
+Quando se tratar de emendas apresentadas no Plenário da Câmara, cada comissão disporá de prazo próprio, contado separadamente a partir do recebimento das emendas por ela.
+= E
+> Art. 52, IV: o prazo é o mesmo da proposição principal e corre EM CONJUNTO para todas as comissões, observado o parágrafo único do art. 121 (parecer às emendas diretamente em Plenário, por delegação).
+---
+Em matéria sujeita a tramitação ordinária, o relator disporá de vinte sessões para oferecer seu parecer.
+= C
+> Art. 52, § 1º: o relator dispõe da metade do prazo concedido à comissão. Na tramitação ordinária, a comissão tem quarenta sessões; logo, o relator tem vinte.
+---
+A prorrogação do prazo do relator é concedida pelo Presidente da Câmara dos Deputados, mediante requerimento fundamentado do próprio relator.
+= E
+> Art. 52, § 2º: quem concede a prorrogação é o PRESIDENTE DA COMISSÃO, a requerimento fundamentado do relator, em até metade dos prazos previstos no artigo.
+---
+A prorrogação de prazo concedida ao relator, de até metade dos prazos previstos no art. 52, não se aplica às matérias em regime de urgência.
+= C
+> Art. 52, § 2º, parte final: "exceto se em regime de urgência a matéria".
+---
+Esgotado o prazo destinado ao relator, o Presidente da Comissão avocará a proposição ou designará outro membro para relatá-la, no prazo improrrogável de duas sessões, se a matéria estiver em regime de prioridade, e de cinco sessões, se em regime de tramitação ordinária.
+= C
+> Literalidade do art. 52, § 3º.
+---
+Esgotado o prazo do relator em matéria em regime de prioridade, o Presidente da Comissão terá cinco sessões, prorrogáveis por igual período, para avocar a proposição ou designar outro relator.
+= E
+> Art. 52, § 3º: no regime de prioridade, o prazo é de DUAS sessões (cinco é o da tramitação ordinária), e o prazo é IMPRORROGÁVEL.
+---
+Esgotados os prazos previstos no art. 52, a comissão poderá, a requerimento de qualquer de seus membros, deferir a inclusão da proposição na ordem do dia da reunião imediata, ainda que pendente de parecer.
+= E
+> Art. 52, § 4º: o requerimento é do AUTOR da proposição, e não de qualquer membro da comissão.
+---
+Incluída a matéria na ordem do dia da reunião imediata a requerimento do autor, se o relator não oferecer parecer até o início da discussão, o Presidente da Comissão designará outro membro para relatá-la na mesma reunião ou até a seguinte.
+= C
+> Art. 52, § 4º, segunda parte.
+---
+A comissão pode incluir matéria na ordem do dia para apreciação imediata, independentemente do esgotamento dos prazos, mediante requerimento de um terço de seus membros aprovado pela maioria absoluta da respectiva composição plenária, desde que a matéria tenha sido publicada e distribuída em avulsos ou cópias.
+= C
+> Art. 52, § 5º. Três requisitos: requerimento de 1/3 dos membros + aprovação por maioria absoluta da composição plenária + publicação e distribuição em avulsos ou cópias.
+---
+Na hipótese de inclusão de matéria para apreciação imediata pela comissão, a ausência de parecer impede a deliberação, devendo a matéria ser retirada de pauta até que o relator apresente parecer escrito.
+= E
+> Art. 52, § 5º, parte final: não havendo parecer, o Presidente designará relator para proferi-lo ORALMENTE no curso da reunião ou até a reunião seguinte.
+---
+Esgotados os prazos das comissões, o Presidente da Câmara poderá, de ofício ou a requerimento de qualquer deputado, determinar o envio da proposição pendente de parecer à comissão seguinte ou ao Plenário, conforme o caso.
+= C
+> Art. 52, § 6º, sem prejuízo das soluções dos §§ 4º e 5º.
+---
+Em se tratando de proposição sujeita à apreciação conclusiva das comissões, o envio ao Plenário da matéria pendente de parecer, após o esgotamento dos prazos, depende da interposição do recurso de um décimo dos membros da Casa.
+= E
+> Art. 52, § 6º, parte final: o envio ocorre "independentemente de interposição do recurso previsto no art. 132, § 2º, para as referidas no art. 24, inciso II" (proposições de apreciação conclusiva).
+---
+@texto -
