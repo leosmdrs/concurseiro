@@ -21,4 +21,4 @@ Aulas do curso **Estratégia Concursos – Linguística para Câmara dos Deputad
 
 ## Observação sobre as questões comentadas
 
-As questões das aulas são, em sua maioria, de **FGV** e de outras bancas; há poucas da CEBRASPE. Servem para fixar conteúdo, mas o **estilo** de cobrança deve ser calibrado com provas CEBRASPE (ver `CONCURSOS/README.md`).
+As questões das aulas são, em sua maioria, de **FGV** e de outras bancas; há poucas da CEBRASPE. Servem para fixar conteúdo, mas o **estilo** de cobrança deve ser calibrado com provas CEBRASPE (ver `README.md` na raiz do repositório).
