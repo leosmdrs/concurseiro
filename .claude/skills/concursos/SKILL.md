@@ -1,11 +1,13 @@
 ---
 name: concursos
-description: Estudo para concursos (banca CEBRASPE) — Contabilidade Pública, Auditoria Governamental e Controle, Finanças Públicas, Avaliação de Políticas Públicas, Reconhecimento de Fala/Transcrição/IA e Linguística (inclui degravação, comunicações oficiais e técnica legislativa), Regimento Interno da Câmara e Regimento Comum do Congresso, Direito Constitucional (processo legislativo). Use sempre que o usuário disser "concursos", "Câmara" ou "CGU", pedir para estudar um tópico dessas disciplinas, enviar conteúdo-base ou questões anteriores.
+description: Estudo para concursos (banca CEBRASPE) — Contabilidade Pública, Auditoria Governamental e Controle, Finanças Públicas, Avaliação de Políticas Públicas, Reconhecimento de Fala/Transcrição/IA e Linguística (inclui degravação, comunicações oficiais e técnica legislativa), Regimento Interno da Câmara e Regimento Comum do Congresso, Direito Constitucional (processo legislativo). Concurso-alvo atual: ANPD (Especialista em Regulação de Proteção de Dados — LGPD, regulamentos da ANPD, ECA Digital, regulação/agências). Use sempre que o usuário disser "concursos", "ANPD", "LGPD", "Câmara" ou "CGU", pedir para estudar um tópico dessas disciplinas, enviar conteúdo-base ou questões anteriores.
 ---
 
 # Concursos — estudo direcionado (CEBRASPE)
 
 Todo o material vive na raiz do repositório, uma pasta por disciplina. Leia `README.md` primeiro (disciplinas, convenções, cruzamentos e alertas de atualização normativa).
+
+**Concurso-alvo atual: ANPD.** Antes de estudar ou priorizar, leia `concurso-anpd-2026.md` (conteúdo provável com probabilidades, apostas e disciplinas reaproveitáveis). Enquanto o edital não sair, priorize os blocos 🔴 e sinalize que o conteúdo é projeção. Quando sair, transcreva o edital literal e atualize as fichas.
 
 ## Fluxo
 

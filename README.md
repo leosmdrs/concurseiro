@@ -1,5 +1,7 @@
 # 🎯 Concursos — estudo direcionado (banca CEBRASPE)
 
+> 🎯 **Concurso-alvo atual: ANPD — Especialista em Regulação de Proteção de Dados** (autorizado em 06/2026, 50 vagas, edital previsto até 12/2026, banca a definir). Análise de pertinência temática, conteúdo provável e apostas: [concurso-anpd-2026.md](./concurso-anpd-2026.md). As disciplinas abaixo vieram dos editais da CGU e da Câmara; as que servem para a ANPD estão indicadas lá (seção 6).
+
 Todas as disciplinas ficam aqui. Cada **disciplina** é uma pasta, e cada **tópico ou subtópico do edital** é uma subpasta com um `README.md` (ficha do tópico).
 
 ## Disciplinas
