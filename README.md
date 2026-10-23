@@ -14,6 +14,7 @@ Todas as disciplinas ficam aqui. Cada **disciplina** é uma pasta, e cada **tóp
 | 6 | Linguística | Câmara dos Deputados (Registro e Redação) | [06-linguistica](./06-linguistica/) |
 | 7 | Regimento Interno da Câmara (RICD) e Regimento Comum do Congresso (RCCN) — ✍️ parte específica / 🚫 parte básica | Câmara dos Deputados (Registro e Redação) | [07-regimento-interno-cd-e-regimento-comum](./07-regimento-interno-cd-e-regimento-comum/) |
 | 8 | Direito Constitucional | Câmara dos Deputados (Registro e Redação) | [08-direito-constitucional](./08-direito-constitucional/) |
+| 9 | Direito Administrativo | — | [09-direito-administrativo](./09-direito-administrativo/) |
 
 📝 **Prova discursiva da Câmara (Registro e Redação):** [critérios de avaliação e fórmulas](./prova-discursiva-camara-registro-e-redacao.md)
 
