@@ -19,5 +19,6 @@ Incidência = questões por capítulo no TEC Concursos (870 no total). A relevâ
 
 - `material/lei-12527-2011-integral.pdf` — texto compilado do Planalto (inclui alterações até a Lei nº 15.141/2025).
 - `material/cap-*.pdf` — o mesmo texto dividido por capítulo. Como os capítulos começam no meio da página, as páginas foram cortadas na linha do "CAPÍTULO": cada PDF começa no título do capítulo e termina no último artigo dele. O Cap. I leva o cabeçalho e a ementa; o Cap. VI, as assinaturas.
+- `material-organizado/` — a mesma lei sem trechos revogados, vetados ou entre parênteses, com hierarquia indentada e destaque por cor de exceções, prazos, condições e legitimados: versão completa e um PDF por capítulo (são os que estão na Draw da Bússola Notes).
 
 **Status:** ⬜
