@@ -1,0 +1,81 @@
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-Regular.ttf');font-weight:400;font-style:normal}
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-Italic.ttf');font-weight:400;font-style:italic}
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-Medium.ttf');font-weight:500;font-style:normal}
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-SemiBold.ttf');font-weight:600;font-style:normal}
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-SemiBoldItalic.ttf');font-weight:600;font-style:italic}
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-Bold.ttf');font-weight:700;font-style:normal}
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-BoldItalic.ttf');font-weight:700;font-style:italic}
+@font-face{font-family:'IT';src:url('file:///root/.fonts/InterTT-ExtraBold.ttf');font-weight:800;font-style:normal}
+@font-face{font-family:'ITD';src:url('file:///root/.fonts/InterTTDisplay-Bold.ttf');font-weight:700;font-style:normal}
+@font-face{font-family:'ITD';src:url('file:///root/.fonts/InterTTDisplay-SemiBold.ttf');font-weight:600;font-style:normal}
+@font-face{font-family:'ITD';src:url('file:///root/.fonts/InterTTDisplay-ExtraBold.ttf');font-weight:800;font-style:normal}
+@font-face{font-family:'ITD';src:url('file:///root/.fonts/InterTTDisplay-ExtraBold.ttf');font-weight:900;font-style:normal}
+@page { size: A4; margin: 16mm 15mm 18mm 15mm; }
+:root{
+  --ink:#1f2433; --muted:#5b6275; --line:#e3e6ee;
+  --c1:#2f5bea; --c1s:#eaf0ff;   /* azul: conceito */
+  --c2:#0f9d76; --c2s:#e5f7f1;   /* verde: regra/dica */
+  --c3:#e8590c; --c3s:#fff1e7;   /* laranja: pegadinha */
+  --c4:#8b3fd9; --c4s:#f4ecfd;   /* roxo: esquema */
+  --c5:#d6336c; --c5s:#fde9f0;   /* rosa: atenção */
+  --hl:#fff3a3;
+}
+*{box-sizing:border-box}
+html{font-family:'IT','DejaVu Sans',sans-serif;color:var(--ink);font-size:10.4pt;line-height:1.5;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body{margin:0}
+.cover{height:257mm;display:flex;flex-direction:column;justify-content:space-between;background:var(--c1);border-bottom:10mm solid var(--c4);color:#fff;border-radius:6mm;padding:20mm 16mm;page-break-after:always}
+.cover .kicker{font-size:11pt;letter-spacing:.18em;text-transform:uppercase;opacity:.85;font-weight:600}
+.cover h1{font-family:'ITD','IT',sans-serif;font-size:32pt;line-height:1.1;margin:6mm 0 4mm;font-weight:800}
+.cover .sub{font-size:13pt;opacity:.92;max-width:150mm}
+.cover .stats{display:flex;gap:6mm;flex-wrap:wrap}
+.cover .stat{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.3);border-radius:4mm;padding:4mm 6mm;min-width:38mm}
+.cover .stat b{display:block;font-size:20pt;font-weight:800}
+.cover .foot{font-size:9pt;opacity:.8}
+h2{font-family:'ITD','IT',sans-serif;font-size:17pt;color:var(--c1);margin:8mm 0 3mm;padding-bottom:2mm;border-bottom:2.5px solid var(--c1s);page-break-after:avoid}
+h2 .n{display:inline-block;background:var(--c1);color:#fff;border-radius:2mm;padding:0 2.5mm;margin-right:2.5mm;font-size:13pt}
+h3{font-size:12.5pt;color:var(--c4);margin:5mm 0 2mm;page-break-after:avoid}
+h4{font-size:10.8pt;margin:3mm 0 1mm;color:var(--ink)}
+p{margin:1.5mm 0 2.5mm}
+ul,ol{margin:1mm 0 3mm;padding-left:6mm} li{margin:.8mm 0}
+mark,.hl{background:var(--hl);padding:0 1mm;border-radius:1mm}
+.t1{color:var(--c1);font-weight:700}.t2{color:var(--c2);font-weight:700}.t3{color:var(--c3);font-weight:700}.t4{color:var(--c4);font-weight:700}.t5{color:var(--c5);font-weight:700}
+.box{border-radius:3mm;padding:3mm 4.5mm;margin:3mm 0;border-left:4px solid;page-break-inside:avoid}
+.box .bt{font-weight:800;font-size:9.5pt;letter-spacing:.06em;text-transform:uppercase;margin-bottom:1mm;display:block}
+.conceito{background:var(--c1s);border-color:var(--c1)} .conceito .bt{color:var(--c1)}
+.dica{background:var(--c2s);border-color:var(--c2)} .dica .bt{color:var(--c2)}
+.pegadinha{background:var(--c3s);border-color:var(--c3)} .pegadinha .bt{color:var(--c3)}
+.esquema{background:var(--c4s);border-color:var(--c4)} .esquema .bt{color:var(--c4)}
+.atencao{background:var(--c5s);border-color:var(--c5)} .atencao .bt{color:var(--c5)}
+table{width:100%;border-collapse:separate;border-spacing:0;margin:3mm 0;font-size:9.6pt;page-break-inside:avoid;border:1px solid var(--line);border-radius:3mm;overflow:hidden}
+th{background:var(--c1);color:#fff;text-align:left;padding:2mm 2.5mm;font-weight:700}
+td{padding:1.8mm 2.5mm;border-top:1px solid var(--line);vertical-align:top}
+tr:nth-child(even) td{background:#f7f8fb}
+.ex{font-style:italic}
+/* diagrama de árvore/fluxo simples */
+.flow{display:flex;gap:2.5mm;align-items:stretch;flex-wrap:wrap;margin:3mm 0;page-break-inside:avoid}
+.flow .node{flex:1;min-width:30mm;background:#fff;border:2px solid var(--c4);border-radius:3mm;padding:2.5mm 3mm;font-size:9.4pt}
+.flow .node b{display:block;color:var(--c4);margin-bottom:.5mm}
+.flow .arrow{align-self:center;color:var(--c4);font-weight:800;font-size:14pt}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:3mm} .grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:3mm}
+.card{border:1px solid var(--line);border-radius:3mm;padding:3mm;background:#fff;page-break-inside:avoid}
+.card h4{margin-top:0}
+/* análise sintática colorida */
+.ana{font-size:10.6pt;line-height:2.6;margin:2mm 0 4mm;page-break-inside:avoid}
+.ana span{border-bottom:3px solid;padding:0 .6mm;position:relative}
+.ana span[data-f]::after{content:attr(data-f);position:absolute;left:0;top:1.45em;font-family:'IT',sans-serif;font-size:6.6pt;font-style:normal;font-weight:700;white-space:nowrap;letter-spacing:.02em}
+.s{border-color:var(--c1)!important}.s::after{color:var(--c1)}
+.v{border-color:var(--c5)!important}.v::after{color:var(--c5)}
+.c{border-color:var(--c2)!important}.c::after{color:var(--c2)}
+.a{border-color:var(--c3)!important}.a::after{color:var(--c3)}
+.o{border-color:var(--c4)!important}.o::after{color:var(--c4)}
+/* questões da banca */
+.q{border:1px solid var(--line);border-radius:3mm;padding:3mm 4mm;margin:3mm 0;page-break-inside:avoid;background:#fff}
+.q .meta{font-size:8.2pt;color:var(--muted);margin-bottom:1mm}
+.q .item{font-style:italic;margin:1mm 0 2mm}
+.q .gab{display:inline-block;font-weight:800;font-size:8.5pt;border-radius:10mm;padding:.4mm 3mm;margin-right:2mm;color:#fff}
+.gab.C{background:var(--c2)} .gab.E{background:var(--c5)}
+.q .why{font-size:9.5pt}
+.toc{columns:2;column-gap:8mm;font-size:10pt} .toc li{break-inside:avoid}
+.checklist li{list-style:none;margin-left:-5mm} .checklist li::before{content:"☐ ";color:var(--c2);font-weight:800}
+.pb{page-break-before:always}
+.footer-note{font-size:8.5pt;color:var(--muted);border-top:1px solid var(--line);margin-top:6mm;padding-top:2mm}
